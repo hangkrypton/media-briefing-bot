@@ -1,0 +1,131 @@
+# config/sources.yaml
+#
+# Danh sách nguồn tin. Mỗi nguồn có:
+#   name        : tên hiển thị
+#   group       : ai | tools | market   (nhóm chủ đề, khớp với 3 nhóm trong SKILL.md của Claude)
+#   type        : rss | github_atom | gmail
+#   url         : với rss/github_atom là link trang chủ (script sẽ tự dò ra feed thật)
+#                 với gmail là truy vấn tìm kiếm (from:xxx hoặc label:xxx)
+#   feed_url    : (tuỳ chọn) nếu đã biết chắc URL feed, điền vào để bỏ qua bước tự dò
+#
+# Thêm nguồn mới: copy một khối bên dưới, sửa lại thông tin, không cần đụng vào code.
+
+- name: Superhuman AI
+  group: ai
+  type: rss
+  url: https://www.superhuman.ai/
+
+- name: OpenAI Blog
+  group: ai
+  type: rss
+  url: https://openai.com/news/
+
+- name: Google DeepMind Blog
+  group: ai
+  type: rss
+  url: https://deepmind.google/discover/blog/
+
+- name: Anthropic News
+  group: ai
+  type: rss
+  url: https://www.anthropic.com/news
+
+- name: Hugging Face Blog
+  group: ai
+  type: rss
+  url: https://huggingface.co/blog
+
+- name: GitHub - palewire
+  group: tools
+  type: github_atom
+  url: https://github.com/palewire
+
+- name: Joe Amditis (jamditis.com)
+  group: tools
+  type: rss
+  url: https://jamditis.com/
+
+- name: Nate Silver
+  group: tools
+  type: rss
+  url: https://www.natesilver.net/
+
+- name: Wonder Tools (Substack)
+  group: tools
+  type: rss
+  url: https://wondertools.substack.com/
+  feed_url: https://wondertools.substack.com/feed
+
+- name: Journalist's Toolbox (Substack)
+  group: tools
+  type: rss
+  url: https://journaliststoolbox.substack.com/
+  feed_url: https://journaliststoolbox.substack.com/feed
+
+- name: IRE (Investigative Reporters & Editors)
+  group: market
+  type: rss
+  url: https://www.ire.org/
+
+- name: Stephen Stirling (Medium)
+  group: market
+  type: rss
+  url: https://medium.com/@stephenstirling
+  feed_url: https://medium.com/feed/@stephenstirling
+
+- name: Reuters Institute
+  group: market
+  type: rss
+  url: https://reutersinstitute.politics.ox.ac.uk
+
+- name: WAN-IFRA
+  group: market
+  type: rss
+  url: https://wan-ifra.org
+  feed_url: https://wan-ifra.org/feed/
+
+- name: Nieman Lab
+  group: market
+  type: rss
+  url: https://www.niemanlab.org
+  feed_url: https://www.niemanlab.org/feed/
+
+- name: Poynter Institute
+  group: market
+  type: rss
+  url: https://www.poynter.org
+  feed_url: https://www.poynter.org/feed/
+
+- name: Press Gazette
+  group: market
+  type: rss
+  url: https://pressgazette.co.uk
+  feed_url: https://pressgazette.co.uk/feed/
+
+- name: INMA
+  group: market
+  type: rss
+  url: https://www.inma.org
+  feed_url: https://www.inma.org/feed
+
+- name: Knight Center / LatAm Journalism Review
+  group: market
+  type: rss
+  url: https://knightcenter.utexas.edu
+
+# --- Newsletter qua Gmail (không cần feed_url, dùng truy vấn tìm kiếm Gmail) ---
+
+- name: FT Strategies (newsletter)
+  group: ai
+  type: gmail
+  url: "from:ftstrategies OR subject:\"FT Strategies\""
+
+- name: SEOFOMO (newsletter)
+  group: market
+  type: gmail
+  url: "from:seofomo"
+
+- name: Farol Jornalismo (newsletter)
+  group: market
+  type: gmail
+  url: "from:faroljornalismo OR subject:\"Farol Jornalismo\""
