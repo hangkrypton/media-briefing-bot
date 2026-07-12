@@ -13,6 +13,8 @@ Dùng làm module import trong main.py, hoặc chạy độc lập để kiểm 
     python -m scripts.discover_feed https://www.niemanlab.org
 """
 
+from __future__ import annotations
+
 import sys
 import requests
 import feedparser
