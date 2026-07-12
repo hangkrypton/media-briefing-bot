@@ -1,0 +1,1345 @@
+{
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "published": "Fri, 03 Jul 2026 14:25:43 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "published": "Tue, 30 Jun 2026 16:02:40 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "published": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "published": "Tue, 16 Jun 2026 21:29:50 +0000",
+      "summary_raw": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "published": "Tue, 16 Jun 2026 15:46:31 +0000",
+      "summary_raw": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "published": "Wed, 10 Jun 2026 16:24:11 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "published": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "summary_raw": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "published": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "summary_raw": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "published": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "published": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "published": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "summary_raw": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "published": "Thu, 21 May 2026 19:46:42 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "published": "Mon, 18 May 2026 18:21:39 +0000",
+      "summary_raw": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "published": "Sun, 17 May 2026 19:53:18 +0000",
+      "summary_raw": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "published": "Sun, 17 May 2026 19:50:57 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/torch-attention-profile",
+      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+      "link": "https://huggingface.co/blog/torch-attention-profile",
+      "published": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "title": "Data for Agents",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published": "Tue, 07 Jul 2026 21:15:33 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published": "Tue, 07 Jul 2026 15:20:06 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/skypilot-hf-storage",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "link": "https://huggingface.co/blog/lerobot-release-v060",
+      "published": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "title": "PRX Part 4: Our Data Strategy",
+      "link": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "published": "Mon, 06 Jul 2026 15:30:55 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/revamped-kernels",
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "published": "Mon, 06 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "published": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "link": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "published": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "title": "Why Specialization Is Inevitable",
+      "link": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "published": "Tue, 30 Jun 2026 14:39:11 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/eee-community-evals",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "link": "https://huggingface.co/blog/eee-community-evals",
+      "published": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/discoformer",
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "link": "https://huggingface.co/blog/allenai/discoformer",
+      "published": "Mon, 29 Jun 2026 18:02:48 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/vllm-jobs",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "published": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/14720028697",
+      "title": "palewire pushed kip-claw",
+      "link": "https://github.com/kip-claw/kip-claw/compare/75f47f904a...f2e35b3200",
+      "published": "2026-07-10 18:59:21 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/kip-claw/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14556166663",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/faf4766d8b...c87baa6930",
+      "published": "2026-07-08 13:38:31 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14555997514",
+      "title": "palewire deleted",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/a92e7e2e49...0000000000",
+      "published": "2026-07-08 13:35:44 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/feat/temperature-units</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graph",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14555995910",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/5a24ec4df3...faf4766d8b",
+      "published": "2026-07-08 13:35:43 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/11513696167",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/445",
+      "published": "2026-07-08 06:35:42 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/11513306474",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#445",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/445#discussion_r3544241863",
+      "published": "2026-07-08 13:16:04 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14555308503",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/42da6255e2...a92e7e2e49",
+      "published": "2026-07-08 13:24:33 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/11512917507",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#445",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/445#discussion_r3544240844",
+      "published": "2026-07-08 13:15:56 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14554766694",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/229b9802ad...42da6255e2",
+      "published": "2026-07-08 13:15:44 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14506391848",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0c24537cff...229b9802ad",
+      "published": "2026-07-07 18:49:50 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14498279468",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0be67085de...0c24537cff",
+      "published": "2026-07-07 16:09:28 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14497838776",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/cfc951e550...0be67085de",
+      "published": "2026-07-07 16:01:50 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14449145353",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/44327524fa...cfc951e550",
+      "published": "2026-07-06 21:55:41 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14449124841",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/5718b8d073...44327524fa",
+      "published": "2026-07-06 21:55:13 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/temperature-units\" rel=\"noreferrer\">feat/temperature-units</a>\n        in\n      <a class=\"Link--p",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/11423965950",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/445",
+      "published": "2026-07-06 12:12:12 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
+      "title": "2026 World Cup: Knockout stage predictions",
+      "link": "https://www.natesilver.net/p/world-cup-2026-odds-predictions",
+      "published": "Sun, 12 Jul 2026 04:04:57 GMT",
+      "summary_raw": "Who will win the 2026 World Cup? Odds for all 48 teams and 104 matches, powered by 100,000 simulations from PELE, Silver Bulletin's new soccer model.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "title": "How popular is Donald Trump?",
+      "link": "https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin",
+      "published": "Sat, 11 Jul 2026 21:22:00 GMT",
+      "summary_raw": "Silver Bulletin approval ratings for President Trump &#8212; and all presidents since Truman.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "title": "Who’s ahead on the generic congressional ballot?",
+      "link": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+      "published": "Sat, 11 Jul 2026 21:21:00 GMT",
+      "summary_raw": "Our constantly-updating tracker of polls for the most important indicator in the race for Congress.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/iran-war-polls-popularity-approval",
+      "title": "How popular is the Iran War?",
+      "link": "https://www.natesilver.net/p/iran-war-polls-popularity-approval",
+      "published": "Sat, 11 Jul 2026 21:21:00 GMT",
+      "summary_raw": "Silver Bulletin approval ratings for the ongoing conflict.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/pele-international-football-rankings-soccer-ratings-projections",
+      "title": "PELE International Football Rankings ⚽",
+      "link": "https://www.natesilver.net/p/pele-international-football-rankings-soccer-ratings-projections",
+      "published": "Sat, 11 Jul 2026 14:00:00 GMT",
+      "summary_raw": "What happens when you blend 150+ years of soccer history with player market values into a brand-new model? Rankings, ratings and match projections for all 211 FIFA teams.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/the-silver-bulletin-world-cup-quarterfinals",
+      "title": "The Silver Bulletin World Cup quarterfinals preview",
+      "link": "https://www.natesilver.net/p/the-silver-bulletin-world-cup-quarterfinals",
+      "published": "Thu, 09 Jul 2026 19:03:31 GMT",
+      "summary_raw": "PELE&#8217;s forecast for the final eight: France leads a tight field, Argentina has the easiest path, and Norway has a real chance to crash the party.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/the-game-theory-of-replacing-graham",
+      "title": "The game theory of replacing Graham Platner",
+      "link": "https://www.natesilver.net/p/the-game-theory-of-replacing-graham",
+      "published": "Thu, 09 Jul 2026 05:13:14 GMT",
+      "summary_raw": "20 thoughts on who really has the leverage in Maine &#8212; and what Democrats should do next.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/dont-invest-your-political-capital",
+      "title": "Don't invest your political capital in sketchy people",
+      "link": "https://www.natesilver.net/p/dont-invest-your-political-capital",
+      "published": "Mon, 06 Jul 2026 23:36:06 GMT",
+      "summary_raw": "Political parties don&#8217;t get to wait for courtroom certainty. Graham Platner has given Democrats far too many reasons to cut their losses.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/america-used-to-be-exceptionally",
+      "title": "America used to be exceptionally patriotic. Now we're below average.",
+      "link": "https://www.natesilver.net/p/america-used-to-be-exceptionally",
+      "published": "Fri, 03 Jul 2026 19:00:18 GMT",
+      "summary_raw": "Most Americans still love their country, but patriotism is in sharp decline.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/is-the-vibecession-real-or-is-the",
+      "title": "Is the vibecession real — or is the survey broken?",
+      "link": "https://www.natesilver.net/p/is-the-vibecession-real-or-is-the",
+      "published": "Mon, 29 Jun 2026 17:29:01 GMT",
+      "summary_raw": "A shift to online polling and undersampling of Republicans are skewing America&#8217;s most-cited measure of consumer sentiment.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/the-world-cup-knockout-round-is-here",
+      "title": "The World Cup knockout round is here. Which team got the luckiest draw?",
+      "link": "https://www.natesilver.net/p/the-world-cup-knockout-round-is-here",
+      "published": "Sun, 28 Jun 2026 16:58:35 GMT",
+      "summary_raw": "It's not the United States &#8212; though the USMNT's path is pretty favorable, too.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/are-england-the-new-york-knicks",
+      "title": "Are England the New York Knicks?",
+      "link": "https://www.natesilver.net/p/are-england-the-new-york-knicks",
+      "published": "Sat, 27 Jun 2026 20:53:51 GMT",
+      "summary_raw": "Another team just ended a half-century curse by becoming more than the sum of its parts. England's always had the talent &#8212; can it finally do the same?",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/the-bucks-traded-giannis-too-late",
+      "title": "The Bucks traded Giannis too late",
+      "link": "https://www.natesilver.net/p/the-bucks-traded-giannis-too-late",
+      "published": "Thu, 25 Jun 2026 17:37:23 GMT",
+      "summary_raw": "The deal is \"ehh, fine\" for both Miami and Milwaukee. But Giannis to Boston would have had a seismic effect on the league.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/what-all-48-world-cup-teams-have",
+      "title": "What all 48 World Cup teams have at stake",
+      "link": "https://www.natesilver.net/p/what-all-48-world-cup-teams-have",
+      "published": "Wed, 24 Jun 2026 05:58:05 GMT",
+      "summary_raw": "Only 7 teams have clinched advancement --- and almost everyone has a lot to play for in their final match.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/what-is-gavin-newsom-doing",
+      "title": "What is Gavin Newsom doing?",
+      "link": "https://www.natesilver.net/p/what-is-gavin-newsom-doing",
+      "published": "Tue, 23 Jun 2026 13:01:19 GMT",
+      "summary_raw": "Losing support in polls, the governor is leaning into his role as the avatar of an unpopular Democratic establishment.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/search-smarter-verify-faster",
+      "title": "🕵️ Search Smarter, Verify Faster",
+      "link": "https://wondertools.substack.com/p/search-smarter-verify-faster",
+      "published": "Thu, 09 Jul 2026 14:42:10 GMT",
+      "summary_raw": "Track topics, verify images, and search like a pro",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/5-ways-i-use-ai-to-think-better",
+      "title": "🧠 A Guide to Thinking With AI",
+      "link": "https://wondertools.substack.com/p/5-ways-i-use-ai-to-think-better",
+      "published": "Sat, 04 Jul 2026 14:46:45 GMT",
+      "summary_raw": "5 tactics I rely on",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/keep-your-ai-private-and-free",
+      "title": "🔒 How to Use AI Privately for Free",
+      "link": "https://wondertools.substack.com/p/keep-your-ai-private-and-free",
+      "published": "Thu, 25 Jun 2026 10:37:55 GMT",
+      "summary_raw": "Alternatives to ChatGPT, Claude, and Gemini",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/4-free-tools-to-dig-deeper-online",
+      "title": "A Digital Investigator’s Free Toolkit 🔍",
+      "link": "https://wondertools.substack.com/p/4-free-tools-to-dig-deeper-online",
+      "published": "Fri, 19 Jun 2026 17:09:59 GMT",
+      "summary_raw": "Free expert-recommended tools to archive web pages, track your research trail, detect AI images, and find new research tools.",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/a-love-letter-to-internet-10",
+      "title": "A Love Letter to Internet 1.0 ❤️",
+      "link": "https://wondertools.substack.com/p/a-love-letter-to-internet-10",
+      "published": "Thu, 11 Jun 2026 14:13:33 GMT",
+      "summary_raw": "The early web was clunky, magical, and personal",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/googlepinpoint",
+      "title": "📍 Pinpoint, Explained",
+      "link": "https://wondertools.substack.com/p/googlepinpoint",
+      "published": "Fri, 05 Jun 2026 12:03:52 GMT",
+      "summary_raw": "A guide to Google's free tool, now open to all",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/stop-getting-unwanted-email",
+      "title": "🧹 Declutter Your Inbox",
+      "link": "https://wondertools.substack.com/p/stop-getting-unwanted-email",
+      "published": "Thu, 28 May 2026 15:28:25 GMT",
+      "summary_raw": "Reclaim your inbox from junk email",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/say-no-to-new-sometimes",
+      "title": "🛑  Skip the Upgrade",
+      "link": "https://wondertools.substack.com/p/say-no-to-new-sometimes",
+      "published": "Thu, 21 May 2026 21:21:44 GMT",
+      "summary_raw": "A NY Times Editor on Saying No to New",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/glaze-make-your-own-apps",
+      "title": "Make Your Own Apps 🚀",
+      "link": "https://wondertools.substack.com/p/glaze-make-your-own-apps",
+      "published": "Fri, 15 May 2026 14:07:09 GMT",
+      "summary_raw": "Glaze: New Vibe Coding for Beginners",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/make-time-feel-big",
+      "title": "What I Learned About Time 🕰️",
+      "link": "https://wondertools.substack.com/p/make-time-feel-big",
+      "published": "Fri, 08 May 2026 16:34:06 GMT",
+      "summary_raw": "11 Ideas from Laura Vanderkam's New Book on Time Abundance",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/flip-the-script-on-ai",
+      "title": "✍️ Let AI Interview You",
+      "link": "https://wondertools.substack.com/p/flip-the-script-on-ai",
+      "published": "Thu, 30 Apr 2026 14:05:12 GMT",
+      "summary_raw": "A smarter way to get past the blank page",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/5-new-directions-for-journalism",
+      "title": "5 New Directions for Journalism",
+      "link": "https://wondertools.substack.com/p/5-new-directions-for-journalism",
+      "published": "Sat, 25 Apr 2026 14:10:12 GMT",
+      "summary_raw": "Observations from Europe's Biggest Journalism Conference",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/7-ai-tools-for-your-job-search",
+      "title": "AI for Your Next Career Move ✨",
+      "link": "https://wondertools.substack.com/p/7-ai-tools-for-your-job-search",
+      "published": "Sat, 18 Apr 2026 15:18:02 GMT",
+      "summary_raw": "From career exploration to salary negotiation",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/my-daily-toolkit-part-2",
+      "title": "My Quieter Toolkit 🌙",
+      "link": "https://wondertools.substack.com/p/my-daily-toolkit-part-2",
+      "published": "Fri, 10 Apr 2026 19:27:49 GMT",
+      "summary_raw": "Non-AI apps I rely on from noon to bedtime",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/granolaguide",
+      "title": "Meet Granola AI ✨",
+      "link": "https://wondertools.substack.com/p/granolaguide",
+      "published": "Sat, 04 Apr 2026 18:48:06 GMT",
+      "summary_raw": "My Favorite AI Notepad",
+      "source": "Wonder Tools (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/vibe-coding-tools-and-resources",
+      "title": "Vibe Coding Tools and Resources",
+      "link": "https://journaliststoolbox.substack.com/p/vibe-coding-tools-and-resources",
+      "published": "Tue, 07 Jul 2026 11:31:20 GMT",
+      "summary_raw": "July 7, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/creating-a-map-with-a-large-language",
+      "title": "Creating a Map With a Large Language Model",
+      "link": "https://journaliststoolbox.substack.com/p/creating-a-map-with-a-large-language",
+      "published": "Tue, 23 Jun 2026 10:54:33 GMT",
+      "summary_raw": "June 23, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/image-video-verification-tools-from",
+      "title": "Image, Video Verification Tools from a Recent OSINT Training",
+      "link": "https://journaliststoolbox.substack.com/p/image-video-verification-tools-from",
+      "published": "Tue, 09 Jun 2026 11:37:12 GMT",
+      "summary_raw": "June 9, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/browser-privacy-in-an-ai-world",
+      "title": "Browser Privacy in an AI World",
+      "link": "https://journaliststoolbox.substack.com/p/browser-privacy-in-an-ai-world",
+      "published": "Tue, 26 May 2026 10:18:47 GMT",
+      "summary_raw": "May 26, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/tips-for-using-ai-when-writing-data",
+      "title": "Tips for Using AI When Writing Data Stories",
+      "link": "https://journaliststoolbox.substack.com/p/tips-for-using-ai-when-writing-data",
+      "published": "Tue, 12 May 2026 11:48:21 GMT",
+      "summary_raw": "May 12, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/college-students-pick-useful-ai-tools",
+      "title": "College Students Pick Useful AI Tools",
+      "link": "https://journaliststoolbox.substack.com/p/college-students-pick-useful-ai-tools",
+      "published": "Tue, 28 Apr 2026 12:10:33 GMT",
+      "summary_raw": "April 28, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/april-14-summarization-tools-for",
+      "title": "April 14: Summarization Tools for Covering Public Meetings",
+      "link": "https://journaliststoolbox.substack.com/p/april-14-summarization-tools-for",
+      "published": "Tue, 14 Apr 2026 11:14:50 GMT",
+      "summary_raw": "April 14, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/fact-checking-on-the-eve-of-april",
+      "title": "Fact-Checking on the Eve of April Fool's Day",
+      "link": "https://journaliststoolbox.substack.com/p/fact-checking-on-the-eve-of-april",
+      "published": "Tue, 31 Mar 2026 10:35:26 GMT",
+      "summary_raw": "March 31, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/new-data-journalism-resources-from",
+      "title": "New Data Journalism Resources from NICAR 26",
+      "link": "https://journaliststoolbox.substack.com/p/new-data-journalism-resources-from",
+      "published": "Tue, 17 Mar 2026 10:36:56 GMT",
+      "summary_raw": "March 17, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/building-basic-charts-with-llms",
+      "title": "Building Basic Charts With LLMs",
+      "link": "https://journaliststoolbox.substack.com/p/building-basic-charts-with-llms",
+      "published": "Tue, 03 Mar 2026 12:06:11 GMT",
+      "summary_raw": "March 3, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/building-graphics-with-gemini-canvas",
+      "title": "Building Graphics With Gemini Canvas",
+      "link": "https://journaliststoolbox.substack.com/p/building-graphics-with-gemini-canvas",
+      "published": "Tue, 17 Feb 2026 13:12:55 GMT",
+      "summary_raw": "Feb. 17, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/favorite-student-picks-for-ai-tools",
+      "title": "Favorite Student Picks for AI Tools",
+      "link": "https://journaliststoolbox.substack.com/p/favorite-student-picks-for-ai-tools",
+      "published": "Tue, 03 Feb 2026 13:34:42 GMT",
+      "summary_raw": "Feb. 3, 2026: How Mike Reilley's AI Journalism students are using AI for school, journalism and life.",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/using-ai-audio-tools-to-edit-written",
+      "title": "Using AI Audio Tools to Edit Written Stories",
+      "link": "https://journaliststoolbox.substack.com/p/using-ai-audio-tools-to-edit-written",
+      "published": "Tue, 20 Jan 2026 12:59:43 GMT",
+      "summary_raw": "Jan. 20, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/30-years-of-links-changes-and-more",
+      "title": "30 Years of Links, Changes and More Changes",
+      "link": "https://journaliststoolbox.substack.com/p/30-years-of-links-changes-and-more",
+      "published": "Tue, 06 Jan 2026 14:55:09 GMT",
+      "summary_raw": "Jan. 6, 2026",
+      "source": "Journalist's Toolbox (Substack)"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/year-in-review-ai-tools-and-trends",
+      "title": "Year in Review: AI Tools and Trends",
+      "link": "https://journaliststoolbox.substack.com/p/year-in-review-ai-tools-and-trends",
+      "published": "Tue, 23 Dec 2025 13:04:34 GMT",
+      "summary_raw": "Dec. 23, 2025",
+      "source": "Journalist's Toolbox (Substack)"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://www.ire.org/?p=210672",
+      "title": "Sign up for an IRE Committee today!",
+      "link": "https://www.ire.org/2026/07/10/sign-up-for-an-ire-committee-today/",
+      "published": "Fri, 10 Jul 2026 04:20:00 +0000",
+      "summary_raw": "<p>Sign up for an IRE Committee today! Investigative Reporters &#38; Editors (IRE) is seeking volunteers to serve on several committees. These groups offer ideas and help us improve member services and governance, expand IRE’s reach and fundraising, plan training events and conferences, organize regional meetups and much more. “The IRE Board is making it a&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/10/sign-up-for-an-ire-committee-today/\">Sign up for an IRE Committee today!</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210635",
+      "title": "IRE names nonprofit leader as next executive director",
+      "link": "https://www.ire.org/2026/07/06/new-executive-director/",
+      "published": "Mon, 06 Jul 2026 13:59:00 +0000",
+      "summary_raw": "<p>IRE is excited to announce the appointment of Jonathan Kealing as its new Executive Director.</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/06/new-executive-director/\">IRE names nonprofit leader as next executive director</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210624",
+      "title": "Investigating religious groups? These records might help",
+      "link": "https://www.ire.org/2026/07/06/investigating-religious-groups-these-records-might-help/",
+      "published": "Mon, 06 Jul 2026 09:00:00 +0000",
+      "summary_raw": "<p>By Liam Adams, The Tennessean I went out of my way to attend NICAR 2026 for the first time, hoping to unlock a bunch oftrade secrets for accessing records on my beat. As a religion reporter who often encounters legal hurdles for public access to internal info, I ventured up to Indianapolis from Nashville with&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/06/investigating-religious-groups-these-records-might-help/\">Investigating religious groups? These records might help</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210558",
+      "title": "IRE Board elects officers for 2026-27",
+      "link": "https://www.ire.org/2026/06/24/ire-board-elects-officers-for-2026-27/",
+      "published": "Wed, 24 Jun 2026 21:58:21 +0000",
+      "summary_raw": "<p>IRE Board of Directors elected 2026-27 executive committee</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/24/ire-board-elects-officers-for-2026-27/\">IRE Board elects officers for 2026-27</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210562",
+      "title": "IRE Board to elect new officers in Wednesday public meeting",
+      "link": "https://www.ire.org/2026/06/24/ire-board-to-elect-new-officers-in-wednesday-public-meeting/",
+      "published": "Wed, 24 Jun 2026 20:21:24 +0000",
+      "summary_raw": "<p>The IRE Board of Directors will elect its new Executive Committee members during a Zoom meeting at 4:30 p.m. Eastern on Wednesday, June 24, 2026.</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/24/ire-board-to-elect-new-officers-in-wednesday-public-meeting/\">IRE Board to elect new officers in Wednesday public meeting</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210534",
+      "title": "IRE members elect seven to Board in 2026 election",
+      "link": "https://www.ire.org/2026/06/20/ire-members-elect-seven-to-board-in-2026-election/",
+      "published": "Sat, 20 Jun 2026 23:56:22 +0000",
+      "summary_raw": "<p>June 20, 2026 — IRE members elected seven journalists to the Board of Directors at the annual IRE 2026 Conference in Washington, D.C., and two journalists for the contested seats on the Contest Committee. Four incumbents — Kate Howard of Reveal, Andrew Lehren of The City University of New York, Alejandra Cancino of Injustice Watch&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/20/ire-members-elect-seven-to-board-in-2026-election/\">IRE members elect seven to Board in 2026 election</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210510",
+      "title": "2026 Don Bolles Medal awarded to Julie K. Brown",
+      "link": "https://www.ire.org/2026/06/19/2026-don-bolles-medal-awarded-to-julie-k-brown/",
+      "published": "Fri, 19 Jun 2026 19:57:22 +0000",
+      "summary_raw": "<p>IRE has awarded the Don Bolles Medal for 2026 to Julie K. Brown for her dogged, indefatigable and fearless investigative reporting on Jeffrey Epstein and the powerful forces that tried to stop it.</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/19/2026-don-bolles-medal-awarded-to-julie-k-brown/\">2026 Don Bolles Medal awarded to Julie K. Brown</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210512",
+      "title": "T. Lee Beeman, Jr. and Allegany County, Maryland win 2026 Golden Padlock Award",
+      "link": "https://www.ire.org/2026/06/19/t-lee-beeman-jr-and-allegany-county-maryland-win-2026-golden-padlock-award/",
+      "published": "Fri, 19 Jun 2026 19:54:20 +0000",
+      "summary_raw": "<p>Allegany County Attorney T. Lee Beeman, Jr. and Allegany County, Maryland are the winners of the 2026 Golden Padlock Award.</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/19/t-lee-beeman-jr-and-allegany-county-maryland-win-2026-golden-padlock-award/\">T. Lee Beeman, Jr. and Allegany County, Maryland win 2026 Golden Padlock Award</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210492",
+      "title": "Don’t know what to attend at the conference in National Harbor? The IRE staff is here to help!",
+      "link": "https://www.ire.org/2026/06/15/dont-know-what-to-attend-at-the-conference-in-national-harbor-the-ire-staff-is-here-to-help/",
+      "published": "Mon, 15 Jun 2026 16:28:35 +0000",
+      "summary_raw": "<p>Adam Rhodes, Training Director &#38; Managing Editor&#160; It’s Pride Month so of *course* I’m going to shout out “LGBTQ+ Data Reporting and Visualization,” which is a great session if you want to cover LGTQ+ better but also how to better use key data for your next big investigation.&#160; I also really want to shout out&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/15/dont-know-what-to-attend-at-the-conference-in-national-harbor-the-ire-staff-is-here-to-help/\">Don’t know what to attend at the conference in National Harbor? The IRE staff is here to help!</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.ire.org/?p=210450",
+      "title": "Sign up for IRE’s new virtual mentor program",
+      "link": "https://www.ire.org/2026/06/08/sign-up-for-ires-new-virtual-mentor-program/",
+      "published": "Mon, 08 Jun 2026 05:25:33 +0000",
+      "summary_raw": "<p>Sign up for IRE&#8217;s new virtual mentor program IRE members can now volunteer to mentor fellow journalists on our new online platform, which replaces our former partnership with journalismmentors.com. Only active IRE members will be listed as mentors. (Information from your member profile will become part of your mentor page, as well.) This is a&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/06/08/sign-up-for-ires-new-virtual-mentor-program/\">Sign up for IRE&#8217;s new virtual mentor program</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "3539 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Interested but not Engaged: How Europe's Media Cover Brexit",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/our-research/interested-not-engaged-how-europes-media-cover-brexit",
+      "published": "Sun, 01 Jul 2018 23:01:00 +0000",
+      "summary_raw": "<span>Interested but not Engaged: How Europe's Media Cover Brexit</span>\n<span><span>Archie</span></span>\n<span><time datetime=\"2018-07-02T00:01:00+01:00\" title=\"Monday, July 2, 2018 - 00:01\">Mon, 07/02/2018 - 00:01</time>\n</span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field--item\"><h6><span><span>DOI: 10.60625/risj-9vzf-5a49</span></span></h6>\n\n<p><span><span>What do the media of other EU member countries consider to be important as the UK negotiates being the first country to&nbsp;leave the EU? How much and what kind of national self-interest does the Brexit decision trigger? What do European media think about Brexit&nbsp;and the UK’s way of dealing with it? These are some of the questions that <a href=\"https://reutersinstitute.p",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7284 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Podcast and launch videos",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/podcast-and-launch-videos",
+      "published": "Wed, 24 Jun 2026 10:54:55 +0000",
+      "summary_raw": "<span>Podcast and launch videos</span>\n<span><span>Matthew Leake</span></span>\n<span><time datetime=\"2026-06-24T11:54:55+01:00\" title=\"Wednesday, June 24, 2026 - 11:54\">Wed, 06/24/2026 - 11:54</time>\n</span>\n\n      <div>\n              <div>  <div class=\"paragraph paragraph--type--dnr-banner-item paragraph--view-mode--default\">\n          \n            <div><div>\n\t\n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field--item\">    \n                  <source height=\"571\" media=\"all and (min-width: 851px)\" type=\"image/webp\" width=\"2000\" />\n              <source height=\"571\" media=\"all and (min-width: 560px) and (max-width: 850px)\" type=\"image/webp\" width=\"2000\" />\n              <source height=\"320\" type=\"image/webp\" width=\"640\" />\n                ",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7277 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Explore more than a decade of survey data across markets",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/interactive",
+      "published": "Mon, 15 Jun 2026 12:51:40 +0000",
+      "summary_raw": "<span>Explore more than a decade of survey data across markets</span>\n<span><span>eduardo.suarez…</span></span>\n<span><time datetime=\"2026-06-15T13:51:40+01:00\" title=\"Monday, June 15, 2026 - 13:51\">Mon, 06/15/2026 - 13:51</time>\n</span>\n\n      <div>\n              <div>  <div class=\"paragraph paragraph--type--dnr-banner-item paragraph--view-mode--default\">\n          \n      </div>\n</div>\n          </div>\n  \n      <div class=\"field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field--items\">\n              \n<div class=\"paragraph--alignment--full paragraph paragraph--type--text-with-block paragraph--view-mode--dnr\">\n  <div class=\"block-full\">\n    \n            <div>\n\n\n<div id=\"infographic-container\">\n</div></div>\n      \n  </div>\n</div>\n\n          </div>\n",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7259 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Datos por país",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/datos-por-pais",
+      "published": "Fri, 22 May 2026 14:04:41 +0000",
+      "summary_raw": "<span>Datos por país</span>\n<span><span>eduardo.suarez…</span></span>\n<span><time datetime=\"2026-05-22T15:04:41+01:00\" title=\"Friday, May 22, 2026 - 15:04\">Fri, 05/22/2026 - 15:04</time>\n</span>\n\n      <div>\n              <div>  <div class=\"paragraph paragraph--type--dnr-banner-item paragraph--view-mode--default\">\n          \n      </div>\n</div>\n          </div>\n  \n      <div class=\"field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field--items\">\n              \n<div class=\"paragraph--alignment--full paragraph paragraph--type--text-with-block paragraph--view-mode--dnr\">\n  <div class=\"block-full\">\n    \n        \n  </div>\n</div>\n\n              \n<div class=\"paragraph--alignment--column paragraph paragraph--type--text-with-block paragraph--view-mode--dnr",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7258 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Metodología",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/metodologia",
+      "published": "Thu, 21 May 2026 15:53:20 +0000",
+      "summary_raw": "<span>Metodología</span>\n<span><span>eduardo.suarez…</span></span>\n<span><time datetime=\"2026-05-21T16:53:20+01:00\" title=\"Thursday, May 21, 2026 - 16:53\">Thu, 05/21/2026 - 16:53</time>\n</span>\n\n      <div>\n              <div>  <div class=\"paragraph paragraph--type--dnr-banner-item paragraph--view-mode--default\">\n          \n            <div><div>\n\t\n            <div class=\"field field--name-field-media-image field--type-image field--label-hidden field--item\">    \n                  <source height=\"571\" media=\"all and (min-width: 851px)\" type=\"image/webp\" width=\"2000\" />\n              <source height=\"571\" media=\"all and (min-width: 560px) and (max-width: 850px)\" type=\"image/webp\" width=\"2000\" />\n              <source height=\"320\" type=\"image/webp\" width=\"640\" />\n                  <img height=",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7252 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Kompas May 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/kompas-may-2026",
+      "published": "Tue, 19 May 2026 13:40:15 +0000",
+      "summary_raw": "<div class=\"bs-1col-stacked node node--type-in-the-news node--view-mode-rss\">\n  \n\n    <div class=\"row-top bs-region bs-region--top\">\n    \n            <div class=\"field field--name-bundle-fieldnode field--type-ds field--label-hidden field--item\">In the news</div>\n      \n            <div class=\"field field--name-dynamic-token-fieldnode-social-media-share-basic field--type-ds field--label-hidden field--item\"><div class=\"sm-icon twitter-icon\">\n  <a href=\"https://twitter.com/intent/tweet?url=https://reutersinstitute.politics.ox.ac.uk/rss.xml&amp;text=\" target=\"_blank\">\n    <span class=\"reuters-twitter\"></span>\n  </a>\n</div>\n\n<div class=\"sm-icon facebook-icon\">\n  <a href=\"https://www.facebook.com/sharer.php?u=https://reutersinstitute.politics.ox.ac.uk/rss.xml\" target=\"_blank\">\n    <span class=\"r",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7251 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Guardian May 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026-0",
+      "published": "Tue, 19 May 2026 13:34:31 +0000",
+      "summary_raw": "<div class=\"bs-1col-stacked node node--type-in-the-news node--view-mode-rss\">\n  \n\n    <div class=\"row-top bs-region bs-region--top\">\n    \n            <div class=\"field field--name-bundle-fieldnode field--type-ds field--label-hidden field--item\">In the news</div>\n      \n            <div class=\"field field--name-dynamic-token-fieldnode-social-media-share-basic field--type-ds field--label-hidden field--item\"><div class=\"sm-icon twitter-icon\">\n  <a href=\"https://twitter.com/intent/tweet?url=https://reutersinstitute.politics.ox.ac.uk/rss.xml&amp;text=\" target=\"_blank\">\n    <span class=\"reuters-twitter\"></span>\n  </a>\n</div>\n\n<div class=\"sm-icon facebook-icon\">\n  <a href=\"https://www.facebook.com/sharer.php?u=https://reutersinstitute.politics.ox.ac.uk/rss.xml\" target=\"_blank\">\n    <span class=\"r",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7250 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Guardian May 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/guardian-may-2026",
+      "published": "Tue, 19 May 2026 13:33:42 +0000",
+      "summary_raw": "<div class=\"bs-1col-stacked node node--type-in-the-news node--view-mode-rss\">\n  \n\n    <div class=\"row-top bs-region bs-region--top\">\n    \n            <div class=\"field field--name-bundle-fieldnode field--type-ds field--label-hidden field--item\">In the news</div>\n      \n            <div class=\"field field--name-dynamic-token-fieldnode-social-media-share-basic field--type-ds field--label-hidden field--item\"><div class=\"sm-icon twitter-icon\">\n  <a href=\"https://twitter.com/intent/tweet?url=https://reutersinstitute.politics.ox.ac.uk/rss.xml&amp;text=\" target=\"_blank\">\n    <span class=\"reuters-twitter\"></span>\n  </a>\n</div>\n\n<div class=\"sm-icon facebook-icon\">\n  <a href=\"https://www.facebook.com/sharer.php?u=https://reutersinstitute.politics.ox.ac.uk/rss.xml\" target=\"_blank\">\n    <span class=\"r",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7249 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "LatAm Journalism Review March 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/latam-journalism-review-march-2026",
+      "published": "Tue, 19 May 2026 13:31:09 +0000",
+      "summary_raw": "<div class=\"bs-1col-stacked node node--type-in-the-news node--view-mode-rss\">\n  \n\n    <div class=\"row-top bs-region bs-region--top\">\n    \n            <div class=\"field field--name-bundle-fieldnode field--type-ds field--label-hidden field--item\">In the news</div>\n      \n            <div class=\"field field--name-dynamic-token-fieldnode-social-media-share-basic field--type-ds field--label-hidden field--item\"><div class=\"sm-icon twitter-icon\">\n  <a href=\"https://twitter.com/intent/tweet?url=https://reutersinstitute.politics.ox.ac.uk/rss.xml&amp;text=\" target=\"_blank\">\n    <span class=\"reuters-twitter\"></span>\n  </a>\n</div>\n\n<div class=\"sm-icon facebook-icon\">\n  <a href=\"https://www.facebook.com/sharer.php?u=https://reutersinstitute.politics.ox.ac.uk/rss.xml\" target=\"_blank\">\n    <span class=\"r",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7248 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Washington Post March 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/in-the-news/washington-post-march-2026",
+      "published": "Tue, 19 May 2026 13:29:39 +0000",
+      "summary_raw": "<div class=\"bs-1col-stacked node node--type-in-the-news node--view-mode-rss\">\n  \n\n    <div class=\"row-top bs-region bs-region--top\">\n    \n            <div class=\"field field--name-bundle-fieldnode field--type-ds field--label-hidden field--item\">In the news</div>\n      \n            <div class=\"field field--name-dynamic-token-fieldnode-social-media-share-basic field--type-ds field--label-hidden field--item\"><div class=\"sm-icon twitter-icon\">\n  <a href=\"https://twitter.com/intent/tweet?url=https://reutersinstitute.politics.ox.ac.uk/rss.xml&amp;text=\" target=\"_blank\">\n    <span class=\"reuters-twitter\"></span>\n  </a>\n</div>\n\n<div class=\"sm-icon facebook-icon\">\n  <a href=\"https://www.facebook.com/sharer.php?u=https://reutersinstitute.politics.ox.ac.uk/rss.xml\" target=\"_blank\">\n    <span class=\"r",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117526",
+      "title": "He’s found 15,000+ fake AI news sites. Here’s what you need to know…",
+      "link": "https://wan-ifra.org/2026/07/hes-found-15000-fake-ai-news-sites-heres-what-you-need-to-know/",
+      "published": "Fri, 10 Jul 2026 07:42:05 +0000",
+      "summary_raw": "<p>French investigative journalist and educator Jean-Marc Manach has spent two years tracking AI-generated ‘news’ sites and has identified more than 15,000 of them – some earning millions of dollars by gaming Google Discover. He explains how to spot them, and why the industry should be worried.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/hes-found-15000-fake-ai-news-sites-heres-what-you-need-to-know/\">He&#8217;s found 15,000+ fake AI news sites. Here&#8217;s what you need to know…</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117505",
+      "title": "Spain’s SPORT explores new forms of AI assistance for print production",
+      "link": "https://wan-ifra.org/2026/07/spains-sport-explores-new-forms-of-assistance-for-print-production/",
+      "published": "Thu, 09 Jul 2026 09:06:31 +0000",
+      "summary_raw": "<p>As newsrooms adopt digital-first workflows, Spanish news outlet SPORT is exploring how AI can help organise and adapt content for print without compromising editorial judgement or the publication's identity.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/spains-sport-explores-new-forms-of-assistance-for-print-production/\">Spain&#8217;s SPORT explores new forms of AI assistance for print production</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117257",
+      "title": "WAN-IFRA appoints Ezra Eeman as  Director, AI in Media",
+      "link": "https://wan-ifra.org/2026/07/wan-ifra-appoints-ezra-eeman-as-director-ai-in-media/",
+      "published": "Tue, 07 Jul 2026 06:59:45 +0000",
+      "summary_raw": "<p>Frankfurt, Germany – WAN-IFRA has appointed Ezra Eeman as Director, AI in Media, reinforcing its commitment to helping news publishers worldwide harness the opportunities of artificial intelligence while navigating the profound changes it is bringing to journalism and the media business.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/wan-ifra-appoints-ezra-eeman-as-director-ai-in-media/\">WAN-IFRA appoints Ezra Eeman as  Director, AI in Media</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117316",
+      "title": "From visibility to viability: Lessons from the Samir Kassir Foundation’s approach to media sustainability",
+      "link": "https://wan-ifra.org/2026/07/from-visibility-to-viability-lessons-from-the-samir-kassir-foundations-approach-to-media-sustainability/",
+      "published": "Mon, 06 Jul 2026 14:58:47 +0000",
+      "summary_raw": "<p>One year after the launch of BRAVE Media to strengthen the resilience and sustainability of independent journalism worldwide, the initiative’s peer-learning webinars, organised by WAN-IFRA, have highlighted practical solutions to today’s media challenges. A recent webinar featured the Samir Kassir Foundation’s innovative approaches to helping independent media diversify revenue and build long-term sustainability.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/from-visibility-to-viability-lessons-from-the-samir-kassir-foundations-approach-to-media-sustainability/\">From visibility to viability: Lessons from the Samir Kassir Foundation&#8217;s approach to media sustainability</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117021",
+      "title": "New WAN-IFRA report provides roadmap for managing emissions in newspaper printing",
+      "link": "https://wan-ifra.org/2026/07/wan-ifra-launches-special-report-carbon-audit-call-to-action-managing-emissions-in-newspaper-printing-plants/",
+      "published": "Fri, 03 Jul 2026 08:00:53 +0000",
+      "summary_raw": "<p>Developed in line with international climate frameworks, the report helps newspaper printing facilities understand, measure and manage greenhouse gas emissions.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/wan-ifra-launches-special-report-carbon-audit-call-to-action-managing-emissions-in-newspaper-printing-plants/\">New WAN-IFRA report provides roadmap for managing emissions in newspaper printing</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117163",
+      "title": "Vestiges of press freedom in Uganda finally disappear down the drain",
+      "link": "https://wan-ifra.org/2026/07/vestiges-of-press-freedom-in-uganda-finally-disappear-down-the-drain/",
+      "published": "Wed, 01 Jul 2026 13:10:13 +0000",
+      "summary_raw": "<p>On 28th June, 2026, Ugandans woke up to a barrage of social media posts on General Muhoozi Kainerugaba’s X handle, most of them alluding to Uganda’s media and press freedom – his unbelief in it – and the closure of the biggest independent media house, Nation Media Group (NMG).</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/vestiges-of-press-freedom-in-uganda-finally-disappear-down-the-drain/\">Vestiges of press freedom in Uganda finally disappear down the drain</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=116928",
+      "title": "Signature journalism, strong brands, higher customer value: Mediahuis’s playbook for growth",
+      "link": "https://wan-ifra.org/2026/07/signature-journalism-strong-brands-higher-customer-value-mediahuiss-playbook-for-growth/",
+      "published": "Wed, 01 Jul 2026 12:48:41 +0000",
+      "summary_raw": "<p>Taking a pro-active stance to some of today's biggest challenges, Europe’s Mediahuis has developed a three-pronged approach that builds on their traditional strengths.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/signature-journalism-strong-brands-higher-customer-value-mediahuiss-playbook-for-growth/\">Signature journalism, strong brands, higher customer value: Mediahuis’s playbook for growth</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117080",
+      "title": "World’s press condemns media shutdowns in Uganda",
+      "link": "https://wan-ifra.org/2026/06/worlds-press-condemns-media-shutdowns-in-uganda/",
+      "published": "Tue, 30 Jun 2026 12:29:32 +0000",
+      "summary_raw": "<p>In the face of a military crackdown targeting independent media, WAN-IFRA has called on the government of Ugandan President, Yoweri Museveni, to honour constitutional guarantees and international standards protecting media freedom and the safety of journalists. </p>\n<p>The post <a href=\"https://wan-ifra.org/2026/06/worlds-press-condemns-media-shutdowns-in-uganda/\">World&#8217;s press condemns media shutdowns in Uganda</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=116991",
+      "title": "The six pillars driving PRISA Group’s goal of 800,000 subscribers by 2029",
+      "link": "https://wan-ifra.org/2026/06/the-six-pillars-driving-prisa-groups-goal-of-800000-subscribers-by-2029/",
+      "published": "Tue, 30 Jun 2026 10:54:24 +0000",
+      "summary_raw": "<p>When financier Joseph Oughourlian took over as Chairman of the PRISA Group five years ago, its flagship title El País was struggling to find its footing in the digital landscape. El País has since achieved a financial turnaround by focusing on rebuilding a direct relationship with readers, particularly in Latin America.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/06/the-six-pillars-driving-prisa-groups-goal-of-800000-subscribers-by-2029/\">The six pillars driving PRISA Group’s goal of 800,000 subscribers by 2029</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=117053",
+      "title": "Financial Express on why ‘discipline beats dopamine’ in the page view era",
+      "link": "https://wan-ifra.org/2026/06/financial-express-on-why-discipline-beats-dopamine-in-the-page-view-era/",
+      "published": "Tue, 30 Jun 2026 08:39:16 +0000",
+      "summary_raw": "<p>The page view, long treated as newsrooms’ default measure of success, is becoming an unreliable one. Most newsrooms are still reading their data the wrong way round too, looking at it only after a story has already been published rather than using it to shape coverage decisions beforehand.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/06/financial-express-on-why-discipline-beats-dopamine-in-the-page-view-era/\">Financial Express on why ‘discipline beats dopamine’ in the page view era</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251470",
+      "title": "The New York Times will launch a local newsletter pilot in the Twin Cities next month",
+      "link": "https://www.niemanlab.org/2026/07/the-new-york-times-will-launch-a-local-newsletter-pilot-in-the-twin-cities-next-month/",
+      "published": "Thu, 09 Jul 2026 20:59:44 +0000",
+      "summary_raw": "The New York Times: It wants to be your one-stop shop for cooking, games, sports&#8230;and next, perhaps, local news? On Wednesday, the Times announced it will soon launch The Local, &#8220;a new journalism initiative aimed at serving and engaging communities.&#8221; The national news behemoth will kick off the new initiative in August with a pilot...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251404",
+      "title": "There are millions of undiscovered species on Earth. Vox is trying to find one.",
+      "link": "https://www.niemanlab.org/2026/07/there-are-millions-of-undiscovered-species-on-earth-vox-is-trying-to-find-one/",
+      "published": "Thu, 09 Jul 2026 18:53:16 +0000",
+      "summary_raw": "CENTRAL PARK, NEW YORK CITY — On a hot June day in Manhattan, a few minutes away from the sea lion pool in Central Park Zoo, up a hill and through a patch of shoulder-height shrubs, Benji Jones peered into a bottle filled with ethanol and dead bugs. &#8220;Oh, there&#8217;s some big guys in here,&#8221;...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251379",
+      "title": "A new study looks at the skills journalists are losing (and gaining) because of AI tools",
+      "link": "https://www.niemanlab.org/2026/07/a-new-study-looks-at-the-skills-journalists-are-losing-and-gaining-because-of-ai-tools/",
+      "published": "Wed, 08 Jul 2026 20:25:41 +0000",
+      "summary_raw": "Last year, MIT&#8217;s Media Lab came out with a buzzy study on a phenomenon that’s been coined “cognitive debt.” In short, the researchers found that when ChatGPT users offloaded essay writing tasks to their AI assistants, their own writing abilities declined. ChatGPT users consistently had the lowest “brain engagement” and task performance scores across the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251355",
+      "title": "We asked our readers to buy, not donate. Here’s what it taught us about the new math of news.",
+      "link": "https://www.niemanlab.org/2026/07/we-asked-our-readers-to-buy-not-donate-heres-what-it-taught-us-about-the-new-math-of-news/",
+      "published": "Wed, 08 Jul 2026 15:04:05 +0000",
+      "summary_raw": "Most people in the news business agree on at least one thing right now. As search and AI reshape how people find information, the old model of waiting for audiences to wander in is finished, and we have to build direct relationships with readers instead. The numbers are stark. When Pew Research Center tracked the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251309",
+      "title": "Rebuild Local News’ Matt Pearce is trying to help journalists and lawmakers speak the same language",
+      "link": "https://www.niemanlab.org/2026/07/rebuild-local-news-matt-pearce-is-trying-to-help-journalists-and-lawmakers-speak-the-same-language/",
+      "published": "Tue, 07 Jul 2026 20:20:59 +0000",
+      "summary_raw": "For a growing number of local journalists and supporters of local journalism, the relevant question in 2026 is no longer, &#8220;Should public policy to support local news exist?&#8221; but &#8220;What should public policy to support local news look like here?&#8221; At least 21 states and territories have proposed legislation intended to financially support local news...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251332",
+      "title": "The Boston Globe doth return its web-site to yesteryear in celebration of American independence",
+      "link": "https://www.niemanlab.org/2026/07/the-boston-globe-doth-return-its-web-site-to-yesteryear-in-celebration-of-american-independence/",
+      "published": "Tue, 07 Jul 2026 20:19:23 +0000",
+      "summary_raw": "Neither The Boston Globe nor the internet existed in the 1700s. But this past holiday weekend, in celebration of the Semiquincentennial (try saying that five times fast), the newspaper took a liberty of its own: imagining what its home page might have looked like on July 4, 1776. The entire page is a sepia-toned delight...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251289",
+      "title": "A quiet shift in how Americans perceive local news",
+      "link": "https://www.niemanlab.org/2026/07/a-quiet-shift-in-how-americans-perceive-local-news/",
+      "published": "Mon, 06 Jul 2026 14:04:13 +0000",
+      "summary_raw": "Local news has long been an exception to a troubling trend. Even as trust in national news organizations eroded over the past decade and partisan divides over the media widened, local news largely held its ground — majorities of both Republicans and Democrats continued to rate their local news media favorably. Despite facing major financial...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251240",
+      "title": "The New York Times appears to be cracking down on login sharing",
+      "link": "https://www.niemanlab.org/2026/07/the-new-york-times-appears-to-be-cracking-down-on-login-sharing/",
+      "published": "Mon, 06 Jul 2026 13:23:35 +0000",
+      "summary_raw": "Disney did it, Netflix is doing it, and now The New York Times is serious about it too: Quit trying to log in with your old coworker&#8217;s mom&#8217;s email address. Wow, it finally happened. The New York Times cracked down on login sharing and now I can't use my old coworker's mom's account that I've...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251269",
+      "title": "“We cannot be in this journalism silo”: News Futures tries to grow a civic media field",
+      "link": "https://www.niemanlab.org/2026/07/we-cannot-be-in-this-journalism-silo-news-futures-tries-to-grow-a-civic-media-field/",
+      "published": "Mon, 06 Jul 2026 12:03:18 +0000",
+      "summary_raw": "&#8220;We are sitting in the middle of a fucking polycrisis.&#8221; That&#8217;s how Darryl Holliday introduced the first-ever News Futures Convention in San Francisco in March. While the idea of being in crisis is a common theme of U.S. journalism conferences, this was not a traditional journalism conference. News Futures, fiscally sponsored by the nonprofit civic...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251178",
+      "title": "Now we’re getting AI fake news complaining about how AI fake news is the death of real news",
+      "link": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "published": "Wed, 01 Jul 2026 20:33:50 +0000",
+      "summary_raw": "Reading sad things about journalism — newspapers, especially — has been a big part of my job for almost two decades. On Monday, I came across such a story that seemed to be getting traction on social media. According to the link aggregator Sill, 18 people I follow on Bluesky had shared a link to...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251187",
+      "title": "Fact-checkers reckon with shrinking budgets and growing AI threats at GlobalFact 2026",
+      "link": "https://www.niemanlab.org/2026/06/at-globalfact-fact-checkers-reckon-with-declining-grant-funding-and-ai-generated-disinfo-on-the-rise/",
+      "published": "Tue, 30 Jun 2026 18:38:33 +0000",
+      "summary_raw": "&#8220;Welcome to Vilnius, the city where we face cognitive warfare for real,&#8221; Robertas Kaunas, Lithuania&#8217;s minister of national defense, said in his opening remarks at this year&#8217;s GlobalFact. On June 17, hundreds of fact-checkers assembled in Vilnius for the annual conference of the International Fact-Checking Network (IFCN), part of the Poynter Institute. Roughly 180 fact-checking...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251146",
+      "title": "What short news videos reveal about the Messi–Ronaldo debate — and news distribution today",
+      "link": "https://www.niemanlab.org/2026/06/what-short-news-videos-reveal-about-the-messi-ronaldo-debate-and-news-distribution-today/",
+      "published": "Tue, 30 Jun 2026 16:54:14 +0000",
+      "summary_raw": "The World Cup is the gift that keeps on giving (to me). I was swiping through Instagram Stories during halftime of the Canada vs. Qatar World Cup match when I saw a post about a study about the political indicators of a person&#8217;s preference of soccer stars Lionel Messi, the Argentine forward, or Cristiano Ronaldo,...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251141",
+      "title": "Capital Weather is dropping the “Gang” and going independent",
+      "link": "https://www.niemanlab.org/2026/06/capital-weather-is-dropping-the-gang-and-going-independent/",
+      "published": "Mon, 29 Jun 2026 16:15:16 +0000",
+      "summary_raw": "If you have ever lived in the Washington, D.C. metro area, or had the misfortune of being stuck there during a snowstorm, there&#8217;s a good chance you&#8217;ve heard of the Capital Weather Gang. For eighteen years they were The Washington Post&#8217;s oracles of the atmosphere, covering local weather on the Post website and on social...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251131",
+      "title": "Beehiiv’s new Cloudflare partnership gives indie journalists a new level of control over AI crawlers",
+      "link": "https://www.niemanlab.org/2026/06/beehiivs-new-cloudflare-partnership-gives-indie-journalists-a-new-level-of-control-over-ai-crawlers/",
+      "published": "Thu, 25 Jun 2026 19:22:19 +0000",
+      "summary_raw": "Over the past year, major news publishers have taken aggressive anti-scraping measures to curb the rise of AI crawlers. So far, most of these backend interventions have been out of reach for independent journalists who publish on third-party newsletter platforms. That is changing with a new partnership announced on Tuesday between Beehiiv and Cloudflare, the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251099",
+      "title": "The demand for news video is growing (and that’s a good thing for publishers)",
+      "link": "https://www.niemanlab.org/2026/06/the-demand-for-news-video-is-growing-and-thats-a-good-thing-for-publishers/",
+      "published": "Thu, 25 Jun 2026 14:11:15 +0000",
+      "summary_raw": "News video is as popular as ever. Publishers who remember the &#8220;pivot to video&#8221; from a decade ago might wince at the thought, remembering how misleading metrics led many publishers to invest in video content. But evidence from our newly published Digital News Report suggests the demand for news video is growing. A decade on,...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202241",
+      "title": "What’s going to happen to CNN?",
+      "link": "https://www.poynter.org/commentary/2026/whats-going-to-happen-to-cnn/",
+      "published": "Fri, 10 Jul 2026 11:30:14 +0000",
+      "summary_raw": "<p>So today’s headline — what’s going to happen to CNN? — has become the looming question of the summer in media circles. Paramount is wrapping up its acquisition of CNN’s [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/whats-going-to-happen-to-cnn/\">What’s going to happen to CNN?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202121",
+      "title": "Is the Freedom of Information Act becoming too slow to matter?",
+      "link": "https://www.poynter.org/reporting-editing/2026/public-records-requests-wait-times-too-long/",
+      "published": "Thu, 09 Jul 2026 16:00:30 +0000",
+      "summary_raw": "<p>Karen Harper, a senior politics reporter at The Dallas Morning News with over 30 years of experience, submitted a public records request to the Department of Justice. Months later, she [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/public-records-requests-wait-times-too-long/\">Is the Freedom of Information Act becoming too slow to matter?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202163",
+      "title": "The Washington Post joins Trump’s growing list of media lawsuit losses",
+      "link": "https://www.poynter.org/commentary/2026/washington-post-defamation-lawsuit-trump-actual-malice/",
+      "published": "Thu, 09 Jul 2026 11:30:54 +0000",
+      "summary_raw": "<p>Another media outlet has prevailed in court against President Donald Trump. A federal judge in Tampa, Florida, on Wednesday threw out a $3.8 billion defamation lawsuit filed against the Post [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/washington-post-defamation-lawsuit-trump-actual-malice/\">The Washington Post joins Trump’s growing list of media lawsuit losses</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202168",
+      "title": "Trump says the stock market drove his 2025 income gains. His financial disclosure tells a different story.",
+      "link": "https://www.poynter.org/fact-checking/2026/trump-stock-market-2025-income-crypto-fact-check/",
+      "published": "Thu, 09 Jul 2026 10:30:58 +0000",
+      "summary_raw": "<p>President Donald Trump recently filed a required financial disclosure form outlining his 2025 income, and it drew attention to the scale of his wealth — an estimated increase of more [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-stock-market-2025-income-crypto-fact-check/\">Trump says the stock market drove his 2025 income gains. His financial disclosure tells a different story.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202087",
+      "title": "ABC reminds the FCC it already ruled ‘The View’ is news",
+      "link": "https://www.poynter.org/commentary/2026/abc-the-view-fcc-fight/",
+      "published": "Wed, 08 Jul 2026 11:30:14 +0000",
+      "summary_raw": "<p>ABC is stepping up its fight against the Federal Communications Commission. In what is shaping up to be an intense battle that could have long-lasting ramifications, Disney’s ABC and the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/abc-the-view-fcc-fight/\">ABC reminds the FCC it already ruled ‘The View’ is news</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202057",
+      "title": "Why I won’t cancel The Washington Post",
+      "link": "https://www.poynter.org/commentary/2026/cancel-washington-post-subscription/",
+      "published": "Wed, 08 Jul 2026 11:00:29 +0000",
+      "summary_raw": "<p>By all accounts, The Washington Post has lost hundreds of thousands of hard-won subscribers over the past two years, ever since its owner, Jeff Bezos, decided to reshape its editorial [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/cancel-washington-post-subscription/\">Why I won’t cancel The Washington Post</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1201997",
+      "title": "Is the FCC’s investigation having a chilling effect on ‘The View’?",
+      "link": "https://www.poynter.org/commentary/2026/the-view-show-fcc-investigation-political-guests/",
+      "published": "Tue, 07 Jul 2026 11:30:07 +0000",
+      "summary_raw": "<p>Maybe intimidation and threats work after all — even when it comes to important topics like a free press. Earlier this year, Federal Communications Commission Chair Brendan Carr announced that [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/the-view-show-fcc-investigation-political-guests/\">Is the FCC’s investigation having a chilling effect on ‘The View’?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1201927",
+      "title": "How reporters uncovered Trump’s role in FIFA’s stunning World Cup reversal",
+      "link": "https://www.poynter.org/reporting-editing/2026/trump-called-fifa-folarin-balogun-gianni-infantino/",
+      "published": "Mon, 06 Jul 2026 11:30:20 +0000",
+      "summary_raw": "<p>Let’s start with this important part: U.S. soccer star Folarin Balogun should be playing in today’s big World Cup soccer match between the United States and Belgium. During the U.S. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/trump-called-fifa-folarin-balogun-gianni-infantino/\">How reporters uncovered Trump’s role in FIFA’s stunning World Cup reversal</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1200603",
+      "title": "A message about the importance of the free press",
+      "link": "https://www.poynter.org/ethics-trust/2026/eugene-patterson-free-press-message/",
+      "published": "Sat, 04 Jul 2026 14:09:41 +0000",
+      "summary_raw": "<p>Eugene C. Patterson fought Nazis as a tank platoon leader in World War II. He fought for civil rights as a crusading editor at The Atlanta Constitution in the 1960s. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/eugene-patterson-free-press-message/\">A message about the importance of the free press</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1201864",
+      "title": "Lee Enterprises tells its papers to run front-page profile of chairman and billionaire David Hoffmann this weekend",
+      "link": "https://www.poynter.org/reporting-editing/2026/lee-enterprises-tells-its-papers-to-run-front-page-profile-of-chairman-and-billionaire-david-hoffmann-this-weekend/",
+      "published": "Thu, 02 Jul 2026 20:18:24 +0000",
+      "summary_raw": "<p>As the nation celebrates its 250th birthday, readers picking up a copy of their local paper this weekend might expect photos of fireworks or July Fourth celebrations to dominate the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/lee-enterprises-tells-its-papers-to-run-front-page-profile-of-chairman-and-billionaire-david-hoffmann-this-weekend/\">Lee Enterprises tells its papers to run front-page profile of chairman and billionaire David Hoffmann this weekend</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254737",
+      "title": "Take a Break fiction magazine pauses commissions and starts using AI",
+      "link": "https://pressgazette.co.uk/publishers/magazines/bauer-take-a-break-fiction-magazine-commissioned-writers-stories-ai-tools/",
+      "published": "Fri, 10 Jul 2026 15:39:50 +0000",
+      "summary_raw": "<div><img alt=\"Take a Break&#039;s Fiction Feast latest issue on 1 July 2026. Picture: Pressreader screenshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/takeabreakficitonfeast-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Bauer brand tells writers it has \"introduced the use of AI tools\" for its in-house editorial team.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/bauer-take-a-break-fiction-magazine-commissioned-writers-stories-ai-tools/\">Take a Break fiction magazine pauses commissions and starts using AI</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254762",
+      "title": "News diary 13-19 July: World Cup final, Labour expected to confirm Burnham as PM, BBC Proms",
+      "link": "https://pressgazette.co.uk/news/news-diary-13-19-july-world-cup-final-labour-expected-to-confirm-burnham-as-pm-bbc-proms/",
+      "published": "Fri, 10 Jul 2026 15:20:24 +0000",
+      "summary_raw": "<div><img alt=\"World Cup trophy pictured in front of a stadium\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/paparacy_shutterstock.com_-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>A look ahead at the key events leading the news agenda next week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-13-19-july-world-cup-final-labour-expected-to-confirm-burnham-as-pm-bbc-proms/\">News diary 13-19 July: World Cup final, Labour expected to confirm Burnham as PM, BBC Proms</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=251809",
+      "title": "AI in journalism: Live tracker of scandals and mistakes",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/ai-journalism-mistakes/",
+      "published": "Fri, 10 Jul 2026 11:59:10 +0000",
+      "summary_raw": "<div><img alt=\"Montage of four website screenshots: Mississippi Free Press with headline &#039;Opinion | The gig economy is affecting our communities&#039;, Crikey with headline &#039;Why Crikey retracted an article that we found out was written with AI help&#039;, Press Gazette headline &#039;Wired and Business Insider remove &#039;AI-written&#039; articles&#039;, and Guardian page with a removed article stating it was taken down &#039;for editorial reasons&#039;\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/aimishapscollage-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Round-up of the main cases where AI use in journalism has gone wrong.</p>\n<p>The post <a href=\"https://pressgazett",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/most-popular-websites-news-world-monthly-2/",
+      "title": "Top 50 English-language news sites in the world: Indian news sites see biggest declines in June",
+      "link": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/",
+      "published": "Fri, 10 Jul 2026 09:08:48 +0000",
+      "summary_raw": "<div><img alt=\"Homepage screenshots of India.com, Hindustan Times, Indian Express and India Today\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/05/indiansites-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Press Gazette's analysis of the 50 biggest English-language news websites in the world, updated monthly.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-world-monthly-2/\">Top 50 English-language news sites in the world: Indian news sites see biggest declines in June</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=195040",
+      "title": "Top 50 US news websites: Traffic decline at 90% of newsbrands in June",
+      "link": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-us-monthly-3/",
+      "published": "Fri, 10 Jul 2026 08:47:44 +0000",
+      "summary_raw": "<div><img alt=\"Worst-hit sites Newsweek and Daily Mail websites. Picture: Screenshot on 10 July 2026.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/newsweekdailymail-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Press Gazette's monthly ranking of the top 50 news websites in the US, using Similarweb data.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-us-monthly-3/\">Top 50 US news websites: Traffic decline at 90% of newsbrands in June</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254560",
+      "title": "Print magazine boosts revenue for Youtube newsbrand TLDR",
+      "link": "https://pressgazette.co.uk/publishers/magazines/tldr-news-print-magazine-youtube/",
+      "published": "Thu, 09 Jul 2026 09:39:00 +0000",
+      "summary_raw": "<div><img alt=\"Print magazine Too Long on sale on TLDR News&#039; website. Picture: TLDR News screenshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/toolongtldr-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Print and merch cut share of TLDR's revenue made on Youtube from 80% to 45% in two years. </p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/tldr-news-print-magazine-youtube/\">Print magazine boosts revenue for Youtube newsbrand TLDR</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254675",
+      "title": "Journalist fired by Clickout Media saw robot reporter take over their byline",
+      "link": "https://pressgazette.co.uk/news/journalist-fired-by-clickout-media-saw-robot-reporter-take-over-their-byline/",
+      "published": "Thu, 09 Jul 2026 08:16:48 +0000",
+      "summary_raw": "<div><img alt=\"Techopedia\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/techopedia-570x394.jpg\" style=\"margin-bottom: 15px;\" width=\"570\" /></div>\n<p>AI-generated 'ghost' reporter revealed as tactic of 'parasite SEO' specialists.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/journalist-fired-by-clickout-media-saw-robot-reporter-take-over-their-byline/\">Journalist fired by Clickout Media saw robot reporter take over their byline</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254508",
+      "title": "‘Travesty’ if publishers don’t take up chance to opt out of Google AI Overviews",
+      "link": "https://pressgazette.co.uk/press-gazette-events/travesty-if-publishers-dont-take-up-chance-to-opt-out-of-google-ai-overviews/",
+      "published": "Wed, 08 Jul 2026 14:40:09 +0000",
+      "summary_raw": "<div><img alt=\"Four men sit on stools in front of Press Gazette AI Summit logo on screen behind them. From left to right: Lord Ed Vaizey, Prorata senior strategy adviser Eugene Huang, Owen Meredith, managing director of public policy at Daily Mail, and Josh Muncke, VP of generative AI at The Economist\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/aisummitpanel-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>New Google deals mean publishers can't opt out of AI indexing.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/press-gazette-events/travesty-if-publishers-dont-take-up-chance-to-opt-out-of-google-ai-overviews/\">&#8216;Travesty&#8217; if publishers don&#8217;t take up chance to o",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254639",
+      "title": "The 53 Mail articles vindicated by Prince Harry privacy judgment",
+      "link": "https://pressgazette.co.uk/news/the-53-mail-articles-vindicated-by-prince-harry-privacy-judgment/",
+      "published": "Tue, 07 Jul 2026 17:32:55 +0000",
+      "summary_raw": "<div><img alt=\"Prince Harry and Elton John outside High Court for Mail hacking case\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/03/Prince-Harry-Elton-John-min-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Articles dating from 1997 to 2015 formed the basis for 97 allegations of unlawful newsgathering.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/the-53-mail-articles-vindicated-by-prince-harry-privacy-judgment/\">The 53 Mail articles vindicated by Prince Harry privacy judgment</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254607",
+      "title": "Paul Dacre: Prince Harry privacy case ‘conspiracy to destroy paper’",
+      "link": "https://pressgazette.co.uk/news/paul-dacre-prince-harry-daily-mail-privacy-case-reaction/",
+      "published": "Tue, 07 Jul 2026 16:28:29 +0000",
+      "summary_raw": "<div><img alt=\"Paul Dacre giving statement on Prince Harry privacy &#039;&quot;vidication&quot;. Picture: Press Gazette Youtube/Daily Mail\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/pauldacre-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Case was funded by 'orgy-loving racist' Max Mosley and actor Hugh Grant, says Dacre.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/paul-dacre-prince-harry-daily-mail-privacy-case-reaction/\">Paul Dacre: Prince Harry privacy case ‘conspiracy to destroy paper’</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100627",
+      "title": "ISOJ’s newly announced 2026 program spotlights audience trust, AI and the future of news",
+      "link": "https://knightcenter.utexas.edu/isojs-newly-announced-2026-program-spotlights-audience-trust-ai-and-the-future-of-news/",
+      "published": "Tue, 07 Jul 2026 14:00:53 +0000",
+      "summary_raw": "<p>The program for the 27th International Symposium on Journalism (ISOJ), which will take place from  Sept. 17-18, 2026, will revolve around two of the industry's most pressing issues: strengthening audience trust at a critical moment for democracies around the world and the future of news in the age of artificial intelligence. The newly released program [&#8230;]</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/isojs-newly-announced-2026-program-spotlights-audience-trust-ai-and-the-future-of-news/\">ISOJ’s newly announced 2026 program spotlights audience trust, AI and the future of news </a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100597",
+      "title": "Podcasting course breaks Knight Center record with more than 7,200 participants",
+      "link": "https://knightcenter.utexas.edu/podcasting-course-breaks-knight-center-record-with-more-than-7200-participants/",
+      "published": "Thu, 04 Jun 2026 16:38:54 +0000",
+      "summary_raw": "<p>The free course with Rádio Novelo attracted the highest number of participants for any single-language course from the Knight Center.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/podcasting-course-breaks-knight-center-record-with-more-than-7200-participants/\">Podcasting course breaks Knight Center record with more than 7,200 participants</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100577",
+      "title": "Latin American data journalists unpack climate change reporting—from deforestation to drought",
+      "link": "https://knightcenter.utexas.edu/latin-american-data-journalists-unpack-climate-change-reporting-from-deforestation-to-drought/",
+      "published": "Thu, 14 May 2026 15:43:29 +0000",
+      "summary_raw": "<p>As part of the Knight Center’s “Inside the Newsroom” virtual series, reporters and editors from the region will discuss finding, verifying and interpreting data to cover the climate.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/latin-american-data-journalists-unpack-climate-change-reporting-from-deforestation-to-drought/\">Latin American data journalists unpack climate change reporting—from deforestation to drought</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100561",
+      "title": "Substack for Journalists: Learn how to grow your audience and impact",
+      "link": "https://knightcenter.utexas.edu/substack-for-journalists-learn-how-to-grow-your-audience-and-impact/",
+      "published": "Fri, 01 May 2026 21:41:30 +0000",
+      "summary_raw": "<p>Learn in this low-cost workshop how to turn Substack into the hub of a multi-platform strategy, with practical tools to grow your reach, deepen engagement and build a loyal readership.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/substack-for-journalists-learn-how-to-grow-your-audience-and-impact/\">Substack for Journalists: Learn how to grow your audience and impact</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100543",
+      "title": "Learn from Rádio Novelo how to transform your ideas into audio stories",
+      "link": "https://knightcenter.utexas.edu/learn-from-radio-novelo-how-to-transform-your-ideas-into-audio-stories/",
+      "published": "Fri, 10 Apr 2026 13:44:51 +0000",
+      "summary_raw": "<p>This free course guides students through the process of creating an audio story—from the initial idea to the final script.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/learn-from-radio-novelo-how-to-transform-your-ideas-into-audio-stories/\">Learn from Rádio Novelo how to transform your ideas into audio stories</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100398",
+      "title": "The Lie has Never Been so Convincing: Join free webinar on disinformation and AI",
+      "link": "https://knightcenter.utexas.edu/the-lie-has-never-been-so-convincing-join-the-free-webinar-on-disinformation-and-ai/",
+      "published": "Tue, 31 Mar 2026 19:51:35 +0000",
+      "summary_raw": "<p>To mark International Fact-Checking Day on April 2, 2026, the Knight Center for Journalism in the Americas and Agência Lupa are hosting a free webinar on tackling the challenges of disinformation in the age of AI.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/the-lie-has-never-been-so-convincing-join-the-free-webinar-on-disinformation-and-ai/\">The Lie has Never Been so Convincing: Join free webinar on disinformation and AI</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100317",
+      "title": "Registration for ISOJ 2026 now open. Take advantage of early-bird rates",
+      "link": "https://knightcenter.utexas.edu/registration-for-isoj-2026-now-open-take-advantage-of-early-bird-rates/",
+      "published": "Mon, 30 Mar 2026 16:57:06 +0000",
+      "summary_raw": "<p>Join the 27th International Symposium on Journalism online or in person and be part of crucial discussions on the future of the industry.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/registration-for-isoj-2026-now-open-take-advantage-of-early-bird-rates/\">Registration for ISOJ 2026 now open. Take advantage of early-bird rates</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=100203",
+      "title": "Make AI work for your newsroom with our low-cost Advanced Prompt Engineering course",
+      "link": "https://knightcenter.utexas.edu/make-ai-work-for-your-newsroom-with-our-low-cost-advanced-prompt-engineering-course/",
+      "published": "Wed, 25 Mar 2026 16:06:56 +0000",
+      "summary_raw": "<p>Learn practical strategies for crafting precise prompts, developing reusable templates and integrating AI into everyday newsroom tasks in a consistent and responsible way.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/make-ai-work-for-your-newsroom-with-our-low-cost-advanced-prompt-engineering-course/\">Make AI work for your newsroom with our low-cost Advanced Prompt Engineering course</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=99609",
+      "title": "‘Inside the Newsroom’ series kicks off with a look at how AI is changing journalism in Latin America",
+      "link": "https://knightcenter.utexas.edu/inside-the-newsroom-series-kicks-off-with-a-look-at-how-ai-is-changing-journalism-in-latin-america/",
+      "published": "Wed, 04 Mar 2026 20:00:51 +0000",
+      "summary_raw": "<p>Explore how AI is transforming journalism across the region in two virtual roundtables offered by the Knight Center in Spanish and Portuguese.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/inside-the-newsroom-series-kicks-off-with-a-look-at-how-ai-is-changing-journalism-in-latin-america/\">‘Inside the Newsroom’ series kicks off with a look at how AI is changing journalism in Latin America</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    },
+    {
+      "id": "https://knightcenter.utexas.edu/?p=97839",
+      "title": "Inside Latin American journalism: Researchers reveal a landscape of precarity, pressure and resilience during Knight Center webinars",
+      "link": "https://knightcenter.utexas.edu/inside-latin-american-journalism-researchers-reveal-a-landscape-of-precarity-pressure-and-resilience-during-knight-center-webinar/",
+      "published": "Wed, 04 Feb 2026 16:00:22 +0000",
+      "summary_raw": "<p>Researchers painted a complex, and often troubling, picture of Latin American journalism during a webinar hosted by the Knight Center for Journalism in the Americas on Jan. 22, 2026.</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/inside-latin-american-journalism-researchers-reveal-a-landscape-of-precarity-pressure-and-resilience-during-knight-center-webinar/\">Inside Latin American journalism: Researchers reveal a landscape of precarity, pressure and resilience during Knight Center webinars</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
+      "source": "Knight Center / LatAm Journalism Review"
+    }
+  ],
+  "gmail_pending": [
+    {
+      "name": "FT Strategies (newsletter)",
+      "group": "ai",
+      "gmail_query": "from:ftstrategies OR subject:\"FT Strategies\""
+    },
+    {
+      "name": "SEOFOMO (newsletter)",
+      "group": "market",
+      "gmail_query": "from:seofomo"
+    },
+    {
+      "name": "Farol Jornalismo (newsletter)",
+      "group": "market",
+      "gmail_query": "from:faroljornalismo OR subject:\"Farol Jornalismo\""
+    }
+  ]
+}
