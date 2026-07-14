@@ -1,73 +1,7 @@
 {
   "ai": [],
-  "tools": [
-    {
-      "id": "tag:github.com,2008:push/14893917734",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/0e6ffe322e...1cd6b79fd2",
-      "published": "2026-07-13 13:26:42 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/compositions-default-page\" rel=\"noreferrer\">feat/compositions-default-page</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/14893900112",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/f1a32316bc...0e6ffe322e",
-      "published": "2026-07-13 13:26:27 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/compositions-default-page\" rel=\"noreferrer\">feat/compositions-default-page</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/14893153332",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/6cbdfaf940...f1a32316bc",
-      "published": "2026-07-13 13:15:09 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/compositions-default-page\" rel=\"noreferrer\">feat/compositions-default-page</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/14892786256",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/c4b6105417...6cbdfaf940",
-      "published": "2026-07-13 13:09:41 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/compositions-default-page\" rel=\"noreferrer\">feat/compositions-default-page</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/14892222757",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/7227e4d8ba...c4b6105417",
-      "published": "2026-07-13 13:01:12 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/feat/compositions-default-page\" rel=\"noreferrer\">feat/compositions-default-page</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    }
-  ],
-  "market": [
-    {
-      "id": "https://www.ire.org/?p=210682",
-      "title": "IRE condemns DOJ subpoenas of New York Times journalists",
-      "link": "https://www.ire.org/2026/07/12/ire-condemns-doj-subpoenas-of-new-york-times-journalists/",
-      "published": "Sun, 12 Jul 2026 17:45:35 +0000",
-      "summary_raw": "<p>IRE condemns the recent Department of Justice action to subpoena New York Times journalists following their reporting on security concerns surrounding President Trump’s new Qatari-donated Air Force One.</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/12/ire-condemns-doj-subpoenas-of-new-york-times-journalists/\">IRE condemns DOJ subpoenas of New York Times journalists</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=117599",
-      "title": "Tribute to Fred Burkhardt, former IFRA CEO",
-      "link": "https://wan-ifra.org/2026/07/tribute-to-fred-burkhardt-former-ifra-ceo/",
-      "published": "Mon, 13 Jul 2026 12:00:59 +0000",
-      "summary_raw": "<p>The news media industry recently lost one of its pioneers with the passing of Dr. Friedrich W. Burkhardt on 19 June, 2026. He was 97. As Managing Director of IFRA from 1972 to 1994, he guided the association and the international newspaper community through one of the most profound technological transitions in its history.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/tribute-to-fred-burkhardt-former-ifra-ceo/\">Tribute to Fred Burkhardt, former IFRA CEO</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1202386",
-      "title": "How Air Force One became a press freedom story",
-      "link": "https://www.poynter.org/commentary/2026/trump-air-force-one-plane-switch-subpoena-nyt-reporters/",
-      "published": "Mon, 13 Jul 2026 11:30:02 +0000",
-      "summary_raw": "<p>There was major political news on Sunday with the stunning, sudden death of South Carolina Republican Sen. Lindsey Graham. We’ll get to that story in a few moments, but first, [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-air-force-one-plane-switch-subpoena-nyt-reporters/\">How Air Force One became a press freedom story</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    }
-  ],
+  "tools": [],
+  "market": [],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
