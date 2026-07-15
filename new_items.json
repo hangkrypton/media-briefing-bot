@@ -1,7 +1,250 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "published": "Mon, 13 Jul 2026 12:37:28 +0000",
+      "summary_raw": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/real-world-voiceeq",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/14905267829",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/f04d37885a...30e64e0855",
+      "published": "2026-07-13 16:13:26 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/11717799840",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/437",
+      "published": "2026-07-13 07:58:35 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/14900398954",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/717c018cb3...f04d37885a",
+      "published": "2026-07-13 14:58:36 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/11291141106",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#441",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/441#discussion_r3515160365",
+      "published": "2026-07-02 17:58:30 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/11290333176",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#441",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/441#discussion_r3515159640",
+      "published": "2026-07-02 17:58:22 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/12-questions-for-the-center-left",
+      "title": "12 questions for the center-left",
+      "link": "https://www.natesilver.net/p/12-questions-for-the-center-left",
+      "published": "Tue, 14 Jul 2026 15:17:00 GMT",
+      "summary_raw": "The center-left offers an alternative to both the left and the Democratic &#8220;establishment.&#8221; But it&#8217;s losing influence &#8212; and struggling to define itself.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin",
+      "title": "How popular is Elon Musk?",
+      "link": "https://www.natesilver.net/p/elon-musk-polls-popularity-nate-silver-bulletin",
+      "published": "Tue, 14 Jul 2026 14:51:48 GMT",
+      "summary_raw": "Silver Bulletin favorability ratings for the world's richest man.",
+      "source": "Nate Silver"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://www.ire.org/?p=210697",
+      "title": "Koch Continuum Grant Recipients for 2026",
+      "link": "https://www.ire.org/2026/07/13/koch-continuum-grant-recipients-for-2026/",
+      "published": "Mon, 13 Jul 2026 17:52:07 +0000",
+      "summary_raw": "<p>Koch Continuum Grant Recipients of 2026 Investigative Reporters and Editors is pleased to announce the recipients of the 2026 Koch Continuum Grant, a program supporting investigative journalists pursuing public health and disability reporting. Marissa Evans and Brian Howey have been selected for their project proposals to investigate the existence and impact of pain policies in U.S.&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/13/koch-continuum-grant-recipients-for-2026/\">Koch Continuum Grant Recipients for 2026</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251588",
+      "title": "One name at a time: How Die Zeit built a searchable database of Nazi Party members",
+      "link": "https://www.niemanlab.org/2026/07/one-name-at-a-time-how-die-zeit-built-a-searchable-database-of-nazi-party-members/",
+      "published": "Tue, 14 Jul 2026 19:46:20 +0000",
+      "summary_raw": "In the final days of World War II, as the German Reich collapsed, Nazi officials ordered millions of party membership cards to be destroyed. The vast card index that documented membership across Germany survived largely because a paper mill operator, Hanns Huber, chose to hand the records over to the advancing US forces rather than...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251574",
+      "title": "In Ethiopia, fact-checking can be a matter of life and death",
+      "link": "https://www.niemanlab.org/2026/07/in-ethiopia-fact-checking-can-be-a-matter-of-life-and-death/",
+      "published": "Tue, 14 Jul 2026 19:15:04 +0000",
+      "summary_raw": "As reports of drone strikes and fresh clashes between Ethiopian government forces and Tigrayan fighters surfaced in late January, fears of a return to full-scale war spread quickly. Flights to northern Ethiopia were cancelled, and tensions rose ahead of the national elections in June, bringing renewed attention to the role misinformation played during the last conflict. In...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251563",
+      "title": "Capital B is ready to open a third local news operation — about two hours east of its first one",
+      "link": "https://www.niemanlab.org/2026/07/capital-b-is-ready-to-open-a-third-local-news-operation-about-two-hours-east-of-its-first-one/",
+      "published": "Tue, 14 Jul 2026 19:14:33 +0000",
+      "summary_raw": "The Black-focused national-and-local news outlet Capital B launched in 2022 with a staff of 16 and a first local focus on Atlanta, with plans to expand. Co-founders Lauren Williams and Akoto Ofori-Atta — then editor-in-chief of Vox and managing editor of The Trace, respectively — were looking for &#8220;large Black cities that have especially bad...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251507",
+      "title": "Local news went all in on the World Cup. Here’s what worked.",
+      "link": "https://www.niemanlab.org/2026/07/local-news-went-all-in-on-the-world-cup-heres-what-worked/",
+      "published": "Mon, 13 Jul 2026 18:35:01 +0000",
+      "summary_raw": "The 2026 FIFA World Cup, hosted in North America this summer, has been fascinating to watch from different angles — from the matches themselves to community celebrations to the controversies. The tournament has brought hundreds of thousands of visitors to major cities in the United States, Canada, and Mexico. It&#8217;s been directing new and returning...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251497",
+      "title": "This app turns the web into a scrollable feed (just don’t call it RSS)",
+      "link": "https://www.niemanlab.org/2026/07/this-app-turns-the-web-into-a-scrollable-feed-just-dont-call-it-rss/",
+      "published": "Mon, 13 Jul 2026 17:35:53 +0000",
+      "summary_raw": "As an elder millennial who still mourns the death of Google Reader (13 years ago this month, sigh) and uses the Feedly daily, I was intrigued by TechCrunch&#8217;s post: &#8220;A new app, HyperTexting, turns the open web into a scrollable social media-like feed.&#8221; HyperTexting, launched on iOS on June 29, says its goal is &#8220;to...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202634",
+      "title": "Should networks air Trump’s national address live?",
+      "link": "https://www.poynter.org/commentary/2026/trump-thursday-address-nation-which-channel-live/",
+      "published": "Wed, 15 Jul 2026 11:30:20 +0000",
+      "summary_raw": "<p>Presidential addresses to the nation are usually reserved for major issues — war, national emergencies or significant policy changes on critical topics such as healthcare or the economy. In other [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-thursday-address-nation-which-channel-live/\">Should networks air Trump’s national address live?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202550",
+      "title": "The writing lesson hidden inside ‘The Odyssey’",
+      "link": "https://www.poynter.org/reporting-editing/2026/the-odyssey-argus-dog-writing-tips/",
+      "published": "Wed, 15 Jul 2026 11:00:00 +0000",
+      "summary_raw": "<p>Editor&#8217;s note: This essay was originally published in 2012 and has been lightly edited. With “The Odyssey” back in the cultural conversation ahead of Christopher Nolan’s star-studded adaptation, opening July [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/the-odyssey-argus-dog-writing-tips/\">The writing lesson hidden inside ‘The Odyssey’</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202558",
+      "title": "Will AI really consume more electricity than the US produces?",
+      "link": "https://www.poynter.org/fact-checking/2026/trump-ai-electricity-claim-fact-check/",
+      "published": "Wed, 15 Jul 2026 10:30:51 +0000",
+      "summary_raw": "<p>Every aspect of artificial intelligence, from its economic impact to its societal and cultural consequences, is under a microscope. One topic of growing concern for consumers, local governments and environmental [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-ai-electricity-claim-fact-check/\">Will AI really consume more electricity than the US produces?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202448",
+      "title": "Women journalists – worldwide and here at home – face outsized online attacks",
+      "link": "https://www.poynter.org/reporting-editing/2026/women-journalists-face-outsized-online-attacks-harassment-indianapolis/",
+      "published": "Wed, 15 Jul 2026 09:00:52 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/women-journalists-face-outsized-online-attacks-harassment-indianapolis/\">Women journalists – worldwide and here at home – face outsized online attacks</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202480",
+      "title": "The Paramount-Warner Bros. deal’s new hurdle comes with an asterisk",
+      "link": "https://www.poynter.org/newsletters/2026/state-lawsuits-warner-bros-paramount-deal/",
+      "published": "Tue, 14 Jul 2026 11:30:15 +0000",
+      "summary_raw": "<p>There was big, breaking news on Monday involving the potential Paramount-Warner Bros. Discovery megamerger. Or is it big at all? Honestly, I’m having a hard time believing that this so-called [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/newsletters/2026/state-lawsuits-warner-bros-paramount-deal/\">The Paramount-Warner Bros. deal’s new hurdle comes with an asterisk</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202443",
+      "title": "This baseball newsletter is proving that smaller audiences are good business",
+      "link": "https://www.poynter.org/business-work/2026/how-a-baseball-newsletter-built-a-niche-media-business/",
+      "published": "Tue, 14 Jul 2026 11:00:32 +0000",
+      "summary_raw": "<p>On June 12, the Milwaukee Brewers’ Jacob Misiorowski threw the fastest pitch ever recorded by a major league starting pitcher: 104.5 mph. The next morning, more than 1,300 baseball obsessives [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/how-a-baseball-newsletter-built-a-niche-media-business/\">This baseball newsletter is proving that smaller audiences are good business</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202402",
+      "title": "Poynter Institute to honor The Bulwark’s Sarah Longwell and The Atlantic’s Nicholas Thompson at special event this fall",
+      "link": "https://www.poynter.org/news-release/2026/salonseriesnyc-sarah-longwell-bulwark-nicholas-thompson-atlantic/",
+      "published": "Tue, 14 Jul 2026 11:00:21 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Fla. (July 14, 2026)  — The Poynter Institute, a global leader in journalism, is proud to announce a special gathering this fall honoring two media leaders whose work [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/salonseriesnyc-sarah-longwell-bulwark-nicholas-thompson-atlantic/\">Poynter Institute to honor The Bulwark’s Sarah Longwell and The Atlantic’s Nicholas Thompson at special event this fall</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1202474",
+      "title": "The internet says Mitch McConnell’s hospital photo is fake. The evidence says otherwise.",
+      "link": "https://www.poynter.org/fact-checking/2026/is-mitch-mcconnell-photo-real-fake-newspaper/",
+      "published": "Tue, 14 Jul 2026 10:30:26 +0000",
+      "summary_raw": "<p>Amid growing speculation about Mitch McConnell’s health after he spent weeks out of the public eye following a hospitalization, the Republican Kentucky senator’s office released a statement and image July [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/is-mitch-mcconnell-photo-real-fake-newspaper/\">The internet says Mitch McConnell&#8217;s hospital photo is fake. The evidence says otherwise.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254934",
+      "title": "Dale Vince wins damages on appeal over ‘unfair’ Daily Mail headline juxtaposition",
+      "link": "https://pressgazette.co.uk/media_law/dale-vince-wins-damages-on-appeal-over-unfair-daily-mail-headline-juxtaposition/",
+      "published": "Wed, 15 Jul 2026 12:28:37 +0000",
+      "summary_raw": "<div><img alt=\"Close-up of Dale Vince at the Restore Nature Now protest demonstration in London on 22 June 2024\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/07/shutterstock_2481906151-e1721041818525-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Green energy industrialist awarded damages after taking case to Court of Appeal.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_law/dale-vince-wins-damages-on-appeal-over-unfair-daily-mail-headline-juxtaposition/\">Dale Vince wins damages on appeal over &#8216;unfair&#8217; Daily Mail headline juxtaposition</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254820",
+      "title": "First-party data mastery: Tips for publishers from Norway’s Schibsted Media",
+      "link": "https://pressgazette.co.uk/paywalls/first-party-data-tips-for-publishers/",
+      "published": "Wed, 15 Jul 2026 08:49:37 +0000",
+      "summary_raw": "<div><img alt=\"Gustaf Eriksson, executive vice president of consumer business at Schibsted Media (left), selection of Schibsted&#039;s brands (top right) and Schibsted homepage screenshot (bottom right). Pictures: Schibsted\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/schibsted1-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Schibsted Media has 1.25 million digital-only subscribers across its newsbrands. </p>\n<p>The post <a href=\"https://pressgazette.co.uk/paywalls/first-party-data-tips-for-publishers/\">First-party data mastery: Tips for publishers from Norway&#8217;s Schibsted Media</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254707",
+      "title": "Future of Media Awards shortlists celebrate excellence in digital news",
+      "link": "https://pressgazette.co.uk/press-gazette-events/future-of-media-awards-shortlist-2026/",
+      "published": "Tue, 14 Jul 2026 14:59:01 +0000",
+      "summary_raw": "<div><img alt=\"Representatives from The i Paper pick up the Website of the Year (National/International) award at the Future of Media Awards 2025, alongside host Robin Morgan and PushPushGo CEO Renata Okrajni\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2025/09/DSC_1163-e1757665926891-526x394.webp\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>Awards in their fifth year celebrate editorial, commercial and product excellence.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/press-gazette-events/future-of-media-awards-shortlist-2026/\">Future of Media Awards shortlists celebrate excellence in digital news</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254865",
+      "title": "Top-paid BBC journalists 2025/26: Stephen Nolan and Laura Kuenssberg top list",
+      "link": "https://pressgazette.co.uk/media-audience-and-business-data/highest-paid-bbc-journalists-2026-stephen-nolan/",
+      "published": "Tue, 14 Jul 2026 11:51:50 +0000",
+      "summary_raw": "<div><img alt=\"BBC highest-paid journalists in 2025/26: Stephen Nolan pictured in front of police cars, and Laura Kuenssberg pictured mid-interview sitting down looking at someone out of the frame\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/bbchighestpaid2026-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Several major BBC journalists see pay drop following election year.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/highest-paid-bbc-journalists-2026-stephen-nolan/\">Top-paid BBC journalists 2025/26: Stephen Nolan and Laura Kuenssberg top list</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254838",
+      "title": "‘Petulant’ Harry statement after Mail hacking trial was ‘beyond the pale’",
+      "link": "https://pressgazette.co.uk/media_law/petulant-harry-statement-after-mail-hacking-trial-was-beyond-the-pale/",
+      "published": "Tue, 14 Jul 2026 10:18:46 +0000",
+      "summary_raw": "<div><img alt=\"Nicole Lampert and Louis Charalambous. Pictures: Submitted.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/montage_2-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Media lawyer condemns Harry statement, plus accused journalist 'angry' over 'desperate' case.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_law/petulant-harry-statement-after-mail-hacking-trial-was-beyond-the-pale/\">&#8216;Petulant&#8217; Harry statement after Mail hacking trial was &#8216;beyond the pale&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=254774",
+      "title": "Claude’s ability to remix ‘liquid content’ is ‘serious challenge for news media’",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/claudes-ability-to-remix-liquid-content-is-serious-challenge-for-news-media/",
+      "published": "Tue, 14 Jul 2026 10:18:16 +0000",
+      "summary_raw": "<div><img alt=\"Nic Newman standing up speaking and gesturing with hands with brightly coloured wall behind him\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/nicnewman-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Digital News Report author Nic Newman explained how publishers should respond.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/claudes-ability-to-remix-liquid-content-is-serious-challenge-for-news-media/\">Claude&#8217;s ability to remix &#8216;liquid content&#8217; is &#8216;serious challenge for news media&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=247608",
+      "title": "Journalism job cuts in 2026 tracked: Sherwood News shuts down and axes staff",
+      "link": "https://pressgazette.co.uk/news/journalism-job-cuts-in-2026-updates/",
+      "published": "Tue, 14 Jul 2026 10:10:22 +0000",
+      "summary_raw": "<div><img alt=\"Sherwood News homepage on 14 July 2026. Picture: Sherwood News screenshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/sherwood-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Press Gazette rolling updates on redundancies made in 2026.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/journalism-job-cuts-in-2026-updates/\">Journalism job cuts in 2026 tracked: Sherwood News shuts down and axes staff</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
