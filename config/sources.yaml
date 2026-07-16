@@ -129,3 +129,20 @@
   group: market
   type: gmail
   url: "from:faroljornalismo OR subject:\"Farol Jornalismo\""
+
+# CẦN XÁC MINH: 3 truy vấn dưới đây là suy đoán dựa trên tên nguồn, chưa xác nhận
+# đúng địa chỉ gửi/label thực tế bạn dùng trong Gmail — kiểm tra lại và sửa nếu cần.
+- name: TLDR (newsletter)
+  group: ai
+  type: gmail
+  url: "from:tldrnewsletter.com"
+
+- name: AI for Work (newsletter)
+  group: ai
+  type: gmail
+  url: "subject:\"AI for Work\""
+
+- name: IJNet (newsletter)
+  group: market
+  type: gmail
+  url: "from:ijnet.org OR from:icfj.org"
