@@ -113,6 +113,11 @@
   type: rss
   url: https://knightcenter.utexas.edu
 
+- name: News Product Alliance
+  group: market
+  type: rss
+  url: https://newsproductalliance.org
+
 # --- Newsletter qua Gmail (không cần feed_url, dùng truy vấn tìm kiếm Gmail) ---
 
 - name: FT Strategies (newsletter)
