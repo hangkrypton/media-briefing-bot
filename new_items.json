@@ -1,112 +1,40 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "title": "Our approach to bioresilience",
-      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "published": "Thu, 16 Jul 2026 09:30:42 +0000",
-      "summary_raw": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "title": "Newer Models, Same Advantage",
-      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "published": "Thu, 16 Jul 2026 11:49:48 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/security-incident-july-2026",
-      "title": "Security incident disclosure — July 2026",
-      "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "published": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "title": "What building Shippy taught us about building agents",
-      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "published": "Wed, 15 Jul 2026 17:29:41 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "published": "Wed, 15 Jul 2026 17:27:01 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "title": "Welcome Inkling by Thinking Machines",
-      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
-      "published": "Wed, 15 Jul 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "published": "Thu, 16 Jul 2026 16:01:21 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:star/11833191390",
-      "title": "palewire starred mapbox/pbf",
-      "link": "https://github.com/mapbox/pbf",
-      "published": "2026-07-15 09:46:14 -0700",
-      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/mapbox/pbf\" rel=\"noreferrer\">mapbox/pb",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:star/11833174284",
-      "title": "palewire starred mapbox/vector-tile-js",
-      "link": "https://github.com/mapbox/vector-tile-js",
-      "published": "2026-07-15 09:45:52 -0700",
-      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/mapbox/vector-tile-js\" rel=\"noreferrer",
+      "id": "tag:github.com,2008:ForkEvent/11880929243",
+      "title": "palewire forked palewire/open-webui from open-webui/open-webui",
+      "link": "https://github.com/palewire/open-webui",
+      "published": "2026-07-16 07:19:29 -0700",
+      "summary_raw": "<div class=\"fork js-feed-item-view\"><div class=\"body\">\n<!-- fork -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          forked\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/open-webui/open-webui\" rel=\"noreferrer\" title=\"open-web",
       "source": "GitHub - palewire"
     }
   ],
   "market": [
     {
-      "id": "https://www.niemanlab.org/?p=251565",
-      "title": "Business Insider’s big bet against aggregation",
-      "link": "https://www.niemanlab.org/2026/07/business-insiders-big-bet-against-aggregation/",
-      "published": "Wed, 15 Jul 2026 19:03:08 +0000",
-      "summary_raw": "&#8220;It&#8217;s not: Some people do features, some people do spot stories. You&#8217;re commanding your beat. You&#8217;re doing everything,&#8221; said Jamie Heller, Business Insider&#8217;s editor-in-chief. It&#8217;s a Tuesday morning news meeting at Business Insider&#8217;s headquarters in New York&#8217;s Financial District. More than a dozen editors have gathered in the conference room, while several more chime in...",
+      "id": "https://www.niemanlab.org/?p=251656",
+      "title": "Want to build audience and revenue through live events? These five news nonprofits have some ideas to get you started",
+      "link": "https://www.niemanlab.org/2026/07/want-to-build-audience-and-revenue-through-live-events-these-five-news-nonprofits-have-some-ideas-to-get-you-started/",
+      "published": "Thu, 16 Jul 2026 15:49:42 +0000",
+      "summary_raw": "PITTSBURGH — One indicator of the energy and interest around live events in newsrooms these days: At INN Days — the Institute for Nonprofit News&#8217; annual conference, held last month in Pittsburgh — a series of lightning talks on &#8220;Events that Build Audience and Revenue&#8221; was a standing-room-only session. Presenters from five nonprofit newsrooms described...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1202767",
-      "title": "When does a president deserve prime-time television?",
-      "link": "https://www.poynter.org/commentary/2026/what-channel-trumps-address-on-tonight/",
-      "published": "Thu, 16 Jul 2026 11:30:23 +0000",
-      "summary_raw": "<p>President Donald Trump is scheduled to address the nation tonight at 9 p.m. Eastern. But it’s still unclear which networks will actually televise his speech. That’s because of reports that [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/what-channel-trumps-address-on-tonight/\">When does a president deserve prime-time television?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1202801",
+      "title": "When the World Cup came to Kansas City, local journalists stayed local",
+      "link": "https://www.poynter.org/reporting-editing/2026/local-news-coverage-world-cup-kansas-city/",
+      "published": "Thu, 16 Jul 2026 15:34:57 +0000",
+      "summary_raw": "<p>As international media outlets flocked to Kansas City to cover the World Cup, local journalists responded to the global event by leaning even harder into what they do best: covering [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/local-news-coverage-world-cup-kansas-city/\">When the World Cup came to Kansas City, local journalists stayed local</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1202749",
-      "title": "The FCC sets the stage for a showdown over local TV ownership",
-      "link": "https://www.poynter.org/commentary/analysis/2026/fcc-local-tv-ownership-cap-brendan-carr-analysis/",
-      "published": "Wed, 15 Jul 2026 20:09:19 +0000",
-      "summary_raw": "<p>The Federal Communications Commission will vote Aug. 6 on a proposal that could dramatically reshape local TV ownership by loosening long-standing limits on how many stations a single company can [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/analysis/2026/fcc-local-tv-ownership-cap-brendan-carr-analysis/\">The FCC sets the stage for a showdown over local TV ownership</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=254991",
-      "title": "US copyright law has been weaponised to silence reporting around the world",
-      "link": "https://pressgazette.co.uk/news/us-copyright-law-has-been-weaponised-to-silence-reporting-around-the-world/",
-      "published": "Thu, 16 Jul 2026 09:52:23 +0000",
-      "summary_raw": "<div><img alt=\"DMCA take-down services are advertising on freelance work portals\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/dmca_takedown-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Google is removing thousands of articles from search due to spurious DMCA requests.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/us-copyright-law-has-been-weaponised-to-silence-reporting-around-the-world/\">US copyright law has been weaponised to silence reporting around the world</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=254964",
-      "title": "Daily Mail and Metro to pay ‘substantial’ libel damages to Loose Women panellist and husband",
-      "link": "https://pressgazette.co.uk/media_law/daily-mail-and-metro-to-pay-substantial-libel-damages-nadia-sawalha-mark-adderley/",
-      "published": "Wed, 15 Jul 2026 15:12:45 +0000",
-      "summary_raw": "<div><img alt=\"Lawyers for Rahman Lowe Solicitors posing for picture with Nadia Sawalha and her husband Mark Adderley.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/dailymail1-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Titles published \"serious and damaging allegations\" falsely suggesting hatred of Jews.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_law/daily-mail-and-metro-to-pay-substantial-libel-damages-nadia-sawalha-mark-adderley/\">Daily Mail and Metro to pay &#8216;substantial&#8217; libel damages to Loose Women panellist and husband</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
     }
   ],
   "gmail_pending": [
@@ -124,6 +52,21 @@
       "name": "Farol Jornalismo (newsletter)",
       "group": "market",
       "gmail_query": "from:faroljornalismo OR subject:\"Farol Jornalismo\""
+    },
+    {
+      "name": "TLDR (newsletter)",
+      "group": "ai",
+      "gmail_query": "from:tldrnewsletter.com"
+    },
+    {
+      "name": "AI for Work (newsletter)",
+      "group": "ai",
+      "gmail_query": "subject:\"AI for Work\""
+    },
+    {
+      "name": "IJNet (newsletter)",
+      "group": "market",
+      "gmail_query": "from:ijnet.org OR from:icfj.org"
     }
   ]
 }
