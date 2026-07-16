@@ -1,42 +1,7 @@
 {
-  "ai": [
-    {
-      "id": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "published": "Thu, 16 Jul 2026 16:01:21 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    }
-  ],
-  "tools": [
-    {
-      "id": "tag:github.com,2008:ForkEvent/11880929243",
-      "title": "palewire forked palewire/open-webui from open-webui/open-webui",
-      "link": "https://github.com/palewire/open-webui",
-      "published": "2026-07-16 07:19:29 -0700",
-      "summary_raw": "<div class=\"fork js-feed-item-view\"><div class=\"body\">\n<!-- fork -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          forked\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/open-webui/open-webui\" rel=\"noreferrer\" title=\"open-web",
-      "source": "GitHub - palewire"
-    }
-  ],
-  "market": [
-    {
-      "id": "https://www.niemanlab.org/?p=251656",
-      "title": "Want to build audience and revenue through live events? These five news nonprofits have some ideas to get you started",
-      "link": "https://www.niemanlab.org/2026/07/want-to-build-audience-and-revenue-through-live-events-these-five-news-nonprofits-have-some-ideas-to-get-you-started/",
-      "published": "Thu, 16 Jul 2026 15:49:42 +0000",
-      "summary_raw": "PITTSBURGH — One indicator of the energy and interest around live events in newsrooms these days: At INN Days — the Institute for Nonprofit News&#8217; annual conference, held last month in Pittsburgh — a series of lightning talks on &#8220;Events that Build Audience and Revenue&#8221; was a standing-room-only session. Presenters from five nonprofit newsrooms described...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1202801",
-      "title": "When the World Cup came to Kansas City, local journalists stayed local",
-      "link": "https://www.poynter.org/reporting-editing/2026/local-news-coverage-world-cup-kansas-city/",
-      "published": "Thu, 16 Jul 2026 15:34:57 +0000",
-      "summary_raw": "<p>As international media outlets flocked to Kansas City to cover the World Cup, local journalists responded to the global event by leaning even harder into what they do best: covering [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/local-news-coverage-world-cup-kansas-city/\">When the World Cup came to Kansas City, local journalists stayed local</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    }
-  ],
+  "ai": [],
+  "tools": [],
+  "market": [],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
@@ -67,6 +32,11 @@
       "name": "IJNet (newsletter)",
       "group": "market",
       "gmail_query": "from:ijnet.org OR from:icfj.org"
+    },
+    {
+      "name": "News Product Alliance (newsletter)",
+      "group": "market",
+      "gmail_query": "from:newsproductalliance.org"
     }
   ]
 }
