@@ -1,78 +1,22 @@
 {
-  "ai": [],
-  "tools": [
+  "ai": [
     {
-      "id": "tag:github.com,2008:star/11888181874",
-      "title": "palewire starred microsoft/vscode",
-      "link": "https://github.com/microsoft/vscode",
-      "published": "2026-07-16 09:43:57 -0700",
-      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/microsoft/vscode\" rel=\"noreferrer\">mic",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/can-the-establishment-stop-abdul",
-      "title": "Can the establishment stop Abdul El-Sayed?",
-      "link": "https://www.natesilver.net/p/can-the-establishment-stop-abdul",
-      "published": "Thu, 16 Jul 2026 18:31:35 GMT",
-      "summary_raw": "Haley Stevens has rebounded since Mallory McMorrow dropped out. But polls of both the Michigan primary and the general election don't tell a consistent story.",
-      "source": "Nate Silver"
+      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "Fri, 17 Jul 2026 15:57:54 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
     }
   ],
+  "tools": [],
   "market": [
     {
-      "id": "https://www.ire.org/?p=210729",
-      "title": "Work smarter, dig deeper: 10 AI tools for investigative journalists",
-      "link": "https://www.ire.org/2026/07/16/work-smarter-dig-deeper-10-ai-tools-for-investigative-journalists/",
-      "published": "Thu, 16 Jul 2026 17:11:12 +0000",
-      "summary_raw": "<p>Work smarter, dig deeper: 10 AI tools for investigative journalists By Benét J. Wilson, IRE &#38; NICAR My first introduction to AI was a Poynter-Koch Media and Journalism fellowship presentation by Caitlin Dewey, a writer and occasional essayist based in Buffalo, N.Y. In it, she demonstrated 11 ways journalists could use AI in practical and&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/07/16/work-smarter-dig-deeper-10-ai-tools-for-investigative-journalists/\">Work smarter, dig deeper: 10 AI tools for investigative journalists</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=117741",
-      "title": "‘Quality publishers are stronger together’ – Ozone offers strength in numbers",
-      "link": "https://wan-ifra.org/2026/07/quality-publishers-are-stronger-together-ozone-offers-strength-in-numbers/",
-      "published": "Fri, 17 Jul 2026 12:56:04 +0000",
-      "summary_raw": "<p>For many news publishers, the best chance of increasing their digital advertising revenues and market share is by being part of an advertising alliance. Launched in the UK in 2018 by four large UK publishers, Ozone has expanded to the United States and Europe, and today includes some of the world's biggest media brands.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/quality-publishers-are-stronger-together-ozone-offers-strength-in-numbers/\">‘Quality publishers are stronger together’ – Ozone offers strength in numbers</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=117710",
-      "title": "Inspired tactics: A news subscription series – Part 2, Tech turns readers into subscribers",
-      "link": "https://wan-ifra.org/2026/07/inspired-tactics-a-news-subscription-series-part-2-tech-turns-readers-into-subscribers/",
-      "published": "Thu, 16 Jul 2026 17:22:17 +0000",
-      "summary_raw": "<p>In this second part of a four-part series on news subscriptions, guest writer Bihag Karnani looks at what occurs before the conversion; the moment when a reader decides if he/she will pay. \"News media organisations treat the paywall as a barrier,\" he writes. \"Technology companies treat the paywall as an evaluation mechanism. Do we request payment? At what point? How much?\" This article looks at these questions and more.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/inspired-tactics-a-news-subscription-series-part-2-tech-turns-readers-into-subscribers/\">Inspired tactics: A news subscription series – Part 2, Tech turns readers into subscribers</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=251684",
-      "title": "Mobilizer, connector, spectator, or outsider? New Pew research categorizes how Americans do (or don’t) engage civically",
-      "link": "https://www.niemanlab.org/2026/07/mobilizer-connector-spectator-or-outsider-new-pew-research-categorizes-how-americans-do-or-dont-engage-civically/",
-      "published": "Thu, 16 Jul 2026 20:53:45 +0000",
-      "summary_raw": "Civic engagement takes many forms. The term describes activities as disparate as voting, volunteering, attending religious services, and following the news. Yet “these behaviors are often studied separately, making it difficult to see how they come together in people’s day-to-day lives,” researchers from the Pew-Knight Initiative write in a new report published Thursday. Their study,...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1202853",
-      "title": "How the networks handled President Trump’s speech about election integrity",
-      "link": "https://www.poynter.org/commentary/2026/how-the-networks-handled-president-trumps-speech-about-election-integrity/",
-      "published": "Fri, 17 Jul 2026 11:30:21 +0000",
-      "summary_raw": "<p>President Donald Trump addressed the nation Thursday night, giving a rambling 22-minute speech in which he cast doubts on the results of the 2020 election and also made a variety [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/how-the-networks-handled-president-trumps-speech-about-election-integrity/\">How the networks handled President Trump’s speech about election integrity</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=255071",
-      "title": "Former Sunday Mirror editor Paul Connew: ‘The ultimate news man’",
-      "link": "https://pressgazette.co.uk/the-wire/obituaries/former-sunday-mirror-editor-paul-connew-obituary/",
-      "published": "Fri, 17 Jul 2026 11:39:11 +0000",
-      "summary_raw": "<div><img alt=\"Paul Connew. Picture: Mirror Pensioners\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/paul-connew-crop-e1784282972570-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Connew worked widely as a commentator and broadcaster in his post-tabloid career.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/obituaries/former-sunday-mirror-editor-paul-connew-obituary/\">Former Sunday Mirror editor Paul Connew: &#8216;The ultimate news man&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=254997",
-      "title": "Newsletter platform Beehiiv adds community features and programmatic advertising",
-      "link": "https://pressgazette.co.uk/newsletters/newsletter-platform-beehiiv-adds-community-features-and-programmatic-advertising/",
-      "published": "Thu, 16 Jul 2026 17:00:00 +0000",
-      "summary_raw": "<div><img alt=\"Beehiiv slide showing what new community features can look like. Featuring &#039;community feed&#039; with tabs for messages, notifications and different channels\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/communitybeehiiv-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Creator platform adds ability for subscribers to interact with each other.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/newsletters/newsletter-platform-beehiiv-adds-community-features-and-programmatic-advertising/\">Newsletter platform Beehiiv adds community features and programmatic advertising</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=255041",
+      "title": "Playboy magazine is back – with ‘respectful and modern’ take on female nudity",
+      "link": "https://pressgazette.co.uk/publishers/magazines/playboy-magazine-print-relaunch-2026/",
+      "published": "Fri, 17 Jul 2026 16:14:17 +0000",
+      "summary_raw": "<div><img alt=\"Summer 2026 Playboy cover starring Cara Delevingne in a latex corset\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/playboy43-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Playboy Bunnies and Playmates have returned to print.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/playboy-magazine-print-relaunch-2026/\">Playboy magazine is back &#8211; with &#8216;respectful and modern&#8217; take on female nudity</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
