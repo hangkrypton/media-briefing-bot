@@ -1,25 +1,144 @@
 {
-  "ai": [
+  "ai": [],
+  "tools": [
     {
-      "id": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "published": "Fri, 17 Jul 2026 15:57:54 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
+      "id": "tag:github.com,2008:publish_release/11974127699",
+      "title": "kip-claw released v1.1.1 at kip-claw/trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/releases/tag/v1.1.1",
+      "published": "2026-07-18 13:08:45 -0700",
+      "summary_raw": "<div class=\"release js-feed-item-view\"><div class=\"body\">\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n        released\n        <a class=\"Link no-underline wb-break-all\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/releases/tag/v1.1.1\" rel=\"noreferrer\">v1.1.1</a>\n          of\n          <a class=\"Link--primary no-",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15262212323",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/d478e4d95d...a471fc9655",
+      "published": "2026-07-18 20:08:21 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15262165600",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/1115aee07a...d478e4d95d",
+      "published": "2026-07-18 20:06:48 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:publish_release/11974023914",
+      "title": "kip-claw released v1.1.0 at kip-claw/trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/releases/tag/v1.1.0",
+      "published": "2026-07-18 13:02:23 -0700",
+      "summary_raw": "<div class=\"release js-feed-item-view\"><div class=\"body\">\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n        released\n        <a class=\"Link no-underline wb-break-all\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/releases/tag/v1.1.0\" rel=\"noreferrer\">v1.1.0</a>\n          of\n          <a class=\"Link--primary no-",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15262013511",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/9e7774d62b...1115aee07a",
+      "published": "2026-07-18 20:02:08 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261817761",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/bea5c42056...9e7774d62b",
+      "published": "2026-07-18 19:56:14 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261587697",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/95a2b20be1...bea5c42056",
+      "published": "2026-07-18 19:48:42 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261426103",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/402e283bda...95a2b20be1",
+      "published": "2026-07-18 19:43:25 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261399059",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/8bea92c702...402e283bda",
+      "published": "2026-07-18 19:42:32 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261290203",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/194e5e18c0...8bea92c702",
+      "published": "2026-07-18 19:39:03 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261156719",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/467dd70308...194e5e18c0",
+      "published": "2026-07-18 19:34:43 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15261030817",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/48718c969a...467dd70308",
+      "published": "2026-07-18 19:30:46 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15260956168",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/332937aab7...48718c969a",
+      "published": "2026-07-18 19:28:29 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15260614632",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/0d2a86e719...332937aab7",
+      "published": "2026-07-18 19:17:43 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/15260489490",
+      "title": "palewire pushed trmnl-jazz-lineup",
+      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/20aeb04bcd...0d2a86e719",
+      "published": "2026-07-18 19:13:54 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
+      "title": "The World Cup champion will be one of the greatest teams ever",
+      "link": "https://www.natesilver.net/p/world-cup-champion-2026-greatest-teams-ever",
+      "published": "Sat, 18 Jul 2026 16:41:21 GMT",
+      "summary_raw": "Spain is chasing a historic streak. Argentina is chasing back-to-back titles. Whoever wins Sunday will join the highest tier in international soccer history.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/create-your-ai-headquarters",
+      "title": "Connect Your Tools to AI 🔗",
+      "link": "https://wondertools.substack.com/p/create-your-ai-headquarters",
+      "published": "Sat, 18 Jul 2026 17:30:11 GMT",
+      "summary_raw": "How and why to link AI to your favorite tools",
+      "source": "Wonder Tools (Substack)"
     }
   ],
-  "tools": [],
-  "market": [
-    {
-      "id": "https://pressgazette.co.uk/?p=255041",
-      "title": "Playboy magazine is back – with ‘respectful and modern’ take on female nudity",
-      "link": "https://pressgazette.co.uk/publishers/magazines/playboy-magazine-print-relaunch-2026/",
-      "published": "Fri, 17 Jul 2026 16:14:17 +0000",
-      "summary_raw": "<div><img alt=\"Summer 2026 Playboy cover starring Cara Delevingne in a latex corset\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/playboy43-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Playboy Bunnies and Playmates have returned to print.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/playboy-magazine-print-relaunch-2026/\">Playboy magazine is back &#8211; with &#8216;respectful and modern&#8217; take on female nudity</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    }
-  ],
+  "market": [],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
