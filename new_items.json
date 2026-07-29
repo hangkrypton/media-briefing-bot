@@ -1,7 +1,226 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "published": "Tue, 28 Jul 2026 16:27:42 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "published": "Tue, 28 Jul 2026 15:01:45 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "published": "Mon, 27 Jul 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:star/12467590786",
+      "title": "palewire starred Ouranosinc/xclim",
+      "link": "https://github.com/Ouranosinc/xclim",
+      "published": "2026-07-29 03:26:59 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/Ouranosinc/xclim\" rel=\"noreferrer\">Our",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:ForkEvent/12373281592",
+      "title": "palewire forked palewire/xmhw from coecms/xmhw",
+      "link": "https://github.com/palewire/xmhw",
+      "published": "2026-07-27 12:26:21 -0700",
+      "summary_raw": "<div class=\"fork js-feed-item-view\"><div class=\"body\">\n<!-- fork -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          forked\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/coecms/xmhw\" rel=\"noreferrer\" title=\"coecms/xmhw\">coecm",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:star/12372985364",
+      "title": "palewire starred coecms/xmhw",
+      "link": "https://github.com/coecms/xmhw",
+      "published": "2026-07-27 12:20:02 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/coecms/xmhw\" rel=\"noreferrer\">coecms/x",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:star/12365393473",
+      "title": "palewire starred propublica/weepeople",
+      "link": "https://github.com/propublica/weepeople",
+      "published": "2026-07-27 09:42:33 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/propublica/weepeople\" rel=\"noreferrer\"",
+      "source": "GitHub - palewire"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=118247",
+      "title": "Beyond borders: Time SVP Bridget Wilson on expanding the brand through global partnerships",
+      "link": "https://wan-ifra.org/2026/07/beyond-borders-time-svp-bridget-wilson-on-expanding-the-brand-through-global-partnerships/",
+      "published": "Tue, 28 Jul 2026 09:38:15 +0000",
+      "summary_raw": "<p>“There's never been a more exciting time to be at Time,” says Bridget Wilson as she contemplates being back at the famously red-bordered magazine as its SVP of Business Development &#038; Strategic Partnerships after a year away.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/beyond-borders-time-svp-bridget-wilson-on-expanding-the-brand-through-global-partnerships/\">Beyond borders: Time SVP Bridget Wilson on expanding the brand through global partnerships</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=118217",
+      "title": "What Newsweek has learned about building deeper brand partnerships",
+      "link": "https://wan-ifra.org/2026/07/what-newsweek-has-learned-about-building-deeper-brand-partnerships/",
+      "published": "Mon, 27 Jul 2026 14:03:15 +0000",
+      "summary_raw": "<p>At FIPP World Media Congress, Kylie McCoy will discuss how publishers can move beyond reach-led advertising by connecting audience trust, editorial authority and partner needs.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/07/what-newsweek-has-learned-about-building-deeper-brand-partnerships/\">What Newsweek has learned about building deeper brand partnerships</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=250263",
+      "title": "Despite concerns about AI Overviews, some nonprofit news outlets see a surge in search traffic",
+      "link": "https://www.niemanlab.org/2026/07/despite-concerns-about-ai-overviews-some-nonprofit-news-outlets-see-a-surge-in-search-traffic/",
+      "published": "Tue, 28 Jul 2026 20:30:19 +0000",
+      "summary_raw": "Election season is a busy time for any newsroom. In the second quarter of 2026, some nonprofit newsrooms saw their coverage of the primaries — especially voter guides — pay off in both interest and traffic. In Nieman Lab&#8217;s quarterly ranking of nonprofit news outlets, four news outlets saw a bump in traffic thanks in...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251888",
+      "title": "It’s been a year since Congress cut off federal funding for public media. How are things going?",
+      "link": "https://www.niemanlab.org/2026/07/its-been-a-year-since-congress-cut-off-federal-funding-for-public-media-how-are-things-going/",
+      "published": "Tue, 28 Jul 2026 17:23:29 +0000",
+      "summary_raw": "Last July, the Republican-led Congress voted to end federal funding for public media, clawing back $1.1 billion in funds that had been previously allocated to the Corporation for Public Broadcasting. (The CPB officially shut down this past January.) The depressing one-year anniversary is being marked by a slew of articles and updates on how public...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251720",
+      "title": "Tacos, elk sheds, and Facebook ads: How some local news sites saw their traffic spike",
+      "link": "https://www.niemanlab.org/2026/07/tacos-elk-sheds-and-facebook-ads-how-some-local-news-sites-saw-their-traffic-spike/",
+      "published": "Mon, 27 Jul 2026 14:13:47 +0000",
+      "summary_raw": "It&#8217;s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Today&#8217;s edition looks at local for-profit news sites. (Eligible sites for this...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=251871",
+      "title": "LGBTQ+ outlet LOOKOUT aims to expand throughout the Southwest, and beyond",
+      "link": "https://www.niemanlab.org/2026/07/lgbtq-outlet-lookout-aims-to-expand-throughout-the-southwest-and-beyond/",
+      "published": "Mon, 27 Jul 2026 14:00:06 +0000",
+      "summary_raw": "Over the past four years, a newsletter that began as a protest by an Arizona reporter frustrated with his own paper&#8217;s coverage of LGBTQ+ issues has grown to become a respected statewide publication. Now, it&#8217;s seeking to expand. Following a feasibility study, the nonprofit LOOKOUT — whose tagline is &#8220;Fierce. Independent. Queer&#8221; — is working...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203661",
+      "title": "‘60 Minutes’ makes big hires, including one that will raise eyebrows",
+      "link": "https://www.poynter.org/commentary/2026/60-minutes-ross-douthat-cbs-news-hires/",
+      "published": "Wed, 29 Jul 2026 11:30:27 +0000",
+      "summary_raw": "<p>Some are calling it a coup — an inspired, out-of-the-box great hire meant to shake life into a long-running news show. Others are saying it’s a bizarre, risky hire — of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/60-minutes-ross-douthat-cbs-news-hires/\">‘60 Minutes’ makes big hires, including one that will raise eyebrows</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203599",
+      "title": "A community can have local newspapers and still lack local news",
+      "link": "https://www.poynter.org/reporting-editing/2026/how-to-measure-local-news/",
+      "published": "Wed, 29 Jul 2026 11:00:32 +0000",
+      "summary_raw": "<p>After decades of working for national news media’s biggest names, Paul Miller retired to Carmel-by-the-Sea in the 1990s. But instead of spending his days soaking in the Monterey Peninsula&#8217;s stunning [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/how-to-measure-local-news/\">A community can have local newspapers and still lack local news</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203641",
+      "title": "As search and social traffic dries up, local newsrooms turn to Reddit",
+      "link": "https://www.poynter.org/business-work/2026/local-news-reddit-social-media-traffic/",
+      "published": "Wed, 29 Jul 2026 10:45:43 +0000",
+      "summary_raw": "<p>This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. Last October, the Big 12 conference issued a rule change that only really makes [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/local-news-reddit-social-media-traffic/\">As search and social traffic dries up, local newsrooms turn to Reddit</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203573",
+      "title": "No Surprise: Most of us get our news from scrolling on our phones",
+      "link": "https://www.poynter.org/local-news/2026/no-surprise-most-get-news-from-scrolling-phones/",
+      "published": "Wed, 29 Jul 2026 09:00:14 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/local-news/2026/no-surprise-most-get-news-from-scrolling-phones/\">No Surprise: Most of us get our news from scrolling on our phones</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203560",
+      "title": "Savannah Guthrie makes an emotional plea for her missing mother",
+      "link": "https://www.poynter.org/commentary/2026/savannah-guthrie-today-missing-mom-plea/",
+      "published": "Tue, 28 Jul 2026 11:30:12 +0000",
+      "summary_raw": "<p>The mystery surrounding the disappearance of “Today” co-host Savannah Guthrie’s mother has now gone on for 177 days. But the pain remains as fresh as ever. Guthrie put out another [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/savannah-guthrie-today-missing-mom-plea/\">Savannah Guthrie makes an emotional plea for her missing mother</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203524",
+      "title": "Should journalists give up on traditional job paths? Maybe.",
+      "link": "https://www.poynter.org/business-work/2026/journalism-careers-traditional-newsroom-jobs/",
+      "published": "Tue, 28 Jul 2026 11:00:53 +0000",
+      "summary_raw": "<p>There was a time when you needed at least a few internships on your resume before you could get hired at a competitive newsroom. You changed markets when you wanted [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/journalism-careers-traditional-newsroom-jobs/\">Should journalists give up on traditional job paths? Maybe.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203494",
+      "title": "Poynter Institute to honor Chuck Todd for leadership in independent political journalism",
+      "link": "https://www.poynter.org/news-release/2026/poynter-institute-to-honor-chuck-todd-for-leadership-in-independent-political-journalism/",
+      "published": "Tue, 28 Jul 2026 11:00:25 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Florida (July 28, 2026)  — The Poynter Institute, a global leader in journalism, will honor veteran political journalist Chuck Todd with the 2026 Poynter Make a Mark Leadership [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/poynter-institute-to-honor-chuck-todd-for-leadership-in-independent-political-journalism/\">Poynter Institute to honor Chuck Todd for leadership in independent political journalism</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203557",
+      "title": "Sorting through the mixed messages about cyclosporiasis",
+      "link": "https://www.poynter.org/fact-checking/2026/cyclospora-outbreak-lettuce-recall-what-to-know/",
+      "published": "Tue, 28 Jul 2026 10:30:50 +0000",
+      "summary_raw": "<p>Lettuce has probably never made you so nervous. The news about cyclosporiasis, an illness people can contract by eating raw produce contaminated with a diarrhea-causing parasite, keeps evolving. U.S. cases are [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/cyclospora-outbreak-lettuce-recall-what-to-know/\">Sorting through the mixed messages about cyclosporiasis</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255508",
+      "title": "What I’ve learned: Reach editor Natalie Fahy who fought against Reform ban",
+      "link": "https://pressgazette.co.uk/news-leaders/what-ive-learned-reach-editor-natalie-fahy-who-fought-against-reform-ban/",
+      "published": "Wed, 29 Jul 2026 11:03:01 +0000",
+      "summary_raw": "<div><img alt=\"Natalie Fahy headshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/nataliefahy-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Nottingham Post editor and Reach London/East of England editor in chief shares her insights.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news-leaders/what-ive-learned-reach-editor-natalie-fahy-who-fought-against-reform-ban/\">What I&#8217;ve learned: Reach editor Natalie Fahy who fought against Reform ban</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255556",
+      "title": "Scotland’s Daily Record targeted by fascist-styled protesters at office",
+      "link": "https://pressgazette.co.uk/news/scotlands-daily-record-targeted-by-fascist-styled-protesters-at-office/",
+      "published": "Wed, 29 Jul 2026 10:43:35 +0000",
+      "summary_raw": "<div><img alt=\"Screenshot of black and white video showing man lined up in columns protest outside Daily Record office\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/dailyrecordprotest-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>NUJ has seen \"increasing amount of abuse and threats\" towards journalists in Scotland in recent weeks.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/scotlands-daily-record-targeted-by-fascist-styled-protesters-at-office/\">Scotland&#8217;s Daily Record targeted by fascist-styled protesters at office</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255536",
+      "title": "‘Shot in the dark’ Daily Express Youtube show rises to top in under a year",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/daily-expresso-youtube/",
+      "published": "Wed, 29 Jul 2026 10:25:51 +0000",
+      "summary_raw": "<div><img alt=\"Clockwise from top left: Daily Expresso host JJ Anisiobi, a Youtube thumbnail featuring Mark Dolan and Meghan Markle, Express deputy editor-in-chief Sam Lister, and a thumbnail featuring guest Carl Benjamin\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/dailyexpresso-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Express video show follows repeatable formats with regular co-hosts and fewer \"ding dongs\".</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/daily-expresso-youtube/\">&#8216;Shot in the dark&#8217; Daily Express Youtube show rises to top in under a year</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.<",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/most-popular-websites-news-uk-monthly-2/",
+      "title": "50 biggest news websites in UK: ITV and Irish Mirror lead engagement growth in June",
+      "link": "https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-uk-monthly-2/",
+      "published": "Tue, 28 Jul 2026 10:15:35 +0000",
+      "summary_raw": "<div><img alt=\"ITV logo on a digital screen.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/itv-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Press Gazette's monthly ranking of the top 50 news websites in the UK.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/media_metrics/most-popular-websites-news-uk-monthly-2/\">50 biggest news websites in UK: ITV and Irish Mirror lead engagement growth in June</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255490",
+      "title": "‘First tremors’ of AI earthquake showing in digital revenue hit",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/",
+      "published": "Tue, 28 Jul 2026 09:29:27 +0000",
+      "summary_raw": "<div><img alt=\"AI chatbots ChatGPT, Gemini, Microsoft Copilot, Claude, and Perplexity app icons are seen on the screen of an iPhone\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/01/shutterstock_25488645411-e1769777639587-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Display ad revenue was biggest growth area among publishers surveyed by AOP.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/\">&#8216;First tremors&#8217; of AI earthquake showing in digital revenue hit</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255319",
+      "title": "Nub News set to hit first profit after scaling down hyperlocal footprint",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/nub-news-set-to-hit-first-profit-after-scaling-down-hyperlocal-footprint/",
+      "published": "Tue, 28 Jul 2026 07:01:06 +0000",
+      "summary_raw": "<div><img alt=\"Nub News founder Karl Hancock\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2019/03/Karl-Hancock-Nub-News-e1552325227521-523x394.jpg\" style=\"margin-bottom: 15px;\" width=\"523\" /></div>\n<p>Nub News is due to reach £7.5k in profit after closing 17 locations in 18 months.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/nub-news-set-to-hit-first-profit-after-scaling-down-hyperlocal-footprint/\">Nub News set to hit first profit after scaling down hyperlocal footprint</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
