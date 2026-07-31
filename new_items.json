@@ -1,14 +1,5 @@
 {
-  "ai": [
-    {
-      "id": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "published": "Wed, 29 Jul 2026 16:02:10 +0000",
-      "summary_raw": "",
-      "source": "Google DeepMind Blog"
-    }
-  ],
+  "ai": [],
   "tools": [],
   "market": [],
   "gmail_pending": [
