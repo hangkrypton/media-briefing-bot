@@ -1,150 +1,327 @@
 {
-  "ai": [],
+  "ai": [
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "published": "Tue, 04 Aug 2026 13:58:29 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/16558033199",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/e368b25919...1ec51adbf9",
-      "published": "2026-08-03 10:10:34 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16809451205",
+      "title": "palewire pushed open-webui",
+      "link": "https://github.com/palewire/open-webui/compare/ecd48e2f71...f9590b8017",
+      "published": "2026-08-05 12:56:15 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/open-webui/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://githu",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16554337988",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/7a1b596c9e...847368f1c0",
-      "published": "2026-08-03 09:28:35 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:star/12821455258",
+      "title": "palewire starred open-webui/open-webui",
+      "link": "https://github.com/open-webui/open-webui",
+      "published": "2026-08-05 05:58:49 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/open-webui/open-webui\" rel=\"noreferrer",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16554183184",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/d3f08e0203...e368b25919",
-      "published": "2026-08-03 09:29:19 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:star/12782968643",
+      "title": "palewire starred jardon/gnome-mosaic",
+      "link": "https://github.com/jardon/gnome-mosaic",
+      "published": "2026-08-04 13:12:14 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/jardon/gnome-mosaic\" rel=\"noreferrer\">",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16554054796",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/847368f1c0...d3f08e0203",
-      "published": "2026-08-03 09:28:48 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:issue_assign/12773383763",
+      "title": "palewire assigned an issue in action-workflows",
+      "link": "https://github.com/reuters-graphics/action-workflows/issues/2",
+      "published": "2026-08-04 09:53:07 -0700",
+      "summary_raw": "<div class=\"issues_assigned js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          assigned\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16505011553",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/3ae06e95e4...7a1b596c9e",
-      "published": "2026-08-02 21:15:39 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:issue_assign/12773383718",
+      "title": "palewire assigned an issue in action-workflows",
+      "link": "https://github.com/reuters-graphics/action-workflows/issues/2",
+      "published": "2026-08-04 09:53:07 -0700",
+      "summary_raw": "<div class=\"issues_assigned js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          assigned\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16504921656",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/01278a12d0...3ae06e95e4",
-      "published": "2026-08-02 21:13:51 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16580539233",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/26f9aaf430...023455766b",
+      "published": "2026-08-03 14:07:11 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16504895349",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/9aa36ddf43...01278a12d0",
-      "published": "2026-08-02 21:13:20 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16580524981",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/9610358d28...6114748dba",
+      "published": "2026-08-03 13:31:09 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-add-reverse-geocoding\" rel=\"noreferrer\">palewire-add-reverse-geocoding</a>\n        in\n      <",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16504719820",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/9924725167...9aa36ddf43",
-      "published": "2026-08-02 21:09:56 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16578926256",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/9973e157c2...3a8a9eb3c5",
+      "published": "2026-08-03 13:48:07 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-add-reverse-geocoding\" rel=\"noreferrer\">palewire-add-reverse-geocoding</a>\n        in\n      <",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503743471",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/47a72f7c05...1b16617267",
-      "published": "2026-08-02 20:50:09 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16578416169",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/17946f4cdc...26f9aaf430",
+      "published": "2026-08-03 13:50:16 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503720103",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/4f20067c19...47a72f7c05",
-      "published": "2026-08-02 20:49:40 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:pr_merged/12700850086",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/484",
+      "published": "2026-08-03 06:50:14 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503700671",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/00acbd0aec...4f20067c19",
-      "published": "2026-08-02 20:49:16 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:issue_created/12700825233",
+      "title": "palewire opened an issue in action-workflows",
+      "link": "https://github.com/reuters-graphics/action-workflows/issues/2",
+      "published": "2026-08-03 06:49:51 -0700",
+      "summary_raw": "<div class=\"issues_opened js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/acti",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503673198",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/df9c8981ad...00acbd0aec",
-      "published": "2026-08-02 20:48:42 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16577630595",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/469bf1ae7d...9973e157c2",
+      "published": "2026-08-03 13:41:33 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-add-reverse-geocoding\" rel=\"noreferrer\">palewire-add-reverse-geocoding</a>\n        in\n      <",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503507440",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/cdecbb2415...df9c8981ad",
-      "published": "2026-08-02 20:45:18 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16577175790",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/12d07bc933...32812cb84e",
+      "published": "2026-08-03 13:39:50 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503473345",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/052e69c871...cdecbb2415",
-      "published": "2026-08-02 20:44:36 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16577098358",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/6114748dba...469bf1ae7d",
+      "published": "2026-08-03 13:31:39 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-add-reverse-geocoding\" rel=\"noreferrer\">palewire-add-reverse-geocoding</a>\n        in\n      <",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/16503233052",
-      "title": "palewire pushed trmnl-jazz-lineup",
-      "link": "https://github.com/kip-claw/trmnl-jazz-lineup/compare/e3c5ac0115...052e69c871",
-      "published": "2026-08-02 20:39:36 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/kip-claw/trmnl-jazz-lineup/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "id": "tag:github.com,2008:push/16576450565",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/b427c01138...9610358d28",
+      "published": "2026-08-03 13:27:26 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-add-reverse-geocoding\" rel=\"noreferrer\">palewire-add-reverse-geocoding</a>\n        in\n      <",
       "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "title": "Goodbye, Iowa. Hello, Michigan. Which Democratic primaries will matter most in 2028?",
-      "link": "https://www.natesilver.net/p/goodbye-iowa-hello-michigan-which",
-      "published": "Wed, 29 Jul 2026 18:05:25 GMT",
-      "summary_raw": "South Carolina will vote first, which could help moderates. But Michigan and Virginia may hold the real power.",
+      "id": "https://www.natesilver.net/p/what-to-make-of-michigan",
+      "title": "What to make of Michigan",
+      "link": "https://www.natesilver.net/p/what-to-make-of-michigan",
+      "published": "Wed, 05 Aug 2026 08:17:03 GMT",
+      "summary_raw": "Abdul El-Sayed&#8217;s apparent victory is a big win for the left &#8212; but a disaster for polling and a case study in poor expectations management.",
       "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
+      "title": "What Trump's latest slump means for the midterms",
+      "link": "https://www.natesilver.net/p/what-trumps-latest-slump-means-for",
+      "published": "Mon, 03 Aug 2026 17:45:42 GMT",
+      "summary_raw": "Could anything save Republicans in the House? Plus, previewing tomorrow&#8217;s Michigan primary. And our midterms model is coming soon!",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/data-journalism-2nd-edition-scraping",
+      "title": "Data + Journalism 2nd Edition: Scraping Excerpt",
+      "link": "https://journaliststoolbox.substack.com/p/data-journalism-2nd-edition-scraping",
+      "published": "Tue, 04 Aug 2026 12:42:16 GMT",
+      "summary_raw": "Aug. 4, 2026",
+      "source": "Journalist's Toolbox (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://www.poynter.org/?p=1203915",
-      "title": "Dana Bash did her job — and RFK Jr. didn’t handle it well",
-      "link": "https://www.poynter.org/commentary/2026/dana-bash-rfk-interview-state-of-the-union/",
-      "published": "Mon, 03 Aug 2026 11:30:16 +0000",
-      "summary_raw": "<p>It’s not unusual for things to get tense on a Sunday morning news program. Politicians are invited on to discuss critical issues and are often pressed to explain divisive positions. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/dana-bash-rfk-interview-state-of-the-union/\">Dana Bash did her job — and RFK Jr. didn’t handle it well</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://wan-ifra.org/?p=118467",
+      "title": "‘Don’t build on borrowed land’: Times Internet COO on building (and monetising) reader relationships",
+      "link": "https://wan-ifra.org/2026/08/dont-build-on-borrowed-land-times-internet-coo-on-the-shift-from-clicks-to-building-and-monetising-reader-relationships/",
+      "published": "Tue, 04 Aug 2026 10:03:45 +0000",
+      "summary_raw": "<p>As the fundamentals of traffic-based online publishing crumble, publishers need to move fast to redesign their businesses around loyal audiences, says Puneet Gupt: “The ad click era is over. The algorithm era is over. I think we are at the dawn of the relationship era.”</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/dont-build-on-borrowed-land-times-internet-coo-on-the-shift-from-clicks-to-building-and-monetising-reader-relationships/\">‘Don&#8217;t build on borrowed land’: Times Internet COO on building (and monetising) reader relationships</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=118446",
+      "title": "Unite for journalism: Ideas to help ignite World News Day",
+      "link": "https://wan-ifra.org/2026/08/unite-for-journalism-ideas-to-help-ignite-world-news-day/",
+      "published": "Tue, 04 Aug 2026 09:01:54 +0000",
+      "summary_raw": "<p>28 September, World News Day, is a moment to highlight and explain your most consequential journalism to the public – and show how and why you do it. Here are some ideas for you to take this year’s campaign to the next level. </p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/unite-for-journalism-ideas-to-help-ignite-world-news-day/\">Unite for journalism: Ideas to help ignite World News Day</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=118506",
+      "title": "Harvard Business Review’s Erika Heilman: Growth comes from knowing where to focus",
+      "link": "https://wan-ifra.org/2026/08/harvard-business-reviews-erika-heilman-growth-comes-from-knowing-where-to-focus/",
+      "published": "Mon, 03 Aug 2026 15:07:09 +0000",
+      "summary_raw": "<p>From premium subscriptions to AI, Erika Heilman explains why growth depends on customer insight, disciplined strategy and knowing what not to pursue.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/harvard-business-reviews-erika-heilman-growth-comes-from-knowing-where-to-focus/\">Harvard Business Review’s Erika Heilman: Growth comes from knowing where to focus</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252209",
+      "title": "U.S. news jobs are more than 3× more likely to be based in Manhattan than they were 25 years ago",
+      "link": "https://www.niemanlab.org/2026/08/u-s-news-jobs-are-more-than-3-more-likely-to-be-based-in-manhattan-than-they-were-25-years-ago/",
+      "published": "Mon, 03 Aug 2026 18:19:47 +0000",
+      "summary_raw": "Ten years ago, I wrote a piece on how the internet was sucking journalistic resources out of the middle of the country and concentrating it on the coasts — primarily New York City. While digital publishing theoretically could have distributed reporters away from high-cost cities, in reality, it reduced the financial returns on local reporting...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252195",
+      "title": "A record-breaking eight Pulitzer awardees disclosed AI use this year",
+      "link": "https://www.niemanlab.org/2026/08/a-record-breaking-eight-pulitzer-awardees-disclosed-ai-use-this-year/",
+      "published": "Mon, 03 Aug 2026 18:03:37 +0000",
+      "summary_raw": "A translation of a mass shooter&#8217;s cryptic journal in the days after an attack. A public records review that revealed failures to install flood warning systems in Central Texas. An exposé of American technology companies&#8217; complicity in building the Chinese surveillance state. An audit of the SEC&#8217;s crypto lawsuits that showed weakening enforcement under the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204065",
+      "title": "David Ellison broke months of silence on CNN’s future. His biggest critics won’t be reassured.",
+      "link": "https://www.poynter.org/commentary/2026/david-ellison-cnn-nyt-op-ed/",
+      "published": "Wed, 05 Aug 2026 11:30:58 +0000",
+      "summary_raw": "<p>For months, the biggest media story has been Paramount’s attempt to acquire Warner Bros. Discovery for $111 billion. The deal is now tangled up in the courts as attorneys general [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/david-ellison-cnn-nyt-op-ed/\">David Ellison broke months of silence on CNN’s future. His biggest critics won’t be reassured.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=252082",
-      "title": "Australia to tax Meta if it doesn’t pay news publishers",
-      "link": "https://pressgazette.co.uk/platforms/australia-to-tax-meta-if-it-doesnt-pay-news-publishers/",
-      "published": "Mon, 03 Aug 2026 07:20:03 +0000",
-      "summary_raw": "<div><img alt=\"A picture of a phone and social media apps in front of the Australian flag.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2025/12/socialmedia-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>News Bargaining Incentive to levy Google, Meta and Tiktok unless they sign commercial news deals.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/platforms/australia-to-tax-meta-if-it-doesnt-pay-news-publishers/\">Australia to tax Meta if it doesn&#8217;t pay news publishers</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://www.poynter.org/?p=1204063",
+      "title": "Aaron Rodgers keeps talking. And ESPN keeps handing him the mic.",
+      "link": "https://www.poynter.org/commentary/2026/aaron-rodgers-pat-mcafee-espn-fauci-platform/",
+      "published": "Wed, 05 Aug 2026 11:25:46 +0000",
+      "summary_raw": "<p>Let me be clear about something: Athletes — whether it’s Aaron Rodgers or Sophie Cunningham or Caitlin Clark — are free to say (or not say) whatever they want about [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/aaron-rodgers-pat-mcafee-espn-fauci-platform/\">Aaron Rodgers keeps talking. And ESPN keeps handing him the mic.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204021",
+      "title": "I taught prison reporting because I know how bad coverage can hurt",
+      "link": "https://www.poynter.org/commentary/analysis/2026/teaching-journalism-students-to-cover-prisons-with-humanity/",
+      "published": "Wed, 05 Aug 2026 11:00:27 +0000",
+      "summary_raw": "<p>I never thought I’d become a journalist. When I was younger, I resented journalists because news headlines were how I found out my dad was facing life in prison — [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/analysis/2026/teaching-journalism-students-to-cover-prisons-with-humanity/\">I taught prison reporting because I know how bad coverage can hurt</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204030",
+      "title": "Food recalls are making headlines. Here’s what the data and experts say.",
+      "link": "https://www.poynter.org/fact-checking/2026/is-food-getting-less-safe/",
+      "published": "Wed, 05 Aug 2026 10:30:54 +0000",
+      "summary_raw": "<p>The eggs are contaminated with salmonella. Frozen berries have been linked to an E. coli outbreak. Iceberg lettuce and who knows what else might give you explosive diarrhea. Some people [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/is-food-getting-less-safe/\">Food recalls are making headlines. Here’s what the data and experts say.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203990",
+      "title": "IndyStar exposes prison failures, shows us why investigative journalism matters",
+      "link": "https://www.poynter.org/reporting-editing/2026/indystar-exposes-prison-failures-shows-why-investigations-matters/",
+      "published": "Wed, 05 Aug 2026 09:00:42 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/indystar-exposes-prison-failures-shows-why-investigations-matters/\">IndyStar exposes prison failures, shows us why investigative journalism matters</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203962",
+      "title": "Election mistrust runs high. Your newsroom can help.",
+      "link": "https://www.poynter.org/reporting-editing/2026/how-newsrooms-can-build-trust-in-elections/",
+      "published": "Tue, 04 Aug 2026 16:00:30 +0000",
+      "summary_raw": "<p>When it comes to building public trust in the November elections, state and local newsrooms have their work cut out for them.  The discovery in New Jersey that the state [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/how-newsrooms-can-build-trust-in-elections/\">Election mistrust runs high. Your newsroom can help.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203973",
+      "title": "The Trump administration’s hunt for leakers targets yet another journalist",
+      "link": "https://www.poynter.org/commentary/2026/trump-subpoenas-another-nyt-reporter-leaks-north-korea/",
+      "published": "Tue, 04 Aug 2026 11:30:27 +0000",
+      "summary_raw": "<p>Here we go again. The Trump administration is going after a reporter in its seemingly endless search to identify leakers. And the latest situation involves another reporter with ties to [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-subpoenas-another-nyt-reporter-leaks-north-korea/\">The Trump administration’s hunt for leakers targets yet another journalist</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203950",
+      "title": "The journalist who got the job you wanted can still help your career",
+      "link": "https://www.poynter.org/commentary/2026/what-to-do-when-you-dont-get-the-journalism-job/",
+      "published": "Tue, 04 Aug 2026 11:00:07 +0000",
+      "summary_raw": "<p>As children, we are conditioned to compete with our peers. The overachievers tussle over who will be at the top of the class. You go up for the lead role [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/what-to-do-when-you-dont-get-the-journalism-job/\">The journalist who got the job you wanted can still help your career</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1203978",
+      "title": "Did Fauci’s private diary contradict what he told the public?",
+      "link": "https://www.poynter.org/fact-checking/2026/what-faucis-private-covid-diary-actually-reveals/",
+      "published": "Tue, 04 Aug 2026 10:30:06 +0000",
+      "summary_raw": "<p>Equipped with newly released diary entries by former U.S. infectious disease chief Dr. Anthony Fauci, U.S. senators and others said that what he told the public at the height of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/what-faucis-private-covid-diary-actually-reveals/\">Did Fauci&#8217;s private diary contradict what he told the public?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255759",
+      "title": "‘Super users’ drive engagement as more people spend time on mobile apps",
+      "link": "https://pressgazette.co.uk/publishing-services-content/mobile-app-super-users-engagement-report-pugpig/",
+      "published": "Wed, 05 Aug 2026 10:45:02 +0000",
+      "summary_raw": "<div><img alt=\"Apple News app on iPhone\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/08/iphone-3505728_1920-e1683014824936-526x394.jpg\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>Mobile app users' habits revealed in media report from Pugpig offering industry benchmarks.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishing-services-content/mobile-app-super-users-engagement-report-pugpig/\">&#8216;Super users&#8217; drive engagement as more people spend time on mobile apps</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255842",
+      "title": "What I’ve learned: Computer Weekly editor Bryan Glick who exposed Post Office IT scandal",
+      "link": "https://pressgazette.co.uk/news-leaders/byan-glick/",
+      "published": "Wed, 05 Aug 2026 09:03:33 +0000",
+      "summary_raw": "<div><img alt=\"Bryan Glick. Picture: Submitted\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/bryanglickpic-scaled-e1785919682898-524x394.jpg\" style=\"margin-bottom: 15px;\" width=\"524\" /></div>\n<p>Campaigning editor shares his insights and warns Google is 'killing quality journalism'.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news-leaders/byan-glick/\">What I&#8217;ve learned: Computer Weekly editor Bryan Glick who exposed Post Office IT scandal</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255587",
+      "title": "Live blogging mastery: Tips for publishers from Guardian’s Andrew Sparrow",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/live-blogging-mastery-tips-for-publishers-from-guardians-andrew-sparrow/",
+      "published": "Wed, 05 Aug 2026 08:44:43 +0000",
+      "summary_raw": "<div><img alt=\"Andrew Sparrow in front of Houses of Parliament.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/andrewsparrow-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>The Guardian gets 15% of its total page views from live blogs.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/live-blogging-mastery-tips-for-publishers-from-guardians-andrew-sparrow/\">Live blogging mastery: Tips for publishers from Guardian&#8217;s Andrew Sparrow</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255741",
+      "title": "Belfast News Letter editor Ben Lowry made redundant",
+      "link": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/belfast-news-letter-editor-ben-lowry-made-redundant/",
+      "published": "Tue, 04 Aug 2026 10:02:15 +0000",
+      "summary_raw": "<div><img alt=\"Belfast News Letter front page from March 2026 to illustrate story about departure of editor Ben Lowry\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/belnl-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Iconic Media planning to create role of group editorial director for Northern Ireland.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/media-jobs-uk-news/belfast-news-letter-editor-ben-lowry-made-redundant/\">Belfast News Letter editor Ben Lowry made redundant</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255765",
+      "title": "The prisoner’s dilemma: Why UK publishers are signing Google AI deals",
+      "link": "https://pressgazette.co.uk/news/google-ai-deals-uk-publishers/",
+      "published": "Tue, 04 Aug 2026 08:55:05 +0000",
+      "summary_raw": "<div><img alt=\"Picture of male prisoner dressed in suit shown from neck down. He is wearing handcuffs held up towards the camera with a brown envelope in his hands\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/prisoner-591x394.jpg\" style=\"margin-bottom: 15px;\" width=\"591\" /></div>\n<p>Is short-term revenue and traffic being prioritised over long-term health of news industry?</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/google-ai-deals-uk-publishers/\">The prisoner&#8217;s dilemma: Why UK publishers are signing Google AI deals</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=253535",
+      "title": "Tony Livesey leaves 5 Live following allegations against former Daily Star boss David Sullivan",
+      "link": "https://pressgazette.co.uk/news/tony-livesey-bbc/",
+      "published": "Mon, 03 Aug 2026 14:40:29 +0000",
+      "summary_raw": "<div><img alt=\"Tony Livesey with David Sullivan. Picture: BBC Panorama.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/livesey-e1780996109338-527x394.jpg\" style=\"margin-bottom: 15px;\" width=\"527\" /></div>\n<p>Story updated as Livesey leaves BBC radio show after 16 years.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/tony-livesey-bbc/\">Tony Livesey leaves 5 Live following allegations against former Daily Star boss David Sullivan</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=255723",
+      "title": "‘Funny and excoriating’ Sun columnist and broadcaster Rod Liddle dies aged 66",
+      "link": "https://pressgazette.co.uk/the-wire/sun-rod-liddle-dies-aged-66-obituary/",
+      "published": "Mon, 03 Aug 2026 14:02:38 +0000",
+      "summary_raw": "<div><img alt=\"Rod Liddle headshot with title &#039;Presenter, Times Radio&#039; written on a banner below.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/rodliddletimesradio-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Liddle wrote a column for The Sunday Times and presented a show on Times Radio.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/sun-rod-liddle-dies-aged-66-obituary/\">&#8216;Funny and excoriating&#8217; Sun columnist and broadcaster Rod Liddle dies aged 66</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
