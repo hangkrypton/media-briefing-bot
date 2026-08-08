@@ -1,89 +1,16 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "published": "Thu, 06 Aug 2026 15:06:15 +0000",
-      "summary_raw": "",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/baseten",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "link": "https://huggingface.co/blog/baseten",
-      "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/allenai/tutormoments",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "published": "Fri, 07 Aug 2026 17:53:32 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [],
-  "market": [
-    {
-      "id": "https://wan-ifra.org/?p=118812",
-      "title": "3 separate audits, 3 research teams: 1 common failure",
-      "link": "https://wan-ifra.org/2026/08/3-separate-audits-3-research-teams-1-common-failure/",
-      "published": "Fri, 07 Aug 2026 11:03:21 +0000",
-      "summary_raw": "<p>While AI chatbots pass basic fact-checks, new research suggest they struggle with critical context, rejecting malicious prompts and laundering conspiracy theories. As chatbots become primary news sources, these systemic failures demand urgent regulatory action and rigorous human-led verification.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/3-separate-audits-3-research-teams-1-common-failure/\">3 separate audits, 3 research teams: 1 common failure</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=118789",
-      "title": "‘Reject, then launder:’ How getting the facts right does not stop chatbots fuelling harm",
-      "link": "https://wan-ifra.org/2026/08/reject-then-launder-how-getting-the-facts-right-does-not-stop-chatbots-fuelling-harm-by-softening-narratives/",
-      "published": "Fri, 07 Aug 2026 09:30:25 +0000",
-      "summary_raw": "<p>Fifteen years after the 22 July, 2011 Norway attacks, public understanding remains clear. Yet when users turn to AI for nuance, the narrative shifts from fact to dangerous ambiguity, according to a new study by Factiverse. Here is how this systematic distortion occurs – and why it matters for informational integrity.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/reject-then-launder-how-getting-the-facts-right-does-not-stop-chatbots-fuelling-harm-by-softening-narratives/\">‘Reject, then launder:’ How getting the facts right does not stop chatbots fuelling harm</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=252327",
-      "title": "America’s largest newspaper chain, USA Today Co., partners with Palantir to analyze audience data as search traffic falls",
-      "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "published": "Thu, 06 Aug 2026 20:58:18 +0000",
-      "summary_raw": "USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company announced on Thursday. In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to &#8220;strengthen how we collect, connect and activate audience data to drive...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=252323",
-      "title": "Grokipedia, Elon Musk’s anti-woke AI Wikipedia, seems to have stopped updating in April",
-      "link": "https://www.niemanlab.org/2026/08/grokipedia-elon-musks-anti-woke-ai-wikipedia-seems-to-have-stopped-updating-in-april/",
-      "published": "Thu, 06 Aug 2026 16:01:24 +0000",
-      "summary_raw": "Elon Musk launched Grokipedia last October as an anti-woke, AI-powered Wikipedia. It is, Renée DiResta wrote for The Atlantic at the time, part of &#8220;an escalating campaign to discredit Wikipedia and reshape what counts as a reliable source of basic information in the age of AI.&#8221; Grokipedia allows humans to suggest edits, but Columbia&#8217;s Tow...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204232",
-      "title": "Donald Trump accuses The Washington Post of treason",
-      "link": "https://www.poynter.org/commentary/2026/donald-trump-accuses-the-washington-post-of-treason/",
-      "published": "Fri, 07 Aug 2026 11:30:05 +0000",
-      "summary_raw": "<p>Earlier this week, The Washington Post published a story that said President Donald Trump, frustrated by the U.S.’s war with Iran, clashed with Defense Secretary Pete Hegseth last week at [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/donald-trump-accuses-the-washington-post-of-treason/\">Donald Trump accuses The Washington Post of treason</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204171",
-      "title": "USA Today Co. announces partnership with data analytics giant Palantir",
-      "link": "https://www.poynter.org/business-work/2026/usa-today-parnership-deal-palantir/",
-      "published": "Thu, 06 Aug 2026 16:31:29 +0000",
-      "summary_raw": "<p>USA Today Co., the largest newspaper chain in the country, announced Thursday that it is partnering with technology company Palantir to better monetize its customer data. The news came during [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/usa-today-parnership-deal-palantir/\">USA Today Co. announces partnership with data analytics giant Palantir</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=255953",
-      "title": "What I’ve learned: NCTJ chief executive Joanne Forbes",
-      "link": "https://pressgazette.co.uk/news-leaders/what-ive-learned-with-nctj-chief-executive-joanne-forbes/",
-      "published": "Fri, 07 Aug 2026 12:14:49 +0000",
-      "summary_raw": "<div><img alt=\"Joanne Forbes. Picture: Submitted\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/joanna_forbes-e1786104624309-541x394.png\" style=\"margin-bottom: 15px;\" width=\"541\" /></div>\n<p>Joanne shares her insights from a 30-year career in media.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news-leaders/what-ive-learned-with-nctj-chief-executive-joanne-forbes/\">What I&#8217;ve learned: NCTJ chief executive Joanne Forbes</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=255895",
-      "title": "Non-website audience is focus of revenue growth for new Business Insider CEO",
-      "link": "https://pressgazette.co.uk/publishers/digital-journalism/non-website-audience-is-focus-of-revenue-growth-for-new-business-insider-ceo/",
-      "published": "Fri, 07 Aug 2026 10:46:27 +0000",
-      "summary_raw": "<div><img alt=\"Business Insider CEO Christian Baesler headshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/christianbusinessinsider-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Christian Baesler shares his growth plans for Business Insider after being named permanent CEO.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/non-website-audience-is-focus-of-revenue-growth-for-new-business-insider-ceo/\">Non-website audience is focus of revenue growth for new Business Insider CEO</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    }
-  ],
+  "market": [],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
