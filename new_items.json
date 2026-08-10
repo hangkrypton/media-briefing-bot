@@ -1,23 +1,6 @@
 {
   "ai": [],
-  "tools": [
-    {
-      "id": "tag:github.com,2008:pr_created/12844515494",
-      "title": "palewire contributed to reuters-graphics/graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/486",
-      "published": "2026-08-05 13:23:20 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://wondertools.substack.com/p/wonder-tools-catch-up-on-recent-posts-2d0",
-      "title": "In Case You Missed It ✨",
-      "link": "https://wondertools.substack.com/p/wonder-tools-catch-up-on-recent-posts-2d0",
-      "published": "Sat, 08 Aug 2026 14:55:32 GMT",
-      "summary_raw": "Catch up on recent Wonder Tools posts about AI tools, private setups, and clear thinking",
-      "source": "Wonder Tools (Substack)"
-    }
-  ],
+  "tools": [],
   "market": [],
   "gmail_pending": [
     {
