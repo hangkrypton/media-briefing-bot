@@ -1,7 +1,162 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "published": "Tue, 11 Aug 2026 13:37:10 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "published": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "published": "Mon, 10 Aug 2026 10:05:36 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/muse-glimmer",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "link": "https://huggingface.co/blog/muse-glimmer",
+      "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "https://www.natesilver.net/p/everything-is-breaking-democrats-way",
+      "title": "Everything is breaking Democrats’ way. Is it enough to win the Senate?",
+      "link": "https://www.natesilver.net/p/everything-is-breaking-democrats-way",
+      "published": "Tue, 11 Aug 2026 17:39:41 GMT",
+      "summary_raw": "Our midterms model finds that polls, fundamentals and history all point toward a strong Democratic year. The House is theirs to lose, but winning four Senate seats is still a tall order.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "title": "FLIPR 2026 midterm election forecast",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "published": "Tue, 11 Aug 2026 17:38:55 GMT",
+      "summary_raw": "Silver Bulletin's prediction for every Senate, House, and gubernatorial election in 2026.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/flipr-midterms-model-methodology",
+      "title": "How FLIPR forecasts the midterm elections",
+      "link": "https://www.natesilver.net/p/flipr-midterms-model-methodology",
+      "published": "Tue, 11 Aug 2026 17:33:21 GMT",
+      "summary_raw": "And what changes we've made to the model for 2026.",
+      "source": "Nate Silver"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=118721",
+      "title": "NDTV’s AI strategy is less about models and more about what publishers build around them",
+      "link": "https://wan-ifra.org/2026/08/ndtv-ai-strategy-publishers-build-around-models/",
+      "published": "Mon, 10 Aug 2026 14:45:41 +0000",
+      "summary_raw": "<p>The company’s Chief Product Officer shares how the Indian publisher is using AI for newsroom tools, audience products and new ways of delivering news.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/ndtv-ai-strategy-publishers-build-around-models/\">NDTV&#8217;s AI strategy is less about models and more about what publishers build around them</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252403",
+      "title": "The Society of Professional Journalists proposes edits to its code of ethics for the AI age",
+      "link": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
+      "published": "Tue, 11 Aug 2026 19:36:35 +0000",
+      "summary_raw": "On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252347",
+      "title": "We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information",
+      "link": "https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/",
+      "published": "Tue, 11 Aug 2026 15:40:59 +0000",
+      "summary_raw": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252351",
+      "title": "“An inherent conflict of interest”: More than 800 USA Today Co. employees want the company to end its new Palantir partnership",
+      "link": "https://www.niemanlab.org/2026/08/an-inherent-conflict-of-interest-800-usa-today-co-employees-want-the-company-to-end-its-new-palantir-partnership/",
+      "published": "Mon, 10 Aug 2026 16:46:51 +0000",
+      "summary_raw": "More than 800 USA Today Co. employees are calling on the company to dissolve its recently announced partnership with Palantir, according to a joint statement from 31 unionized newsrooms published Monday. &#8220;While USA Today Co. CEO Mike Reed championed this partnership as a way to drive revenue, we believe it threatens to undermine trust in...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204700",
+      "title": "Trump left Air Force One because of a threat. Journalists stayed aboard.",
+      "link": "https://www.poynter.org/commentary/2026/trump-air-force-one-decoy-reporters-threat/",
+      "published": "Wed, 12 Aug 2026 11:30:00 +0000",
+      "summary_raw": "<p>The media world is still buzzing about a massive scoop from The Washington Post earlier this week. The situation was already strange. The Post’s reporting made it even wilder. It [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-air-force-one-decoy-reporters-threat/\">Trump left Air Force One because of a threat. Journalists stayed aboard.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204535",
+      "title": "PolitiFact announces nationwide partnership network to fact-check critical 2026 midterm elections",
+      "link": "https://www.poynter.org/news-release/2026/politifact-announces-nationwide-partnership-network-to-fact-check-critical-2026-midterm-elections/",
+      "published": "Wed, 12 Aug 2026 11:00:49 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Florida (August 12,2026) — PolitiFact, the Pulitzer Prize-winning fact-checking news organization, today announced its most extensive partnership network to date for the 2026 midterm election cycle. Building on [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/politifact-announces-nationwide-partnership-network-to-fact-check-critical-2026-midterm-elections/\">PolitiFact announces nationwide partnership network to fact-check critical 2026 midterm elections</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204484",
+      "title": "Trump’s FCC is poised for a further shift to the right",
+      "link": "https://www.poynter.org/commentary/2026/trump-nominated-danielle-thumann-severs-fcc/",
+      "published": "Tue, 11 Aug 2026 11:30:18 +0000",
+      "summary_raw": "<p>In a move that could further politicize the Federal Communications Commission, President Donald Trump has nominated Danielle Thumann Severs, a longtime aide to FCC Chairman Brendan Carr, to fill one [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-nominated-danielle-thumann-severs-fcc/\">Trump’s FCC is poised for a further shift to the right</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204463",
+      "title": "Don’t feel bad about following up with editors. It’s part of the job.",
+      "link": "https://www.poynter.org/commentary/2026/journalists-follow-up-job-applications/",
+      "published": "Tue, 11 Aug 2026 11:00:36 +0000",
+      "summary_raw": "<p>One of my favorite scenes in “All the President’s Men” involves Carl Bernstein hustling his way into the home of a source who might be able to tell him what [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalists-follow-up-job-applications/\">Don’t feel bad about following up with editors. It’s part of the job. </a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204493",
+      "title": "Trump keeps talking about construction. We counted how much.",
+      "link": "https://www.poynter.org/fact-checking/2026/trump-construction-white-house-washington-45000-words/",
+      "published": "Tue, 11 Aug 2026 10:30:23 +0000",
+      "summary_raw": "<p>On a cool May evening, President Donald Trump stood at the under-construction Lincoln Memorial Reflecting Pool and spoke with reporters about the project, which would become a major focus of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-construction-white-house-washington-45000-words/\">Trump keeps talking about construction. We counted how much.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204391",
+      "title": "What 100-plus federal actions reveal about the Trump administration’s campaign against the press",
+      "link": "https://www.poynter.org/business-work/2026/trump-press-freedom/",
+      "published": "Mon, 10 Aug 2026 18:39:09 +0000",
+      "summary_raw": "<p>A year and a half ago, an independent body was still in charge of the White House press pool. Public broadcasters received hundreds of millions of dollars in federal support. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/trump-press-freedom/\">What 100-plus federal actions reveal about the Trump administration’s campaign against the press</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204433",
+      "title": "USA Today Co. unions call on the company to cut ties with Palantir",
+      "link": "https://www.poynter.org/business-work/2026/usa-today-co-unions-call-on-the-company-to-cut-ties-with-palantir/",
+      "published": "Mon, 10 Aug 2026 18:37:30 +0000",
+      "summary_raw": "<p>Just days after USA Today Co. announced a new deal with technology company Palantir to help monetize its users’ data, unionized employees across the country are calling on the company [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/usa-today-co-unions-call-on-the-company-to-cut-ties-with-palantir/\">USA Today Co. unions call on the company to cut ties with Palantir</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204328",
+      "title": "Q&A: Peter Alexander wants facts, not shouting matches, at MS NOW",
+      "link": "https://www.poynter.org/commentary/2026/peter-alexander-ms-now-state-of-play/",
+      "published": "Mon, 10 Aug 2026 11:30:58 +0000",
+      "summary_raw": "<p>Peter Alexander returned to television last week. It seems odd to say “returned” because Alexander has spent most of the past 22 years on American TV screens, covering some of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/peter-alexander-ms-now-state-of-play/\">Q&#038;A: Peter Alexander wants facts, not shouting matches, at MS NOW</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
