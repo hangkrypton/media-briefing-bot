@@ -1,159 +1,199 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "published": "Tue, 11 Aug 2026 13:37:10 GMT",
+      "id": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "title": "Putting sign language AI into users’ hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "published": "Wed, 12 Aug 2026 14:01:59 +0000",
+      "summary_raw": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "published": "Wed, 12 Aug 2026 16:14:36 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "published": "Mon, 10 Aug 2026 16:25:36 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "published": "Mon, 10 Aug 2026 10:05:36 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/muse-glimmer",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "link": "https://huggingface.co/blog/muse-glimmer",
-      "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "published": "Wed, 12 Aug 2026 14:00:51 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "https://www.natesilver.net/p/everything-is-breaking-democrats-way",
-      "title": "Everything is breaking Democrats’ way. Is it enough to win the Senate?",
-      "link": "https://www.natesilver.net/p/everything-is-breaking-democrats-way",
-      "published": "Tue, 11 Aug 2026 17:39:41 GMT",
-      "summary_raw": "Our midterms model finds that polls, fundamentals and history all point toward a strong Democratic year. The House is theirs to lose, but winning four Senate seats is still a tall order.",
-      "source": "Nate Silver"
+      "id": "tag:github.com,2008:push/17566847620",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0dbd1fec8e...8d24c77274",
+      "published": "2026-08-13 12:31:33 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "title": "FLIPR 2026 midterm election forecast",
-      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
-      "published": "Tue, 11 Aug 2026 17:38:55 GMT",
-      "summary_raw": "Silver Bulletin's prediction for every Senate, House, and gubernatorial election in 2026.",
-      "source": "Nate Silver"
+      "id": "tag:github.com,2008:push/17565976503",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/b3b3f95e29...0dbd1fec8e",
+      "published": "2026-08-13 12:20:18 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/flipr-midterms-model-methodology",
-      "title": "How FLIPR forecasts the midterm elections",
-      "link": "https://www.natesilver.net/p/flipr-midterms-model-methodology",
-      "published": "Tue, 11 Aug 2026 17:33:21 GMT",
-      "summary_raw": "And what changes we've made to the model for 2026.",
-      "source": "Nate Silver"
+      "id": "tag:github.com,2008:pr_merged/13226993816",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/495",
+      "published": "2026-08-13 05:20:16 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17565766071",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/bf75bb49a9...21d24f1520",
+      "published": "2026-08-13 12:17:46 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-tilemap-terrain-props\" rel=\"noreferrer\">palewire-tilemap-terrain-props</a>\n        in\n      <",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17556007860",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/aa8d0a9eb9...bf75bb49a9",
+      "published": "2026-08-13 10:09:18 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-tilemap-terrain-props\" rel=\"noreferrer\">palewire-tilemap-terrain-props</a>\n        in\n      <",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17554523830",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/e3f1957942...aa8d0a9eb9",
+      "published": "2026-08-13 09:49:55 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-tilemap-terrain-props\" rel=\"noreferrer\">palewire-tilemap-terrain-props</a>\n        in\n      <",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/13201623579",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/495",
+      "published": "2026-08-12 18:41:52 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17526646739",
+      "title": "palewire created a branch",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...e3f1957942",
+      "published": "2026-08-13 01:41:36 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17524973377",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/c16b7cf231...889d23a5f3",
+      "published": "2026-08-13 01:00:23 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-urban-fishstick\" rel=\"noreferrer\">palewire-urban-fishstick</a>\n        in\n      <a class=\"Lin",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/13195778742",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/494",
+      "published": "2026-08-12 15:32:18 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17518895407",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/79d29e19cd...b3b3f95e29",
+      "published": "2026-08-12 22:32:20 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/13195700761",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/494",
+      "published": "2026-08-12 15:30:06 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17514905190",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/033d187675...c16b7cf231",
+      "published": "2026-08-12 21:11:14 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/palewire-urban-fishstick\" rel=\"noreferrer\">palewire-urban-fishstick</a>\n        in\n      <a class=\"Lin",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17514220115",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/f774d8d23c...79d29e19cd",
+      "published": "2026-08-12 20:58:58 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17514142935",
+      "title": "palewire created a branch",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...885cbb4c22",
+      "published": "2026-08-12 20:57:31 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=118721",
-      "title": "NDTV’s AI strategy is less about models and more about what publishers build around them",
-      "link": "https://wan-ifra.org/2026/08/ndtv-ai-strategy-publishers-build-around-models/",
-      "published": "Mon, 10 Aug 2026 14:45:41 +0000",
-      "summary_raw": "<p>The company’s Chief Product Officer shares how the Indian publisher is using AI for newsroom tools, audience products and new ways of delivering news.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/ndtv-ai-strategy-publishers-build-around-models/\">NDTV&#8217;s AI strategy is less about models and more about what publishers build around them</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
+      "id": "https://www.ire.org/?p=210792",
+      "title": "Using LLMs in Data Journalism Can Be Trustworthy, If These Five Elements Are In Your Methodology",
+      "link": "https://www.ire.org/2026/08/13/using-llms-in-data-journalism-can-be-trustworthy-if-these-five-elements-are-in-your-methodology/",
+      "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "summary_raw": "<p>Hed: Using LLMs in Data Journalism Can Be Trustworthy, If These Five Elements Are In Your Methodology By By Jeremy B. Merrill, The Washington Post &#124; Published August 13, 2026 &#160; Nadia Nadesan &#38; Digit / https://betterimagesofai.org / https://creativecommons.org/licenses/by/4.0/ AI may bode ill for the journalism industry as a whole, but for us data journalists,&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/08/13/using-llms-in-data-journalism-can-be-trustworthy-if-these-five-elements-are-in-your-methodology/\">Using LLMs in Data Journalism Can Be Trustworthy, If These Five Elements Are In Your Methodology</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
     },
     {
-      "id": "https://www.niemanlab.org/?p=252403",
-      "title": "The Society of Professional Journalists proposes edits to its code of ethics for the AI age",
-      "link": "https://www.niemanlab.org/2026/08/the-society-of-professional-journalists-proposes-edits-to-its-code-of-ethics-for-the-ai-age/",
-      "published": "Tue, 11 Aug 2026 19:36:35 +0000",
-      "summary_raw": "On Monday, the Society of Professional Journalists (SPJ) dropped new proposed revisions to its code of ethics — the first revision to one of the most-cited media ethics standards in the country since 2014. As any Nieman Lab reader knows, journalism has seen drastic changes since 2014. One major shift in the last 12 years?...",
+      "id": "https://www.niemanlab.org/?p=252452",
+      "title": "Remember that raid on a small-town Kansas newspaper? The city has agreed to pay one reporter $850,000",
+      "link": "https://www.niemanlab.org/2026/08/remember-that-raid-on-a-small-town-kansas-newspaper-the-city-has-agreed-to-pay-one-reporter-850000/",
+      "published": "Wed, 12 Aug 2026 20:45:09 +0000",
+      "summary_raw": "On August 11, 2023, local law enforcement seized electronics and reporting materials from the Marion County Record in a raid that provoked a national outcry over the blatant press freedom violation in small-town Kansas. The raid led to multiple federal lawsuits against the county government, public officials, and the city, accusing them of retaliating against...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=252347",
-      "title": "We analyzed 6,400 New York Times stories to find out how comments change when you give readers more information",
-      "link": "https://www.niemanlab.org/2026/08/we-analyzed-6400-new-york-times-stories-to-find-out-how-comments-change-when-you-give-readers-more-information/",
-      "published": "Tue, 11 Aug 2026 15:40:59 +0000",
-      "summary_raw": "Journalism exists to tell people what&#8217;s happening and give them what they need to understand it. That mission does not bend to budget or format. A story about a school board vote and a story about housing prices are both doing an essential job, just at different depths. The assumption underlying both types of stories...",
+      "id": "https://www.niemanlab.org/?p=252417",
+      "title": "Japanese publishers are fighting imposter news sites with a cryptographic signature",
+      "link": "https://www.niemanlab.org/2026/08/japanese-publishers-are-fighting-imposter-news-sites-with-a-cryptographic-signature/",
+      "published": "Wed, 12 Aug 2026 19:21:35 +0000",
+      "summary_raw": "On January 1, 2024, a 7.5 magnitude earthquake struck Japan&#8217;s Noto Peninsula, killing more than 700 people. In the days that followed, AI-generated images of the wreckage circulated widely and fake philanthropic websites scammed people out of donations. False claims that people were trapped under rubble diverted rescue efforts away from the places that needed...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=252351",
-      "title": "“An inherent conflict of interest”: More than 800 USA Today Co. employees want the company to end its new Palantir partnership",
-      "link": "https://www.niemanlab.org/2026/08/an-inherent-conflict-of-interest-800-usa-today-co-employees-want-the-company-to-end-its-new-palantir-partnership/",
-      "published": "Mon, 10 Aug 2026 16:46:51 +0000",
-      "summary_raw": "More than 800 USA Today Co. employees are calling on the company to dissolve its recently announced partnership with Palantir, according to a joint statement from 31 unionized newsrooms published Monday. &#8220;While USA Today Co. CEO Mike Reed championed this partnership as a way to drive revenue, we believe it threatens to undermine trust in...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204700",
-      "title": "Trump left Air Force One because of a threat. Journalists stayed aboard.",
-      "link": "https://www.poynter.org/commentary/2026/trump-air-force-one-decoy-reporters-threat/",
-      "published": "Wed, 12 Aug 2026 11:30:00 +0000",
-      "summary_raw": "<p>The media world is still buzzing about a massive scoop from The Washington Post earlier this week. The situation was already strange. The Post’s reporting made it even wilder. It [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-air-force-one-decoy-reporters-threat/\">Trump left Air Force One because of a threat. Journalists stayed aboard.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1204816",
+      "title": "Karoline Leavitt to step down as White House press secretary",
+      "link": "https://www.poynter.org/commentary/2026/karoline-leavitt-steps-down-cnn-for-sale-forbes-editor-fired/",
+      "published": "Thu, 13 Aug 2026 11:30:17 +0000",
+      "summary_raw": "<p>Good morning, everyone. Tom Jones is out today, but the team at Poynter is keeping tabs on the latest media news and analysis. White House press secretary Karoline Leavitt will [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/karoline-leavitt-steps-down-cnn-for-sale-forbes-editor-fired/\">Karoline Leavitt to step down as White House press secretary</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1204535",
-      "title": "PolitiFact announces nationwide partnership network to fact-check critical 2026 midterm elections",
-      "link": "https://www.poynter.org/news-release/2026/politifact-announces-nationwide-partnership-network-to-fact-check-critical-2026-midterm-elections/",
-      "published": "Wed, 12 Aug 2026 11:00:49 +0000",
-      "summary_raw": "<p>ST. PETERSBURG, Florida (August 12,2026) — PolitiFact, the Pulitzer Prize-winning fact-checking news organization, today announced its most extensive partnership network to date for the 2026 midterm election cycle. Building on [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/politifact-announces-nationwide-partnership-network-to-fact-check-critical-2026-midterm-elections/\">PolitiFact announces nationwide partnership network to fact-check critical 2026 midterm elections</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1204739",
+      "title": "Journalists are everywhere in fiction. Here are 20 of the most iconic.",
+      "link": "https://www.poynter.org/reporting-editing/2026/best-fictional-journalists-movies-tv/",
+      "published": "Thu, 13 Aug 2026 11:00:35 +0000",
+      "summary_raw": "<p>It’s no wonder that journalists show up so often in fiction. They are the truth-seekers, the villain-uncoverers, the ones willing to put themselves on the line for the sake of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/best-fictional-journalists-movies-tv/\">Journalists are everywhere in fiction. Here are 20 of the most iconic.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1204484",
-      "title": "Trump’s FCC is poised for a further shift to the right",
-      "link": "https://www.poynter.org/commentary/2026/trump-nominated-danielle-thumann-severs-fcc/",
-      "published": "Tue, 11 Aug 2026 11:30:18 +0000",
-      "summary_raw": "<p>In a move that could further politicize the Federal Communications Commission, President Donald Trump has nominated Danielle Thumann Severs, a longtime aide to FCC Chairman Brendan Carr, to fill one [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-nominated-danielle-thumann-severs-fcc/\">Trump’s FCC is poised for a further shift to the right</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204463",
-      "title": "Don’t feel bad about following up with editors. It’s part of the job.",
-      "link": "https://www.poynter.org/commentary/2026/journalists-follow-up-job-applications/",
-      "published": "Tue, 11 Aug 2026 11:00:36 +0000",
-      "summary_raw": "<p>One of my favorite scenes in “All the President’s Men” involves Carl Bernstein hustling his way into the home of a source who might be able to tell him what [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalists-follow-up-job-applications/\">Don’t feel bad about following up with editors. It’s part of the job. </a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204493",
-      "title": "Trump keeps talking about construction. We counted how much.",
-      "link": "https://www.poynter.org/fact-checking/2026/trump-construction-white-house-washington-45000-words/",
-      "published": "Tue, 11 Aug 2026 10:30:23 +0000",
-      "summary_raw": "<p>On a cool May evening, President Donald Trump stood at the under-construction Lincoln Memorial Reflecting Pool and spoke with reporters about the project, which would become a major focus of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-construction-white-house-washington-45000-words/\">Trump keeps talking about construction. We counted how much.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204391",
-      "title": "What 100-plus federal actions reveal about the Trump administration’s campaign against the press",
-      "link": "https://www.poynter.org/business-work/2026/trump-press-freedom/",
-      "published": "Mon, 10 Aug 2026 18:39:09 +0000",
-      "summary_raw": "<p>A year and a half ago, an independent body was still in charge of the White House press pool. Public broadcasters received hundreds of millions of dollars in federal support. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/trump-press-freedom/\">What 100-plus federal actions reveal about the Trump administration’s campaign against the press</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204433",
-      "title": "USA Today Co. unions call on the company to cut ties with Palantir",
-      "link": "https://www.poynter.org/business-work/2026/usa-today-co-unions-call-on-the-company-to-cut-ties-with-palantir/",
-      "published": "Mon, 10 Aug 2026 18:37:30 +0000",
-      "summary_raw": "<p>Just days after USA Today Co. announced a new deal with technology company Palantir to help monetize its users’ data, unionized employees across the country are calling on the company [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/usa-today-co-unions-call-on-the-company-to-cut-ties-with-palantir/\">USA Today Co. unions call on the company to cut ties with Palantir</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1204328",
-      "title": "Q&A: Peter Alexander wants facts, not shouting matches, at MS NOW",
-      "link": "https://www.poynter.org/commentary/2026/peter-alexander-ms-now-state-of-play/",
-      "published": "Mon, 10 Aug 2026 11:30:58 +0000",
-      "summary_raw": "<p>Peter Alexander returned to television last week. It seems odd to say “returned” because Alexander has spent most of the past 22 years on American TV screens, covering some of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/peter-alexander-ms-now-state-of-play/\">Q&#038;A: Peter Alexander wants facts, not shouting matches, at MS NOW</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1204536",
+      "title": "Read your work out loud and other tips for finding your writing voice",
+      "link": "https://www.poynter.org/reporting-editing/2026/read-your-work-out-loud-and-other-tips-for-finding-your-writing-voice/",
+      "published": "Wed, 12 Aug 2026 14:15:27 +0000",
+      "summary_raw": "<p>One of the biggest compliments a writer can receive is when readers recognize their stories without having to read their byline. That’s because the writer has a distinctive voice. That [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/read-your-work-out-loud-and-other-tips-for-finding-your-writing-voice/\">Read your work out loud and other tips for finding your writing voice</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     }
   ],
