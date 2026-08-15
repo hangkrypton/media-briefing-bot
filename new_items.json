@@ -1,7 +1,218 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "published": "Thu, 13 Aug 2026 17:04:18 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "published": "Fri, 14 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "published": "Thu, 13 Aug 2026 17:16:04 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "published": "Thu, 13 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/17667533743",
+      "title": "palewire pushed graphics-kit-publisher",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/compare/61e1047166...326a842e34",
+      "published": "2026-08-14 16:05:15 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-kit-publisher/tree/feat/branch-specific-previews\" rel=\"noreferrer\">feat/branch-specific-previews</a>\n        in\n      ",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13298082716",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785365529",
+      "published": "2026-08-14 16:02:43 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17667326563",
+      "title": "palewire pushed graphics-kit-publisher",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/compare/50ef2320cf...61e1047166",
+      "published": "2026-08-14 16:02:28 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-kit-publisher/tree/feat/branch-specific-previews\" rel=\"noreferrer\">feat/branch-specific-previews</a>\n        in\n      ",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296873906",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785170390",
+      "published": "2026-08-14 15:38:21 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296191966",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785064694",
+      "published": "2026-08-14 15:25:12 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296189765",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785064529",
+      "published": "2026-08-14 15:25:11 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296188627",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785064327",
+      "published": "2026-08-14 15:25:09 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296169625",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785061938",
+      "published": "2026-08-14 15:24:48 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296168148",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785061557",
+      "published": "2026-08-14 15:24:46 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13296165332",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3785061284",
+      "published": "2026-08-14 15:24:43 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/17664372532",
+      "title": "palewire pushed graphics-kit-publisher",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/compare/74700ece3f...50ef2320cf",
+      "published": "2026-08-14 15:24:19 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-kit-publisher/tree/feat/branch-specific-previews\" rel=\"noreferrer\">feat/branch-specific-previews</a>\n        in\n      ",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13295484191",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3784950373",
+      "published": "2026-08-14 15:12:01 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13295484177",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3784950359",
+      "published": "2026-08-14 15:12:00 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13295484112",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3784950366",
+      "published": "2026-08-14 15:12:00 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13295484109",
+      "title": "palewire commented on pull request reuters-graphics/graphics-kit-publisher#169",
+      "link": "https://github.com/reuters-graphics/graphics-kit-publisher/pull/169#discussion_r3784950353",
+      "published": "2026-08-14 15:12:00 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-kit-publi",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/prediction-markets-arent-magic",
+      "title": "Prediction markets aren't magic",
+      "link": "https://www.natesilver.net/p/prediction-markets-arent-magic",
+      "published": "Thu, 13 Aug 2026 16:50:06 GMT",
+      "summary_raw": "My chat with Galen Druke on Wisconsin, models, polls and prediction markets.",
+      "source": "Nate Silver"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=118966",
+      "title": "Stopping the bad bots blitz",
+      "link": "https://wan-ifra.org/2026/08/stopping-the-bad-bots-blitz/",
+      "published": "Fri, 14 Aug 2026 08:09:02 +0000",
+      "summary_raw": "<p>As bad bots increasingly outpace humans on the internet, governments are starting to take action. Proposed legislation in the USA, fittingly called \"the Stealth Bot Prohibition Act,\" offers a straightforward path to prevent this troubling trend. Here, our CEO, Stig Ørskov states why WAN-IFRA is wholeheartedly behind this proposal and encourages other nations to do the same.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/stopping-the-bad-bots-blitz/\">Stopping the bad bots blitz</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=118930",
+      "title": "Inspired tactics, part 4: What makes subscribers churn – and how the tech industry will keep them",
+      "link": "https://wan-ifra.org/2026/08/inspired-tactics-part-4-what-makes-subscribers-unsubscribe-and-how-the-tech-industry-will-keep-them/",
+      "published": "Thu, 13 Aug 2026 14:58:45 +0000",
+      "summary_raw": "<p>This is the fourth and final instalment of a four-part series about news subscriptions discussing what publishers can learn from technology companies to increase subscriptions.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/inspired-tactics-part-4-what-makes-subscribers-unsubscribe-and-how-the-tech-industry-will-keep-them/\">Inspired tactics, part 4: What makes subscribers churn – and how the tech industry will keep them</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252475",
+      "title": "Can public media build its own social network? Chicago Public Media teams up with New_ Public to try",
+      "link": "https://www.niemanlab.org/2026/08/can-public-media-build-its-own-social-media-chicago-public-media-teams-up-with-new_public-to-try/",
+      "published": "Thu, 13 Aug 2026 18:43:23 +0000",
+      "summary_raw": "If a news outlet announces a website launch, you might think it&#8217;s safe to assume it&#8217;s a news website that&#8217;s launching. But that&#8217;s not what Chicago Public Media has in mind for chicago.com. Chicago Public Media is already the parent nonprofit of two existing news sites, WBEZ and, since 2022, the Chicago Sun-Times. For chicago.com,...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252461",
+      "title": "Apple may start paying publishers to deliver news with Siri AI",
+      "link": "https://www.niemanlab.org/2026/08/apple-may-start-paying-publishers-to-deliver-news-with-siri-ai/",
+      "published": "Thu, 13 Aug 2026 18:31:58 +0000",
+      "summary_raw": "Hey Siri, how much is the news worth to an AI assistant? The answer, according to a report by Alexandra Bruell in The Wall Street Journal, starts at $100 million. Apple has approached publishers to use their news and up-to-date information in the revamped Siri AI, sources told the Journal. The company has reportedly discussed...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204932",
+      "title": "A Washington Post investigation prompts changes at surveillance company Flock",
+      "link": "https://www.poynter.org/commentary/2026/flock-security-camera-changes-washington-post/",
+      "published": "Fri, 14 Aug 2026 11:30:30 +0000",
+      "summary_raw": "<p>Flock, the company that operates an extensive network of license plate readers, announced Thursday that it will implement new safety measures to deter police abuse of its surveillance cameras, The [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/flock-security-camera-changes-washington-post/\">A Washington Post investigation prompts changes at surveillance company Flock</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1204953",
+      "title": "White House Press Secretary Karoline Leavitt is departing her job. Here’s how PolitiFact fact-checked key moments.",
+      "link": "https://www.poynter.org/fact-checking/2026/white-house-press-secretary-karoline-leavitt-is-departing-her-job-heres-how-politifact-fact-checked-key-moments/",
+      "published": "Fri, 14 Aug 2026 10:30:00 +0000",
+      "summary_raw": "<p>White House press secretary Karoline Leavitt is leaving President Donald Trump’s administration at the end of August to spend more time with her family after the birth of her second [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/white-house-press-secretary-karoline-leavitt-is-departing-her-job-heres-how-politifact-fact-checked-key-moments/\">White House Press Secretary Karoline Leavitt is departing her job. Here’s how PolitiFact fact-checked key moments.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
