@@ -1,7 +1,194 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "published": "Fri, 21 Aug 2026 11:59:48 +0000",
+      "summary_raw": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "Fri, 21 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "published": "Thu, 20 Aug 2026 16:52:57 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:pr_merged/13689814911",
+      "title": "palewire contributed to ireapps/ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/9",
+      "published": "2026-08-22 06:26:53 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-frontend/pul",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18513080366",
+      "title": "palewire pushed ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/compare/03f56b03c8...f8772c6b08",
+      "published": "2026-08-22 13:26:55 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-frontend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"http",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18512874060",
+      "title": "palewire pushed geodataframe-to-pmtiles",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/58b419bb49...b3e4221219",
+      "published": "2026-08-22 13:24:30 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/geodataframe-to-pmtiles/tree/palewire-per-layer-pmtiles-zooms\" rel=\"noreferrer\">palewire-per-layer-pmtiles-zooms</a>\n        in\n      <",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18512052727",
+      "title": "palewire pushed ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/compare/a1e1fbae8d...03f56b03c8",
+      "published": "2026-08-22 13:14:52 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-frontend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"http",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/13689573529",
+      "title": "palewire contributed to ireapps/ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/10",
+      "published": "2026-08-22 06:14:51 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-frontend/pul",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13689490859",
+      "title": "palewire commented on pull request ireapps/ire-archive-frontend#9",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/9#discussion_r3836102879",
+      "published": "2026-08-22 13:10:48 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/ireapps/ire-archive-frontend/pull/9",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13689490849",
+      "title": "palewire commented on pull request ireapps/ire-archive-frontend#9",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/9#discussion_r3836102881",
+      "published": "2026-08-22 13:10:48 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/ireapps/ire-archive-frontend/pull/9",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:reviewcomment_create/13689490795",
+      "title": "palewire commented on pull request ireapps/ire-archive-frontend#9",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/9#discussion_r3836102876",
+      "published": "2026-08-22 13:10:48 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/ireapps/ire-archive-frontend/pull/9",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18511711401",
+      "title": "palewire pushed ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/compare/064c6542f8...16cd73ea2e",
+      "published": "2026-08-22 13:10:40 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-frontend/tree/palewire-add-google-analytics\" rel=\"noreferrer\">palewire-add-google-analytics</a>\n        in\n      <a class=\"L",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/13689476231",
+      "title": "palewire opened a pull request in geodataframe-to-pmtiles",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/pull/30",
+      "published": "2026-08-22 06:10:04 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/geodataframe-to-",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/13689475800",
+      "title": "palewire contributed to ireapps/ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/10",
+      "published": "2026-08-22 06:10:02 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-frontend/pul",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18511654171",
+      "title": "palewire created a branch",
+      "link": "https://github.com/ireapps/ire-archive-frontend/compare/0000000000...af6a3b328e",
+      "published": "2026-08-22 13:10:00 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18511634187",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/0000000000...58b419bb49",
+      "published": "2026-08-22 13:09:45 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/18511572278",
+      "title": "palewire pushed ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/compare/a890d663d2...064c6542f8",
+      "published": "2026-08-22 13:08:59 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-frontend/tree/palewire-add-google-analytics\" rel=\"noreferrer\">palewire-add-google-analytics</a>\n        in\n      <a class=\"L",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/13689338916",
+      "title": "palewire contributed to ireapps/ire-archive-frontend",
+      "link": "https://github.com/ireapps/ire-archive-frontend/pull/9",
+      "published": "2026-08-22 06:03:03 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-frontend/pul",
+      "source": "GitHub - palewire"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=119278",
+      "title": "From silence to strategy: Inside the mission to make every story a climate story",
+      "link": "https://wan-ifra.org/2026/08/from-silence-to-strategy-inside-the-mission-to-make-every-story-a-climate-story/",
+      "published": "Fri, 21 Aug 2026 08:14:12 +0000",
+      "summary_raw": "<p>The climate crisis is the ‘defining, inescapable story that every journalist must now tell,’ using every available tool – from attribution science and political pushback to AI deployment, argues Kyle Pope, the co-founder and executive director of Covering Climate Now.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/from-silence-to-strategy-inside-the-mission-to-make-every-story-a-climate-story/\">From silence to strategy: Inside the mission to make every story a climate story</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119327",
+      "title": "Translating intention into action: Solving journalism’s ‘impact crisis’",
+      "link": "https://wan-ifra.org/2026/08/translating-intention-into-action-solving-journalisms-impact-crisis/",
+      "published": "Fri, 21 Aug 2026 08:02:56 +0000",
+      "summary_raw": "<p>Innovative climate coverage is unlocking strategies – and developing toolkits – that are successfully turning newsroom output into measurable, civic progress.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/translating-intention-into-action-solving-journalisms-impact-crisis/\">Translating intention into action: Solving journalism&#8217;s &#8216;impact crisis&#8217;</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119276",
+      "title": "Together, we’re a force. Alone, a target.",
+      "link": "https://wan-ifra.org/2026/08/together-were-a-force-alone-a-target/",
+      "published": "Thu, 20 Aug 2026 20:58:47 +0000",
+      "summary_raw": "<p>28 September is World News Day, a moment the news industry can show its collective strength - and explain what goes into our best journalism.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/together-were-a-force-alone-a-target/\">Together, we&#8217;re a force. Alone, a target.</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205415",
+      "title": "Will Scott Jennings be the new White House press secretary?",
+      "link": "https://www.poynter.org/commentary/2026/scott-jennings-replace-karoline-leavitt/",
+      "published": "Fri, 21 Aug 2026 11:30:15 +0000",
+      "summary_raw": "<p>Karoline Leavitt announced last week that she is stepping down as White House press secretary, and a familiar name has emerged as a candidate to replace her. It’s CNN commentator [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/scott-jennings-replace-karoline-leavitt/\">Will Scott Jennings be the new White House press secretary?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205410",
+      "title": "AP cuts US video production staff and moves jobs to India",
+      "link": "https://www.poynter.org/business-work/2026/ap-cuts-us-video-production-staff-and-moves-jobs-to-india/",
+      "published": "Thu, 20 Aug 2026 23:26:36 +0000",
+      "summary_raw": "<p>The Associated Press will lay off 20 video production staff in the U.S. on Friday and move those jobs to a new hub in India, according to the union representing [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/ap-cuts-us-video-production-staff-and-moves-jobs-to-india/\">AP cuts US video production staff and moves jobs to India</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
