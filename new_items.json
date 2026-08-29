@@ -1,7 +1,274 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+      "published": "Thu, 27 Aug 2026 16:11:32 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "published": "Thu, 27 Aug 2026 12:59:16 +0000",
+      "summary_raw": "Piloting the world's first double-blind AI evaluations",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "published": "Wed, 26 Aug 2026 17:01:00 +0000",
+      "summary_raw": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "published": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "link": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "published": "Tue, 25 Aug 2026 15:14:14 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/19298960052",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/palewi.re/compare/0000000000...cc371361d6",
+      "published": "2026-08-28 12:49:00 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19294175775",
+      "title": "palewire deleted",
+      "link": "https://github.com/palewire/go-big-with-github-actions/compare/683d95ee96...0000000000",
+      "published": "2026-08-28 11:09:06 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/palewire-update-github-actions-theme</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19294167696",
+      "title": "palewire deleted",
+      "link": "https://github.com/palewire/first-web-scraper/compare/d99cfde948...0000000000",
+      "published": "2026-08-28 11:08:59 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/palewire-update-sphinx-theme-0-1-10</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19294129408",
+      "title": "palewire pushed first-athena-query",
+      "link": "https://github.com/palewire/first-athena-query/compare/04784ed484...287b8abf6c",
+      "published": "2026-08-28 11:08:27 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/first-athena-query/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19294121139",
+      "title": "palewire deleted",
+      "link": "https://github.com/palewire/django-bakery/compare/cb2ac18cbb...0000000000",
+      "published": "2026-08-28 11:08:20 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/palewire-update-sphinx-theme-0-1-10</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/14065338669",
+      "title": "palewire opened a pull request in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/493",
+      "published": "2026-08-29 03:15:19 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/4",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19292887078",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/7a9628bc9e...ab6b9e4d7c",
+      "published": "2026-08-28 11:27:11 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/palewire-revise-content-navigation\" rel=\"noreferrer\">palewire-revise-content-navigation</a>\n        in\n      <a class=\"L",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291626809",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/2afc63d55e...1496d0e1f1",
+      "published": "2026-08-28 10:35:41 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291624840",
+      "title": "palewire pushed first-pmtiles-map",
+      "link": "https://github.com/palewire/first-pmtiles-map/compare/0cb6a4be0e...624107ea7d",
+      "published": "2026-08-28 11:08:45 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/first-pmtiles-map/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https:",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291620841",
+      "title": "palewire pushed first-llm-classifier",
+      "link": "https://github.com/palewire/first-llm-classifier/compare/50a78526a6...a3a57ab223",
+      "published": "2026-08-28 11:08:41 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/first-llm-classifier/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"htt",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291495867",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/first-llm-classifier/compare/0000000000...03090ce74d",
+      "published": "2026-08-28 10:34:03 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291308856",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/first-athena-query/compare/0000000000...f54a132d3e",
+      "published": "2026-08-28 10:31:40 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19291257858",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/first-pmtiles-map/compare/0000000000...2d5b363faa",
+      "published": "2026-08-28 10:31:01 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/14064587468",
+      "title": "palewire closed an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/491",
+      "published": "2026-08-29 02:38:33 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re\" r",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/19290025494",
+      "title": "palewire pushed sphinx-palewire-theme",
+      "link": "https://github.com/palewire/sphinx-palewire-theme/compare/fa3f065431...9ff4924b39",
+      "published": "2026-08-28 10:14:28 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sphinx-palewire-theme/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"ht",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "title": "A tour of the 9 key governor races",
+      "link": "https://www.natesilver.net/p/a-tour-of-the-9-key-governor-races",
+      "published": "Fri, 28 Aug 2026 19:59:24 GMT",
+      "summary_raw": "Democrats are almost certain to govern more Americans than Republicans, but can they flip swing states like Georgia?",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "title": "Do I really buy that Texas could turn blue?",
+      "link": "https://www.natesilver.net/p/do-i-really-buy-that-texas-could",
+      "published": "Tue, 25 Aug 2026 13:58:30 GMT",
+      "summary_raw": "Some of the skepticism about James Talarico&#8217;s chances amounts to superstition. But I have one lingering concern about our forecast in Texas.",
+      "source": "Nate Silver"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=119643",
+      "title": "TED’s Cyndi Stivers: Why curiosity is still one of media’s greatest strengths",
+      "link": "https://wan-ifra.org/2026/08/teds-cyndi-stivers-why-curiosity-is-still-one-of-medias-greatest-strengths/",
+      "published": "Fri, 28 Aug 2026 14:01:17 +0000",
+      "summary_raw": "<p>From hot-type newspapers to cool-kid magazines, from Time Out to TED, Cyndi Stivers reflects on curation, global audiences and why great stories will always depend on human judgement.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/teds-cyndi-stivers-why-curiosity-is-still-one-of-medias-greatest-strengths/\">TED’s Cyndi Stivers: Why curiosity is still one of media’s greatest strengths</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119377",
+      "title": "Las redacciones estadounidenses: IA, video, audiencias y elecciones",
+      "link": "https://wan-ifra.org/2026/08/us-newsrooms-study-tour-2026-es/",
+      "published": "Thu, 27 Aug 2026 03:55:27 +0000",
+      "summary_raw": "<p>Una mirada al interior de las principales redacciones de Estados Unidos y a cómo están respondiendo a la IA, el video, los nuevos hábitos de las audiencias, el periodismo local y las elecciones intermedias.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/us-newsrooms-study-tour-2026-es/\">Las redacciones estadounidenses: IA, video, audiencias y elecciones</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119356",
+      "title": "Inside the U.S. newsrooms shaping journalism’s next chapter",
+      "link": "https://wan-ifra.org/2026/08/us-newsrooms-study-tour-2026/",
+      "published": "Thu, 27 Aug 2026 03:53:10 +0000",
+      "summary_raw": "<p>Go inside leading U.S. newsrooms to explore how publishers are responding to AI, video, changing audience habits, local journalism and the midterm elections.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/us-newsrooms-study-tour-2026/\">Inside the U.S. newsrooms shaping journalism’s next chapter</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119555",
+      "title": "How Allure is successfully negotiating the new discovery landscape",
+      "link": "https://wan-ifra.org/2026/08/how-allure-is-successfully-negotiating-the-new-discovery-landscape/",
+      "published": "Wed, 26 Aug 2026 16:44:41 +0000",
+      "summary_raw": "<p>The rapidly changing discovery landscape has forced media brands to find better ways to reach and retain readers. For one American women’s fashion beauty magazine, the solution was written in the stars.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/08/how-allure-is-successfully-negotiating-the-new-discovery-landscape/\">How Allure is successfully negotiating the new discovery landscape</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1206081",
+      "title": "Karoline Leavitt says goodbye as White House press secretary",
+      "link": "https://www.poynter.org/commentary/2026/karoline-leavitt-says-goodbye-as-white-house-press-secretary/",
+      "published": "Fri, 28 Aug 2026 11:30:18 +0000",
+      "summary_raw": "<p>Less than two years ago, when she was 27 years old, Karoline Leavitt became the youngest White House press secretary ever. Now 29, Leavitt is leaving that job. Thursday was [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/karoline-leavitt-says-goodbye-as-white-house-press-secretary/\">Karoline Leavitt says goodbye as White House press secretary</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205915",
+      "title": "Meta’s $18 billion settlement could reshape social media for young people",
+      "link": "https://www.poynter.org/commentary/2026/meta-settlement-social-media-addiction-children-teens/",
+      "published": "Thu, 27 Aug 2026 11:30:18 +0000",
+      "summary_raw": "<p>The first thing that jumps out is the number. On Wednesday, Meta reached a landmark settlement and agreed to pay up to $18 billion to 47 states, as well as [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/meta-settlement-social-media-addiction-children-teens/\">Meta’s $18 billion settlement could reshape social media for young people</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205859",
+      "title": "A diminished Stars and Stripes is bad for the US military and bad for America",
+      "link": "https://www.poynter.org/commentary/2026/stars-and-stripes-pentagon-military-journalism/",
+      "published": "Wed, 26 Aug 2026 18:48:09 +0000",
+      "summary_raw": "<p>Almost every year, at least one story from Stars and Stripes is among the journalism honored by the Military Reporters &#38; Editors, a professional association. Often, the stories are about [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/stars-and-stripes-pentagon-military-journalism/\">A diminished Stars and Stripes is bad for the US military and bad for America</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205789",
+      "title": "In a divided country during troubling times, Dolly Parton was the joy we could all agree on",
+      "link": "https://www.poynter.org/commentary/2026/dolly-parton-die-passing-american-joy/",
+      "published": "Wed, 26 Aug 2026 11:30:20 +0000",
+      "summary_raw": "<p>Just the other day, for reasons unknown, I started thinking about which older celebrities (those in their 80s) could die and whose deaths would be truly upsetting to the masses. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/dolly-parton-die-passing-american-joy/\">In a divided country during troubling times, Dolly Parton was the joy we could all agree on</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205744",
+      "title": "To survive, journalism must become indispensable",
+      "link": "https://www.poynter.org/commentary/2026/journalism-must-become-indispensable/",
+      "published": "Wed, 26 Aug 2026 11:00:55 +0000",
+      "summary_raw": "<p>One of the most important and misunderstood reasons for the crisis in journalism has little to do with revenue or technology. The problem is the journalism itself. Much of what [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalism-must-become-indispensable/\">To survive, journalism must become indispensable</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1205638",
+      "title": "We’ve got “historic flooding” and tornadoes. Is this climate change?",
+      "link": "https://www.poynter.org/local-news/2026/weve-got-historic-flooding-tornadoes-is-this-climate-change/",
+      "published": "Wed, 26 Aug 2026 09:00:05 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/local-news/2026/weve-got-historic-flooding-tornadoes-is-this-climate-change/\">We’ve got “historic flooding” and tornadoes. Is this climate change?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
