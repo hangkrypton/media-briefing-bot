@@ -1,7 +1,202 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "published": "Thu, 03 Sep 2026 15:02:08 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/20142306360",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/0e8f824038...6f6242eb34",
+      "published": "2026-09-05 12:55:40 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20139958425",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/87f602b26f...59c4f5abe7",
+      "published": "2026-09-05 13:31:41 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/site-archive-data\" rel=\"noreferrer\">site-archive-data</a>\n        in\n      <a class=\"Link--primary no-underline wb-break",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20139915147",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/palewi.re/compare/0000000000...87f602b26f",
+      "published": "2026-09-05 13:31:12 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20139047726",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/ff1fa9dca4...b8354f78c4",
+      "published": "2026-09-05 11:23:56 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20138778067",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/palewi.re/compare/0000000000...251f6b08ba",
+      "published": "2026-09-05 11:16:04 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/14483728442",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/528",
+      "published": "2026-09-05 05:55:39 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/528\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/14483556452",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/528",
+      "published": "2026-09-05 05:48:51 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/528\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/14483479219",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/527",
+      "published": "2026-09-05 05:45:47 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/527\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/14483269796",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/527",
+      "published": "2026-09-05 05:37:46 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/527\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/14483204319",
+      "title": "palewire closed an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/396",
+      "published": "2026-09-05 05:35:14 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re\" r",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/14483204201",
+      "title": "palewire commented on an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/396#issuecomment-5551855372",
+      "published": "2026-09-05 05:35:13 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/palewire/palewi.re/issues/396#issuecomment-555185",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/14482926580",
+      "title": "palewire commented on an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/396#issuecomment-5551798514",
+      "published": "2026-09-05 05:24:12 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/palewire/palewi.re/issues/396#issuecomment-555179",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/14482892450",
+      "title": "palewire commented on an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/396#issuecomment-5551790151",
+      "published": "2026-09-05 05:22:52 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/palewire/palewi.re/issues/396#issuecomment-555179",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20134045971",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/palewi.re/compare/0000000000...e28307d360",
+      "published": "2026-09-05 11:54:28 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/14482576955",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/526",
+      "published": "2026-09-05 05:10:17 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/526\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "title": "Democrats just got one seat closer to retaking the House",
+      "link": "https://www.natesilver.net/p/democrats-just-got-one-seat-closer",
+      "published": "Fri, 04 Sep 2026 20:48:39 GMT",
+      "summary_raw": "Missouri&#8217;s new old map has diminished Republicans&#8217; redistricting gains.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "title": "Beware big swings in midterm forecasts",
+      "link": "https://www.natesilver.net/p/beware-big-swings-in-midterm-forecasts",
+      "published": "Thu, 03 Sep 2026 20:35:36 GMT",
+      "summary_raw": "As Labor Day approaches, we&#8217;re entering the traditional stretch run of the campaign. But history says the national picture probably won&#8217;t change much before Election Day.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/ai-prompts-for-teachers",
+      "title": "Your AI Teaching Toolkit 🍎",
+      "link": "https://wondertools.substack.com/p/ai-prompts-for-teachers",
+      "published": "Thu, 03 Sep 2026 17:41:59 GMT",
+      "summary_raw": "11 prompts to save time and spark ideas",
+      "source": "Wonder Tools (Substack)"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=119874",
+      "title": "World News Day 2026: Time to fight",
+      "link": "https://wan-ifra.org/2026/09/world-news-day-2026-time-to-fight/",
+      "published": "Fri, 04 Sep 2026 09:18:50 +0000",
+      "summary_raw": "<p>Branko Brkic has lived in two societies at breaking point, with opposite outcomes: 1980s Yugoslavia, where shared facts fell apart until the country tore itself to pieces, and South Africa, where journalists dug through state capture until the theft could no longer be denied, and hope was restored. Two experiences taught him the same thing from opposite directions. Read his message for World News Day.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/world-news-day-2026-time-to-fight/\">World News Day 2026: Time to fight</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=119895",
+      "title": "Combating hate and scaling revenue: The evolution of publisher social tools",
+      "link": "https://wan-ifra.org/2026/09/combating-hate-and-scaling-revenue-the-evolution-of-publisher-social-tools/",
+      "published": "Fri, 04 Sep 2026 08:30:54 +0000",
+      "summary_raw": "<p>As publishers confront toxic comment sections and AI-driven misinformation, Germany’s largest network of local news brands has deployed a new tool to drive healthier engagement – increasing digital revenue \"roughly sixfold.\"</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/combating-hate-and-scaling-revenue-the-evolution-of-publisher-social-tools/\">Combating hate and scaling revenue: The evolution of publisher social tools</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252885",
+      "title": "With acquisition of Vermont newspapers, the National Trust for Local News expands to a fourth state",
+      "link": "https://www.niemanlab.org/2026/09/with-acquisition-of-vermont-newspapers-the-national-trust-for-local-news-expands-to-a-fourth-state/",
+      "published": "Thu, 03 Sep 2026 21:12:53 +0000",
+      "summary_raw": "The nonprofit National Trust for Local News is acquiring the Vermont Community Newspaper Group in a deal that will close this month, the Trust announced Thursday. The deal, which will add five weekly newspapers covering more than a dozen northern Vermont communities to the Trust&#8217;s portfolio, expands the nonprofit&#8217;s footprint to a fourth state, joining...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252774",
+      "title": "Trump can’t get the media to use “Gulf of America.” Will “Lake America” be any different?",
+      "link": "https://www.niemanlab.org/2026/09/trump-cant-get-the-media-to-use-gulf-of-america-will-lake-america-be-any-different/",
+      "published": "Thu, 03 Sep 2026 13:56:24 +0000",
+      "summary_raw": "He&#8217;s doing it again: Donald Trump has decided that Lake Ontario is actually Lake America. This follows his similar declaration last year that the Gulf of Mexico was actually the Gulf of America. (How long until we learn that the Rockies are actually the American Mountains?) Trump&#8217;s power over what the federal government calls bodies...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1206768",
+      "title": "The Athletic investigated Dianna Russini’s work. What it found — and what it didn’t find.",
+      "link": "https://www.poynter.org/commentary/2026/gloria-steinem-dead-92-dianna-russini-the-athletic/",
+      "published": "Fri, 04 Sep 2026 11:30:07 +0000",
+      "summary_raw": "<p>A feminist icon, journalist and magazine co-founder died yesterday. Gloria Steinem was 92.  Steinem was best known as a spokeswoman for second-wave feminism, but she also paved a path for [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/gloria-steinem-dead-92-dianna-russini-the-athletic/\">The Athletic investigated Dianna Russini’s work. What it found — and what it didn’t find.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
