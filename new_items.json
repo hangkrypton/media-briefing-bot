@@ -1,215 +1,206 @@
 {
-  "ai": [
-    {
-      "id": "https://huggingface.co/blog/gradio-workflow-1111",
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "link": "https://huggingface.co/blog/gradio-workflow-1111",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "published": "Wed, 09 Sep 2026 15:36:24 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    }
-  ],
+  "ai": [],
   "tools": [
     {
-      "id": "tag:github.com,2008:issue_assign/14774692061",
-      "title": "palewire assigned an issue in palewi.re",
-      "link": "https://github.com/palewire/palewi.re/issues/549",
-      "published": "2026-09-10 02:38:56 -0700",
-      "summary_raw": "<div class=\"issues_assigned js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          assigned\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.r",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:issue_assign/14774692045",
-      "title": "palewire assigned an issue in palewi.re",
-      "link": "https://github.com/palewire/palewi.re/issues/549",
-      "published": "2026-09-10 02:38:56 -0700",
-      "summary_raw": "<div class=\"issues_assigned js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          assigned\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.r",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:issue_created/14774677237",
-      "title": "palewire opened an issue in palewi.re",
-      "link": "https://github.com/palewire/palewi.re/issues/549",
-      "published": "2026-09-10 02:38:41 -0700",
-      "summary_raw": "<div class=\"issues_opened js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re\" r",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/20656678339",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/xmhw/compare/0000000000...b1996a74bd",
-      "published": "2026-09-08 20:05:57 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/20640490657",
+      "id": "tag:github.com,2008:push/20769645773",
       "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/3a4fcda1ed...8aac0e8d41",
-      "published": "2026-09-08 16:07:38 UTC",
+      "link": "https://github.com/palewire/palewi.re/compare/953e2aff25...fd31575f16",
+      "published": "2026-09-11 00:28:05 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/20632640248",
-      "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/00acb9013a...543cfb7deb",
-      "published": "2026-09-08 12:49:11 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/site-archive-data\" rel=\"noreferrer\">site-archive-data</a>\n        in\n      <a class=\"Link--primary no-underline wb-break",
+      "id": "tag:github.com,2008:push/20755973603",
+      "title": "palewire pushed muckrockbot",
+      "link": "https://github.com/palewire/muckrockbot/compare/89782c2f68...62ba01ed33",
+      "published": "2026-09-10 19:39:36 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/muckrockbot/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://gith",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/20631159817",
+      "id": "tag:github.com,2008:push/20744383886",
       "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/8d56bfb285...5e7f2f8f56",
-      "published": "2026-09-08 14:57:42 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/palewire-remove-dead-talk-links\" rel=\"noreferrer\">palewire-remove-dead-talk-links</a>\n        in\n      <a class=\"Link--p",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/20628037725",
-      "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/4264af6e8f...fdf8a51613",
-      "published": "2026-09-08 14:24:14 UTC",
+      "link": "https://github.com/palewire/palewi.re/compare/fd31575f16...edff658fc2",
+      "published": "2026-09-11 00:44:05 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/20625504289",
+      "id": "tag:github.com,2008:pr_merged/14826371450",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/554",
+      "published": "2026-09-10 17:44:04 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/554\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_reopened/14826156454",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/554",
+      "published": "2026-09-10 17:38:40 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          reopened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/554\" r",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/14826156121",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/554",
+      "published": "2026-09-10 17:34:16 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/554\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/14825988538",
+      "title": "palewire closed a pull request in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/553",
+      "published": "2026-09-10 17:05:44 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/14825988243",
+      "title": "palewire closed a pull request in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/552",
+      "published": "2026-09-10 17:05:35 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/14825986337",
+      "title": "palewire closed a pull request in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/551",
+      "published": "2026-09-10 17:05:32 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/14825979155",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/554",
+      "published": "2026-09-10 17:34:13 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/554\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/14825728271",
+      "title": "palewire closed an issue in palewi.re",
+      "link": "https://github.com/palewire/palewi.re/issues/549",
+      "published": "2026-09-10 17:28:05 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re\" r",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/20741246840",
       "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/b29c32368b...8d56bfb285",
-      "published": "2026-09-08 14:47:30 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/palewire-remove-dead-talk-links\" rel=\"noreferrer\">palewire-remove-dead-talk-links</a>\n        in\n      <a class=\"Link--p",
+      "link": "https://github.com/palewire/palewi.re/compare/59ca3703b2...e2422fa57d",
+      "published": "2026-09-11 00:03:18 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/copilot/fix-talk-bullet-points\" rel=\"noreferrer\">copilot/fix-talk-bullet-points</a>\n        in\n      <a class=\"Link--pri",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/20625192996",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/palewi.re/compare/0000000000...b20839dca3",
-      "published": "2026-09-08 14:18:43 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "id": "tag:github.com,2008:publish_release/14823062061",
+      "title": "palewire released 1.1.0 at palewire/muckrockbot",
+      "link": "https://github.com/palewire/muckrockbot/releases/tag/1.1.0",
+      "published": "2026-09-10 16:23:26 -0700",
+      "summary_raw": "<div class=\"release js-feed-item-view\"><div class=\"body\">\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n        released\n        <a class=\"Link no-underline wb-break-all\" href=\"https://github.com/palewire/muckrockbot/releases/tag/1.1.0\" rel=\"noreferrer\">1.1.0</a>\n          of\n          <a class=\"Link--primary no-underlin",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/20624623634",
-      "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/aef6caef03...15ac69af6e",
-      "published": "2026-09-08 14:13:16 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/site-archive-data\" rel=\"noreferrer\">site-archive-data</a>\n        in\n      <a class=\"Link--primary no-underline wb-break",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/20624231075",
-      "title": "palewire pushed palewi.re",
-      "link": "https://github.com/palewire/palewi.re/compare/dcf03fde0e...9212d5d8c6",
-      "published": "2026-09-08 14:09:29 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/site-archive-data\" rel=\"noreferrer\">site-archive-data</a>\n        in\n      <a class=\"Link--primary no-underline wb-break",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/inside-elways-2026-nfl-forecast",
-      "title": "Inside ELWAY’s 2026 NFL forecast",
-      "link": "https://www.natesilver.net/p/inside-elways-2026-nfl-forecast",
-      "published": "Wed, 09 Sep 2026 20:18:10 GMT",
-      "summary_raw": "Our model mostly agrees with Vegas, but the differences are revealing. For instance, why does it feel so conflicted about the Rams?",
+      "id": "https://www.natesilver.net/p/trump-vs-the-blue-wave",
+      "title": "Trump vs. the Blue Wave",
+      "link": "https://www.natesilver.net/p/trump-vs-the-blue-wave",
+      "published": "Thu, 10 Sep 2026 14:26:52 GMT",
+      "summary_raw": "Still Counting EP1 is out!",
       "source": "Nate Silver"
+    },
+    {
+      "id": "https://journaliststoolbox.substack.com/p/remembering-911",
+      "title": "Remembering 9/11",
+      "link": "https://journaliststoolbox.substack.com/p/remembering-911",
+      "published": "Fri, 11 Sep 2026 12:28:41 GMT",
+      "summary_raw": "Sept. 11, 2026",
+      "source": "Journalist's Toolbox (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=120131",
-      "title": "‘Monetise the relationship, not the pageview’: Rethinking news publishing in the AI era",
-      "link": "https://wan-ifra.org/2026/09/monetise-the-relationship-not-the-pageview-rethinking-news-publishing-in-the-ai-era/",
-      "published": "Wed, 09 Sep 2026 13:47:45 +0000",
-      "summary_raw": "<p>As AI changes how people find and consume news, publishers need to focus on trust, their relationship with audiences and giving people more reasons to pay, said WPP Media South Asia COO Ashwin Padmanabhan.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/monetise-the-relationship-not-the-pageview-rethinking-news-publishing-in-the-ai-era/\">‘Monetise the relationship, not the pageview’: Rethinking news publishing in the AI era</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=253074",
-      "title": "Apple launches a new way to prove a photo was shot with an iPhone (not generated by AI)",
-      "link": "https://www.niemanlab.org/2026/09/apple-launches-a-new-way-to-prove-a-photo-was-shot-with-an-iphone-not-generated-by-ai/",
-      "published": "Wed, 09 Sep 2026 18:46:06 +0000",
-      "summary_raw": "At its annual iPhonepalooza today, Apple announced a new feature aimed at making it easier to know where an image came from or whether it&#8217;s been edited — the sort of provenance data that could be useful in detecting images altered by AI. First rumored last month, Apple Reference Image will work with the camera...",
+      "id": "https://www.niemanlab.org/?p=252978",
+      "title": "The Trump administration killed Climate.gov. A new website is resurrecting it.",
+      "link": "https://www.niemanlab.org/2026/09/the-trump-administration-killed-climate-gov-a-new-website-is-resurrecting-it/",
+      "published": "Thu, 10 Sep 2026 16:58:25 +0000",
+      "summary_raw": "When I was reporting on climate change, one of the most useful websites in my daily rotation was Climate.gov. The website from the National Oceanic and Atmospheric Administration (NOAA), launched during President Obama&#8217;s first term, provided constant updates on the agency&#8217;s climate research in plain English, alongside vivid charts and graphics. It lasted 15 years,...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=252912",
-      "title": "Two years ago, Meta killed CrowdTangle. Can a new AI tool fill the void?",
-      "link": "https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/",
-      "published": "Wed, 09 Sep 2026 17:59:22 +0000",
-      "summary_raw": "In 2024, Meta shuttered CrowdTangle, a tool used to track how content spread across Facebook and Instagram. The portal was an essential tool for journalists, fact-checkers, and researchers, who used it for more than a decade to monitor viral content — and the spread of misinformation. CrowdTangle&#8217;s end came slowly. Meta disinvested in the tool over...",
+      "id": "https://www.niemanlab.org/?p=253109",
+      "title": "“Many have said it couldn’t be done”: Local news site Lookout Santa Cruz is profitable thanks to ads and memberships",
+      "link": "https://www.niemanlab.org/2026/09/many-have-said-it-couldnt-be-done-local-news-site-lookout-santa-cruz-is-profitable-thanks-to-ads-and-memberships/",
+      "published": "Thu, 10 Sep 2026 16:22:18 +0000",
+      "summary_raw": "Buried in an opinion piece about California&#8217;s Community NEWS Act is the announcement that Lookout Santa Cruz has achieved something remarkable (and rare) in local news: It&#8217;s profitable. Six years after launching Lookout Santa Cruz, CEO Ken Doctor writes, the local news org is “thriving.” “It’s fun to point to our 2024 Pulitzer Prize for...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253033",
-      "title": "Beehiiv adds three new journalists to its media collective",
-      "link": "https://www.niemanlab.org/2026/09/beehiiv-adds-three-new-journalists-to-its-media-collective/",
-      "published": "Wed, 09 Sep 2026 15:16:59 +0000",
-      "summary_raw": "The Beehiiv Media Collective will add the longtime CBS News travel editor Peter Greenberg, former IndieWire editor-in-chief Dana Harris-Bridson, and tech and politics reporter David Covucci to its ranks. The collective now includes about 30 journalists that&#8217;ve gone independent. Greenberg will launch The Upgrade on September 15, “bringing his investigative approach to the process and...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1207250",
-      "title": "Jeff Bezos likes what he’s seen from The Washington Post’s interim boss",
-      "link": "https://www.poynter.org/commentary/2026/jeff-donofrio-washington-post-publisher-ceo/",
-      "published": "Thu, 10 Sep 2026 11:30:19 +0000",
-      "summary_raw": "<p>Meet the new boss of The Washington Post. Same as the old boss. Jeff D’Onofrio has officially been named publisher and CEO of the Post. It’s a job he has [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/jeff-donofrio-washington-post-publisher-ceo/\">Jeff Bezos likes what he’s seen from The Washington Post’s interim boss</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207397",
+      "title": "The stories of 9/11, 25 years later",
+      "link": "https://www.poynter.org/commentary/2026/9-11-25th-anniversary-stories-2026/",
+      "published": "Fri, 11 Sep 2026 11:30:59 +0000",
+      "summary_raw": "<p>It was 25 years ago — Sept. 11, 2001 — when the world changed. A routine late summer Tuesday morning turned into a nightmare as we watched in disbelief while [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/9-11-25th-anniversary-stories-2026/\">The stories of 9/11, 25 years later</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207166",
-      "title": "Trump says firefighters carried him to safety after 9/11. What do we know about his Ground Zero role?",
-      "link": "https://www.poynter.org/fact-checking/2026/trump-9-11-ground-zero-recovery-claims/",
-      "published": "Thu, 10 Sep 2026 10:30:53 +0000",
-      "summary_raw": "<p>President Donald Trump recounted his response to the Sept. 11, 2001, attacks in an interview and event leading up to the 25th anniversary this week, repeating statements that lack evidence [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-9-11-ground-zero-recovery-claims/\">Trump says firefighters carried him to safety after 9/11. What do we know about his Ground Zero role?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207419",
+      "title": "Tucker Carlson once hated 9/11 conspiracy theories. Now he’s amplifying them to millions",
+      "link": "https://www.poynter.org/fact-checking/2026/tucker-carlson-9-11-conspiracy-theories/",
+      "published": "Fri, 11 Sep 2026 11:15:39 +0000",
+      "summary_raw": "<p>In 2008, Tucker Carlson was emceeing a rally for former U.S. Rep. Ron Paul when he heard a speaker question the government response to the 9/11 attacks. Former Minnesota Gov. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/tucker-carlson-9-11-conspiracy-theories/\">Tucker Carlson once hated 9/11 conspiracy theories. Now he’s amplifying them to millions</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1206616",
-      "title": "Before true crime was everywhere, there was ‘Dateline’",
-      "link": "https://www.poynter.org/reporting-editing/2026/dateline-nbc-true-crime-history/",
-      "published": "Wed, 09 Sep 2026 16:00:15 +0000",
-      "summary_raw": "<p>This article is part of The Poynter 50, a series reflecting on 50 moments and people that shaped journalism over the past half-century — and continue to influence its future. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/dateline-nbc-true-crime-history/\">Before true crime was everywhere, there was ‘Dateline’</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207402",
+      "title": "How Jim Dwyer found the words to write about 9/11",
+      "link": "https://www.poynter.org/reporting-editing/2026/how-jim-dwyer-found-the-words-to-write-about-9-11/",
+      "published": "Fri, 11 Sep 2026 11:00:15 +0000",
+      "summary_raw": "<p>When I see the bylines of certain reporters, I will read whatever they write. Jim Dwyer of The New York Times is one of those. Jim became, in my mind, [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/how-jim-dwyer-found-the-words-to-write-about-9-11/\">How Jim Dwyer found the words to write about 9/11</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207110",
-      "title": "Statement from the International Fact-Checking Network on Meta’s expansion of Community Notes to Latin America",
-      "link": "https://www.poynter.org/fact-checking/2026/statement-from-the-international-fact-checking-network-on-metas-expansion-of-community-notes-to-latin-america/",
-      "published": "Wed, 09 Sep 2026 15:04:13 +0000",
-      "summary_raw": "<p>Anyone who cares about finding reliable, accurate information online should be deeply concerned about Meta’s announcement that it is testing its community notes program in 16 Spanish-speaking Latin American countries. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/statement-from-the-international-fact-checking-network-on-metas-expansion-of-community-notes-to-latin-america/\">Statement from the International Fact-Checking Network on Meta’s expansion of Community Notes to Latin America</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207382",
+      "title": "McClatchy cuts more than 90 staff in its most severe layoffs in years",
+      "link": "https://www.poynter.org/business-work/2026/mcclatchy-media-newspapers-layoffs/",
+      "published": "Thu, 10 Sep 2026 21:53:01 +0000",
+      "summary_raw": "<p>McClatchy, whose titles include The Miami Herald and The Sacramento Bee, executed its most severe layoffs in years on Thursday, cutting newsroom staff at some papers by upwards of 40%. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/mcclatchy-media-newspapers-layoffs/\">McClatchy cuts more than 90 staff in its most severe layoffs in years</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=256900",
-      "title": "Press Gazette launches newsroom tool to stop AI fakes before publication",
-      "link": "https://pressgazette.co.uk/news/press-gazette-launches-newsroom-tool-to-stop-ai-fakes-before-publication/",
-      "published": "Thu, 10 Sep 2026 09:30:00 +0000",
-      "summary_raw": "<div><img alt=\"Made By Humans\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/humans-e1788955041179-526x394.png\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>Made by Humans was devised by Press Gazette and built by Flip-Pay.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/press-gazette-launches-newsroom-tool-to-stop-ai-fakes-before-publication/\">Press Gazette launches newsroom tool to stop AI fakes before publication</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207276",
+      "title": "Seven months after its new chairman called layoffs a ‘bad’ word, Lee Enterprises cuts staff",
+      "link": "https://www.poynter.org/business-work/2026/lee-enterprises-layoffs-david-hoffmann/",
+      "published": "Thu, 10 Sep 2026 15:17:12 +0000",
+      "summary_raw": "<p>Journalists at Lee Enterprises — the chain that owns such titles as the St. Louis Post-Dispatch and the Omaha World-Herald — are well accustomed to cuts at the end of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/lee-enterprises-layoffs-david-hoffmann/\">Seven months after its new chairman called layoffs a ‘bad’ word, Lee Enterprises cuts staff</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=256974",
+      "title": "News diary 14-20 September: Lucy Letby inquiry report, UK labour market and inflation data, Primetime Emmys",
+      "link": "https://pressgazette.co.uk/news/news-diary-14-20-september-lucy-letby-inquiry-report-uk-labour-market-and-inflation-data-primetime-emmys/",
+      "published": "Fri, 11 Sep 2026 13:39:42 +0000",
+      "summary_raw": "<div><img alt=\"Lucy Letby\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/09/LucyLetby-min-scaled-e1695823213855-526x394.jpg\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>A look ahead at the key events leading the news agenda this week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-14-20-september-lucy-letby-inquiry-report-uk-labour-market-and-inflation-data-primetime-emmys/\">News diary 14-20 September: Lucy Letby inquiry report, UK labour market and inflation data, Primetime Emmys</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=256811",
-      "title": "Sky News goes ‘narrow’ for first time with paid-for Defence Insider",
-      "link": "https://pressgazette.co.uk/news/sky-news-goes-narrow-for-first-time-with-paid-for-defence-insider/",
-      "published": "Thu, 10 Sep 2026 06:00:00 +0000",
-      "summary_raw": "<div><img alt=\"Sky News Defence Insider promo image featuring Deborah Haynes and Michael Clarke\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/skynewsdefenceinsider-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Defence Insider app is second Sky News paid launch after podcast bundle.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/sky-news-goes-narrow-for-first-time-with-paid-for-defence-insider/\">Sky News goes &#8216;narrow&#8217; for first time with paid-for Defence Insider</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=256746",
+      "title": "Revealed: Future of Media Awards 2026 winners",
+      "link": "https://pressgazette.co.uk/news/revealed-future-of-media-awards-2026-winners/",
+      "published": "Thu, 10 Sep 2026 20:45:13 +0000",
+      "summary_raw": "<div><img alt=\"The team from The Times picking up the Website of the Year (National/International) award at the Future of Media Awards 2026 from freelance journalist Rob Waugh (far left) and host Robin Morgan (far right)\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/futureofmediaawards2026-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>The Times and Belfast Telegraph named national and regional websites of the year.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/revealed-future-of-media-awards-2026-winners/\">Revealed: Future of Media Awards 2026 winners</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=256934",
-      "title": "Washington Post ‘on track to break even’ after four years of losses",
-      "link": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/washington-post-on-track-to-break-even-after-four-years-of-losses/",
-      "published": "Wed, 09 Sep 2026 16:43:31 +0000",
-      "summary_raw": "<div><img alt=\"A picture montage depicting The Washington Post building and its proprietor Jeff Bezos, illustrating a story about the minimum $8 million hit to revenue the paper has incurred after 200,000 subscribers reportedly cancelled following Bezos&#039; decision not to have the paper endorse a candidate in the US presidential election.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/10/Jeff-Bezos-Washington-Post-endorsement-subscriptions-revenue-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Newly-confirmed permanent CEO Jeff D'Onofrio eyes new revenue streams to reach profitability.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/media-jobs-uk-news/washington-post-on-tr",
+      "id": "https://pressgazette.co.uk/?p=254482",
+      "title": "IPSO complaint against Press Gazette upheld over alleged sex offence admission",
+      "link": "https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/ipso-complaint-against-press-gazette-upheld-over-alleged-sex-offence-admission/",
+      "published": "Thu, 10 Sep 2026 14:24:09 +0000",
+      "summary_raw": "<div><img alt=\"Press Gazette story subject to upheld IPSO ruling above, and IPSO flag below\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/07/pgipso-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Press Gazette failed to include rebuttal to serious allegation.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/ipso-complaint-against-press-gazette-upheld-over-alleged-sex-offence-admission/\">IPSO complaint against Press Gazette upheld over alleged sex offence admission</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
