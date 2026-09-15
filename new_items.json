@@ -1,160 +1,167 @@
 {
-  "ai": [
-    {
-      "id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "published": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    }
-  ],
+  "ai": [],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/21089917880",
-      "title": "palewire pushed datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/2c8ba25b36...0ffa7b3033",
-      "published": "2026-09-14 13:03:21 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/datawrapper-mcp/tree/feat/elicitation-login-prototype\" rel=\"noreferrer\">feat/elicitation-login-prototype</a>\n        in\n      <a class=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21088488590",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/0000000000...2c8ba25b36",
-      "published": "2026-09-14 12:45:50 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_created/14993497373",
-      "title": "palewire opened a pull request in datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/pull/81",
-      "published": "2026-09-14 05:46:01 -0700",
-      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/datawrapper-mcp/",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21076723746",
-      "title": "palewire deleted",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/66467866a8...0000000000",
-      "published": "2026-09-14 09:38:06 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/dependabot/pip/qdrant-client-1.18.0</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/i",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21075832774",
+      "id": "tag:github.com,2008:push/21191455279",
       "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/7d374994fb...a810195a09",
-      "published": "2026-09-14 09:29:06 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
+      "link": "https://github.com/ireapps/ire-archive-backend/compare/ac52468a97...66467866a8",
+      "published": "2026-09-14 09:35:17 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/dependabot/pip/qdrant-client-1.18.0\" rel=\"noreferrer\">dependabot/pip/qdrant-client-1.18.0</a>\n        in\n      ",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21075350562",
+      "id": "tag:github.com,2008:push/21139322175",
       "title": "palewire pushed datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/82b4af5980...7169173abe",
-      "published": "2026-09-12 10:35:54 UTC",
+      "link": "https://github.com/palewire/datawrapper-mcp/compare/1a7ce620b3...85d1421a58",
+      "published": "2026-09-13 15:27:13 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/datawrapper-mcp/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21075300603",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/0000000000...e454fa9c37",
-      "published": "2026-09-12 15:32:52 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "id": "tag:github.com,2008:push/21139142596",
+      "title": "palewire deleted",
+      "link": "https://github.com/ireapps/ire-archive-backend/compare/f9fdf41461...0000000000",
+      "published": "2026-09-13 15:23:23 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/palewire-performance-2x-vm-permanent</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21075237041",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/0000000000...823387fd5c",
-      "published": "2026-09-12 10:33:28 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "id": "tag:github.com,2008:push/21138889314",
+      "title": "palewire pushed ire-archive-backend",
+      "link": "https://github.com/ireapps/ire-archive-backend/compare/3a2a832eb0...f9fdf41461",
+      "published": "2026-09-13 15:18:07 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/palewire-performance-2x-vm-permanent\" rel=\"noreferrer\">palewire-performance-2x-vm-permanent</a>\n        in\n    ",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21073275351",
+      "id": "tag:github.com,2008:push/21121099801",
       "title": "palewire pushed datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/36678caa53...3f9ab17587",
-      "published": "2026-09-12 22:02:05 UTC",
+      "link": "https://github.com/palewire/datawrapper-mcp/compare/c71cd64693...fc2329bc27",
+      "published": "2026-09-13 15:48:03 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/datawrapper-mcp/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21072329100",
+      "id": "tag:github.com,2008:push/21119277437",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/datawrapper-mcp/compare/0000000000...98651fd269",
+      "published": "2026-09-13 15:18:06 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/21111254419",
       "title": "palewire deleted",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/894c1c7159...0000000000",
-      "published": "2026-09-14 09:32:20 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/dependabot/github_actions/dot-github/workflows/actions/checkout-7</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href",
+      "link": "https://github.com/palewire/datawrapper-mcp/compare/37f1e0007b...0000000000",
+      "published": "2026-09-12 22:02:07 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/docs/openclaw-known-issues</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/datawrapp",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21072328151",
-      "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/a810195a09...9d1e52b344",
-      "published": "2026-09-14 09:32:19 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
+      "id": "tag:github.com,2008:issue_commented/15001103145",
+      "title": "palewire commented on an issue in claude-ai-mcp",
+      "link": "https://github.com/anthropics/claude-ai-mcp/issues/153#issuecomment-5665717407",
+      "published": "2026-09-14 07:38:15 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/anthropics/claude-ai-mcp/issues/153#issuecomment-",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21072137228",
-      "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/3cac1c50f5...894c1c7159",
-      "published": "2026-09-14 09:29:55 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/dependabot/github_actions/dot-github/workflows/actions/checkout-7\" rel=\"noreferrer\">dependabot/github_actions/d",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21072076838",
+      "id": "tag:github.com,2008:push/21097626291",
       "title": "palewire deleted",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/2806f122f4...0000000000",
-      "published": "2026-09-14 09:29:07 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/dependabot/github_actions/dot-github/workflows/actions/setup-python-7</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" ",
+      "link": "https://github.com/palewire/datawrapper-mcp/compare/1284300e0d...0000000000",
+      "published": "2026-09-12 22:45:18 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/feat/confirm-before-delete</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/datawrapp",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21072070594",
-      "title": "palewire deleted",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/afc77a7cd4...0000000000",
-      "published": "2026-09-14 09:29:02 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/dependabot/github_actions/dot-github/workflows/codecov/codecov-action-7</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21072069474",
-      "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/d7504da4c0...7d374994fb",
-      "published": "2026-09-14 09:29:01 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
-      "source": "GitHub - palewire"
+      "id": "https://journaliststoolbox.substack.com/p/how-to-use-phantombuster",
+      "title": "How to Use Phantombuster",
+      "link": "https://journaliststoolbox.substack.com/p/how-to-use-phantombuster",
+      "published": "Tue, 15 Sep 2026 10:20:29 GMT",
+      "summary_raw": "Sept. 29, 2026",
+      "source": "Journalist's Toolbox (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://www.poynter.org/?p=1207552",
-      "title": "ESPN gave Ted Cruz 10 minutes on ‘College GameDay.’ Critics say it crossed a line.",
-      "link": "https://www.poynter.org/commentary/2026/espn-ted-cruz-college-gameday-protect-college-sports-act/",
-      "published": "Mon, 14 Sep 2026 11:30:45 +0000",
-      "summary_raw": "<p>ESPN has spent the past several years trying to navigate — often awkwardly and inconsistently — the delicate balance between discussing sports, politics and social issues. There has been criticism [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/espn-ted-cruz-college-gameday-protect-college-sports-act/\">ESPN gave Ted Cruz 10 minutes on ‘College GameDay.’ Critics say it crossed a line.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.ire.org/?p=210904",
+      "title": "Laura Barrón-López to headline AccessFest 2026",
+      "link": "https://www.ire.org/2026/09/14/laura-barron-lopez-to-headline-accessfest-2026/",
+      "published": "Mon, 14 Sep 2026 15:02:21 +0000",
+      "summary_raw": "<p>Laura Barrón-López to headline AccessFest 2026 Investigative Reporters &#38; Editors is honored to announce that Laura Barrón-López will headline our keynote conversation for AccessFest26, the organization’s sixth virtual-by-design conference Oct. 8-10. Barrón-López serves as an MS NOW White House Reporter. Her most recent reporting for MS NOW includes President Trump’s campaign to take over elections,&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/09/14/laura-barron-lopez-to-headline-accessfest-2026/\">Laura Barrón-López to headline AccessFest 2026</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=120294",
+      "title": "What’s changing in print: Takeaways from Indian Printers Summit 2026",
+      "link": "https://wan-ifra.org/2026/09/whats-changing-in-print-takeaways-from-indian-printers-summit-2026/",
+      "published": "Tue, 15 Sep 2026 09:34:01 +0000",
+      "summary_raw": "<p>Across discussions on AI, audience behaviour, advertising, and production, one message stood out: publishers are rethinking how they create value, understand audiences and build sustainable businesses.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/whats-changing-in-print-takeaways-from-indian-printers-summit-2026/\">What’s changing in print: Takeaways from Indian Printers Summit 2026</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253160",
+      "title": "Would you send it to the group chat? Sports creator Frank Michael Smith on finding the stories worth telling",
+      "link": "https://www.niemanlab.org/2026/09/would-you-send-it-in-the-group-chat-sports-creator-frank-michael-smith-on-finding-the-stories-worth-telling/",
+      "published": "Mon, 14 Sep 2026 19:52:50 +0000",
+      "summary_raw": "It costs one Cincinnati sports fan named Jack more than $1,600 a year to watch his city&#8217;s four sports teams play on TV. If he renews his subscriptions for another year, the price could exceed $2,000. Jack is a friend of Frank Michael Smith, a popular sports news video creator, who used Jack&#8217;s experience to...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=252657",
+      "title": "The golden age wasn’t so golden",
+      "link": "https://www.niemanlab.org/2026/09/the-golden-age-wasnt-so-golden/",
+      "published": "Mon, 14 Sep 2026 16:31:52 +0000",
+      "summary_raw": "People have felt grave doubts about the press long before the Internet or social media, at times when politics was polarized and at times when it was not. In the United States, the steady decline in media trust from 1970 and onwards has, in my opinion, been badly misread. It has produced or justified anxiety...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1207629",
+      "title": "After months of drama, it was ‘60 Minutes’ of more of the same",
+      "link": "https://www.poynter.org/commentary/2026/60-minutes-season-premiere-bari-weiss-nick-bilton/",
+      "published": "Tue, 15 Sep 2026 11:30:03 +0000",
+      "summary_raw": "<p>“60 Minutes” had its much-anticipated season premiere on Sunday. All eyes were on what the show would look like under the direction of new executive producer Nick Bilton and, ultimately, [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/60-minutes-season-premiere-bari-weiss-nick-bilton/\">After months of drama, it was ‘60 Minutes’ of more of the same</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207544",
-      "title": "Trump renamed Lake Ontario. Newsrooms still have to decide what to call it",
-      "link": "https://www.poynter.org/ethics-trust/2026/trump-lake-ontario-lake-america-ap-style/",
-      "published": "Mon, 14 Sep 2026 11:00:34 +0000",
-      "summary_raw": "<p>For the Associated Press stylebook, Gulf of Mexico stayed. Lake Ontario will, too. In January 2025, Donald Trump, fresh into his second term, issued an executive order to rename the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/trump-lake-ontario-lake-america-ap-style/\">Trump renamed Lake Ontario. Newsrooms still have to decide what to call it</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207605",
+      "title": "Freelance journalism can be brutal. Here’s how successful writers make it work",
+      "link": "https://www.poynter.org/commentary/2026/freelance-journalism-how-to-make-a-living/",
+      "published": "Tue, 15 Sep 2026 11:00:47 +0000",
+      "summary_raw": "<p>The only food in my kitchen was a bag of russet potatoes, my pants were starting to fall down my hips, and I wasn’t going to make rent that month. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/freelance-journalism-how-to-make-a-living/\">Freelance journalism can be brutal. Here’s how successful writers make it work</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207547",
-      "title": "RFK Jr. says Americans have the ‘sickest children in history.’ History says otherwise",
-      "link": "https://www.poynter.org/fact-checking/2026/rfk-jr-sickest-children-history-health/",
-      "published": "Mon, 14 Sep 2026 10:30:10 +0000",
-      "summary_raw": "<p>Health Secretary Robert F. Kennedy Jr. said despite high healthcare spending, the U.S. is failing its children on an unprecedented level. “This country pays two to three times what every [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/rfk-jr-sickest-children-history-health/\">RFK Jr. says Americans have the ‘sickest children in history.’ History says otherwise</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207617",
+      "title": "Sam Altman says one almond uses as much water as 38,000 ChatGPT queries. Not quite.",
+      "link": "https://www.poynter.org/fact-checking/2026/sam-altman-chatgpt-water-use-almonds/",
+      "published": "Tue, 15 Sep 2026 10:30:46 +0000",
+      "summary_raw": "<p>You’ve probably heard that using artificial intelligence consumes a lot of water. But how does it measure up with snacking on almonds? OpenAI CEO Sam Altman made the comparison in [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/sam-altman-chatgpt-water-use-almonds/\">Sam Altman says one almond uses as much water as 38,000 ChatGPT queries. Not quite.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257067",
+      "title": "One in five Britons now using AI to access news",
+      "link": "https://pressgazette.co.uk/media-audience-and-business-data/uk-sources-of-news/",
+      "published": "Tue, 15 Sep 2026 09:48:08 +0000",
+      "summary_raw": "<div><img alt=\"Daily time spent with news in UK. Source: Ofcom News Report\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/dailynews2-e1789464576709-526x394.png\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>Ofcom 2026 news report finds online intermediaries dominate as source of UK news.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/uk-sources-of-news/\">One in five Britons now using AI to access news</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257036",
+      "title": "Guardian grows revenue to record £282m boosted by US operation",
+      "link": "https://pressgazette.co.uk/media_business/guardian-grows-revenue-to-record-282m-boosted-by-us-operation/",
+      "published": "Tue, 15 Sep 2026 07:59:58 +0000",
+      "summary_raw": "<div><img alt=\"Anna Bateson, chief executive officer of The Guardian, on stage at Guardian Advertising Upfronts event\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2025/10/GuardianUpfronts-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Revenue grew in year to March 2026 to a new record for Guardian's news operation.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/guardian-grows-revenue-to-record-282m-boosted-by-us-operation/\">Guardian grows revenue to record £282m boosted by US operation</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257004",
+      "title": "‘Calling out genocide’: Why reporter left ITV News to help launch Zeteo UK",
+      "link": "https://pressgazette.co.uk/news/zeteo-uk-shehab-khan-itv-news-launch/",
+      "published": "Mon, 14 Sep 2026 15:00:48 +0000",
+      "summary_raw": "<div><img alt=\"Shehab Khan on set for new Zeteo UK show The Real Question\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/shehabkhan2-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Shehab Khan explains why joining progressive newsbrand's UK launch was \"breath of fresh air\".</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/zeteo-uk-shehab-khan-itv-news-launch/\">&#8216;Calling out genocide&#8217;: Why reporter left ITV News to help launch Zeteo UK</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
     }
   ],
   "gmail_pending": [
