@@ -1,166 +1,151 @@
 {
-  "ai": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/21191455279",
+      "id": "tag:github.com,2008:push/21225205178",
       "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/ac52468a97...66467866a8",
-      "published": "2026-09-14 09:35:17 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/dependabot/pip/qdrant-client-1.18.0\" rel=\"noreferrer\">dependabot/pip/qdrant-client-1.18.0</a>\n        in\n      ",
+      "link": "https://github.com/ireapps/ire-archive-backend/compare/9d1e52b344...1d8dabf60e",
+      "published": "2026-09-14 09:38:06 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21139322175",
-      "title": "palewire pushed datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/1a7ce620b3...85d1421a58",
-      "published": "2026-09-13 15:27:13 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/datawrapper-mcp/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://",
+      "id": "tag:github.com,2008:issue_commented/15094889751",
+      "title": "palewire commented on an issue in app",
+      "link": "https://github.com/github/app/issues/3902#issuecomment-5686713472",
+      "published": "2026-09-15 12:19:50 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/app/issues/3902#issuecomment-5686713472\" r",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21139142596",
-      "title": "palewire deleted",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/f9fdf41461...0000000000",
-      "published": "2026-09-13 15:23:23 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/palewire-performance-2x-vm-permanent</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/",
+      "id": "tag:github.com,2008:issue_commented/15094773842",
+      "title": "palewire commented on an issue in app",
+      "link": "https://github.com/github/app/issues/3902#issuecomment-5686682026",
+      "published": "2026-09-15 12:17:52 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/app/issues/3902#issuecomment-5686682026\" r",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21138889314",
-      "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/3a2a832eb0...f9fdf41461",
-      "published": "2026-09-13 15:18:07 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/palewire-performance-2x-vm-permanent\" rel=\"noreferrer\">palewire-performance-2x-vm-permanent</a>\n        in\n    ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21121099801",
-      "title": "palewire pushed datawrapper-mcp",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/c71cd64693...fc2329bc27",
-      "published": "2026-09-13 15:48:03 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/datawrapper-mcp/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21119277437",
+      "id": "tag:github.com,2008:push/21208980262",
       "title": "palewire created a branch",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/0000000000...98651fd269",
-      "published": "2026-09-13 15:18:06 UTC",
+      "link": "https://github.com/ireapps/ire-archive-backend/compare/0000000000...c7b8f951db",
+      "published": "2026-09-14 09:07:27 UTC",
       "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/21111254419",
-      "title": "palewire deleted",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/37f1e0007b...0000000000",
-      "published": "2026-09-12 22:02:07 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/docs/openclaw-known-issues</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/datawrapp",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:issue_commented/15001103145",
-      "title": "palewire commented on an issue in claude-ai-mcp",
-      "link": "https://github.com/anthropics/claude-ai-mcp/issues/153#issuecomment-5665717407",
-      "published": "2026-09-14 07:38:15 -0700",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/anthropics/claude-ai-mcp/issues/153#issuecomment-",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21097626291",
-      "title": "palewire deleted",
-      "link": "https://github.com/palewire/datawrapper-mcp/compare/1284300e0d...0000000000",
-      "published": "2026-09-12 22:45:18 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/feat/confirm-before-delete</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/datawrapp",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://journaliststoolbox.substack.com/p/how-to-use-phantombuster",
-      "title": "How to Use Phantombuster",
-      "link": "https://journaliststoolbox.substack.com/p/how-to-use-phantombuster",
-      "published": "Tue, 15 Sep 2026 10:20:29 GMT",
-      "summary_raw": "Sept. 29, 2026",
-      "source": "Journalist's Toolbox (Substack)"
+      "id": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+      "title": "We’re not ready for superpersistent AI",
+      "link": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+      "published": "Tue, 15 Sep 2026 20:06:44 GMT",
+      "summary_raw": "Intelligence isn&#8217;t the only thing to worry about. What happens when AI just won&#8217;t quit?",
+      "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://www.ire.org/?p=210904",
-      "title": "Laura Barrón-López to headline AccessFest 2026",
-      "link": "https://www.ire.org/2026/09/14/laura-barron-lopez-to-headline-accessfest-2026/",
-      "published": "Mon, 14 Sep 2026 15:02:21 +0000",
-      "summary_raw": "<p>Laura Barrón-López to headline AccessFest 2026 Investigative Reporters &#38; Editors is honored to announce that Laura Barrón-López will headline our keynote conversation for AccessFest26, the organization’s sixth virtual-by-design conference Oct. 8-10. Barrón-López serves as an MS NOW White House Reporter. Her most recent reporting for MS NOW includes President Trump’s campaign to take over elections,&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/09/14/laura-barron-lopez-to-headline-accessfest-2026/\">Laura Barrón-López to headline AccessFest 2026</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "id": "https://www.ire.org/?p=211002",
+      "title": "How to Build Stories in a Data Desert",
+      "link": "https://www.ire.org/2026/09/15/how-to-build-stories-in-a-data-desert/",
+      "published": "Tue, 15 Sep 2026 17:56:14 +0000",
+      "summary_raw": "<p>How to Build Stories in a Data Desert By Helal Al-Anwah, Aljumhuriya Media Network &#124; Published September 15, 2026 In the United States, investigative journalists can often begin their work with a powerful tool: a Freedom of Information Act (FOIA) request. But access to public records isn’t created equally, especially in countries more hostile to&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/09/15/how-to-build-stories-in-a-data-desert/\">How to Build Stories in a Data Desert</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
       "source": "IRE (Investigative Reporters & Editors)"
     },
     {
-      "id": "https://wan-ifra.org/?p=120294",
-      "title": "What’s changing in print: Takeaways from Indian Printers Summit 2026",
-      "link": "https://wan-ifra.org/2026/09/whats-changing-in-print-takeaways-from-indian-printers-summit-2026/",
-      "published": "Tue, 15 Sep 2026 09:34:01 +0000",
-      "summary_raw": "<p>Across discussions on AI, audience behaviour, advertising, and production, one message stood out: publishers are rethinking how they create value, understand audiences and build sustainable businesses.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/whats-changing-in-print-takeaways-from-indian-printers-summit-2026/\">What’s changing in print: Takeaways from Indian Printers Summit 2026</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=253160",
-      "title": "Would you send it to the group chat? Sports creator Frank Michael Smith on finding the stories worth telling",
-      "link": "https://www.niemanlab.org/2026/09/would-you-send-it-in-the-group-chat-sports-creator-frank-michael-smith-on-finding-the-stories-worth-telling/",
-      "published": "Mon, 14 Sep 2026 19:52:50 +0000",
-      "summary_raw": "It costs one Cincinnati sports fan named Jack more than $1,600 a year to watch his city&#8217;s four sports teams play on TV. If he renews his subscriptions for another year, the price could exceed $2,000. Jack is a friend of Frank Michael Smith, a popular sports news video creator, who used Jack&#8217;s experience to...",
+      "id": "https://www.niemanlab.org/?p=253203",
+      "title": "Protein grams and retirement plans: Service journalism enters its next era",
+      "link": "https://www.niemanlab.org/2026/09/protein-grams-and-retirement-plans-service-journalism-enters-its-next-era/",
+      "published": "Tue, 15 Sep 2026 19:17:09 +0000",
+      "summary_raw": "The Daily Mail&#8217;s head of newsletters, Josephine Forster, is trying to improve her readers&#8217; lives. &#8220;They want to know how topical things will impact their lives, and what they can do about that,&#8221; she said. &#8220;You have to work a bit harder to meet that need. But it can be the difference between a 10-minute...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=252657",
-      "title": "The golden age wasn’t so golden",
-      "link": "https://www.niemanlab.org/2026/09/the-golden-age-wasnt-so-golden/",
-      "published": "Mon, 14 Sep 2026 16:31:52 +0000",
-      "summary_raw": "People have felt grave doubts about the press long before the Internet or social media, at times when politics was polarized and at times when it was not. In the United States, the steady decline in media trust from 1970 and onwards has, in my opinion, been badly misread. It has produced or justified anxiety...",
+      "id": "https://www.niemanlab.org/?p=253188",
+      "title": "Is science journalism dying? Comparing a “science crash” 40 years ago to today",
+      "link": "https://www.niemanlab.org/2026/09/is-science-journalism-dying-comparing-a-science-crash-40-years-ago-to-today/",
+      "published": "Tue, 15 Sep 2026 16:14:44 +0000",
+      "summary_raw": "When two popular science magazines — out of about 17 in circulation — ceased publication in the same year, one commentator said, &#8220;The science magazines didn&#8217;t shake out. They fell apart.&#8221; The general manager of one of the failed magazines said, &#8220;There was a perception that they were irrelevant.&#8221; One of the publishers remembered being...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1207629",
-      "title": "After months of drama, it was ‘60 Minutes’ of more of the same",
-      "link": "https://www.poynter.org/commentary/2026/60-minutes-season-premiere-bari-weiss-nick-bilton/",
-      "published": "Tue, 15 Sep 2026 11:30:03 +0000",
-      "summary_raw": "<p>“60 Minutes” had its much-anticipated season premiere on Sunday. All eyes were on what the show would look like under the direction of new executive producer Nick Bilton and, ultimately, [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/60-minutes-season-premiere-bari-weiss-nick-bilton/\">After months of drama, it was ‘60 Minutes’ of more of the same</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207692",
+      "title": "Local news audiences aren’t disappearing, but their habits are changing fast",
+      "link": "https://www.poynter.org/business-work/2026/medill-survey-local-news-consumption-2026/",
+      "published": "Wed, 16 Sep 2026 11:00:32 +0000",
+      "summary_raw": "<p>This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. In 2024, the Medill Local News Initiative at Northwestern University conducted its first in-depth [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/medill-survey-local-news-consumption-2026/\">Local news audiences aren’t disappearing, but their habits are changing fast</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207605",
-      "title": "Freelance journalism can be brutal. Here’s how successful writers make it work",
-      "link": "https://www.poynter.org/commentary/2026/freelance-journalism-how-to-make-a-living/",
-      "published": "Tue, 15 Sep 2026 11:00:47 +0000",
-      "summary_raw": "<p>The only food in my kitchen was a bag of russet potatoes, my pants were starting to fall down my hips, and I wasn’t going to make rent that month. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/freelance-journalism-how-to-make-a-living/\">Freelance journalism can be brutal. Here’s how successful writers make it work</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207753",
+      "title": "Trump’s latest Kennedy Center fight sounds almost made up",
+      "link": "https://www.poynter.org/commentary/2026/trump-kennedy-center-name-fight-media-coverage/",
+      "published": "Wed, 16 Sep 2026 10:30:57 +0000",
+      "summary_raw": "<p>If someone had told you a decade ago that we would have a president who changed the name of the Gulf of Mexico and Lake Ontario, tore up the East [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-kennedy-center-name-fight-media-coverage/\">Trump’s latest Kennedy Center fight sounds almost made up</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207617",
-      "title": "Sam Altman says one almond uses as much water as 38,000 ChatGPT queries. Not quite.",
-      "link": "https://www.poynter.org/fact-checking/2026/sam-altman-chatgpt-water-use-almonds/",
-      "published": "Tue, 15 Sep 2026 10:30:46 +0000",
-      "summary_raw": "<p>You’ve probably heard that using artificial intelligence consumes a lot of water. But how does it measure up with snacking on almonds? OpenAI CEO Sam Altman made the comparison in [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/sam-altman-chatgpt-water-use-almonds/\">Sam Altman says one almond uses as much water as 38,000 ChatGPT queries. Not quite.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207710",
+      "title": "What are lawmakers doing about AI risks? Here are the proposals in Congress",
+      "link": "https://www.poynter.org/fact-checking/2026/congress-ai-regulation-safety-bills-proposals/",
+      "published": "Wed, 16 Sep 2026 10:30:22 +0000",
+      "summary_raw": "<p>Lawmakers face pressure to respond to growing alarm over artificial intelligence, after a researcher from leading AI company Anthropic resigned and said in a public X thread that AI could [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/congress-ai-regulation-safety-bills-proposals/\">What are lawmakers doing about AI risks? Here are the proposals in Congress</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257067",
-      "title": "One in five Britons now using AI to access news",
-      "link": "https://pressgazette.co.uk/media-audience-and-business-data/uk-sources-of-news/",
-      "published": "Tue, 15 Sep 2026 09:48:08 +0000",
-      "summary_raw": "<div><img alt=\"Daily time spent with news in UK. Source: Ofcom News Report\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/dailynews2-e1789464576709-526x394.png\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>Ofcom 2026 news report finds online intermediaries dominate as source of UK news.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media-audience-and-business-data/uk-sources-of-news/\">One in five Britons now using AI to access news</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207718",
+      "title": "So, you want to be a journalist in Indy? Here’s what you need to know",
+      "link": "https://www.poynter.org/reporting-editing/2026/so-you-want-to-be-journalist-in-indy/",
+      "published": "Wed, 16 Sep 2026 09:00:48 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/so-you-want-to-be-journalist-in-indy/\">So, you want to be a journalist in Indy? Here’s what you need to know</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1207654",
+      "title": "Americans give their take on press freedom. You should worry",
+      "link": "https://www.poynter.org/ethics-trust/2026/americans-press-freedom-pew-knight-study/",
+      "published": "Tue, 15 Sep 2026 15:14:34 +0000",
+      "summary_raw": "<p>Fresh off the presses from a Pew Research Center and Knight Foundation collaboration, a new report shows solid support for a free press. Just about three-quarters of the public say [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/americans-press-freedom-pew-knight-study/\">Americans give their take on press freedom. You should worry</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257141",
+      "title": "Reach to cut editorial team by further 160 jobs as key metric becomes ‘active engaged time’",
+      "link": "https://pressgazette.co.uk/news/reach-to-cut-editorial-team-by-further-160-jobs-as-key-metric-becomes-active-engaged-time/",
+      "published": "Wed, 16 Sep 2026 09:40:21 +0000",
+      "summary_raw": "<div><img alt=\"Reach chief content officer David Higgerson speaking at Press Gazette&#039;s Future of Media Technology Conference\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/davidhiggerson-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Proposal also includes closure of Kent Live, Aberdeen Live and Galway Beo websites.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/reach-to-cut-editorial-team-by-further-160-jobs-as-key-metric-becomes-active-engaged-time/\">Reach to cut editorial team by further 160 jobs as key metric becomes &#8216;active engaged time&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257036",
-      "title": "Guardian grows revenue to record £282m boosted by US operation",
-      "link": "https://pressgazette.co.uk/media_business/guardian-grows-revenue-to-record-282m-boosted-by-us-operation/",
-      "published": "Tue, 15 Sep 2026 07:59:58 +0000",
-      "summary_raw": "<div><img alt=\"Anna Bateson, chief executive officer of The Guardian, on stage at Guardian Advertising Upfronts event\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2025/10/GuardianUpfronts-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Revenue grew in year to March 2026 to a new record for Guardian's news operation.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/guardian-grows-revenue-to-record-282m-boosted-by-us-operation/\">Guardian grows revenue to record £282m boosted by US operation</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257033",
+      "title": "Newsquest grows profit as online subscribers rise to 159,000",
+      "link": "https://pressgazette.co.uk/media_business/newsquest-accounts-2025/",
+      "published": "Wed, 16 Sep 2026 08:12:39 +0000",
+      "summary_raw": "<div><img alt=\"Newsquest CEO Henry Faure Walker. Picture: Press Gazette\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/11/faure_walker-scaled-e1699980000742-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Newsquest accounts show digital subscription growth despite revenue decline in 2025.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/newsquest-accounts-2025/\">Newsquest grows profit as online subscribers rise to 159,000</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257004",
-      "title": "‘Calling out genocide’: Why reporter left ITV News to help launch Zeteo UK",
-      "link": "https://pressgazette.co.uk/news/zeteo-uk-shehab-khan-itv-news-launch/",
-      "published": "Mon, 14 Sep 2026 15:00:48 +0000",
-      "summary_raw": "<div><img alt=\"Shehab Khan on set for new Zeteo UK show The Real Question\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/shehabkhan2-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Shehab Khan explains why joining progressive newsbrand's UK launch was \"breath of fresh air\".</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/zeteo-uk-shehab-khan-itv-news-launch/\">&#8216;Calling out genocide&#8217;: Why reporter left ITV News to help launch Zeteo UK</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257122",
+      "title": "Metro editor exits as ‘radical change’ needed to curb losses",
+      "link": "https://pressgazette.co.uk/news/metro-editor-exits-as-radical-change-needed-to-curb-losses/",
+      "published": "Tue, 15 Sep 2026 15:43:31 +0000",
+      "summary_raw": "<div><img alt=\"Metro editor Deborah Arthurs\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/03/Deborah-Arthurs-black-and-white-headshot-balcony-cropped-scaled-e1677863077182-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Editorial bosses Deborah Arthurs and Richard Hartley-Parkinson depart, Ted Young returns for interim role.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/metro-editor-exits-as-radical-change-needed-to-curb-losses/\">Metro editor exits as &#8216;radical change&#8217; needed to curb losses</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
