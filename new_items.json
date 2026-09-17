@@ -1,151 +1,110 @@
 {
-  "ai": [
-    {
-      "id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "published": "Tue, 15 Sep 2026 17:05:57 +0000",
-      "summary_raw": "",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "published": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    }
-  ],
+  "ai": [],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/21225205178",
-      "title": "palewire pushed ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/9d1e52b344...1d8dabf60e",
-      "published": "2026-09-14 09:38:06 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/ireapps/ire-archive-backend/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https",
+      "id": "tag:github.com,2008:push/21326904665",
+      "title": "palewire pushed python-open-source-template",
+      "link": "https://github.com/palewire/python-open-source-template/compare/6a4be16203...ba6001c804",
+      "published": "2026-09-16 14:51:44 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/python-open-source-template/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
       "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:issue_commented/15094889751",
-      "title": "palewire commented on an issue in app",
-      "link": "https://github.com/github/app/issues/3902#issuecomment-5686713472",
-      "published": "2026-09-15 12:19:50 -0700",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/app/issues/3902#issuecomment-5686713472\" r",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:issue_commented/15094773842",
-      "title": "palewire commented on an issue in app",
-      "link": "https://github.com/github/app/issues/3902#issuecomment-5686682026",
-      "published": "2026-09-15 12:17:52 -0700",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/app/issues/3902#issuecomment-5686682026\" r",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21208980262",
-      "title": "palewire created a branch",
-      "link": "https://github.com/ireapps/ire-archive-backend/compare/0000000000...c7b8f951db",
-      "published": "2026-09-14 09:07:27 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
-      "title": "We’re not ready for superpersistent AI",
-      "link": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
-      "published": "Tue, 15 Sep 2026 20:06:44 GMT",
-      "summary_raw": "Intelligence isn&#8217;t the only thing to worry about. What happens when AI just won&#8217;t quit?",
-      "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://www.ire.org/?p=211002",
-      "title": "How to Build Stories in a Data Desert",
-      "link": "https://www.ire.org/2026/09/15/how-to-build-stories-in-a-data-desert/",
-      "published": "Tue, 15 Sep 2026 17:56:14 +0000",
-      "summary_raw": "<p>How to Build Stories in a Data Desert By Helal Al-Anwah, Aljumhuriya Media Network &#124; Published September 15, 2026 In the United States, investigative journalists can often begin their work with a powerful tool: a Freedom of Information Act (FOIA) request. But access to public records isn’t created equally, especially in countries more hostile to&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/09/15/how-to-build-stories-in-a-data-desert/\">How to Build Stories in a Data Desert</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
+      "id": "https://wan-ifra.org/?p=120480",
+      "title": "Ukrainian media outlets kick off 12-week AI accelerator to drive newsroom innovation and build resilience",
+      "link": "https://wan-ifra.org/2026/09/ukrainian-media-outlets-kick-off-12-week-ai-accelerator-to-drive-newsroom-innovation-and-build-resilience/",
+      "published": "Thu, 17 Sep 2026 12:46:54 +0000",
+      "summary_raw": "<p>The Newsroom AI Catalyst Accelerator – a joint initiative by WAN-IFRA, OpenAI, and the Association of Independent Regional Press Publishers of Ukraine (AIRPPU) – held its launch meeting in Paris today. The programme is designed to help Ukrainian news publishers build resilience through AI adoption as they continue to work in extreme conditions.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/ukrainian-media-outlets-kick-off-12-week-ai-accelerator-to-drive-newsroom-innovation-and-build-resilience/\">Ukrainian media outlets kick off 12-week AI accelerator to drive newsroom innovation and build resilience</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253203",
-      "title": "Protein grams and retirement plans: Service journalism enters its next era",
-      "link": "https://www.niemanlab.org/2026/09/protein-grams-and-retirement-plans-service-journalism-enters-its-next-era/",
-      "published": "Tue, 15 Sep 2026 19:17:09 +0000",
-      "summary_raw": "The Daily Mail&#8217;s head of newsletters, Josephine Forster, is trying to improve her readers&#8217; lives. &#8220;They want to know how topical things will impact their lives, and what they can do about that,&#8221; she said. &#8220;You have to work a bit harder to meet that need. But it can be the difference between a 10-minute...",
+      "id": "https://wan-ifra.org/?p=120367",
+      "title": "Why the Penny Marvel still matters as editors worldwide face threats for telling uncomfortable truths",
+      "link": "https://wan-ifra.org/2026/09/why-the-penny-marvel-still-matters-as-editors-worldwide-face-threats-for-telling-uncomfortable-truths/",
+      "published": "Wed, 16 Sep 2026 17:55:29 +0000",
+      "summary_raw": "<p>50 years ago this week, the Belfast Telegraph’s Golden Pen winning editor, Roy Lilley, stood firm in the face of tragedy, ensuring the news appeared despite a bomb ripping through the paper’s building. World Editors Forum President David Walmsley recounts the story and pays tribute to his former boss and the journalists who stood with him.   </p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/why-the-penny-marvel-still-matters-as-editors-worldwide-face-threats-for-telling-uncomfortable-truths/\">Why the Penny Marvel still matters as editors worldwide face threats for telling uncomfortable truths</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=120378",
+      "title": "OpenAI’s Tom Rubin delivers keynote at Paris AI Forum",
+      "link": "https://wan-ifra.org/2026/09/openais-tom-rubin-delivers-keynote-at-paris-ai-forum/",
+      "published": "Wed, 16 Sep 2026 16:07:29 +0000",
+      "summary_raw": "<p>Tom Rubin, Chief of Intellectual Property and Content at OpenAI, took the stage at WAN-IFRA’s Paris AI Forum to deliver a keynote titled “Democracy, Journalism, and AI.” Here are some highlights from his speech.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/openais-tom-rubin-delivers-keynote-at-paris-ai-forum/\">OpenAI’s Tom Rubin delivers keynote at Paris AI Forum</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253246",
+      "title": "The Library Newsroom Project could be coming to a library near you",
+      "link": "https://www.niemanlab.org/2026/09/the-library-newsroom-project-could-be-coming-to-a-library-near-you/",
+      "published": "Wed, 16 Sep 2026 18:56:32 +0000",
+      "summary_raw": "Nieman Lab predictions don&#8217;t always come true, but Terry Parris Jr. is doing his best to make his a reality. As journalism reached breakneck speed to produce mountains of content for insatiable digital platforms, it &#8220;drifted away from where people actually live their lives,&#8221; Parris Jr. wrote last year. He predicted 2026 would &#8220;push us...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253188",
-      "title": "Is science journalism dying? Comparing a “science crash” 40 years ago to today",
-      "link": "https://www.niemanlab.org/2026/09/is-science-journalism-dying-comparing-a-science-crash-40-years-ago-to-today/",
-      "published": "Tue, 15 Sep 2026 16:14:44 +0000",
-      "summary_raw": "When two popular science magazines — out of about 17 in circulation — ceased publication in the same year, one commentator said, &#8220;The science magazines didn&#8217;t shake out. They fell apart.&#8221; The general manager of one of the failed magazines said, &#8220;There was a perception that they were irrelevant.&#8221; One of the publishers remembered being...",
+      "id": "https://www.niemanlab.org/?p=253221",
+      "title": "The Atlantic is getting more subscribers from Google traffic, even as referrals fall",
+      "link": "https://www.niemanlab.org/2026/09/the-atlantic-is-getting-more-subscribers-from-google-traffic-even-as-referrals-fall/",
+      "published": "Wed, 16 Sep 2026 17:15:30 +0000",
+      "summary_raw": "Like many in the news industry, The Atlantic is seeing its referrals from Google drop. At the same time, CEO Nicholas Thompson said, the number of subscribers The Atlantic gets from Google traffic has gone up. &#8220;Google is sending us fewer people who aren&#8217;t going to subscribe,&#8221; Thompson said in an interview with longtime media journalist...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1207692",
-      "title": "Local news audiences aren’t disappearing, but their habits are changing fast",
-      "link": "https://www.poynter.org/business-work/2026/medill-survey-local-news-consumption-2026/",
-      "published": "Wed, 16 Sep 2026 11:00:32 +0000",
-      "summary_raw": "<p>This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. In 2024, the Medill Local News Initiative at Northwestern University conducted its first in-depth [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/medill-survey-local-news-consumption-2026/\">Local news audiences aren’t disappearing, but their habits are changing fast</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207849",
+      "title": "World’s fact-checkers to meet in Antwerp, Belgium, for GlobalFact 2027",
+      "link": "https://www.poynter.org/ifcn/2026/worlds-fact-checkers-to-meet-in-antwerp-belgium-for-globalfact-2027/",
+      "published": "Thu, 17 Sep 2026 13:10:10 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Fla. (Sept. 17, 2026) – The world’s fact-checkers will gather in Antwerp, Belgium, for GlobalFact 2027, the 14th edition of the field’s largest professional meeting.  The International Fact-Checking [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ifcn/2026/worlds-fact-checkers-to-meet-in-antwerp-belgium-for-globalfact-2027/\">World’s fact-checkers to meet in Antwerp, Belgium, for GlobalFact 2027</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207753",
-      "title": "Trump’s latest Kennedy Center fight sounds almost made up",
-      "link": "https://www.poynter.org/commentary/2026/trump-kennedy-center-name-fight-media-coverage/",
-      "published": "Wed, 16 Sep 2026 10:30:57 +0000",
-      "summary_raw": "<p>If someone had told you a decade ago that we would have a president who changed the name of the Gulf of Mexico and Lake Ontario, tore up the East [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-kennedy-center-name-fight-media-coverage/\">Trump’s latest Kennedy Center fight sounds almost made up</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207887",
+      "title": "‘Our hearts are broken’: L.A. news stations mourn journalist, pilot killed in helicopter crash",
+      "link": "https://www.poynter.org/commentary/2026/los-angeles-news-helicopter-crash-nbc4/",
+      "published": "Thu, 17 Sep 2026 11:30:16 +0000",
+      "summary_raw": "<p>The scene in Chatsworth, a suburban neighborhood of Los Angeles, on Tuesday was already tragic. An SUV had crashed into a Metro bus, killing two people. But then it got [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/los-angeles-news-helicopter-crash-nbc4/\">‘Our hearts are broken’: L.A. news stations mourn journalist, pilot killed in helicopter crash</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207710",
-      "title": "What are lawmakers doing about AI risks? Here are the proposals in Congress",
-      "link": "https://www.poynter.org/fact-checking/2026/congress-ai-regulation-safety-bills-proposals/",
-      "published": "Wed, 16 Sep 2026 10:30:22 +0000",
-      "summary_raw": "<p>Lawmakers face pressure to respond to growing alarm over artificial intelligence, after a researcher from leading AI company Anthropic resigned and said in a public X thread that AI could [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/congress-ai-regulation-safety-bills-proposals/\">What are lawmakers doing about AI risks? Here are the proposals in Congress</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207859",
+      "title": "Want to build a data center? Fund the journalists who will hold it accountable",
+      "link": "https://www.poynter.org/commentary/2026/data-centers-fund-local-journalism-reporters/",
+      "published": "Thu, 17 Sep 2026 11:00:29 +0000",
+      "summary_raw": "<p>Communities and state governments that are inclined to host new data centers are now realizing that (thanks to the moratorium movement) they possess something surprising: serious leverage. They can and [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/data-centers-fund-local-journalism-reporters/\">Want to build a data center? Fund the journalists who will hold it accountable</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207718",
-      "title": "So, you want to be a journalist in Indy? Here’s what you need to know",
-      "link": "https://www.poynter.org/reporting-editing/2026/so-you-want-to-be-journalist-in-indy/",
-      "published": "Wed, 16 Sep 2026 09:00:48 +0000",
-      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/so-you-want-to-be-journalist-in-indy/\">So, you want to be a journalist in Indy? Here’s what you need to know</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207835",
+      "title": "Trump says the GOP convention beat the NFL. The ratings say otherwise.",
+      "link": "https://www.poynter.org/fact-checking/2026/trump-gop-convention-nfl-tv-ratings/",
+      "published": "Thu, 17 Sep 2026 10:30:34 +0000",
+      "summary_raw": "<p>President Donald Trump was quick to boast about how many Americans tuned in to the Republicans’ midterm convention, but the facts don’t back him up. On Sept. 10, hours after [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/trump-gop-convention-nfl-tv-ratings/\">Trump says the GOP convention beat the NFL. The ratings say otherwise.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1207654",
-      "title": "Americans give their take on press freedom. You should worry",
-      "link": "https://www.poynter.org/ethics-trust/2026/americans-press-freedom-pew-knight-study/",
-      "published": "Tue, 15 Sep 2026 15:14:34 +0000",
-      "summary_raw": "<p>Fresh off the presses from a Pew Research Center and Knight Foundation collaboration, a new report shows solid support for a free press. Just about three-quarters of the public say [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/americans-press-freedom-pew-knight-study/\">Americans give their take on press freedom. You should worry</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1207784",
+      "title": "VIDEO: Will AI end humanity? How to separate the real risks from the hype",
+      "link": "https://www.poynter.org/ethics-trust/2026/will-ai-destroy-humanity-extinction-risk/",
+      "published": "Wed, 16 Sep 2026 15:21:57 +0000",
+      "summary_raw": "<p>Anthropic employees are quitting and warning that artificial intelligence could end humanity. AI agents have broken out of test environments to hack websites. And lawmakers are proposing new regulations aimed [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/will-ai-destroy-humanity-extinction-risk/\">VIDEO: Will AI end humanity? How to separate the real risks from the hype</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257141",
-      "title": "Reach to cut editorial team by further 160 jobs as key metric becomes ‘active engaged time’",
-      "link": "https://pressgazette.co.uk/news/reach-to-cut-editorial-team-by-further-160-jobs-as-key-metric-becomes-active-engaged-time/",
-      "published": "Wed, 16 Sep 2026 09:40:21 +0000",
-      "summary_raw": "<div><img alt=\"Reach chief content officer David Higgerson speaking at Press Gazette&#039;s Future of Media Technology Conference\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/davidhiggerson-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Proposal also includes closure of Kent Live, Aberdeen Live and Galway Beo websites.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/reach-to-cut-editorial-team-by-further-160-jobs-as-key-metric-becomes-active-engaged-time/\">Reach to cut editorial team by further 160 jobs as key metric becomes &#8216;active engaged time&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257088",
+      "title": "What I’ve learned: TTG boss Daniel Pearce says ‘finding our purpose’ was business turning point",
+      "link": "https://pressgazette.co.uk/publishers/b2b/what-ive-learned-ttg-ceo-daniel-pearce/",
+      "published": "Thu, 17 Sep 2026 09:49:48 +0000",
+      "summary_raw": "<div><img alt=\"Daniel Pearce, CEO of TTG Media. Picture: Submitted\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/danielpearce-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>B2B travel magazine CEO shares his insights on managing a successful trade title. </p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/b2b/what-ive-learned-ttg-ceo-daniel-pearce/\">What I&#8217;ve learned: TTG boss Daniel Pearce says &#8216;finding our purpose&#8217; was business turning point</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257033",
-      "title": "Newsquest grows profit as online subscribers rise to 159,000",
-      "link": "https://pressgazette.co.uk/media_business/newsquest-accounts-2025/",
-      "published": "Wed, 16 Sep 2026 08:12:39 +0000",
-      "summary_raw": "<div><img alt=\"Newsquest CEO Henry Faure Walker. Picture: Press Gazette\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/11/faure_walker-scaled-e1699980000742-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Newsquest accounts show digital subscription growth despite revenue decline in 2025.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/newsquest-accounts-2025/\">Newsquest grows profit as online subscribers rise to 159,000</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257122",
-      "title": "Metro editor exits as ‘radical change’ needed to curb losses",
-      "link": "https://pressgazette.co.uk/news/metro-editor-exits-as-radical-change-needed-to-curb-losses/",
-      "published": "Tue, 15 Sep 2026 15:43:31 +0000",
-      "summary_raw": "<div><img alt=\"Metro editor Deborah Arthurs\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2023/03/Deborah-Arthurs-black-and-white-headshot-balcony-cropped-scaled-e1677863077182-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Editorial bosses Deborah Arthurs and Richard Hartley-Parkinson depart, Ted Young returns for interim role.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/metro-editor-exits-as-radical-change-needed-to-curb-losses/\">Metro editor exits as &#8216;radical change&#8217; needed to curb losses</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257191",
+      "title": "FT chief Jon Slade on how business brand became a hit with Gen Z",
+      "link": "https://pressgazette.co.uk/publishers/nationals/ft-chief-jon-slade-on-how-business-brand-became-a-hit-with-gen-z/",
+      "published": "Thu, 17 Sep 2026 09:39:53 +0000",
+      "summary_raw": "<div><img alt=\"Jon Slade in conversaion with Press Gazette editor in chief Dominic Ponsford at the 2026 Future of Media Technology Conference. Picture: Press Gazette/ASV Photography\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/jon_slade-e1789573946429-525x394.png\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Slade was the opening keynote speaker at Press Gazette's Future of Media Technology conference.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/nationals/ft-chief-jon-slade-on-how-business-brand-became-a-hit-with-gen-z/\">FT chief Jon Slade on how business brand became a hit with Gen Z</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
