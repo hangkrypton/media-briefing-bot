@@ -1,7 +1,145 @@
 {
   "ai": [],
-  "tools": [],
-  "market": [],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:issue_commented/15348662389",
+      "title": "palewire commented on an issue in app",
+      "link": "https://github.com/github/app/issues/4048#issuecomment-5742968557",
+      "published": "2026-09-19 08:14:26 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/app/issues/4048#issuecomment-5742968557\" r",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/15348660644",
+      "title": "palewire commented on an issue in copilot-cli",
+      "link": "https://github.com/github/copilot-cli/issues/4905#issuecomment-5742968278",
+      "published": "2026-09-19 08:14:23 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/github/copilot-cli/issues/4905#issuecomment-57429",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:star/15293328091",
+      "title": "palewire starred esphome/home-assistant-voice-pe",
+      "link": "https://github.com/esphome/home-assistant-voice-pe",
+      "published": "2026-09-18 06:08:01 -0700",
+      "summary_raw": "<div class=\"star js-feed-item-view\"><div class=\"body\">\n<!-- watch -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div>\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n              <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            starred\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/esphome/home-assistant-voice-pe\" rel=\"",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/15227203362",
+      "title": "palewire closed a pull request in LibreChat",
+      "link": "https://github.com/danny-avila/LibreChat/pull/13121",
+      "published": "2026-08-16 19:58:56 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/danny-avila/LibreC",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai",
+      "title": "A supermajority wants to slow AI down",
+      "link": "https://www.natesilver.net/p/a-supermajority-wants-to-slow-ai",
+      "published": "Thu, 17 Sep 2026 14:55:14 GMT",
+      "summary_raw": "Still Counting EP2 is out.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/5-stages-of-ai-mastery",
+      "title": "🧠 How to Improve Your AI Skills",
+      "link": "https://wondertools.substack.com/p/5-stages-of-ai-mastery",
+      "published": "Sat, 19 Sep 2026 14:03:39 GMT",
+      "summary_raw": "What to learn next, from prompts to workflows",
+      "source": "Wonder Tools (Substack)"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://www.ire.org/?p=211019",
+      "title": "IRE condemns White House ban on journalists from CNN, MS NOW and Politico",
+      "link": "https://www.ire.org/2026/09/19/ire-condemns-white-house-ban-on-journalists-from-cnn-ms-now-and-politico/",
+      "published": "Sat, 19 Sep 2026 16:17:38 +0000",
+      "summary_raw": "<p>IRE condemns White House ban on journalists from CNN, MS NOW and Politico September 19, 2026 &#124; Investigative Reporters and Editors condemns President Donald Trump's ban of CNN, MS NOW and Politico from the White House in apparent retaliation for their coverage of the Trump Administration. In a post on Truth Social, President Trump said&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/09/19/ire-condemns-white-house-ban-on-journalists-from-cnn-ms-now-and-politico/\">IRE condemns White House ban on journalists from CNN, MS NOW and Politico</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=120556",
+      "title": "Asked and Answered: Journalism’s value and how to show it",
+      "link": "https://wan-ifra.org/2026/09/asked-and-answered-journalisms-value-and-how-to-show-it/",
+      "published": "Fri, 18 Sep 2026 08:39:58 +0000",
+      "summary_raw": "<p>We have the data and verifiable case studies to prove that journalism’s value is both economic and social. This World News Day is an opportunity to go further to show and tell how and why your journalism matters.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/asked-and-answered-journalisms-value-and-how-to-show-it/\">Asked and Answered: Journalism’s value and how to show it</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=120545",
+      "title": "Meet Muni: The app at the heart of building community in the AI-driven, zero-click age",
+      "link": "https://wan-ifra.org/2026/09/meet-muni-the-app-at-the-heart-of-building-community-in-the-ai-driven-zero-click-age/",
+      "published": "Fri, 18 Sep 2026 08:05:49 +0000",
+      "summary_raw": "<p>After three years of experimenting in building direct relationships with readers, Rappler is amplifying awareness of its community platform – renamed MUNI – and offering commercial access to global newsrooms ahead of World News Day.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/meet-muni-the-app-at-the-heart-of-building-community-in-the-ai-driven-zero-click-age/\">Meet Muni: The app at the heart of building community in the AI-driven, zero-click age</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=120369",
+      "title": "The AI tools were the easy part",
+      "link": "https://wan-ifra.org/2026/09/the-ai-tools-were-the-easy-part/",
+      "published": "Fri, 18 Sep 2026 07:56:36 +0000",
+      "summary_raw": "<p>\"Is AI even still a skill?\" someone asked Martin Schori last week. “It’s a fair question. Is it even worth 'learning AI' when, within a very short time, the technology will be so baked into everything we do that we'll stop noticing it's there?”</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/the-ai-tools-were-the-easy-part/\">The AI tools were the easy part</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253310",
+      "title": "“An astonishing theft of unprecedented proportions”: Court records show what Microsoft and OpenAI actually thought about AI training",
+      "link": "https://www.niemanlab.org/2026/09/an-astonishing-theft-of-unprecedented-proportions-court-records-show-what-microsoft-and-openai-actually-thought-about-ai-training/",
+      "published": "Fri, 18 Sep 2026 14:50:42 +0000",
+      "summary_raw": "Would you call large language models training on an internet&#8217;s worth of content &#8220;an astonishing theft of unprecedented proportions&#8221;? Or perhaps you prefer the &#8220;largest theft of labor in human history&#8221;? Take your pick because those two options — and many more — appear in a newly unredacted court filing in the ongoing New York...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253320",
+      "title": "Five independent climate journalists are teaming up with a “pop-up newsroom”",
+      "link": "https://www.niemanlab.org/2026/09/five-independent-climate-journalists-are-teaming-up-with-a-pop-up-newsroom/",
+      "published": "Fri, 18 Sep 2026 14:50:13 +0000",
+      "summary_raw": "Going independent usually means losing the collaboration that comes from working in a newsroom. Journalists operating on their own don&#8217;t have access to editors or colleagues to work through stories, unless they decide to hire some on their own. But a new team-up from five climate journalists aims to pave a different path. &#8220;Betting the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253276",
+      "title": "News consumers are wary of most AI use in local news, a Chicago-based report finds",
+      "link": "https://www.niemanlab.org/2026/09/news-consumers-are-wary-of-most-ai-use-in-local-news-a-chicago-based-report-finds/",
+      "published": "Thu, 17 Sep 2026 18:55:16 +0000",
+      "summary_raw": "Local news providers weighing AI use in the newsroom should think twice, according to a new survey from the Medill Local News Initiative at Northwestern. &#8220;The Medill survey provides a warning to news leaders,&#8221; Stephanie Edgerly and Tim Franklin write in the report released this week. &#8220;Respondents showed clear distrust of AI in the news-gathering...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253277",
+      "title": "New York Times training editor: Take these four steps before you roll out new things",
+      "link": "https://www.niemanlab.org/2026/09/new-york-times-training-editor-take-these-four-steps-before-you-roll-out-new-things/",
+      "published": "Thu, 17 Sep 2026 18:41:25 +0000",
+      "summary_raw": "When I tell someone at work that I wrote a book called Saying No to New, I usually get a similar response each time. It&#8217;s something like, &#8220;But you advocate for new things here.&#8221; It&#8217;s true. At The New York Times, I&#8217;m a deputy editor on the newsroom development and support team. Our job is...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1207981",
+      "title": "The New York Times turns 175 and looks back at the good and the bad",
+      "link": "https://www.poynter.org/commentary/2026/new-york-times-175-anniversary/",
+      "published": "Fri, 18 Sep 2026 11:30:34 +0000",
+      "summary_raw": "<p>Sept. 18, 1851, was a special day in American journalism. It was on that day — 175 years ago today, to be exact — that The New York Times published [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/new-york-times-175-anniversary/\">The New York Times turns 175 and looks back at the good and the bad</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1207921",
+      "title": "Three things to figure out before starting that memoir",
+      "link": "https://www.poynter.org/reporting-editing/2026/three-things-to-figure-out-before-starting-that-memoir/",
+      "published": "Thu, 17 Sep 2026 15:20:43 +0000",
+      "summary_raw": "<p>Mallary Tenore Tarpley got nearly 50 rejections on the path to publishing her memoir, “mostly from publishers and from grants and fellowships I had applied for — and I wasn’t [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/three-things-to-figure-out-before-starting-that-memoir/\">Three things to figure out before starting that memoir</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257235",
+      "title": "Prominent art therapist quoted by Vice, Forbes and others is AI-generated",
+      "link": "https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/",
+      "published": "Fri, 18 Sep 2026 09:23:05 +0000",
+      "summary_raw": "<div><img alt=\"Profile pic of Dr Eleni Nicolaou is AI generated. She has been quoted in Vice, Psychology and numerous other titles.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/davincified1-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Expert in residence for art materials website is widely-quoted psychology expert.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/prominent-art-therapist-quoted-by-vice-forbes-and-others-is-ai-generated/\">Prominent art therapist quoted by Vice, Forbes and others is AI-generated</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
