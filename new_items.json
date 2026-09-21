@@ -2,31 +2,64 @@
   "ai": [],
   "tools": [
     {
-      "id": "tag:github.com,2008:issue_commented/14982569140",
-      "title": "palewire commented on an issue in ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/issues/22#issuecomment-5661881286",
-      "published": "2026-09-14 02:28:58 -0700",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/ireapps/ire-archive-backend/issues/22#issuecommen",
+      "id": "tag:github.com,2008:push/21738543876",
+      "title": "palewire pushed population-exposure",
+      "link": "https://github.com/palewire/population-exposure/compare/417797f6ec...325b1fd345",
+      "published": "2026-09-21 12:14:09 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/population-exposure/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"http",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:issue_closed/14982568897",
-      "title": "palewire closed an issue in ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/issues/22",
-      "published": "2026-09-14 02:28:59 -0700",
-      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-b",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_merged/14981674507",
-      "title": "palewire contributed to ireapps/ire-archive-backend",
-      "link": "https://github.com/ireapps/ire-archive-backend/pull/31",
-      "published": "2026-09-14 02:14:11 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/ireapps/ire-archive-backend/pull",
-      "source": "GitHub - palewire"
+      "id": "https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
+      "title": "Expert ratings are ignoring signs of a blue wave",
+      "link": "https://www.natesilver.net/p/expert-ratings-are-ignoring-signs",
+      "published": "Sun, 20 Sep 2026 19:08:19 GMT",
+      "summary_raw": "Assuming we&#8217;re in a roughly neutral political environment doesn&#8217;t make sense given the history of the midterms, $4.50 gas or Trump&#8217;s dismal approval ratings.",
+      "source": "Nate Silver"
     }
   ],
-  "market": [],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=120714",
+      "title": "‘Tell people things they don’t know’: The Athletic’s Laura Williamson on journalism worth paying for",
+      "link": "https://wan-ifra.org/2026/09/tell-people-things-they-dont-know-the-athletics-laura-williamson-on-journalism-worth-paying-for/",
+      "published": "Mon, 21 Sep 2026 11:10:51 +0000",
+      "summary_raw": "<p>The Athletic's Editor-in-Chief on why investing in reporters, knowing exactly who you’re serving and turning great journalism into habit are central to building a subscription sports brand.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/tell-people-things-they-dont-know-the-athletics-laura-williamson-on-journalism-worth-paying-for/\">&#8216;Tell people things they don’t know&#8217;: The Athletic&#8217;s Laura Williamson on journalism worth paying for</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1208106",
+      "title": "What’s behind Trump’s White House media ban — and what happens next",
+      "link": "https://www.poynter.org/commentary/2026/cnn-msnow-politico-white-house-ban-free-press/",
+      "published": "Mon, 21 Sep 2026 11:30:12 +0000",
+      "summary_raw": "<p>Just when you think President Donald Trump has done everything possible to attack press freedoms in this country, he pulls out a machete and hacks away even more. Over the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/cnn-msnow-politico-white-house-ban-free-press/\">What’s behind Trump’s White House media ban — and what happens next</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1208029",
+      "title": "Poynter launches free course offering ethical guidance for funders interested in supporting local news",
+      "link": "https://www.poynter.org/news-release/2026/poynter-launches-free-course-offering-ethical-guidance-for-funders-interested-in-supporting-local-news/",
+      "published": "Mon, 21 Sep 2026 11:00:10 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Florida (September 21, 2026) — Amid a growing movement for national and local philanthropies to support local news, the Poynter Institute has launched its first online course aimed [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/poynter-launches-free-course-offering-ethical-guidance-for-funders-interested-in-supporting-local-news/\">Poynter launches free course offering ethical guidance for funders interested in supporting local news</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257241",
+      "title": "Mag giant Hearst UK returns to revenue growth after three years of decline",
+      "link": "https://pressgazette.co.uk/publishers/magazines/mag-giant-hearst-uk-returns-to-revenue-growth-after-three-years-of-decline/",
+      "published": "Mon, 21 Sep 2026 10:44:37 +0000",
+      "summary_raw": "<div><img alt=\"Hearst UK magazines including Good Housekeeping, Elle, Elle Decoration, Men&#039;s Health, Country Living, and Harper&#039;s Bazaar\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/hearstukmags-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Staff cuts and growing subscriptions revenue help Hearst UK return to revenue growth.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/mag-giant-hearst-uk-returns-to-revenue-growth-after-three-years-of-decline/\">Mag giant Hearst UK returns to revenue growth after three years of decline</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257301",
+      "title": "News diary 21-27 September: Burnham to meet Trump, Labour Party conference, MTV Video Music Awards",
+      "link": "https://pressgazette.co.uk/news/news-diary-21-27-september-burnham-to-meet-trump-labour-party-conference-mtv-video-music-awards/",
+      "published": "Mon, 21 Sep 2026 10:16:02 +0000",
+      "summary_raw": "<div><img alt=\"UK Prime Minister Andy Burnham on left, edited next to a picture of US President Donald Trump\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/burnhamtrump-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>A look ahead at the key events leading the news agenda this week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-21-27-september-burnham-to-meet-trump-labour-party-conference-mtv-video-music-awards/\">News diary 21-27 September: Burnham to meet Trump, Labour Party conference, MTV Video Music Awards</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
