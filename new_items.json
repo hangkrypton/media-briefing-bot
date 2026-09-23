@@ -1,248 +1,200 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "title": "Transformers now runs llama.cpp quants",
-      "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "id": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "link": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "published": "Wed, 23 Sep 2026 13:17:01 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/evaleval-aisi",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "link": "https://huggingface.co/blog/evaleval-aisi",
       "published": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/omlx",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "link": "https://huggingface.co/blog/omlx",
-      "published": "Tue, 22 Sep 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "published": "Mon, 21 Sep 2026 13:44:34 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/tokenizers-v1",
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "link": "https://huggingface.co/blog/tokenizers-v1",
-      "published": "Mon, 21 Sep 2026 00:00:00 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/21839365712",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/348a7377c8...0054bcc20d",
-      "published": "2026-09-22 11:34:38 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21838977809",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/f8dfd44ded...d7fdefd1e5",
-      "published": "2026-09-22 11:30:00 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21838598012",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/6bc354f0bd...f8dfd44ded",
-      "published": "2026-09-22 11:25:16 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21835010090",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/3c03110221...b65ff228e3",
-      "published": "2026-09-22 11:33:23 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21834592010",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/ea046f9f65...336cb038b7",
-      "published": "2026-09-22 11:46:17 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/feat/historical-era5-wording\" rel=\"noreferrer\">feat/historical-era5-wording</a>\n        in\n      <a clas",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21834212772",
-      "title": "palewire deleted",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/b65ff228e3...0000000000",
-      "published": "2026-09-22 11:34:39 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/test/live-data-validation</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-cl",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21833683647",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/d7fdefd1e5...3c03110221",
-      "published": "2026-09-22 11:31:09 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21833583663",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/f441d89bb7...348a7377c8",
-      "published": "2026-09-22 11:32:49 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21833439885",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/b20a6cc630...b7851dd935",
-      "published": "2026-09-22 11:12:30 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21833376507",
-      "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/fd86d496b2...b20a6cc630",
-      "published": "2026-09-22 11:11:39 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_created/15500219641",
-      "title": "palewire opened a pull request in reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/4",
-      "published": "2026-09-22 04:40:53 -0700",
-      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21833176221",
+      "id": "tag:github.com,2008:push/21945977134",
       "title": "palewire created a branch",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/0000000000...ea046f9f65",
-      "published": "2026-09-22 11:40:48 UTC",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/0000000000...5e3b410641",
+      "published": "2026-09-23 12:53:15 UTC",
       "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:pr_created/15499995315",
-      "title": "palewire opened a pull request in reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/3",
-      "published": "2026-09-22 04:37:09 -0700",
-      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/21832837724",
+      "id": "tag:github.com,2008:push/21945585873",
       "title": "palewire pushed reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/75abf22f86...6bc354f0bd",
-      "published": "2026-09-22 11:21:49 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/test/live-data-validation\" rel=\"noreferrer\">test/live-data-validation</a>\n        in\n      <a class=\"Lin",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/88bc81d176...0c494c4a5d",
+      "published": "2026-09-23 12:49:18 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:pr_merged/15499840623",
+      "id": "tag:github.com,2008:pr_merged/15586713656",
       "title": "palewire contributed to palewire/reuters-climate-paragraph",
-      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/2",
-      "published": "2026-09-22 04:34:38 -0700",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/17",
+      "published": "2026-09-23 06:13:45 -0700",
       "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-paragra",
       "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/21944640733",
+      "title": "palewire pushed reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/262a46048c...e0a5d12826",
+      "published": "2026-09-23 13:13:21 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/palewire-document-regional-history-rollout\" rel=\"noreferrer\">palewire-document-regional-history-rollout<",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/21944217723",
+      "title": "palewire pushed reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/2a5f37cbfe...262a46048c",
+      "published": "2026-09-23 13:07:59 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/palewire-document-regional-history-rollout\" rel=\"noreferrer\">palewire-document-regional-history-rollout<",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_reopened/15586271279",
+      "title": "palewire contributed to palewire/reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/17",
+      "published": "2026-09-23 06:07:47 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          reopened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-parag",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/15586148165",
+      "title": "palewire closed an issue in reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/issues/7",
+      "published": "2026-09-23 06:06:09 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-clim",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/15586130480",
+      "title": "palewire contributed to palewire/reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/17",
+      "published": "2026-09-23 05:54:36 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-paragra",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/21943185907",
+      "title": "palewire pushed reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/aee856bae8...2a5f37cbfe",
+      "published": "2026-09-23 12:54:34 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-climate-paragraph/tree/palewire-document-regional-history-rollout\" rel=\"noreferrer\">palewire-document-regional-history-rollout<",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/15585239698",
+      "title": "palewire contributed to palewire/reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/17",
+      "published": "2026-09-23 05:53:24 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-paragra",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/15584948062",
+      "title": "palewire closed an issue in reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/issues/6",
+      "published": "2026-09-23 05:49:18 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-clim",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/15584947889",
+      "title": "palewire contributed to palewire/reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/16",
+      "published": "2026-09-23 05:49:16 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-paragra",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_closed/15584947664",
+      "title": "palewire closed an issue in reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/issues/5",
+      "published": "2026-09-23 05:49:18 -0700",
+      "summary_raw": "<div class=\"issues_closed js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-clim",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/15584315980",
+      "title": "palewire contributed to palewire/reuters-climate-paragraph",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/pull/16",
+      "published": "2026-09-23 05:40:39 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-climate-paragra",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/21894055383",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/reuters-climate-paragraph/compare/0000000000...cd1842650d",
+      "published": "2026-09-22 17:12:38 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/diesel-prices-could-crush-republicans",
+      "title": "Diesel prices could crush Republicans in the heartland",
+      "link": "https://www.natesilver.net/p/diesel-prices-could-crush-republicans",
+      "published": "Tue, 22 Sep 2026 20:07:28 GMT",
+      "summary_raw": "Inflation in fuel prices is much higher in diesel-heavy farm states &#8212; which happen to coincide with competitive Senate races.",
+      "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=120501",
-      "title": "Inside 24.hu’s AI transformation: From social media tracking to company-wide rollout",
-      "link": "https://wan-ifra.org/2026/09/inside-24-hus-ai-transformation-from-social-media-tracking-to-company-wide-rollout/",
-      "published": "Tue, 22 Sep 2026 09:44:59 +0000",
-      "summary_raw": "<p>The news website has streamlined its political journalism by creating an AI-powered solution for tracking politicians’ social media accounts. The tool is now being introduced to the wider newsroom, with more AI-driven solutions set to follow.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/inside-24-hus-ai-transformation-from-social-media-tracking-to-company-wide-rollout/\">Inside 24.hu’s AI transformation: From social media tracking to company-wide rollout</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=120175",
-      "title": "In the AI era, ‘our vulnerability is delivery, not content,’ says SCMP’s chief technology officer",
-      "link": "https://wan-ifra.org/2026/09/in-the-ai-era-our-vulnerability-is-delivery-not-content-says-scmps-chief-technology-officer/",
-      "published": "Tue, 22 Sep 2026 09:09:22 +0000",
-      "summary_raw": "<p>As newsrooms continue to be disrupted, Jun Zhang, the South China Morning Post's Chief Technology Officer suggested a framework for addressing the key questions and areas where he believes news publishers must place their emphasis as they move forward.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/in-the-ai-era-our-vulnerability-is-delivery-not-content-says-scmps-chief-technology-officer/\">In the AI era, &#8216;our vulnerability is delivery, not content,&#8217; says SCMP&#8217;s chief technology officer</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=253366",
-      "title": "David Ellison will get control of CNN after all (and don’t pretend an “independent editorial board” will mean otherwise)",
-      "link": "https://www.niemanlab.org/2026/09/david-ellison-will-get-control-of-cnn-after-all-and-dont-pretend-an-independent-editorial-board-will-mean-otherwise/",
-      "published": "Mon, 21 Sep 2026 19:32:42 +0000",
-      "summary_raw": "Eighteen months ago, David Ellison was mostly known as an ATM for Hollywood producers seeking to pencil out budgets for quarter-zip dadcore flicks like Jack Ryan: Shadow Recruit, Jack Reacher: Never Go Back, and Transformers: Rise of the Beasts. But now, thanks to a timely reallocation of his father&#8217;s money, he&#8217;s set to be one...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1208215",
-      "title": "‘This is unprecedented’: Trump’s media bans upend White House coverage",
-      "link": "https://www.poynter.org/commentary/2026/tv-networks-news-outlets-react-trump-media-ban/",
-      "published": "Tue, 22 Sep 2026 11:30:35 +0000",
-      "summary_raw": "<p>The New York Times’ Peter Baker recorded a video Monday in which he said that in the 30 years he has covered the White House, he had never seen a [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/tv-networks-news-outlets-react-trump-media-ban/\">‘This is unprecedented’: Trump’s media bans upend White House coverage</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1208373",
+      "title": "Trump was back on TV, but the network standoff isn’t over",
+      "link": "https://www.poynter.org/commentary/2026/trump-united-nations-kaitlan-collins-cnn-interview/",
+      "published": "Wed, 23 Sep 2026 11:30:11 +0000",
+      "summary_raw": "<p>President Donald Trump was back on TV on Tuesday. Well, for a little while. As you’re well aware by now, Trump and the U.S. news networks are feuding. Trump started [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-united-nations-kaitlan-collins-cnn-interview/\">Trump was back on TV, but the network standoff isn’t over</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208168",
-      "title": "So you want out of your newsroom job, but the job market makes quitting complicated",
-      "link": "https://www.poynter.org/commentary/2026/journalism-jobs-when-to-quit-newsroom-job/",
-      "published": "Tue, 22 Sep 2026 11:00:10 +0000",
-      "summary_raw": "<p>“That’s it,” my friend exclaimed as she collapsed into the chair across from me. “This time, I am really going to quit.” Her newsroom manager was sending her passive-aggressive messages [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalism-jobs-when-to-quit-newsroom-job/\">So you want out of your newsroom job, but the job market makes quitting complicated</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1208360",
+      "title": "‘The darker times get, the more important it feels’: The enduring joy of NPR’s ‘Wait Wait…Don’t Tell Me!’",
+      "link": "https://www.poynter.org/reporting-editing/2026/npr-wait-wait-dont-tell-me-peter-sagal-news-humor/",
+      "published": "Wed, 23 Sep 2026 11:00:50 +0000",
+      "summary_raw": "<p>Queues curled around the campus theater and parking spilled into auxiliary lots as approximately 4,000 people converged on Sonoma State University to hear inane stories from the week&#8217;s news. This [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/npr-wait-wait-dont-tell-me-peter-sagal-news-humor/\">‘The darker times get, the more important it feels’: The enduring joy of NPR&#8217;s ‘Wait Wait…Don&#8217;t Tell Me!’</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208222",
-      "title": "The best investment in journalism might take decades to pay off",
-      "link": "https://www.poynter.org/commentary/2026/investing-student-journalists-journalism-philanthropy/",
-      "published": "Tue, 22 Sep 2026 10:30:03 +0000",
-      "summary_raw": "<p>This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed. If I’ve learned anything during the last [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/investing-student-journalists-journalism-philanthropy/\">The best investment in journalism might take decades to pay off</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1208099",
-      "title": "McClatchy laid me off. The need for local journalism didn’t go with me.",
-      "link": "https://www.poynter.org/commentary/2026/mcclatchy-lexington-herald-leader-layoffs-local-journalism/",
-      "published": "Mon, 21 Sep 2026 13:30:23 +0000",
-      "summary_raw": "<p>When I was hired in 2019 to cover public health in Eastern Kentucky at the Lexington Herald-Leader, my job was to fill a gap in news coverage. For four of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/mcclatchy-lexington-herald-leader-layoffs-local-journalism/\">McClatchy laid me off. The need for local journalism didn’t go with me.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257073",
-      "title": "Reach online subs have ‘opened door’ to more court and investigative reporting",
-      "link": "https://pressgazette.co.uk/paywalls/reach-online-subs-have-opened-door-to-more-court-and-investigative-reporting/",
-      "published": "Tue, 22 Sep 2026 09:48:27 +0000",
-      "summary_raw": "<div><img alt=\"Reach chief content officer David Higgerson speaking at Press Gazette&#039;s Future of Media Technology Conference\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/davidhiggerson1-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Editorial director David Higgerson on shift from volume towards more original content.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/paywalls/reach-online-subs-have-opened-door-to-more-court-and-investigative-reporting/\">Reach online subs have &#8216;opened door&#8217; to more court and investigative reporting</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257219",
+      "title": "Economist video strategy: ‘We did 50 pilot shows before launching Insider’",
+      "link": "https://pressgazette.co.uk/publishers/broadcast/economist-video-strategy/",
+      "published": "Wed, 23 Sep 2026 10:41:11 +0000",
+      "summary_raw": "<div><img alt=\"Andrew Palmer, executive editor of The Economist, speaking at Press Gazette&#039;s Future of Media Technology Conference\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/andrewpalmer-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Executive editor Andrew Palmer on how brand is putting text-based journalists on screen.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/broadcast/economist-video-strategy/\">Economist video strategy: &#8216;We did 50 pilot shows before launching Insider&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257236",
-      "title": "Computer Weekly bucks trend of tech journalism decline by growing editorial team",
-      "link": "https://pressgazette.co.uk/publishers/b2b/computer-weekly-bryan-glick-decade-of-digital-change/",
-      "published": "Tue, 22 Sep 2026 09:24:21 +0000",
-      "summary_raw": "<div><img alt=\"Bryan Glick. Picture: Submitted\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/08/bryanglickpic-scaled-e1785919682898-524x394.jpg\" style=\"margin-bottom: 15px;\" width=\"524\" /></div>\n<p>Business model combines high-quality editorial with selling access to reader data.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/b2b/computer-weekly-bryan-glick-decade-of-digital-change/\">Computer Weekly bucks trend of tech journalism decline by growing editorial team</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257157",
+      "title": "Fifth of News UK website traffic was ‘non-human’ in past six months",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/fifth-of-news-uk-website-traffic-was-non-human-in-past-six-months/",
+      "published": "Wed, 23 Sep 2026 10:27:23 +0000",
+      "summary_raw": "<div><img alt=\"(Left to right) Brian Alvey, chief technology officer at Wordpress VIP, Tom Jackson, chief technology officer at News UK, and Carly Steven, director of SEO and editorial e-commerce at Daily Mail, speaking at Press Gazette&#039;s Future of Media Technology Conference sitting in armchairs on stage\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/tomjacksonetc-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Times and Sun publisher blocking 6% of total traffic - those deemed to be bad bots.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/fifth-of-news-uk-website-traffic-was-non-human-in-past-six-months/\">Fifth of News UK website traffic was &#8",
       "source": "Press Gazette"
     },
     {
-      "id": "https://knightcenter.utexas.edu/?p=100757",
-      "title": "As exile journalism grows, technology brings opportunities and risks",
-      "link": "https://knightcenter.utexas.edu/as-exile-journalism-grows-technology-brings-opportunities-and-risks/",
-      "published": "Sat, 19 Sep 2026 15:39:42 +0000",
-      "summary_raw": "<p>Journalists forced into exile around the globe have not only grown in numbers in recent years — the time they live outside their countries of origin has also grown longer.  For years, organizations that support journalists in exile used to provide assistance for a few months while the risk decreased. But the conditions of the [&#8230;]</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/as-exile-journalism-grows-technology-brings-opportunities-and-risks/\">As exile journalism grows, technology brings opportunities and risks</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
-      "source": "Knight Center / LatAm Journalism Review"
+      "id": "https://pressgazette.co.uk/?p=257324",
+      "title": "How S&P Global nurtures a niche audience worth billions in revenue",
+      "link": "https://pressgazette.co.uk/publishers/b2b/how-sp-global-nurtures-a-niche-audience-worth-billions-in-revenue/",
+      "published": "Wed, 23 Sep 2026 10:10:04 +0000",
+      "summary_raw": "<div><img alt=\"Headshot of Steve Matthewson, head of news at S&amp;P Global Market Intelligence.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/stevematthewson-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Head of news at S&#038;P Global Market Intelligence shares his insights.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/b2b/how-sp-global-nurtures-a-niche-audience-worth-billions-in-revenue/\">How S&amp;P Global nurtures a niche audience worth billions in revenue</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
     },
     {
-      "id": "https://knightcenter.utexas.edu/?p=100742",
-      "title": "ISOJ 2026 Day 1: Journalists look to rebuild trust by creating more value for audiences",
-      "link": "https://knightcenter.utexas.edu/isoj-2026-day-1-journalists-look-to-rebuild-trust-by-creating-more-value-for-audiences/",
-      "published": "Fri, 18 Sep 2026 13:43:21 +0000",
-      "summary_raw": "<p>By Gianna DiPasquale, Valeria Cruz Butron and Justin Doud &#160; On a day devoted to discussing how news organizations can foster community trust and the role of journalism amid growing democratic challenges around the world, speakers at the 27th International Symposium on Journalism (ISOJ) urged newsrooms to rethink what value they offer their audiences — [&#8230;]</p>\n<p>The post <a href=\"https://knightcenter.utexas.edu/isoj-2026-day-1-journalists-look-to-rebuild-trust-by-creating-more-value-for-audiences/\">ISOJ 2026 Day 1: Journalists look to rebuild trust by creating more value for audiences</a> appeared first on <a href=\"https://knightcenter.utexas.edu\">Knight Center for Journalism in the Americas</a>.</p>",
-      "source": "Knight Center / LatAm Journalism Review"
+      "id": "https://pressgazette.co.uk/?p=257326",
+      "title": "Music blog Drowned in Sound launches first print edition",
+      "link": "https://pressgazette.co.uk/news/music-blog-drowned-in-sound-launches-first-print-edition/",
+      "published": "Wed, 23 Sep 2026 08:04:12 +0000",
+      "summary_raw": "<div><img alt=\"Drowned In Sound webpage\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/drownedin-e1790094295378-537x394.png\" style=\"margin-bottom: 15px;\" width=\"537\" /></div>\n<p>New title is edited by Hannah Ewens with Sean Adams as its publisher.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/music-blog-drowned-in-sound-launches-first-print-edition/\">Music blog Drowned in Sound launches first print edition</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
     }
   ],
   "gmail_pending": [
