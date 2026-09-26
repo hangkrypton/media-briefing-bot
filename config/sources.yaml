@@ -35,6 +35,17 @@
   type: rss
   url: https://huggingface.co/blog
 
+# CẦN XÁC MINH: LinkedIn không có feed RSS/Atom công khai cho trang cá nhân,
+# nên discover_feed.py gần như chắc chắn sẽ không tìm ra feed_url (giống 4
+# nguồn khác đã liệt kê trong "Known gaps" ở CLAUDE.md) — cần feed_url thủ
+# công (vd. qua dịch vụ RSS bridge cho LinkedIn) hoặc theo dõi thủ công.
+# Nhóm "ai" là suy đoán mặc định, kiểm tra lại nếu nội dung thực tế không
+# phải chủ yếu về AI.
+- name: fdaudens (LinkedIn)
+  group: ai
+  type: rss
+  url: https://www.linkedin.com/in/fdaudens/
+
 - name: GitHub - palewire
   group: tools
   type: github_atom

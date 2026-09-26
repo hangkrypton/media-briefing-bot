@@ -25,3 +25,4 @@ Any future change that needs to fetch external content or commit to git from the
 ## Known gaps
 
 - 4 of 19 RSS sources have no auto-discoverable feed (Superhuman AI, OpenAI Blog, Anthropic News, Joe Amditis/jamditis.com) — `discover_feed.py` logs "Không tìm được feed" for these; add an explicit `feed_url:` in `sources.yaml` if they matter.
+- `fdaudens (LinkedIn)` (added 2026-09-25) almost certainly belongs on this list too — LinkedIn personal profiles don't expose a public RSS/Atom feed, so `discover_feed.py` will likely fail to find one. Needs a manually-sourced `feed_url:` (e.g. a third-party LinkedIn RSS bridge) or manual monitoring until resolved. Its `group: ai` in `sources.yaml` is also an unverified default — confirm it matches the actual content focus.
