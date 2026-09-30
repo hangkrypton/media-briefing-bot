@@ -1,239 +1,135 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "published": "Tue, 29 Sep 2026 13:07:00 GMT",
+      "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "published": "Tue, 29 Sep 2026 15:30:38 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/22461262012",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/dfc0388a8d...98b6828e68",
-      "published": "2026-09-28 15:05:46 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22458097897",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/692b337549...dfc0388a8d",
-      "published": "2026-09-28 14:46:14 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22445043081",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/bfea23a980...decee0a880",
-      "published": "2026-09-28 13:26:19 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-overlay-interactions\" rel=\"noreferrer\">codex/deck-overlay-interactions</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22439235455",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/802411d4bf...f1fd9f1faa",
-      "published": "2026-09-28 12:34:07 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-overlay-composition\" rel=\"noreferrer\">codex/deck-overlay-composition</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22432094645",
-      "title": "palewire created a branch",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...c5635b1de4",
-      "published": "2026-09-28 11:25:06 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22405370914",
-      "title": "palewire created a branch",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...f2d4cea4f6",
-      "published": "2026-09-28 14:35:25 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22400706672",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/5aa33ab9b2...ed3527541f",
-      "published": "2026-09-28 14:06:47 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-overlay-interactions\" rel=\"noreferrer\">codex/deck-overlay-interactions</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22396742031",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/af01d6805b...e22c2fb420",
-      "published": "2026-09-28 13:26:18 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22392931018",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/9cae12e96f...af01d6805b",
-      "published": "2026-09-28 12:59:10 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_merged/15927004184",
+      "id": "tag:github.com,2008:pr_merged/15924140135",
       "title": "palewire contributed to reuters-graphics/graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/510",
-      "published": "2026-09-28 07:46:13 -0700",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/507",
+      "published": "2026-09-28 07:12:36 -0700",
       "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22392789961",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/f2d4cea4f6...c70c1e8a2d",
-      "published": "2026-09-28 14:42:49 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-overlay-animation\" rel=\"noreferrer\">codex/deck-overlay-animation</a>\n        in\n      <a cl",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:reviewcomment_create/15926739334",
-      "title": "palewire commented on pull request reuters-graphics/graphics-components#510",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/510#discussion_r4123507358",
-      "published": "2026-09-28 14:43:00 UTC",
+      "id": "tag:github.com,2008:reviewcomment_create/15922659617",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#507",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/507#discussion_r4122975561",
+      "published": "2026-09-28 13:55:12 UTC",
       "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22392572244",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/0ca48a0da3...a98b850c8a",
-      "published": "2026-09-28 12:51:32 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-buildings-example\" rel=\"noreferrer\">codex/deck-buildings-example</a>\n        in\n      <a cl",
+      "id": "tag:github.com,2008:reviewcomment_create/15920858836",
+      "title": "palewire commented on pull request reuters-graphics/graphics-components#507",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/507#discussion_r4122744050",
+      "published": "2026-09-28 13:33:29 UTC",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:pr_created/15926126090",
-      "title": "palewire contributed to reuters-graphics/graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/510",
-      "published": "2026-09-28 07:35:43 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22391540785",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/f1fd9f1faa...bca144e9a6",
-      "published": "2026-09-28 12:42:16 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/deck-overlay-composition\" rel=\"noreferrer\">codex/deck-overlay-composition</a>\n        in\n      <",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
-      "title": "NBA Future of the Franchise Rankings 4.0",
-      "link": "https://www.natesilver.net/p/nba-future-of-the-franchise-rankings-6cb",
-      "published": "Mon, 28 Sep 2026 19:01:48 GMT",
-      "summary_raw": "It won&#8217;t shock you to learn that the Spurs and Thunder have the brightest futures. But what about the rest of the league after a crazy offseason?",
+      "id": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
+      "title": "Midterm waves are the rule, not the exception",
+      "link": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
+      "published": "Tue, 29 Sep 2026 23:03:04 GMT",
+      "summary_raw": "Democrats have an increasingly large lead in the polls &#8212; and in FLIPR. But history says that shouldn&#8217;t be surprising.",
       "source": "Nate Silver"
-    },
-    {
-      "id": "https://journaliststoolbox.substack.com/p/back-to-school-ii-great-ways-to-use",
-      "title": "Back to School II: Great Ways to Use Gemini Notebook",
-      "link": "https://journaliststoolbox.substack.com/p/back-to-school-ii-great-ways-to-use",
-      "published": "Tue, 29 Sep 2026 12:45:59 GMT",
-      "summary_raw": "Sept. 29, 2026",
-      "source": "Journalist's Toolbox (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=121104",
-      "title": "America, the ‘arsenal of democracy,’ is now disarming the press",
-      "link": "https://wan-ifra.org/2026/09/america-the-arsenal-of-democracy-is-now-disarming-the-press/",
-      "published": "Mon, 28 Sep 2026 16:05:41 +0000",
-      "summary_raw": "<p>In a radio address in December 1940, one year before the US entered World War II, Franklin D Roosevelt described America as “the arsenal of democracy”. Today, the guns are falling silent across the western front. Independent journalism, the lifeblood of an informed democracy, faces existential challenges, particularly in the US, writes Lionel Barber for World News Day.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/america-the-arsenal-of-democracy-is-now-disarming-the-press/\">America, the &#8216;arsenal of democracy,&#8217; is now disarming the press</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "id": "https://wan-ifra.org/?p=121236",
+      "title": "Weser-Kurier takes newspaper page production into the browser, automating 80 percent of layouts",
+      "link": "https://wan-ifra.org/2026/09/weser-kurier-takes-newspaper-page-production-into-the-browser-automating-80-percent-of-layouts/",
+      "published": "Wed, 30 Sep 2026 12:23:36 +0000",
+      "summary_raw": "<p>The German regional publisher has spent two years moving to browser-based print production and automated page layout with PPI Media’s CX Fusion. The change has made production 30 percent faster and reduced new-staff training from months to weeks.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/weser-kurier-takes-newspaper-page-production-into-the-browser-automating-80-percent-of-layouts/\">Weser-Kurier takes newspaper page production into the browser, automating 80 percent of layouts</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://wan-ifra.org/?p=121089",
-      "title": "Nicaragua: Reinventing Journalism in Exile",
-      "link": "https://wan-ifra.org/2026/09/nicaragua-reinventing-journalism-in-exile/",
-      "published": "Mon, 28 Sep 2026 14:22:01 +0000",
-      "summary_raw": "<p>\"For Confidencial, reinventing journalism in exile is not a matter of aesthetic change; it is a strategy for resistance and survival to defeat censorship,\" writes Golden Pen of Freedom laureate Carlos Fernando Chamorro, for World News Day.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/nicaragua-reinventing-journalism-in-exile/\">Nicaragua: Reinventing Journalism in Exile</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "id": "https://wan-ifra.org/?p=121220",
+      "title": "Print knows its circulation. Now it needs to know its readers",
+      "link": "https://wan-ifra.org/2026/09/print-knows-its-circulation-now-it-needs-to-know-its-readers/",
+      "published": "Wed, 30 Sep 2026 11:02:45 +0000",
+      "summary_raw": "<p>India’s newspaper publishers have built enormous reach. They must now deepen  engagement and monetise audience relationships as readers fragment across platforms and advertisers demand greater accountability.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/print-knows-its-circulation-now-it-needs-to-know-its-readers/\">Print knows its circulation. Now it needs to know its readers</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253523",
-      "title": "A lack of professional AI guidelines leads to feelings of “AI shame,” a new study finds",
-      "link": "https://www.niemanlab.org/2026/09/a-lack-of-professional-ai-guidelines-leads-to-feelings-of-ai-shame-a-new-study-finds/",
-      "published": "Mon, 28 Sep 2026 19:55:29 +0000",
-      "summary_raw": "Are you a journalist who has used AI for work in some capacity but been nervous to tell anyone about it? Worried about how your bosses might see you, or that your work might be discredited? Well, academics are in the same boat. A new study, titled &#8220;Guidance over guidelines? Unpacking the uses and concerns...",
+      "id": "https://wan-ifra.org/?p=120903",
+      "title": "Thank goodness for the storytellers – the ones who probe, question, irritate the powerful",
+      "link": "https://wan-ifra.org/2026/09/thank-goodness-for-the-storytellers-the-ones-who-probe-question-irritate-the-powerful/",
+      "published": "Wed, 30 Sep 2026 07:00:22 +0000",
+      "summary_raw": "<p>\"Technology turns up the volume of public discourse but rarely gives us the information we need at the moment we need it. Journalists do.\" Meera Selva marks World News Day with a call to recognise and protect those who challenge the status quo.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/thank-goodness-for-the-storytellers-the-ones-who-probe-question-irritate-the-powerful/\">Thank goodness for the storytellers – the ones who probe, question, irritate the powerful</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253561",
+      "title": "NewsMatch will shift from a year-end campaign to a year-round model",
+      "link": "https://www.niemanlab.org/2026/09/newsmatch-will-shift-from-a-year-end-campaign-to-a-year-round-model/",
+      "published": "Tue, 29 Sep 2026 20:19:26 +0000",
+      "summary_raw": "Since NewsMatch launched as an experiment a decade ago, the annual end-of-year campaign has become a cornerstone in the fundraising strategy of nonprofit newsrooms across the country. First created by the Knight Foundation in partnership with the Institute for Nonprofit News and the News Revenue Hub, NewsMatch has evolved into what many INN members think...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253477",
-      "title": "OpenAI doubles support for Lenfest’s AI and local news fellowships",
-      "link": "https://www.niemanlab.org/2026/09/openai-doubles-support-for-lenfests-ai-and-local-news-fellowships/",
-      "published": "Mon, 28 Sep 2026 17:02:39 +0000",
-      "summary_raw": "OpenAI announced on Monday that it&#8217;s doubling its support for the Lenfest Institute&#8217;s AI Collaborative and Fellowship Program. Since the program launched in October 2024, it has placed AI fellows in 11 local newsrooms across the U.S., mainly in metro newspapers like The Philadelphia Inquirer, The Baltimore Banner, and The Minnesota Star Tribune. As the...",
+      "id": "https://www.niemanlab.org/?p=253440",
+      "title": "NPR, the quintessential audio news brand, adapts to a video-first future",
+      "link": "https://www.niemanlab.org/2026/09/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
+      "published": "Tue, 29 Sep 2026 18:24:39 +0000",
+      "summary_raw": "After just eight weeks on the job, NPR’s new chief content officer Nadine Zylstra had big news to share: NPR had landed Machine Gods, the new video-first podcast from veteran tech journalists Casey Newton and Kevin Roose. The deal, announced earlier this month, was something of a coup for NPR. Newton and Roose had announced...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1208895",
-      "title": "Evan Gershkovich spent 491 days imprisoned in Russia. Now he’s telling his story.",
-      "link": "https://www.poynter.org/commentary/2026/evan-gershkovich-good-morning-america-interview/",
-      "published": "Tue, 29 Sep 2026 11:30:51 +0000",
-      "summary_raw": "<p>Wall Street Journal reporter Evan Gershkovich was arrested while reporting in Russia on March 29, 2023. When he learned he was being charged with espionage, he was, believe it or [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/evan-gershkovich-good-morning-america-interview/\">Evan Gershkovich spent 491 days imprisoned in Russia. Now he’s telling his story.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209005",
+      "title": "Sen. Eric Schmitt confused the Hawks and Hawkeyes and the political press had a field day",
+      "link": "https://www.poynter.org/commentary/2026/eric-schmitt-hawks-hawkeyes-hawks-jack-smith/",
+      "published": "Wed, 30 Sep 2026 11:30:30 +0000",
+      "summary_raw": "<p>The Republican senator thought he was going to dunk on his opponent. Instead, he ended up flat on his back in a wild moment on Capitol Hill on Tuesday. Get [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/eric-schmitt-hawks-hawkeyes-hawks-jack-smith/\">Sen. Eric Schmitt confused the Hawks and Hawkeyes and the political press had a field day</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208834",
-      "title": "Audiences want great journalism. Our job is to help them find it.",
-      "link": "https://www.poynter.org/commentary/2026/journalism-audience-engagement-great-stories/",
-      "published": "Tue, 29 Sep 2026 11:00:31 +0000",
-      "summary_raw": "<p>There are works of journalism that resonate many years after publication. Lane DeGregory’s haunting story for the Tampa Bay Times on a family trying to help a young girl recover [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalism-audience-engagement-great-stories/\">Audiences want great journalism. Our job is to help them find it.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1208621",
+      "title": "How a New York Times reporter documented the brazenness of a notorious sex-trafficking corridor in LA",
+      "link": "https://www.poynter.org/ethics-trust/2026/emily-baumgaertner-nunn-figueroa-street-sex-trafficking/",
+      "published": "Wed, 30 Sep 2026 11:00:30 +0000",
+      "summary_raw": "<p>This story began, as they often do, with a tip. In the spring of 2023, Emily Baumgaertner Nunn heard from a high-ranking official who was struggling to contain a problem [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/emily-baumgaertner-nunn-figueroa-street-sex-trafficking/\">How a New York Times reporter documented the brazenness of a notorious sex-trafficking corridor in LA</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208880",
-      "title": "Trump’s taxpayer-funded ads look like campaign spots. Are they legal?",
-      "link": "https://www.poynter.org/fact-checking/2026/are-trump-taxpayer-funded-ads-legal/",
-      "published": "Tue, 29 Sep 2026 10:30:22 +0000",
-      "summary_raw": "<p>Weeks before the midterm elections, the Trump administration released a series of taxpayer-funded ads prominently featuring President Donald Trump promoting his agenda, and Democratic lawmakers called them illegal propaganda. One [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/are-trump-taxpayer-funded-ads-legal/\">Trump’s taxpayer-funded ads look like campaign spots. Are they legal?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1208910",
+      "title": "What do braids, cornrows, and Bantu knots have to do with the news?",
+      "link": "https://www.poynter.org/local-news/2026/black-hairstyles-indianapolis-news-market/",
+      "published": "Wed, 30 Sep 2026 09:00:32 +0000",
+      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/local-news/2026/black-hairstyles-indianapolis-news-market/\">What do braids, cornrows, and Bantu knots have to do with the news?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208850",
-      "title": "AI learned how to write from humans. Now humans are trying not to sound like AI.",
-      "link": "https://www.poynter.org/reporting-editing/2026/ai-changing-human-writing-editors-em-dash/",
-      "published": "Mon, 28 Sep 2026 18:45:23 +0000",
-      "summary_raw": "<p>Artificial intelligence is making editors do strange things, like second-guess skills built over entire careers or blanch at the sight of punctuation marks. This manifested at the recent ACES: The [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/ai-changing-human-writing-editors-em-dash/\">AI learned how to write from humans. Now humans are trying not to sound like AI.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257467",
-      "title": "New Scientist launches new advertising platform targeting B2B audience",
-      "link": "https://pressgazette.co.uk/marketing/new-scientist-launches-b2b-partnership-platform/",
-      "published": "Tue, 29 Sep 2026 08:55:59 +0000",
-      "summary_raw": "<div><img alt=\"New Scientist homepage screenshot on 29 September 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/ns-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>New Scientist Business is a new advertising platform across print, digital, audio and video</p>\n<p>The post <a href=\"https://pressgazette.co.uk/marketing/new-scientist-launches-b2b-partnership-platform/\">New Scientist launches new advertising platform targeting B2B audience</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257520",
+      "title": "Jeremy Clarkson, Meghan, Prince Harry and the secret of Oxford Mail’s traffic success",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/jeremy-clarkson-meghan-prince-harry-and-the-secret-of-oxford-mails-traffic-success/",
+      "published": "Wed, 30 Sep 2026 09:36:04 +0000",
+      "summary_raw": "<div><img alt=\"Collage of Prince Harry, King Charles, Jeremy Clarkson and Meghan Markle\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/whatsappimage2026-09-30at09.38.38-525x394.jpeg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>High-profile residents and a star reporter help fuel traffic success at Oxford Mail.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/jeremy-clarkson-meghan-prince-harry-and-the-secret-of-oxford-mails-traffic-success/\">Jeremy Clarkson, Meghan, Prince Harry and the secret of Oxford Mail&#8217;s traffic success</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257436",
-      "title": "PA Media Group revenue flat in 2025 after a decade of growth",
-      "link": "https://pressgazette.co.uk/media_business/pa-media-group-revenue-flat-in-2025-afte-decade-of-growth/",
-      "published": "Tue, 29 Sep 2026 08:38:45 +0000",
-      "summary_raw": "<div><img alt=\"View of PA Media newsroom where editorial staff, who were warned of proposed cuts on 22 April 2025, work\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2019/05/PA-The-Point-3rd-floor-newsroom-e1559141152855-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>In 2025 news agency parent group put three-year plan in place with new leadership team.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/pa-media-group-revenue-flat-in-2025-afte-decade-of-growth/\">PA Media Group revenue flat in 2025 after a decade of growth</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257458",
+      "title": "The Nerve reaches 5,000 paying subscribers in first year",
+      "link": "https://pressgazette.co.uk/news/the-nerve-reaches-5000-paying-subscribers-in-first-year/",
+      "published": "Wed, 30 Sep 2026 08:22:03 +0000",
+      "summary_raw": "<div><img alt=\"The Nerve team including co-founders and new hires at the International Journalism Festival in Perugia in April 2026 - group shot in front of historic building with wooden door, several women wearing Nerve t-shirts\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/05/perugiagroupfinal-e1777975275171-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Newsletter-led newsbrand from ex-Observer journalists now said to be financially sustainable.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/the-nerve-reaches-5000-paying-subscribers-in-first-year/\">The Nerve reaches 5,000 paying subscribers in first year</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazett",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257465",
-      "title": "Mill Media receives £100,000 from Postcode Lottery to fund subscriptions for under-25s",
-      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/mill-media-postcode-lottery-young-people-subscriptions/",
-      "published": "Tue, 29 Sep 2026 08:27:39 +0000",
-      "summary_raw": "<div><img alt=\"A composite image showing four Mill Media titles: the Manchester Mill, Sheffield Tribune, Liverpool Post and Birmingham Dispatch\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/09/Mill-Media-Substack-leaves-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>The newsletter-based local publisher now has 15,000 paying readers.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/mill-media-postcode-lottery-young-people-subscriptions/\">Mill Media receives £100,000 from Postcode Lottery to fund subscriptions for under-25s</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257489",
+      "title": "Guardian creates 40 jobs to train journalists with content creator skills",
+      "link": "https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/",
+      "published": "Tue, 29 Sep 2026 15:25:13 +0000",
+      "summary_raw": "<div><img alt=\"Guardian editor-in-chief Katharine Viner speaking at WAN-IFRA World News Media Congress smiling at someone off camera and wearing blue dress\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/kathvinerwanifra-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Guardian is separately creating 55 permanent staff roles this year.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/\">Guardian creates 40 jobs to train journalists with content creator skills</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
