@@ -1,135 +1,175 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "published": "Tue, 29 Sep 2026 15:30:38 GMT",
+      "id": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "published": "Wed, 30 Sep 2026 20:01:45 +0000",
+      "summary_raw": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
+      "summary_raw": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/open-tts-leaderboard",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "link": "https://huggingface.co/blog/open-tts-leaderboard",
+      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:pr_merged/15924140135",
-      "title": "palewire contributed to reuters-graphics/graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/507",
-      "published": "2026-09-28 07:12:36 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "id": "tag:github.com,2008:push/22669215811",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/1057070f1a...47c7a51941",
+      "published": "2026-10-01 01:26:42 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:reviewcomment_create/15922659617",
-      "title": "palewire commented on pull request reuters-graphics/graphics-components#507",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/507#discussion_r4122975561",
-      "published": "2026-09-28 13:55:12 UTC",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "id": "tag:github.com,2008:push/22668251021",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/cd653109b7...bfbc1451bf",
+      "published": "2026-10-01 01:11:50 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:reviewcomment_create/15920858836",
-      "title": "palewire commented on pull request reuters-graphics/graphics-components#507",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/507#discussion_r4122744050",
-      "published": "2026-09-28 13:33:29 UTC",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- pull_request_review_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/reuters-graphics/graphics-component",
+      "id": "tag:github.com,2008:push/22649409016",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/compare/0000000000...a03a46d0be",
+      "published": "2026-10-01 02:28:40 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
-      "title": "Midterm waves are the rule, not the exception",
-      "link": "https://www.natesilver.net/p/midterm-waves-are-the-rule-not-the",
-      "published": "Tue, 29 Sep 2026 23:03:04 GMT",
-      "summary_raw": "Democrats have an increasingly large lead in the polls &#8212; and in FLIPR. But history says that shouldn&#8217;t be surprising.",
+      "id": "tag:github.com,2008:push/22644118173",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/0610779c7a...cd653109b7",
+      "published": "2026-10-01 01:08:07 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22643857034",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/0000000000...0610779c7a",
+      "published": "2026-10-01 01:04:21 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/16117324688",
+      "title": "palewire commented on an issue in openclaw",
+      "link": "https://github.com/openclaw/openclaw/issues/139485#issuecomment-5915247970",
+      "published": "2026-09-30 09:19:18 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/openclaw/openclaw/issues/139485#issuecomment-5915",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
+      "title": "Why did Ohio stop being a swing state?",
+      "link": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
+      "published": "Thu, 01 Oct 2026 11:31:33 GMT",
+      "summary_raw": "Still Counting EP4 covers the Ohio and Maine Senate races. Plus, we&#8217;re reviving Silver Bulletin Subscriber Questions (SBSQ).",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/sbsq-reboot-thread",
+      "title": "SBSQ reboot thread",
+      "link": "https://www.natesilver.net/p/sbsq-reboot-thread",
+      "published": "Thu, 01 Oct 2026 11:29:17 GMT",
+      "summary_raw": "Please ask your questions in the comments!",
       "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=121236",
-      "title": "Weser-Kurier takes newspaper page production into the browser, automating 80 percent of layouts",
-      "link": "https://wan-ifra.org/2026/09/weser-kurier-takes-newspaper-page-production-into-the-browser-automating-80-percent-of-layouts/",
-      "published": "Wed, 30 Sep 2026 12:23:36 +0000",
-      "summary_raw": "<p>The German regional publisher has spent two years moving to browser-based print production and automated page layout with PPI Media’s CX Fusion. The change has made production 30 percent faster and reduced new-staff training from months to weeks.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/weser-kurier-takes-newspaper-page-production-into-the-browser-automating-80-percent-of-layouts/\">Weser-Kurier takes newspaper page production into the browser, automating 80 percent of layouts</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=121220",
-      "title": "Print knows its circulation. Now it needs to know its readers",
-      "link": "https://wan-ifra.org/2026/09/print-knows-its-circulation-now-it-needs-to-know-its-readers/",
-      "published": "Wed, 30 Sep 2026 11:02:45 +0000",
-      "summary_raw": "<p>India’s newspaper publishers have built enormous reach. They must now deepen  engagement and monetise audience relationships as readers fragment across platforms and advertisers demand greater accountability.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/print-knows-its-circulation-now-it-needs-to-know-its-readers/\">Print knows its circulation. Now it needs to know its readers</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=120903",
-      "title": "Thank goodness for the storytellers – the ones who probe, question, irritate the powerful",
-      "link": "https://wan-ifra.org/2026/09/thank-goodness-for-the-storytellers-the-ones-who-probe-question-irritate-the-powerful/",
-      "published": "Wed, 30 Sep 2026 07:00:22 +0000",
-      "summary_raw": "<p>\"Technology turns up the volume of public discourse but rarely gives us the information we need at the moment we need it. Journalists do.\" Meera Selva marks World News Day with a call to recognise and protect those who challenge the status quo.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/09/thank-goodness-for-the-storytellers-the-ones-who-probe-question-irritate-the-powerful/\">Thank goodness for the storytellers – the ones who probe, question, irritate the powerful</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=253561",
-      "title": "NewsMatch will shift from a year-end campaign to a year-round model",
-      "link": "https://www.niemanlab.org/2026/09/newsmatch-will-shift-from-a-year-end-campaign-to-a-year-round-model/",
-      "published": "Tue, 29 Sep 2026 20:19:26 +0000",
-      "summary_raw": "Since NewsMatch launched as an experiment a decade ago, the annual end-of-year campaign has become a cornerstone in the fundraising strategy of nonprofit newsrooms across the country. First created by the Knight Foundation in partnership with the Institute for Nonprofit News and the News Revenue Hub, NewsMatch has evolved into what many INN members think...",
+      "id": "https://www.niemanlab.org/?p=253615",
+      "title": "Federal appeals court upholds Thomson Reuters’ landmark AI copyright win",
+      "link": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
+      "published": "Wed, 30 Sep 2026 21:04:26 +0000",
+      "summary_raw": "On Tuesday, a U.S. federal appeals court ruled in favor of Thomson Reuters, upholding the company&#8217;s landmark win in a copyright infringement case against the now-defunct legal AI startup Ross Intelligence. The ruling marks the first federal appeals case to reject a fair use argument for using publisher content, without permission or compensation, to train...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253440",
-      "title": "NPR, the quintessential audio news brand, adapts to a video-first future",
-      "link": "https://www.niemanlab.org/2026/09/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
-      "published": "Tue, 29 Sep 2026 18:24:39 +0000",
-      "summary_raw": "After just eight weeks on the job, NPR’s new chief content officer Nadine Zylstra had big news to share: NPR had landed Machine Gods, the new video-first podcast from veteran tech journalists Casey Newton and Kevin Roose. The deal, announced earlier this month, was something of a coup for NPR. Newton and Roose had announced...",
+      "id": "https://www.niemanlab.org/?p=253602",
+      "title": "How publishers are rethinking audience engagement: Five takeaways from the Future of Media Technology Conference",
+      "link": "https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/",
+      "published": "Wed, 30 Sep 2026 19:31:50 +0000",
+      "summary_raw": "Earlier this month, just across from the Tate Modern in central London, journalists and media managers gathered for this year’s Future of Media Technology Conference, a one-day event hosted by Press Gazette. Speakers included journalists, technologists, and media professionals like The Economist&#8217;s Andrew Palmer, Politico UK&#8217;s Katie Palisoul, The Reuters Institute for the Study of...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1209005",
-      "title": "Sen. Eric Schmitt confused the Hawks and Hawkeyes and the political press had a field day",
-      "link": "https://www.poynter.org/commentary/2026/eric-schmitt-hawks-hawkeyes-hawks-jack-smith/",
-      "published": "Wed, 30 Sep 2026 11:30:30 +0000",
-      "summary_raw": "<p>The Republican senator thought he was going to dunk on his opponent. Instead, he ended up flat on his back in a wild moment on Capitol Hill on Tuesday. Get [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/eric-schmitt-hawks-hawkeyes-hawks-jack-smith/\">Sen. Eric Schmitt confused the Hawks and Hawkeyes and the political press had a field day</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209095",
+      "title": "What does it take to make an independent local newsroom work? More than good journalism.",
+      "link": "https://www.poynter.org/business-work/2026/independent-local-newsrooms-sustainability-business-models/",
+      "published": "Thu, 01 Oct 2026 13:01:39 +0000",
+      "summary_raw": "<p>There’s no “Field of Dreams” for local independent publishers, no “if you build it, they will come,” where the “it” is powerful, critical journalism and the “they” is subscribers happy [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/independent-local-newsrooms-sustainability-business-models/\">What does it take to make an independent local newsroom work? More than good journalism.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208621",
-      "title": "How a New York Times reporter documented the brazenness of a notorious sex-trafficking corridor in LA",
-      "link": "https://www.poynter.org/ethics-trust/2026/emily-baumgaertner-nunn-figueroa-street-sex-trafficking/",
-      "published": "Wed, 30 Sep 2026 11:00:30 +0000",
-      "summary_raw": "<p>This story began, as they often do, with a tip. In the spring of 2023, Emily Baumgaertner Nunn heard from a high-ranking official who was struggling to contain a problem [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/emily-baumgaertner-nunn-figueroa-street-sex-trafficking/\">How a New York Times reporter documented the brazenness of a notorious sex-trafficking corridor in LA</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209140",
+      "title": "Trump attacks Fox News as Hegseth blasts the press",
+      "link": "https://www.poynter.org/commentary/2026/trump-attacks-fox-news-jessica-tarlov-democrats/",
+      "published": "Thu, 01 Oct 2026 11:30:40 +0000",
+      "summary_raw": "<p>President Donald Trump had a busy day Wednesday. He spent part of it bragging about how he changed the name of the Gulf of Mexico to the Gulf of America. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-attacks-fox-news-jessica-tarlov-democrats/\">Trump attacks Fox News as Hegseth blasts the press</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1208910",
-      "title": "What do braids, cornrows, and Bantu knots have to do with the news?",
-      "link": "https://www.poynter.org/local-news/2026/black-hairstyles-indianapolis-news-market/",
-      "published": "Wed, 30 Sep 2026 09:00:32 +0000",
-      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/local-news/2026/black-hairstyles-indianapolis-news-market/\">What do braids, cornrows, and Bantu knots have to do with the news?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209135",
+      "title": "6 overlooked reasons California’s Community NEWS Act is ‘a big deal’",
+      "link": "https://www.poynter.org/commentary/2026/california-community-news-act-local-journalism-tax-credits/",
+      "published": "Thu, 01 Oct 2026 11:00:00 +0000",
+      "summary_raw": "<p>California Gov. Gavin Newsom signed the Community NEWS Act on Wednesday, creating refundable tax credits for local news organizations that retain and hire journalists. Steven Waldman, president of Rebuild Local [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/california-community-news-act-local-journalism-tax-credits/\">6 overlooked reasons California’s Community NEWS Act is ‘a big deal’</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257520",
-      "title": "Jeremy Clarkson, Meghan, Prince Harry and the secret of Oxford Mail’s traffic success",
-      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/jeremy-clarkson-meghan-prince-harry-and-the-secret-of-oxford-mails-traffic-success/",
-      "published": "Wed, 30 Sep 2026 09:36:04 +0000",
-      "summary_raw": "<div><img alt=\"Collage of Prince Harry, King Charles, Jeremy Clarkson and Meghan Markle\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/whatsappimage2026-09-30at09.38.38-525x394.jpeg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>High-profile residents and a star reporter help fuel traffic success at Oxford Mail.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/jeremy-clarkson-meghan-prince-harry-and-the-secret-of-oxford-mails-traffic-success/\">Jeremy Clarkson, Meghan, Prince Harry and the secret of Oxford Mail&#8217;s traffic success</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209060",
+      "title": "Your newsroom may not have a standards editor. It still needs someone doing the job.",
+      "link": "https://www.poynter.org/commentary/analysis/2026/newsrooms-need-standards-editor-journalism-ethics/",
+      "published": "Wed, 30 Sep 2026 17:41:40 +0000",
+      "summary_raw": "<p>In February 2022, Russia’s army crossed into Ukraine and launched a full-scale invasion of Ukraine that continues today. In the first days following the invasion, I had just started my [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/analysis/2026/newsrooms-need-standards-editor-journalism-ethics/\">Your newsroom may not have a standards editor. It still needs someone doing the job.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257613",
+      "title": "Goalhanger to bring ad sales and sponsorship in-house",
+      "link": "https://pressgazette.co.uk/podcasts/goalhanger-to-bring-ad-sales-and-sponsorship-in-house/",
+      "published": "Thu, 01 Oct 2026 11:59:56 +0000",
+      "summary_raw": "<div><img alt=\"Goalhanger\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/goalhanger-e1790855112241-525x394.png\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Network to sell partnerships across audio, video, social media, newsletters, live events and branded content.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/podcasts/goalhanger-to-bring-ad-sales-and-sponsorship-in-house/\">Goalhanger to bring ad sales and sponsorship in-house</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257458",
-      "title": "The Nerve reaches 5,000 paying subscribers in first year",
-      "link": "https://pressgazette.co.uk/news/the-nerve-reaches-5000-paying-subscribers-in-first-year/",
-      "published": "Wed, 30 Sep 2026 08:22:03 +0000",
-      "summary_raw": "<div><img alt=\"The Nerve team including co-founders and new hires at the International Journalism Festival in Perugia in April 2026 - group shot in front of historic building with wooden door, several women wearing Nerve t-shirts\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/05/perugiagroupfinal-e1777975275171-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Newsletter-led newsbrand from ex-Observer journalists now said to be financially sustainable.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/the-nerve-reaches-5000-paying-subscribers-in-first-year/\">The Nerve reaches 5,000 paying subscribers in first year</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazett",
+      "id": "https://pressgazette.co.uk/?p=257529",
+      "title": "What I’ve learned: Dropping out of school at 17 was turning point for Irish News editor",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-dropping-out-of-school-at-17-was-turning-point-for-irish-news-editor/",
+      "published": "Thu, 01 Oct 2026 10:17:07 +0000",
+      "summary_raw": "<div><img alt=\"Chris Sherrard headshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/chrissherrard-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Editor-in-chief of Irish News shares his insights on a career of editing news sites.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-dropping-out-of-school-at-17-was-turning-point-for-irish-news-editor/\">What I&#8217;ve learned: Dropping out of school at 17 was turning point for Irish News editor</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257489",
-      "title": "Guardian creates 40 jobs to train journalists with content creator skills",
-      "link": "https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/",
-      "published": "Tue, 29 Sep 2026 15:25:13 +0000",
-      "summary_raw": "<div><img alt=\"Guardian editor-in-chief Katharine Viner speaking at WAN-IFRA World News Media Congress smiling at someone off camera and wearing blue dress\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/kathvinerwanifra-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Guardian is separately creating 55 permanent staff roles this year.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/\">Guardian creates 40 jobs to train journalists with content creator skills</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257578",
+      "title": "Local newspaper where Harold Evans began closes after 171 years in print",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/local-newspaper-where-harold-evans-began-closes-after-171-years-in-print/",
+      "published": "Thu, 01 Oct 2026 10:00:09 +0000",
+      "summary_raw": "<div><img alt=\"Front page and page three of 1 October edition of Tameside Reporter. Front page reads &#039;Goodbye for Now and Thank You&#039;; Page three features article annoucning closure.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/tamesidereporter-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Tameside Reporter to move staff to sister titles with online news set to continue.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/local-newspaper-where-harold-evans-began-closes-after-171-years-in-print/\">Local newspaper where Harold Evans began closes after 171 years in print</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.<",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257556",
+      "title": "GB News narrows losses despite 63% drop in website visitors",
+      "link": "https://pressgazette.co.uk/media_business/gb-news-narrows-losses-2025-revenue-website-tv/",
+      "published": "Wed, 30 Sep 2026 15:37:36 +0000",
+      "summary_raw": "<div><img alt=\"GB News presenters Alex Armstrong and Ellie Costello on GB News Breakfast with programme title and date in banner across the screen\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/gbnewsbreakfast-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>GB News website and app visitors down 63% in second half of 2025 but TV revenue in growth.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/gb-news-narrows-losses-2025-revenue-website-tv/\">GB News narrows losses despite 63% drop in website visitors</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
