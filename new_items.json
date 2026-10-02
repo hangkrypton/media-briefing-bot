@@ -1,175 +1,231 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "published": "Wed, 30 Sep 2026 20:01:45 +0000",
+      "id": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "Fri, 02 Oct 2026 04:01:31 GMT",
       "summary_raw": "",
-      "source": "Google DeepMind Blog"
+      "source": "Hugging Face Blog"
     },
     {
-      "id": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "title": "Introducing SynthID Bio",
-      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "published": "Wed, 30 Sep 2026 15:03:07 +0000",
-      "summary_raw": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/open-tts-leaderboard",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "link": "https://huggingface.co/blog/open-tts-leaderboard",
-      "published": "Wed, 30 Sep 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/allenai/olmocore3",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "link": "https://huggingface.co/blog/allenai/olmocore3",
+      "published": "Thu, 01 Oct 2026 15:01:43 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/22669215811",
+      "id": "tag:github.com,2008:push/22785281333",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/1057070f1a...47c7a51941",
-      "published": "2026-10-01 01:26:42 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/bfbc1451bf...1057070f1a",
+      "published": "2026-10-01 01:17:24 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22668251021",
+      "id": "tag:github.com,2008:push/22776472452",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/cd653109b7...bfbc1451bf",
-      "published": "2026-10-01 01:11:50 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/d9af2f164c...ed91240038",
+      "published": "2026-10-01 01:19:38 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/dependabot/npm_and_yarn/main/js-yaml-5.4.2\" rel=\"noreferrer\">dependabot/npm_and_yarn/main/js-yaml-",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22772228664",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/20ffa3bbd0...32c958eb49",
+      "published": "2026-10-01 20:20:58 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22649409016",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/compare/0000000000...a03a46d0be",
-      "published": "2026-10-01 02:28:40 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/22644118173",
+      "id": "tag:github.com,2008:push/22747443495",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/0610779c7a...cd653109b7",
-      "published": "2026-10-01 01:08:07 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/d9aac68603...c5183e0ee5",
+      "published": "2026-10-01 15:44:15 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22643857034",
-      "title": "palewire created a branch",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/0000000000...0610779c7a",
-      "published": "2026-10-01 01:04:21 UTC",
-      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "id": "tag:github.com,2008:push/22745143231",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/519a6308e5...d9aac68603",
+      "published": "2026-10-01 15:15:51 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:issue_commented/16117324688",
-      "title": "palewire commented on an issue in openclaw",
-      "link": "https://github.com/openclaw/openclaw/issues/139485#issuecomment-5915247970",
-      "published": "2026-09-30 09:19:18 -0700",
-      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/openclaw/openclaw/issues/139485#issuecomment-5915",
+      "id": "tag:github.com,2008:push/22726321326",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/32c958eb49...d7e3519895",
+      "published": "2026-10-01 20:25:55 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
-      "title": "Why did Ohio stop being a swing state?",
-      "link": "https://www.natesilver.net/p/why-did-ohio-stop-being-a-swing-state",
-      "published": "Thu, 01 Oct 2026 11:31:33 GMT",
-      "summary_raw": "Still Counting EP4 covers the Ohio and Maine Senate races. Plus, we&#8217;re reviving Silver Bulletin Subscriber Questions (SBSQ).",
-      "source": "Nate Silver"
+      "id": "tag:github.com,2008:push/22725790610",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/eb5496ee8e...20ffa3bbd0",
+      "published": "2026-10-01 20:18:38 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "source": "GitHub - palewire"
     },
     {
-      "id": "https://www.natesilver.net/p/sbsq-reboot-thread",
-      "title": "SBSQ reboot thread",
-      "link": "https://www.natesilver.net/p/sbsq-reboot-thread",
-      "published": "Thu, 01 Oct 2026 11:29:17 GMT",
-      "summary_raw": "Please ask your questions in the comments!",
-      "source": "Nate Silver"
+      "id": "tag:github.com,2008:push/22725656203",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/b70af4a485...eb5496ee8e",
+      "published": "2026-10-01 20:16:48 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22724972147",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/b4295d9bfc...cfe2a59954",
+      "published": "2026-10-01 20:07:23 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22724182201",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/11a70eb45c...b4295d9bfc",
+      "published": "2026-10-01 19:56:36 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/16224051251",
+      "title": "palewire closed a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/8",
+      "published": "2026-09-30 18:08:23 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/16224050597",
+      "title": "palewire closed a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/7",
+      "published": "2026-09-30 18:08:09 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/16224050559",
+      "title": "palewire closed a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/5",
+      "published": "2026-09-30 18:19:38 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/16224050528",
+      "title": "palewire closed a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/6",
+      "published": "2026-09-30 18:07:50 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_closed/16224048740",
+      "title": "palewire closed a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/1",
+      "published": "2026-09-30 18:10:08 -0700",
+      "summary_raw": "<div class=\"git-pull-request-closed js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          closed\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3",
+      "source": "GitHub - palewire"
     }
   ],
   "market": [
     {
-      "id": "https://www.niemanlab.org/?p=253615",
-      "title": "Federal appeals court upholds Thomson Reuters’ landmark AI copyright win",
-      "link": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
-      "published": "Wed, 30 Sep 2026 21:04:26 +0000",
-      "summary_raw": "On Tuesday, a U.S. federal appeals court ruled in favor of Thomson Reuters, upholding the company&#8217;s landmark win in a copyright infringement case against the now-defunct legal AI startup Ross Intelligence. The ruling marks the first federal appeals case to reject a fair use argument for using publisher content, without permission or compensation, to train...",
+      "id": "https://www.ire.org/?p=211051",
+      "title": "In an era of rewritten history and disappearing data, archives are a lifeline for journalists",
+      "link": "https://www.ire.org/2026/10/01/in-an-era-of-rewritten-history-and-disappearing-data-archives-are-a-lifeline-for-journalists/",
+      "published": "Thu, 01 Oct 2026 18:43:56 +0000",
+      "summary_raw": "<p>Greg Shea / GBH Archives By Rebecca Fraimow &#038; Peter Higgins, WGBH &#124; Published October 1, 2026 In 2008, GBH&#8217;s investigative news program Frontline was putting together their regular special on the year&#8217;s presidential candidates: The Choice, featuring Barack Obama and John McCain. Working on a hunch, the editors went back into GBH&#8217;s local news&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/10/01/in-an-era-of-rewritten-history-and-disappearing-data-archives-are-a-lifeline-for-journalists/\">In an era of rewritten history and disappearing data, archives are a lifeline for journalists</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121296",
+      "title": "How The Washington Post is making relentless journalism visible",
+      "link": "https://wan-ifra.org/2026/10/how-the-washington-post-is-making-relentless-journalism-visible/",
+      "published": "Fri, 02 Oct 2026 08:55:37 +0000",
+      "summary_raw": "<p>We keep saying it, and with good reason: news organisations must become much better at taking readers behind the byline. We need to show not only what journalism uncovers, but how it is made and what it takes to produce.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/how-the-washington-post-is-making-relentless-journalism-visible/\">How The Washington Post is making relentless journalism visible</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121127",
+      "title": "The journalist as a modern day Robin Hood",
+      "link": "https://wan-ifra.org/2026/10/the-journalist-as-a-modern-day-robin-hood/",
+      "published": "Fri, 02 Oct 2026 08:52:37 +0000",
+      "summary_raw": "<p>We are flooded with information, yet understanding the world has never felt harder. It is time for a new contract between journalists and the public, writes Amalie Kestler, editor in chief, Politiken.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/the-journalist-as-a-modern-day-robin-hood/\">The journalist as a modern day Robin Hood</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121304",
+      "title": "‘A dawn of hope’: How Ethiopia’s Addis Maleda left print behind",
+      "link": "https://wan-ifra.org/2026/10/a-dawn-of-hope-how-ethiopias-addis-maleda-left-print-behind/",
+      "published": "Thu, 01 Oct 2026 14:09:26 +0000",
+      "summary_raw": "<p>After printing 210 editions of its weekly newspaper uninterrupted, rising costs and a shrinking ad market pushed Addis Maleda to a fully digital model in 2022. Founder and CEO Amanyehun R. Sisay shared the story at a BRAVE Virtual Study Visit.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/a-dawn-of-hope-how-ethiopias-addis-maleda-left-print-behind/\">&#8216;A dawn of hope&#8217;: How Ethiopia&#8217;s Addis Maleda left print behind</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=253644",
+      "title": "Columbia Journalism School will pause its M.A. program (and launch an online degree)",
+      "link": "https://www.niemanlab.org/2026/10/columbia-journalism-school-will-temporarily-pause-its-m-a-program-and-launch-an-online-degree/",
+      "published": "Thu, 01 Oct 2026 19:34:07 +0000",
+      "summary_raw": "The Columbia Journalism School will pause admissions for its Master of Arts program, dean Jelani Cobb announced on Thursday. The country&#8217;s most prestigious journalism school also announced a new online, part-time degree. In a note to alumni of the M.A. program, Cobb wrote that the administration has &#8220;initiat[ed] a critical evaluation&#8221; of the M.A. curriculum. &#8220;To...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=253602",
-      "title": "How publishers are rethinking audience engagement: Five takeaways from the Future of Media Technology Conference",
-      "link": "https://www.niemanlab.org/2026/09/how-publishers-are-rethinking-audience-engagement-five-takeaways-from-the-future-of-media-technology-conference/",
-      "published": "Wed, 30 Sep 2026 19:31:50 +0000",
-      "summary_raw": "Earlier this month, just across from the Tate Modern in central London, journalists and media managers gathered for this year’s Future of Media Technology Conference, a one-day event hosted by Press Gazette. Speakers included journalists, technologists, and media professionals like The Economist&#8217;s Andrew Palmer, Politico UK&#8217;s Katie Palisoul, The Reuters Institute for the Study of...",
+      "id": "https://www.niemanlab.org/?p=253642",
+      "title": "California’s big local news bill becomes law",
+      "link": "https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/",
+      "published": "Thu, 01 Oct 2026 18:44:51 +0000",
+      "summary_raw": "At the end of August, the state of California passed a bill to give news organizations tax credits based on the number of journalists they employ. It&#8217;s the largest local news bill in the United States — expected to generate as much as $40 million for the state&#8217;s newsrooms each year — and on Wednesday, California...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1209095",
-      "title": "What does it take to make an independent local newsroom work? More than good journalism.",
-      "link": "https://www.poynter.org/business-work/2026/independent-local-newsrooms-sustainability-business-models/",
-      "published": "Thu, 01 Oct 2026 13:01:39 +0000",
-      "summary_raw": "<p>There’s no “Field of Dreams” for local independent publishers, no “if you build it, they will come,” where the “it” is powerful, critical journalism and the “they” is subscribers happy [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/independent-local-newsrooms-sustainability-business-models/\">What does it take to make an independent local newsroom work? More than good journalism.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.niemanlab.org/?p=253632",
+      "title": "Two 23-year-olds used AI to create a daily audio briefing. It’s now the top news app in Argentina.",
+      "link": "https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/",
+      "published": "Thu, 01 Oct 2026 18:13:12 +0000",
+      "summary_raw": "As an engineering student, Valentín Virasoro worked part-time at a car dealership in Cordoba, Argentina. His boss at the dealership had a habit: Every day, he&#8217;d send an audio update covering the major stories in the automotive industry. Virasoro left the job in February to pursue a career in tech. But the idea of informative...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1209285",
+      "title": "Paramount CEO asks Mark Thompson to stay on at CNN after the merger. Will he?",
+      "link": "https://www.poynter.org/commentary/2026/paramount-wants-mark-thompson-ceo-cnn/",
+      "published": "Fri, 02 Oct 2026 11:30:07 +0000",
+      "summary_raw": "<p>The big mega media deal of Paramount acquiring Warner Bros. Discovery is expected to be finalized next week. Paramount owns CBS News and Warner Bros. Discovery owns CNN. So the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/paramount-wants-mark-thompson-ceo-cnn/\">Paramount CEO asks Mark Thompson to stay on at CNN after the merger. Will he?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1209140",
-      "title": "Trump attacks Fox News as Hegseth blasts the press",
-      "link": "https://www.poynter.org/commentary/2026/trump-attacks-fox-news-jessica-tarlov-democrats/",
-      "published": "Thu, 01 Oct 2026 11:30:40 +0000",
-      "summary_raw": "<p>President Donald Trump had a busy day Wednesday. He spent part of it bragging about how he changed the name of the Gulf of Mexico to the Gulf of America. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-attacks-fox-news-jessica-tarlov-democrats/\">Trump attacks Fox News as Hegseth blasts the press</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1209267",
+      "title": "No, Joe Biden didn’t ban 440 reporters from the White House",
+      "link": "https://www.poynter.org/fact-checking/2026/biden-440-reporters-white-house-press-access-trump-ban/",
+      "published": "Fri, 02 Oct 2026 10:30:25 +0000",
+      "summary_raw": "<p>After President Donald Trump announced Sept. 18 on Truth Social that he was banning CNN, Politico and MS NOW from the White House because they write “fake news,” many of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/biden-440-reporters-white-house-press-access-trump-ban/\">No, Joe Biden didn’t ban 440 reporters from the White House</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1209135",
-      "title": "6 overlooked reasons California’s Community NEWS Act is ‘a big deal’",
-      "link": "https://www.poynter.org/commentary/2026/california-community-news-act-local-journalism-tax-credits/",
-      "published": "Thu, 01 Oct 2026 11:00:00 +0000",
-      "summary_raw": "<p>California Gov. Gavin Newsom signed the Community NEWS Act on Wednesday, creating refundable tax credits for local news organizations that retain and hire journalists. Steven Waldman, president of Rebuild Local [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/california-community-news-act-local-journalism-tax-credits/\">6 overlooked reasons California’s Community NEWS Act is ‘a big deal’</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1209060",
-      "title": "Your newsroom may not have a standards editor. It still needs someone doing the job.",
-      "link": "https://www.poynter.org/commentary/analysis/2026/newsrooms-need-standards-editor-journalism-ethics/",
-      "published": "Wed, 30 Sep 2026 17:41:40 +0000",
-      "summary_raw": "<p>In February 2022, Russia’s army crossed into Ukraine and launched a full-scale invasion of Ukraine that continues today. In the first days following the invasion, I had just started my [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/analysis/2026/newsrooms-need-standards-editor-journalism-ethics/\">Your newsroom may not have a standards editor. It still needs someone doing the job.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257613",
-      "title": "Goalhanger to bring ad sales and sponsorship in-house",
-      "link": "https://pressgazette.co.uk/podcasts/goalhanger-to-bring-ad-sales-and-sponsorship-in-house/",
-      "published": "Thu, 01 Oct 2026 11:59:56 +0000",
-      "summary_raw": "<div><img alt=\"Goalhanger\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/goalhanger-e1790855112241-525x394.png\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Network to sell partnerships across audio, video, social media, newsletters, live events and branded content.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/podcasts/goalhanger-to-bring-ad-sales-and-sponsorship-in-house/\">Goalhanger to bring ad sales and sponsorship in-house</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257646",
+      "title": "Independent doubles revenue in six years to reach £55m",
+      "link": "https://pressgazette.co.uk/media_business/independent-doubles-revenue-in-six-years-to-reach-55m/",
+      "published": "Fri, 02 Oct 2026 11:00:38 +0000",
+      "summary_raw": "<div><img alt=\"Top of Independent homepage on 1 October 2026 including banner ad for new memberships\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/independent-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Independent Studio, AI, US and e-commerce cited as growth pillars.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/independent-doubles-revenue-in-six-years-to-reach-55m/\">Independent doubles revenue in six years to reach £55m</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257529",
-      "title": "What I’ve learned: Dropping out of school at 17 was turning point for Irish News editor",
-      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-dropping-out-of-school-at-17-was-turning-point-for-irish-news-editor/",
-      "published": "Thu, 01 Oct 2026 10:17:07 +0000",
-      "summary_raw": "<div><img alt=\"Chris Sherrard headshot\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/chrissherrard-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Editor-in-chief of Irish News shares his insights on a career of editing news sites.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-dropping-out-of-school-at-17-was-turning-point-for-irish-news-editor/\">What I&#8217;ve learned: Dropping out of school at 17 was turning point for Irish News editor</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257578",
-      "title": "Local newspaper where Harold Evans began closes after 171 years in print",
-      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/local-newspaper-where-harold-evans-began-closes-after-171-years-in-print/",
-      "published": "Thu, 01 Oct 2026 10:00:09 +0000",
-      "summary_raw": "<div><img alt=\"Front page and page three of 1 October edition of Tameside Reporter. Front page reads &#039;Goodbye for Now and Thank You&#039;; Page three features article annoucning closure.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/tamesidereporter-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Tameside Reporter to move staff to sister titles with online news set to continue.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/regional-newspapers/local-newspaper-where-harold-evans-began-closes-after-171-years-in-print/\">Local newspaper where Harold Evans began closes after 171 years in print</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.<",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257556",
-      "title": "GB News narrows losses despite 63% drop in website visitors",
-      "link": "https://pressgazette.co.uk/media_business/gb-news-narrows-losses-2025-revenue-website-tv/",
-      "published": "Wed, 30 Sep 2026 15:37:36 +0000",
-      "summary_raw": "<div><img alt=\"GB News presenters Alex Armstrong and Ellie Costello on GB News Breakfast with programme title and date in banner across the screen\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/gbnewsbreakfast-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>GB News website and app visitors down 63% in second half of 2025 but TV revenue in growth.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/gb-news-narrows-losses-2025-revenue-website-tv/\">GB News narrows losses despite 63% drop in website visitors</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=257614",
+      "title": "Penske AI Overviews lawsuit dismissed because ‘no formal bargain’ struck with Google",
+      "link": "https://pressgazette.co.uk/news/penske-ai-overviews-lawsuit-dismissed-because-no-formal-bargain-struck-with-google/",
+      "published": "Thu, 01 Oct 2026 13:52:57 +0000",
+      "summary_raw": "<div><img alt=\"Google AI Overview appearing for search for Digger reviews. Stories from The Guardian, Empire and Vocal cited.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/diggerreviews-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Publishers 'voluntarily acceded' to zero price for Google crawling, judge finds.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/penske-ai-overviews-lawsuit-dismissed-because-no-formal-bargain-struck-with-google/\">Penske AI Overviews lawsuit dismissed because &#8216;no formal bargain&#8217; struck with Google</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
