@@ -1,98 +1,97 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/allenai/astabrief",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "link": "https://huggingface.co/blog/allenai/astabrief",
-      "published": "Fri, 02 Oct 2026 15:19:50 GMT",
+      "id": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "published": "Sat, 03 Oct 2026 22:56:48 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:issue_created/16340351121",
-      "title": "palewire opened an issue in openclaw",
-      "link": "https://github.com/openclaw/openclaw/issues/164300",
-      "published": "2026-10-03 05:37:22 -0700",
-      "summary_raw": "<div class=\"issues_opened js-feed-item-view\"><div class=\"body\">\n<!-- issues -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"d-flex flex-items-baseline mb-2\">\n      <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          an issue in\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/openclaw/openclaw\" re",
+      "id": "tag:github.com,2008:push/22955573835",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/ccdbda51c6...52f15a7214",
+      "published": "2026-10-04 09:28:32 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22875865139",
+      "id": "tag:github.com,2008:push/22901343584",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/cfe2a59954...b70af4a485",
-      "published": "2026-10-01 20:15:38 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/d7e3519895...8533132e6a",
+      "published": "2026-10-03 17:53:25 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/22856228572",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/c5183e0ee5...11a70eb45c",
-      "published": "2026-10-01 16:03:34 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "id": "tag:github.com,2008:push/22899854874",
+      "title": "palewire pushed sva-dvc-3342a-slide-deck",
+      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/compare/00a0c2910e...804819e916",
+      "published": "2026-10-03 17:29:45 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-slide-deck/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22897807218",
+      "title": "palewire pushed sva-dvc-3342a-slide-deck",
+      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/compare/97c0fca47d...00a0c2910e",
+      "published": "2026-10-03 16:57:21 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-slide-deck/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/16347619468",
+      "title": "palewire commented on an issue in openclaw",
+      "link": "https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970906126",
+      "published": "2026-10-03 09:08:11 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/16344709677",
+      "title": "palewire commented on an issue in openclaw",
+      "link": "https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970238604",
+      "published": "2026-10-03 07:46:18 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/22889022562",
+      "title": "palewire pushed sva-dvc-3342a-slide-deck",
+      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/compare/a03a46d0be...97c0fca47d",
+      "published": "2026-10-03 14:39:45 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-slide-deck/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:issue_commented/16343739780",
+      "title": "palewire commented on an issue in openclaw",
+      "link": "https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970017724",
+      "published": "2026-10-03 07:18:50 -0700",
+      "summary_raw": "<div class=\"issues_comment js-feed-item-view\"><div class=\"body\">\n<!-- issue_comment -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline mb-2\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          commented on\n          <a class=\"Link--primary\" href=\"https://github.com/openclaw/openclaw/issues/161867#issuecomment-5970",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/what-if-the-polls-are-wrong-again",
+      "title": "What if the polls are wrong again?",
+      "link": "https://www.natesilver.net/p/what-if-the-polls-are-wrong-again",
+      "published": "Sat, 03 Oct 2026 16:44:01 GMT",
+      "summary_raw": "Systematic polling errors are common. Polls might be biased against Republicans again. Or against Democrats.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/newsletters-worth-your-time",
+      "title": "The Newsletters I Read First",
+      "link": "https://wondertools.substack.com/p/newsletters-worth-your-time",
+      "published": "Sat, 03 Oct 2026 14:18:28 GMT",
+      "summary_raw": "17 reliable sources worth your inbox",
+      "source": "Wonder Tools (Substack)"
     }
   ],
-  "market": [
-    {
-      "id": "https://medium.com/p/940a6893b06d",
-      "title": "25 years later, we persist",
-      "link": "https://medium.com/@stephenstirling/25-years-later-we-persist-940a6893b06d?source=rss-4ec3b4670f5c------2",
-      "published": "Tue, 08 Sep 2026 10:54:42 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/960/1*gazCiOailkIPdlXm47-hBw.jpeg\" /><figcaption>Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons</figcaption></figure><p>I wrote this in the early morning hours on Sept. 12, 2011, when I still lived in New York.</p><p>It’s still probably the closest representation to how I feel about Sept 11.</p><p>Sept. 11 is the reason I got into journalism. It happened days into my college career, when, as a fledgling writer, I was still figuring out who I wanted to be.</p><p>It’s dotted my career since. I helped write <a href=\"https://www.amazon.com/dp/0060536608?lv=shuf&amp;channelId=500&amp;plpRedirect=mhFallback\">a book about it</a>. I’ve attended <a href=\"https://www.nj.com/news/2012/09/families_arrive_at_ground_zero.html\">Ground ",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/744b02bb4210",
-      "title": "Set Your Standards Before You Start: A Journalist’s Journey Using Claude.md",
-      "link": "https://medium.com/@stephenstirling/set-your-standards-before-you-start-a-journalists-journey-using-claude-md-744b02bb4210?source=rss-4ec3b4670f5c------2",
-      "published": "Sat, 11 Apr 2026 13:07:06 GMT",
-      "summary_raw": "<figure><img alt=\"A robot face with an explosion around it\" src=\"https://cdn-images-1.medium.com/max/1024/1*d-LbETLCI64RV57ne1SPyQ.jpeg\" /><figcaption>Credit: Stephen Stirling</figcaption></figure><p><em>Disclosure: I have been a journalist for 20 years, a data journalist for 15 and, have been experimenting with AI tools for about a year. I am by no means an expert. I personally only use it, right now, </em><a href=\"https://medium.com/@stephenstirling/the-inefficiency-of-local-news-in-its-golden-age-50a79824ac9c\"><em>for tool building</em></a><em>, getting over coding hurdles and ironing out sticky syntax. I recognize they can do a lot more. My goal is to be transparent and thoughtful about how I’m using these tools as they become more common in the industry.</em></p><p>AI tools are in new",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/50a79824ac9c",
-      "title": "The inefficiency of local news in its Golden Age",
-      "link": "https://medium.com/@stephenstirling/the-inefficiency-of-local-news-in-its-golden-age-50a79824ac9c?source=rss-4ec3b4670f5c------2",
-      "published": "Sun, 30 Nov 2025 13:43:20 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*r44piE94DOY9GjyS0pVyHw.png\" /></figure><p><em>Disclaimer: I worked at the Star-Ledger for many years. I feel comfortable sharing the below because considerable time has passed since the moments I’m referencing. I now work at the Philadelphia Inquirer. Undoubtedly, the Inquirer faced many of the same challenges, but I wasn’t there for it. I’m actively working on solutions at the Inquirer, but am not confident enough in its history to reference. All of these opinions are my own.</em></p><p>We often talk about local news in the sense of what’s been lost.</p><p>There was a time — the heyday of newspapers in the 1980s and 1990s into the early 2000s — that’s frequently looked back on. It was a time when local bureaus were fully ",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/a1830bd34647",
-      "title": "For a good cat",
-      "link": "https://medium.com/@stephenstirling/for-a-good-cat-a1830bd34647?source=rss-4ec3b4670f5c------2",
-      "published": "Thu, 30 Jan 2025 21:40:40 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*KB79eW15qMts3y03O4Vg3A.jpeg\" /></figure><p>Ella Lyon-Caggiano-Stirling, a runt of a litter that grew to be head mouse-catcher in six separate households, died today. She was 16.</p><p>She died at Morristown Animal Hospital, her owner by her side. The cause was progressive kidney disease.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/604/1*RabfwAvLgEMlm-15H8tZeg.jpeg\" /></figure><p>Ella seemed to live a life against the odds. She might not have survived her kitten years had a worker at KittyKind in Union Square not sweet-talked a young couple who wanted a second cat. They were forever grateful.</p><p>She survived an early illness that nearly took her life. She brushed aside years of bullying from her young",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/d2044e7a4e42",
-      "title": "Why journalists should never read footnotes**",
-      "link": "https://medium.com/@stephenstirling/why-journalists-should-never-read-footnotes-d2044e7a4e42?source=rss-4ec3b4670f5c------2",
-      "published": "Fri, 21 Jul 2017 13:01:45 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/640/1*f08htt8ZIi_TcidQCrPQZg.png\" /></figure><p><em>**Except in all cases. Always read footnotes</em></p><p>I <a href=\"https://www.google.com/amp/s/articles.nj.com/healthfit/index.ssf/2017/07/state_quietly_tells_the_ugly_truth_about_substance_abuse_treatment_in_nj.amp\">wrote a story recently</a> that I wanted to memorialize because it drove home a fundamental of reporting that I don’t think about enough: When it comes to data, always sweat the small stuff.</p><p>It started when I got a <a href=\"https://www.changedetection.com/\">changedetection.com</a> alert late on a Friday night (always a good sign) for one of the New Jersey government sites I monitor for new data. The state had published its annual substance abuse treatment dem",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/5d3cead6a7c",
-      "title": "We can handle the truth",
-      "link": "https://medium.com/@stephenstirling/we-can-handle-the-truth-5d3cead6a7c?source=rss-4ec3b4670f5c------2",
-      "published": "Wed, 29 Mar 2017 04:38:43 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*UepiORrnxZcE_9BfCryDQA.jpeg\" /><figcaption>Photo credit: <a href=\"https://medium.com/u/814004fd3775\">Donica Mensing</a></figcaption></figure><p><em>Text of a speech I gave at the 53rd Annual Scripps Dinner at the Reynolds School of Journalism at the University of Nevada.</em></p><p>Thank you. It’s good to be in Nevada. I’ve spent all day working on my pronunciation of that. I’m very honored you’d have me speak tonight, and I want to thank the University, Dean Stavitsky and everyone at Scripps-Howard for the generosity and love they’ve shown me over the past year.</p><p>I am Stephen Stirling, and I’m a data reporter at NJ Advance Media in New Jersey. I was tempted to use this time to talk about my work, about how to navigat",
-      "source": "Stephen Stirling (Medium)"
-    },
-    {
-      "id": "https://medium.com/p/f0feb73df0e2",
-      "title": "My tattoo",
-      "link": "https://medium.com/@stephenstirling/my-tattoo-f0feb73df0e2?source=rss-4ec3b4670f5c------2",
-      "published": "Fri, 14 Oct 2016 01:34:03 GMT",
-      "summary_raw": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*-CLKMy1DOhAisU00w49LHg.jpeg\" /></figure><p>About 20 years ago, a friend of mine stabbed me with a pencil. I was reaching for something on his desk and he went to swat my hand away, not realizing he was holding a pencil. The tip snapped off in my finger, I had to go to the hospital to get it removed. He felt terrible, and feigned illness to come to the nurse and check on me. When I got it removed the doctor told me “you’ll be the first of your friends to have a tattoo.”</p><p>I lost touch with the guy over the years as our lives unfolded, but I’ve always had this mark to remember him. A few years ago, I was at a meeting in Jersey City and I swore he was sitting on the other side of the church basement. I wasn’t a hundred pe",
-      "source": "Stephen Stirling (Medium)"
-    }
-  ],
+  "market": [],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
