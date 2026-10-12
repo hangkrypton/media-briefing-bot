@@ -35,6 +35,15 @@
   type: rss
   url: https://huggingface.co/blog
 
+# CẦN XÁC MINH: không kiểm tra được trực tiếp trang này từ môi trường cloud (bị chặn
+# mạng ra ngoài theo đúng hạn chế đã ghi trong README/CLAUDE.md) — group/tên dưới đây
+# là suy đoán theo URL, hãy để discover_feed.py tự dò feed khi job local chạy và kiểm
+# tra lại kết quả trong state/seen.json hoặc log sau lần chạy đầu tiên.
+- name: NYT R&D
+  group: ai
+  type: rss
+  url: https://rd.nytimes.com/
+
 - name: GitHub - palewire
   group: tools
   type: github_atom
@@ -61,6 +70,14 @@
   type: rss
   url: https://journaliststoolbox.substack.com/
   feed_url: https://journaliststoolbox.substack.com/feed
+
+# CẦN XÁC MINH: cùng lý do như NYT R&D ở trên — chưa kiểm tra được trực tiếp, group
+# "tools" là suy đoán theo tên domain (jindex = journalism index). Kiểm tra lại sau
+# khi job local chạy lần đầu với nguồn này.
+- name: Jindex
+  group: tools
+  type: rss
+  url: https://jindex.ai/
 
 - name: IRE (Investigative Reporters & Editors)
   group: market
