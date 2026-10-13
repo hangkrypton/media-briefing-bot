@@ -1,223 +1,150 @@
 {
-  "ai": [
-    {
-      "id": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "title": "Impactful scheduling for GPU clusters",
-      "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "published": "Fri, 09 Oct 2026 15:20:29 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    }
-  ],
+  "ai": [],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/23758450326",
+      "id": "tag:github.com,2008:push/23871728872",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/8ad4563ad6...23af0e83d1",
-      "published": "2026-10-11 21:45:54 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/23af0e83d1...c568d5c028",
+      "published": "2026-10-11 21:51:38 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/23747204123",
+      "id": "tag:github.com,2008:push/23838673389",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/b799d46137...8ad4563ad6",
-      "published": "2026-10-11 19:43:24 UTC",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/c568d5c028...1e18d3deb8",
+      "published": "2026-10-11 22:24:18 UTC",
       "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/23742474570",
+      "id": "tag:github.com,2008:push/23838318389",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/d54c35c04c...56f19ac966",
+      "published": "2026-10-11 14:09:04 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/23831964444",
+      "title": "palewire created a branch",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...8b1c2188d8",
+      "published": "2026-10-11 13:27:14 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/23814566324",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/8ad7190cc2...a923c42e9e",
+      "published": "2026-10-11 15:35:49 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/23814386592",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/8b1c2188d8...8ad7190cc2",
+      "published": "2026-10-11 15:33:03 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/23805489674",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/383f852489...b799d46137",
-      "published": "2026-10-11 18:32:28 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/ac63bf1c37...14dff8cbf0",
+      "published": "2026-10-12 19:41:10 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/23741747562",
+      "id": "tag:github.com,2008:push/23805490020",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/2b1cbe6ab6...383f852489",
-      "published": "2026-10-11 18:32:02 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/ac63bf1c37...14dff8cbf0",
+      "published": "2026-10-12 19:41:10 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/23736154687",
+      "id": "tag:github.com,2008:push/23805207335",
       "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/1965e3e3ae...40979b2669",
-      "published": "2026-10-11 17:06:47 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/8ad261601c...ac63bf1c37",
+      "published": "2026-10-12 19:37:07 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/23727959795",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/957fb0ecb8...bf3557738b",
-      "published": "2026-10-11 15:30:47 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23727751809",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/38b86d2b08...a5d7ecb445",
-      "published": "2026-10-11 15:14:45 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23727528485",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/cf5375a1bd...38b86d2b08",
-      "published": "2026-10-11 15:08:35 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23721923109",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/1e18d3deb8...cc46ac3a19",
-      "published": "2026-10-11 22:34:58 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23719302655",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/8b1c2188d8...ed3e8edc77",
-      "published": "2026-10-11 13:27:58 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23705043323",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/40979b2669...2b1cbe6ab6",
-      "published": "2026-10-11 17:58:12 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/week-2-script\" rel=\"noreferrer\">week-2-script</a>\n        in\n      <a class=\"Link--primary no-unde",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_merged/16949756082",
-      "title": "palewire contributed to reuters-graphics/graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/pull/515",
-      "published": "2026-10-11 08:33:02 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23695675338",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/ea7cddef3a...957fb0ecb8",
-      "published": "2026-10-11 15:28:46 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23695390557",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/46ba39629a...ea7cddef3a",
-      "published": "2026-10-11 15:24:11 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/23694920788",
-      "title": "palewire pushed graphics-components",
-      "link": "https://github.com/reuters-graphics/graphics-components/compare/a5d7ecb445...46ba39629a",
-      "published": "2026-10-11 15:16:34 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/codex/shared-loading-indicators\" rel=\"noreferrer\">codex/shared-loading-indicators</a>\n        in\n     ",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
-      "title": "Could Minnesota spoil the blue wave?",
-      "link": "https://www.natesilver.net/p/could-minnesota-spoil-the-blue-wave",
-      "published": "Fri, 09 Oct 2026 17:52:24 GMT",
-      "summary_raw": "You&#8217;ve heard a lot about Michigan. But Democrats may have bigger problems in states where voters don&#8217;t trust their governance.",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://wondertools.substack.com/p/5-writing-tools-for-getting-unstuck",
-      "title": "5 Writing Tools to Get Unstuck ✍️",
-      "link": "https://wondertools.substack.com/p/5-writing-tools-for-getting-unstuck",
-      "published": "Fri, 09 Oct 2026 20:01:15 GMT",
-      "summary_raw": "Beat writer&#8217;s block with dictation apps, timed writing tools, mind maps, AI prompts, and a paper folding trick. Most are free. Pick one to try today.",
-      "source": "Wonder Tools (Substack)"
+      "id": "https://journaliststoolbox.substack.com/p/tech-and-journalism-where-weve-been",
+      "title": "Tech and Journalism: Where We've Been ... and Where We (Might) be Headed",
+      "link": "https://journaliststoolbox.substack.com/p/tech-and-journalism-where-weve-been",
+      "published": "Tue, 13 Oct 2026 12:01:30 GMT",
+      "summary_raw": "Oct. 13, 2026",
+      "source": "Journalist's Toolbox (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://www.ire.org/?p=211105",
-      "title": "IRE announces $25K donation from late executive director",
-      "link": "https://www.ire.org/2026/10/12/ire-announces-25k-donation-from-late-executive-director/",
-      "published": "Mon, 12 Oct 2026 08:00:00 +0000",
-      "summary_raw": "<p>IRE is honored and touched to announce that Diana Fuentes, IRE’s late executive director, has generously donated $25,000 to the organization upon her passing.</p>\n<p>The post <a href=\"https://www.ire.org/2026/10/12/ire-announces-25k-donation-from-late-executive-director/\">IRE announces $25K donation from late executive director</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=121615",
-      "title": "WAN-IFRA announces 2026 Print & Sustainability Awards winners",
-      "link": "https://wan-ifra.org/2026/10/wan-ifra-announces-2026-print-sustainability-awards-winners/",
-      "published": "Sun, 11 Oct 2026 14:58:46 +0000",
-      "summary_raw": "<p>WAN-IFRA has announced the winners of the 2026 Print &#038; Sustainability Awards, recognising publishers and media organisations for work spanning print-digital integration, audience engagement, sustainable production, supply chain innovation and print advertising.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/wan-ifra-announces-2026-print-sustainability-awards-winners/\">WAN-IFRA announces 2026 Print &#038; Sustainability Awards winners</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "id": "https://wan-ifra.org/?p=121727",
+      "title": "Building the future now: Ukrainian regional media turn learning into action in Lviv",
+      "link": "https://wan-ifra.org/2026/10/building-the-future-now-ukrainian-regional-media-turn-learning-into-action-in-lviv/",
+      "published": "Tue, 13 Oct 2026 12:49:42 +0000",
+      "summary_raw": "<p>Across three days of exchange surrounding the XV Media Congress in Lviv, Ukrainian media leaders explored how to sustain independent journalism during the war, create safer and more inclusive newsrooms, strengthen relationships with their communities and turn international partnerships into practical organisational change.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/building-the-future-now-ukrainian-regional-media-turn-learning-into-action-in-lviv/\">Building the future now: Ukrainian regional media turn learning into action in Lviv</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.poynter.org/?p=1210121",
-      "title": "Jennifer Griffin has covered 8 defense secretaries. She’s never seen a Pentagon like this.",
-      "link": "https://www.poynter.org/commentary/2026/fox-news-jennifer-griffin-pentagon-pete-hegseth/",
-      "published": "Mon, 12 Oct 2026 11:30:36 +0000",
-      "summary_raw": "<p>Last week, Fox News turned 30 years old. One of that network’s most respected reporters, Jennifer Griffin, has been there for nearly all of it. Griffin has had an amazing [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/fox-news-jennifer-griffin-pentagon-pete-hegseth/\">Jennifer Griffin has covered 8 defense secretaries. She’s never seen a Pentagon like this.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://wan-ifra.org/?p=121684",
+      "title": "Publishers’ AI rights group SPUR doubles membership as The New York Times and AFP join",
+      "link": "https://wan-ifra.org/2026/10/publishers-ai-rights-group-spur-doubles-membership-as-the-new-york-times-and-afp-join/",
+      "published": "Tue, 13 Oct 2026 08:46:54 +0000",
+      "summary_raw": "<p>The standards coalition marks its largest expansion since launch, surpassing 80 global media members.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/publishers-ai-rights-group-spur-doubles-membership-as-the-new-york-times-and-afp-join/\">Publishers’ AI rights group SPUR doubles membership as The New York Times and AFP join</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121671",
+      "title": "LA SIP y asociaciones de medios de las Américas se suman a la Coalición SPUR para proteger los contenidos periodísticos frente a la inteligencia artificial",
+      "link": "https://wan-ifra.org/2026/10/la-sip-y-asociaciones-de-medios-de-las-americas-se-suman-a-la-coalicion-spur-para-proteger-los-contenidos-periodisticos-frente-a-la-inteligencia-artificial/",
+      "published": "Tue, 13 Oct 2026 07:00:17 +0000",
+      "summary_raw": "<p>La SIP y seis organizaciones que representan a medios de México, Colombia, Chile, Perú, Brasil, y Argentina se incorporan a una alianza internacional que impulsa estándares de trazabilidad, reconocimiento y licenciamiento de contenidos usados por sistemas de IA.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/la-sip-y-asociaciones-de-medios-de-las-americas-se-suman-a-la-coalicion-spur-para-proteger-los-contenidos-periodisticos-frente-a-la-inteligencia-artificial/\">LA SIP y asociaciones de medios de las Américas se suman a la Coalición SPUR para proteger los contenidos periodísticos frente a la inteligencia artificial</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210214",
+      "title": "The Pentagon plans to livestream an execution. Some Republicans are having second thoughts.",
+      "link": "https://www.poynter.org/commentary/2026/pentagon-livestream-execution-republican-concerns/",
+      "published": "Tue, 13 Oct 2026 11:30:36 +0000",
+      "summary_raw": "<p>Last week, in news almost too shocking to believe, Secretary of Defense Pete Hegseth said that an execution would be livestreamed for the American people to view. Army Maj. Nidal [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/pentagon-livestream-execution-republican-concerns/\">The Pentagon plans to livestream an execution. Some Republicans are having second thoughts.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1209878",
-      "title": "Can a ‘weirdo version of a newsroom’ thrive? Pablo Torre is finding out",
-      "link": "https://www.poynter.org/business-work/2026/pablo-torre-finds-out-sports-journalism/",
-      "published": "Mon, 12 Oct 2026 11:00:00 +0000",
-      "summary_raw": "<p>When Pablo Torre left ESPN to go independent in 2023, few could have predicted that he’d change sports journalism in the process. Torre joined the Worldwide Leader from Sports Illustrated [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/business-work/2026/pablo-torre-finds-out-sports-journalism/\">Can a ‘weirdo version of a newsroom’ thrive? Pablo Torre is finding out</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1210183",
+      "title": "How do you land a journalism job right now? Nearly 60 journalists told us",
+      "link": "https://www.poynter.org/commentary/2026/how-to-get-journalism-job-2026/",
+      "published": "Tue, 13 Oct 2026 11:00:30 +0000",
+      "summary_raw": "<p>It’s been a brutal year for many in the journalism profession, with newsrooms across the nation announcing layoffs and many talented reporters, editors, designers and photographers sharing heartbreaking stories of [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/how-to-get-journalism-job-2026/\">How do you land a journalism job right now? Nearly 60 journalists told us</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258026",
-      "title": "Print closure helps Standard reduce losses to £8.3m",
-      "link": "https://pressgazette.co.uk/media_business/print-closure-helps-standard-reduce-losses-to-8-3m/",
-      "published": "Mon, 12 Oct 2026 13:29:17 +0000",
-      "summary_raw": "<div><img alt=\"Picture shows red newspaper bin containing a stack of newspapers and a pinned up copy of the Evening Standard at the top to show its front page. Bin is in front of a backdrop of escalators leading down into a tube station.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/10/WhatsAppImage2024-09-19at15.44.02-e1728896515339-524x394.webp\" style=\"margin-bottom: 15px;\" width=\"524\" /></div>\n<p>Revenue down 40% in 2025 despite financial year containing three more months than year before.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_business/print-closure-helps-standard-reduce-losses-to-8-3m/\">Print closure helps Standard reduce losses to £8.3m</a> appeared first on <a href=\"https://pressga",
+      "id": "https://www.poynter.org/?p=1210210",
+      "title": "A viral rumor claimed James Talarico was in a psychiatric hospital. The evidence doesn’t hold up.",
+      "link": "https://www.poynter.org/fact-checking/2026/james-talarico-psychiatric-hospital-rumor/",
+      "published": "Tue, 13 Oct 2026 10:30:53 +0000",
+      "summary_raw": "<p>Conservative influencers are sharing what they say is a phone call proving state Rep. James Talarico, the Democratic candidate for U.S. Senate in Texas, was absent from the campaign trail [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/fact-checking/2026/james-talarico-psychiatric-hospital-rumor/\">A viral rumor claimed James Talarico was in a psychiatric hospital. The evidence doesn’t hold up.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=257845",
+      "title": "Big Issue helps brands reach ‘purpose-driven’ consumers",
+      "link": "https://pressgazette.co.uk/publishers/magazines/big-issue-helps-brands-reach-purpose-driven-consumers/",
+      "published": "Tue, 13 Oct 2026 08:44:11 +0000",
+      "summary_raw": "<div><img alt=\"Big Issue 35th anniversary edition in September 2026 with headline &#039;35 years of a hand up&#039; and photo of several vendors, and managing director Russell Blackman in the middle of delivering a talk\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/bigissue1-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Magazine brand addresses print revenue decline with Big Issue Create marketing deals.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/magazines/big-issue-helps-brands-reach-purpose-driven-consumers/\">Big Issue helps brands reach &#8216;purpose-driven&#8217; consumers</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=257689",
-      "title": "FAST channel and digital out-of-home offer new revenue sources for publisher video",
-      "link": "https://pressgazette.co.uk/publishing-services-content/growing-fast-channel-digital-out-of-home-markets-new-revenue-opportunity-publishers/",
-      "published": "Mon, 12 Oct 2026 10:03:33 +0000",
-      "summary_raw": "<div><img alt=\"FAST Channel and Digital Out-Of-Home screens offer new revenue opportunities for video publishers\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/videoelephantscreens-scaled-e1791798748282-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Video podcasts are 'perfect' content for FAST channels and social media.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishing-services-content/growing-fast-channel-digital-out-of-home-markets-new-revenue-opportunity-publishers/\">FAST channel and digital out-of-home offer new revenue sources for publisher video</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257900",
-      "title": "Marina Hyde launches ‘Always On’ personal media brand backed by Goalhanger",
-      "link": "https://pressgazette.co.uk/news/marina-hyde-launches-always-on-personal-media-brand-backed-by-goalhanger/",
-      "published": "Mon, 12 Oct 2026 07:30:00 +0000",
-      "summary_raw": "<div><img alt=\"Marina Hyde lounging on a bed with a box of popcorn\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/marinahyde-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Hyde will write columns on Substack and present a new Youtube show.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/marina-hyde-launches-always-on-personal-media-brand-backed-by-goalhanger/\">Marina Hyde launches &#8216;Always On&#8217; personal media brand backed by Goalhanger</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257997",
-      "title": "News diary 12-18 October: Russell Brand rape trial, MPs question AI safety, NI Assembly no confidence vote",
-      "link": "https://pressgazette.co.uk/news/news-diary-12-18-october-russell-brand-rape-trial-mps-question-ai-safety-ni-assembly-no-confidence-vote/",
-      "published": "Fri, 09 Oct 2026 16:10:18 +0000",
-      "summary_raw": "<div><img alt=\"Russell Brand in 2024.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/russellbrand-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>A look ahead at the key events leading the news agenda this week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-12-18-october-russell-brand-rape-trial-mps-question-ai-safety-ni-assembly-no-confidence-vote/\">News diary 12-18 October: Russell Brand rape trial, MPs question AI safety, NI Assembly no confidence vote</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=257986",
-      "title": "At least five journalists arrested at Palestine Action protest",
-      "link": "https://pressgazette.co.uk/media_law/five-journalists-arrested-pro-palestine-action-protest-leicester/",
-      "published": "Fri, 09 Oct 2026 15:45:28 +0000",
-      "summary_raw": "<div><img alt=\"A photo of two policemen escorting a man wearing handcuffs.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/leicestergazette-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Two Leicester Gazette reporters among those arrested outside drone factory. </p>\n<p>The post <a href=\"https://pressgazette.co.uk/media_law/five-journalists-arrested-pro-palestine-action-protest-leicester/\">At least five journalists arrested at Palestine Action protest</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=258058",
+      "title": "New York Times among surge of sign-ups to publisher AI coalition SPUR",
+      "link": "https://pressgazette.co.uk/news/new-york-times-among-surge-of-sign-ups-to-publisher-ai-coalition-spur/",
+      "published": "Mon, 12 Oct 2026 23:01:00 +0000",
+      "summary_raw": "<div><img alt=\"new york times office from street with taxi going past in front\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2022/09/GettyImages-96267360-scaled-e1663860114209-1200x899-1-526x394.jpg\" style=\"margin-bottom: 15px;\" width=\"526\" /></div>\n<p>SPUR members are seeking fair payment terms from AI companies.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/new-york-times-among-surge-of-sign-ups-to-publisher-ai-coalition-spur/\">New York Times among surge of sign-ups to publisher AI coalition SPUR</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
