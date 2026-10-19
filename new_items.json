@@ -1,7 +1,314 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "published": "Thu, 15 Oct 2026 16:08:03 +0000",
+      "summary_raw": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "Fri, 16 Oct 2026 01:44:47 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/reflection-beam",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "link": "https://huggingface.co/blog/reflection-beam",
+      "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "published": "Thu, 15 Oct 2026 20:34:01 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "link": "https://huggingface.co/blog/meta-muse-spark-open",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/flux-3",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "link": "https://huggingface.co/blog/flux-3",
+      "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:push/24490288655",
+      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/685e3754d6...f1a965ad44",
+      "published": "2026-10-17 11:34:13 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/codex/sva-critique-wheel\" rel=\"noreferrer\">codex/sva-critique-wheel</a>\n        in\n      <a class=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/24375806039",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/0000000000...685e3754d6",
+      "published": "2026-10-17 11:17:53 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/17475668034",
+      "title": "palewire opened a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/24",
+      "published": "2026-10-17 04:18:09 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3342a-tr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/16949756082",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/515",
+      "published": "2026-10-11 08:33:02 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/16833242620",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/589",
+      "published": "2026-10-09 08:39:54 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/589\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/16833220546",
+      "title": "palewire contributed to palewire/palewire",
+      "link": "https://github.com/palewire/palewire/pull/6",
+      "published": "2026-10-09 08:39:38 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewire/pull/6\" rel=\"n",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/16833184274",
+      "title": "palewire contributed to palewire/palewire",
+      "link": "https://github.com/palewire/palewire/pull/6",
+      "published": "2026-10-09 08:39:21 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewire/pull/6\" rel=\"n",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
+      "title": "FLIPR 2026 Governors forecast",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-governors-model",
+      "published": "Sun, 18 Oct 2026 16:26:00 GMT",
+      "summary_raw": "Silver Bulletin's prediction for every gubernatorial election in 2026.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "title": "FLIPR 2026 Senate forecast",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-senate-model",
+      "published": "Sun, 18 Oct 2026 16:26:00 GMT",
+      "summary_raw": "Silver Bulletin's prediction for every Senate election in 2026.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-house-model",
+      "title": "FLIPR 2026 House forecast",
+      "link": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-house-model",
+      "published": "Sun, 18 Oct 2026 16:25:00 GMT",
+      "summary_raw": "Silver Bulletin's prediction for every House election in 2026.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
+      "title": "The good, bad and ugly outcomes in the Senate",
+      "link": "https://www.natesilver.net/p/the-good-bad-and-ugly-outcomes-in",
+      "published": "Sat, 17 Oct 2026 18:01:13 GMT",
+      "summary_raw": "Can Democrats still win the Senate if the polls overestimate them? And how ugly could the map get for Republicans if the polls are wrong in the other direction?",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/welcome-to-midterm-silly-season",
+      "title": "Welcome to midterm silly season 🤡",
+      "link": "https://www.natesilver.net/p/welcome-to-midterm-silly-season",
+      "published": "Thu, 15 Oct 2026 19:13:51 GMT",
+      "summary_raw": "Still Couting EP 5",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/3-free-ai-tools-from-spiegels-ai",
+      "title": "3 Free AI Tools From Spiegel’s AI Chief",
+      "link": "https://wondertools.substack.com/p/3-free-ai-tools-from-spiegels-ai",
+      "published": "Fri, 16 Oct 2026 21:17:26 GMT",
+      "summary_raw": "AI expert and journalist Ole Reissmann recommends three tools for free dictation, faster typing, and a searchable personal archive that acts as a second brain.",
+      "source": "Wonder Tools (Substack)"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://www.ire.org/?p=211128",
+      "title": "IRE announces newly-revised Code of Conduct: A commitment to inclusion, safety and community",
+      "link": "https://www.ire.org/2026/10/15/ire-announces-newly-revised-code-of-conduct-a-commitment-to-inclusion-safety-and-community/",
+      "published": "Thu, 15 Oct 2026 14:47:29 +0000",
+      "summary_raw": "<p>October 15, 2026 — The Investigative Reporters and Editors (IRE) Board of Directors has approved a newly-revised Code of Conduct, a pivotal step toward fostering a more inclusive and safe environment for all members and participants.&#160; “Everyone is welcome at IRE events, and it’s important that they feel included and supported while in attendance,” said&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/10/15/ire-announces-newly-revised-code-of-conduct-a-commitment-to-inclusion-safety-and-community/\">IRE announces newly-revised Code of Conduct: A commitment to inclusion, safety and community</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
+      "source": "IRE (Investigative Reporters & Editors)"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121936",
+      "title": "Platform native: how Kenya’s Nation Media Group is building direct relationships in the age of AI search",
+      "link": "https://wan-ifra.org/2026/10/platform-native-how-kenyas-nation-media-group-is-building-direct-relationships-in-the-age-of-ai-search/",
+      "published": "Fri, 16 Oct 2026 09:26:57 +0000",
+      "summary_raw": "<p>Nation Media Group (NMG) is redefining digital news delivery across East Africa by harnessing automation to predict content demand and build direct, long-term relationships with younger, news-avoidant demographics.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/platform-native-how-kenyas-nation-media-group-is-building-direct-relationships-in-the-age-of-ai-search/\">Platform native: how Kenya&#8217;s Nation Media Group is building direct relationships in the age of AI search</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121909",
+      "title": "How Nikkei uses AI-assisted drafts to expand corporate coverage",
+      "link": "https://wan-ifra.org/2026/10/how-nikkei-uses-ai-assisted-drafts-to-expand-corporate-coverage/",
+      "published": "Fri, 16 Oct 2026 08:42:43 +0000",
+      "summary_raw": "<p>With 95 editors using its SCOPE AI tool daily, Japan's Nikkei is expanding coverage of company announcements while keeping editorial selection, verification and publication in human hands.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/how-nikkei-uses-ai-assisted-drafts-to-expand-corporate-coverage/\">How Nikkei uses AI-assisted drafts to expand corporate coverage</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=121878",
+      "title": "#PlayAPart: Join the global movement for media and information literacy",
+      "link": "https://wan-ifra.org/2026/10/playapart-join-the-global-movement-for-media-and-information-literacy/",
+      "published": "Fri, 16 Oct 2026 08:05:02 +0000",
+      "summary_raw": "<p>Veteran broadcast journalist Christiane Amanpour, CNN’s Chief International Anchor, is championing UNESCO’s call for media and AI literacy ahead of Global Media and Information Literacy Week. Here is how newsrooms, journalists, and editors everywhere can play their part.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/playapart-join-the-global-movement-for-media-and-information-literacy/\">#PlayAPart: Join the global movement for media and information literacy</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254304",
+      "title": "Legal experts warn Meta’s new terms still grant broad scraping permissions, despite language changes",
+      "link": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "published": "Sat, 17 Oct 2026 18:49:46 +0000",
+      "summary_raw": "Meta has removed the word &#8220;train&#8221; from its upcoming terms of service for business accounts. The company revised its terms after Nieman Lab&#8217;s story on Thursday exposed that the new terms would permit broad scraping of websites &#8220;associated with&#8221; business accounts, and possibly allow Meta to use that scraped content to train its AI models....",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254251",
+      "title": "Meta’s new commercial terms will allow the scraping of news sites, legal experts say",
+      "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "published": "Thu, 15 Oct 2026 16:59:54 +0000",
+      "summary_raw": "Meta can use web scrapers to crawl and collect content from websites &#8220;associated with&#8221; business accounts on its platforms, according to its new commercial terms of use. The update, set to go into effect on October 30, will include news publishers with business accounts. These accounts allow companies or public figures to manage Facebook pages,...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254216",
+      "title": "A new report argues newsrooms need to do more experiments — like, the kind with randomization and results",
+      "link": "https://www.niemanlab.org/2026/10/a-new-report-argues-newsrooms-need-to-do-more-experiments-like-the-kind-with-randomization-and-results/",
+      "published": "Thu, 15 Oct 2026 16:47:21 +0000",
+      "summary_raw": "Mississippi Today had a question. Did the stories around its Pulitzer Prize-winning investigative reporting affect the way those investigations were received? It&#8217;s the kind of question local newsrooms can&#8217;t easily test on their own. But researchers from Local NExT Lab at Syracuse University could. In a national survey, 1,768 adults were shown the same investigation...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254223",
+      "title": "Google’s News AI pilot expands to over 400 publications, including U.S. local news outlets",
+      "link": "https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/",
+      "published": "Thu, 15 Oct 2026 16:01:46 +0000",
+      "summary_raw": "In December, Google launched its News AI pilot program, which licenses content from select publishers and uses it to test new AI features in Google News. On Thursday, the company announced that the program has added new partnerships, bringing the total number of publications in the pilot to more than 400 worldwide. At launch, the...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210640",
+      "title": "The White House has a workaround when networks refuse to replace CNN",
+      "link": "https://www.poynter.org/commentary/2026/white-house-cnn-ban-real-america-voice/",
+      "published": "Mon, 19 Oct 2026 11:30:20 +0000",
+      "summary_raw": "<p>Over the weekend, CNN was once again blocked from traveling with President Donald Trump on Air Force One as part of the White House pool. And once again, conservative network [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/white-house-cnn-ban-real-america-voice/\">The White House has a workaround when networks refuse to replace CNN</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210401",
+      "title": "When public officials use offensive language, should journalists repeat it?",
+      "link": "https://www.poynter.org/ethics-trust/2026/should-journalists-repeat-offensive-language-public-officials/",
+      "published": "Mon, 19 Oct 2026 11:00:57 +0000",
+      "summary_raw": "<p>The word “alien” or “aliens” appeared dozens of times in the recent U.S. Supreme Court decision striking down President Donald Trump’s attempt to restrict birthright citizenship. Many of the references [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/ethics-trust/2026/should-journalists-repeat-offensive-language-public-officials/\">When public officials use offensive language, should journalists repeat it?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210542",
+      "title": "President Trump nixes idea of livestreaming an execution",
+      "link": "https://www.poynter.org/commentary/2026/president-trump-nixes-idea-of-livesteaming-an-execution/",
+      "published": "Fri, 16 Oct 2026 11:30:58 +0000",
+      "summary_raw": "<p>A week ago, Defense Secretary Pete Hegseth proposed livestreaming the firing-squad execution of Nidal Malik Hasan, a former Army major who killed 13 people and injured another 32 in a [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/president-trump-nixes-idea-of-livesteaming-an-execution/\">President Trump nixes idea of livestreaming an execution</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210408",
+      "title": "If journalists can’t explain an election, we haven’t finished the job",
+      "link": "https://www.poynter.org/commentary/2026/how-journalists-can-understand-voters-election-results/",
+      "published": "Fri, 16 Oct 2026 11:15:39 +0000",
+      "summary_raw": "<p>Understanding the American electorate has never been more important or more challenging, especially for journalists. We know the country is polarized and that voters in both parties are angry. But [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/how-journalists-can-understand-voters-election-results/\">If journalists can’t explain an election, we haven’t finished the job</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210491",
+      "title": "Poynter announces first cohort for Leading AI in the Newsroom",
+      "link": "https://www.poynter.org/news-release/2026/poynter-announces-first-leading-ai-in-the-newsroom-cohort/",
+      "published": "Fri, 16 Oct 2026 11:00:10 +0000",
+      "summary_raw": "<p>ST. PETERSBURG, Florida (October 16, 2026) — The Poynter Institute today announced the first cohort of Leading AI in the Newsroom, a new leadership program created for journalists guiding artificial [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/news-release/2026/poynter-announces-first-leading-ai-in-the-newsroom-cohort/\">Poynter announces first cohort for Leading AI in the Newsroom</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210482",
+      "title": "A shrinking local press is making it easier for public officials to restrict access",
+      "link": "https://www.poynter.org/reporting-editing/2026/local-news-press-access-public-officials/",
+      "published": "Thu, 15 Oct 2026 16:55:33 +0000",
+      "summary_raw": "<p>As CNN, Politico and MS NOW challenge their White House ban in court, a similar press access battle is playing out in Utah — one that dates back to the [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/local-news-press-access-public-officials/\">A shrinking local press is making it easier for public officials to restrict access</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258223",
+      "title": "Publishers urged to delete Facebook and Instagram accounts over T&Cs change",
+      "link": "https://pressgazette.co.uk/news/facebook-terms-publishers/",
+      "published": "Mon, 19 Oct 2026 10:18:23 +0000",
+      "summary_raw": "<div><img alt=\"Duopoly campaign logo\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2017/04/PG_DUOPLOY_LOGO_v7-591x394.jpg\" style=\"margin-bottom: 15px;\" width=\"591\" /></div>\n<p>'Shameless land grab' sees Meta claim AI rights to all publisher content after 30 October.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/facebook-terms-publishers/\">Publishers urged to delete Facebook and Instagram accounts over T&amp;Cs change</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258219",
+      "title": "News diary 19-25 October: Tommy Robinson harassment trial, Brazil election runoff, iPhone Duo on sale",
+      "link": "https://pressgazette.co.uk/news/news-diary-19-25-october-tommy-robinson-harassment-trial-brazil-election-runoff-iphone-duo-on-sale/",
+      "published": "Mon, 19 Oct 2026 07:31:59 +0000",
+      "summary_raw": "<div><img alt=\"Tommy Robinson surrounded by other men\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/10/shutterstock_2484240271-493x394.webp\" style=\"margin-bottom: 15px;\" width=\"493\" /></div>\n<p>A look ahead at the key events leading the news agenda this week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-19-25-october-tommy-robinson-harassment-trial-brazil-election-runoff-iphone-duo-on-sale/\">News diary 19-25 October: Tommy Robinson harassment trial, Brazil election runoff, iPhone Duo on sale</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258152",
+      "title": "CNN bundles web, live and on-demand in UK paywall launch",
+      "link": "https://pressgazette.co.uk/north-america/cnn-uk-canada-subscriptions-website-paywall-streaming/",
+      "published": "Fri, 16 Oct 2026 14:54:07 +0000",
+      "summary_raw": "<div><img alt=\"CNN All Access subscription promo image showing its content across various device sizes, with Anderson Cooper in centre TV screen\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/cnnaa-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>CNN launching website paywall alongside streaming subscription in UK and Canada.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/north-america/cnn-uk-canada-subscriptions-website-paywall-streaming/\">CNN bundles web, live and on-demand in UK paywall launch</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258182",
+      "title": "Guardian and Sun agree on ban for deceptive AI bots",
+      "link": "https://pressgazette.co.uk/news/guardian-and-sun-agree-on-ban-for-deceptive-ai-bots/",
+      "published": "Fri, 16 Oct 2026 13:03:16 +0000",
+      "summary_raw": "<div><img alt=\"News bosses collage of those who signed AI transparency letter to prime minister, clockwise from top left: FT CEO Jon Slade, Guardian CEO Anna Bateson, Daily Mail CEO Danny Groom, Times and Sunday Times EVP and publisher Chris Longcroft, Telegraph editor Chris Evans and Sun EVP and publisher Dominic Carter\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/newsbosses-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>CEOs and editors call for PM to give backing to AI transparency bill.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/guardian-and-sun-agree-on-ban-for-deceptive-ai-bots/\">Guardian and Sun agree on ban for deceptive AI bots</a> appeared first on <a href=\"ht",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258169",
+      "title": "Huw Edwards loses Daily Mail complaint and bemoans IPSO ‘travesty’",
+      "link": "https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/huw-edwards-loses-ipso-daily-mail-complaint/",
+      "published": "Fri, 16 Oct 2026 11:18:33 +0000",
+      "summary_raw": "<div><img alt=\"Huw Edwards photo to mark sentencing: unshaven, looking straight into camera unsmiling\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2024/09/01J7XB9W7N6C17BPCQQH4NMACX-scaled-e1726488461239-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Daily Mail already removed article and published apology to woman named as having 'friendship' with Edwards.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/huw-edwards-loses-ipso-daily-mail-complaint/\">Huw Edwards loses Daily Mail complaint and bemoans IPSO &#8216;travesty&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
