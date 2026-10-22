@@ -1,367 +1,159 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "link": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "published": "Wed, 21 Oct 2026 12:51:24 GMT",
+      "id": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "published": "Thu, 22 Oct 2026 07:51:31 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "link": "https://huggingface.co/blog/allenai/fairstress",
-      "published": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "id": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "Wed, 21 Oct 2026 18:26:30 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "published": "Tue, 20 Oct 2026 15:19:48 GMT",
+      "id": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "Wed, 21 Oct 2026 17:35:36 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/hf-torchtpu",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "link": "https://huggingface.co/blog/hf-torchtpu",
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "Wed, 21 Oct 2026 16:04:43 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "link": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "title": "MPS in PyTorch 2.15",
-      "link": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "published": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/hf-torchneuron",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "link": "https://huggingface.co/blog/hf-torchneuron",
-      "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published": "Wed, 21 Oct 2026 14:58:18 GMT",
       "summary_raw": "",
       "source": "Hugging Face Blog"
     }
   ],
   "tools": [
     {
-      "id": "tag:github.com,2008:push/24677876012",
-      "title": "palewire pushed reuters-temperature-storms",
-      "link": "https://github.com/palewire/reuters-temperature-storms/compare/a0e17b29c5...047f8ebee8",
-      "published": "2026-10-20 10:07:03 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-temperature-storms/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hre",
+      "id": "tag:github.com,2008:push/24808956392",
+      "title": "palewire pushed graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/a923c42e9e...de1c7a964c",
+      "published": "2026-10-22 13:24:44 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/reuters-graphics/graphics-components/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hr",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/24674320258",
-      "title": "palewire pushed reuters-temperature-storms",
-      "link": "https://github.com/palewire/reuters-temperature-storms/compare/c4dc6abbe6...066bf4c489",
-      "published": "2026-10-20 09:23:53 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-temperature-storms/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hre",
+      "id": "tag:github.com,2008:push/24808748646",
+      "title": "palewire created a branch",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...3b6051e558",
+      "published": "2026-10-22 13:21:25 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/24671512029",
-      "title": "palewire pushed reuters-temperature-storms",
-      "link": "https://github.com/palewire/reuters-temperature-storms/compare/e91c14a44d...a0e17b29c5",
-      "published": "2026-10-20 09:39:52 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-temperature-storms/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hre",
+      "id": "tag:github.com,2008:pr_created/17914077117",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/518",
+      "published": "2026-10-22 06:21:34 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/24671310778",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/b1985c54d5...87e6ad7d1d",
-      "published": "2026-10-19 20:15:39 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "id": "tag:github.com,2008:pr_created/17905136941",
+      "title": "palewire opened a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/25",
+      "published": "2026-10-22 03:44:21 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3342a-tr",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/24670364870",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/f1a965ad44...b445ca0e2f",
-      "published": "2026-10-19 20:07:52 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/codex/sva-critique-wheel\" rel=\"noreferrer\">codex/sva-critique-wheel</a>\n        in\n      <a class=",
+      "id": "tag:github.com,2008:pr_created/17905051325",
+      "title": "palewire contributed to reuters-graphics/graphics-components",
+      "link": "https://github.com/reuters-graphics/graphics-components/pull/517",
+      "published": "2026-10-22 03:43:01 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/reuters-graphics/graphics-compon",
       "source": "GitHub - palewire"
     },
     {
-      "id": "tag:github.com,2008:push/24665817464",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/67917be983...a1d38b95a9",
-      "published": "2026-10-19 19:29:33 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
+      "id": "tag:github.com,2008:push/24798186422",
+      "title": "palewire created a branch",
+      "link": "https://github.com/reuters-graphics/graphics-components/compare/0000000000...9481e20504",
+      "published": "2026-10-22 10:42:41 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
       "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/24644530611",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/2fc70d9a37...67917be983",
-      "published": "2026-10-19 16:27:05 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/24612482590",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/acf85461f0...b1985c54d5",
-      "published": "2026-10-19 20:07:06 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/24607793391",
-      "title": "palewire pushed reuters-temperature-storms",
-      "link": "https://github.com/palewire/reuters-temperature-storms/compare/f2b6c03ce1...c4dc6abbe6",
-      "published": "2026-10-20 09:23:28 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/reuters-temperature-storms/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" hre",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:visibility_repo/17691812332",
-      "title": "palewire made this repository public",
-      "link": "https://github.com/palewire/reuters-temperature-storms",
-      "published": "2026-10-16 09:44:01 -0700",
-      "summary_raw": "<div class=\"feed-public js-feed-item-view\"><div class=\"body\">\n<!-- public -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            \n            made\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-temperature-storms\" rel",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:pr_merged/17659686531",
-      "title": "palewire contributed to palewire/sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/24",
-      "published": "2026-10-19 13:15:38 -0700",
-      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-tel",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:visibility_repo/17657280514",
-      "title": "palewire made this repository public",
-      "link": "https://github.com/palewire/reuters-temperature-storms",
-      "published": "2026-10-16 09:44:01 -0700",
-      "summary_raw": "<div class=\"feed-public js-feed-item-view\"><div class=\"body\">\n<!-- public -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n            <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n            <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n            \n            made\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/reuters-temperature-storms\" rel",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "tag:github.com,2008:push/24558789246",
-      "title": "palewire pushed sva-dvc-3342a-truth-telling-101",
-      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/compare/342e74a044...acf85461f0",
-      "published": "2026-10-19 20:06:00 UTC",
-      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/sva-dvc-3342a-truth-telling-101/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all",
-      "source": "GitHub - palewire"
-    },
-    {
-      "id": "https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
-      "title": "My pet peeve about the polling error debate",
-      "link": "https://www.natesilver.net/p/my-pet-peeve-about-the-polling-error",
-      "published": "Tue, 20 Oct 2026 22:44:56 GMT",
-      "summary_raw": "Polling error is hard to predict when pollsters are constantly tinkering with the recipe.",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
-      "title": "Is Brock Purdy the NFL’s best quarterback?",
-      "link": "https://www.natesilver.net/p/is-brock-purdy-the-nfls-best-quarterback",
-      "published": "Mon, 19 Oct 2026 20:45:41 GMT",
-      "summary_raw": "&#8220;Mr. Irrelevant&#8221; has the NFL&#8217;s highest QBERT rating so far this season. It&#8217;s time to stop holding his draft position against him.",
-      "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://www.ire.org/?p=211152",
-      "title": "Three journalists of color named IRE’s 2027 Chauncey Bailey Fellows, carrying his investigative legacy forward",
-      "link": "https://www.ire.org/2026/10/20/three-journalists-of-color-named-ires-2027-chauncey-bailey-fellows-carrying-his-investigative-legacy-forward/",
-      "published": "Tue, 20 Oct 2026 16:30:41 +0000",
-      "summary_raw": "<p>October 20, 2026 — Chauncey Bailey would have turned 77 today. Nineteen years after he was killed while reporting an investigative story in Oakland, Ca., IRE is marking his birthday for the first time by announcing the newest class of the fellowship that bears his name, a choice meant to keep his work and legacy&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/10/20/three-journalists-of-color-named-ires-2027-chauncey-bailey-fellows-carrying-his-investigative-legacy-forward/\">Three journalists of color named IRE&#8217;s 2027 Chauncey Bailey Fellows, carrying his investigative legacy forward</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
-    },
-    {
-      "id": "https://www.ire.org/?p=211138",
-      "title": "Chronicling capture: how investigative journalism covers private actors usurping public institutions",
-      "link": "https://www.ire.org/2026/10/19/chronicling-capture-how-investigative-journalism-covers-private-actors-usurping-public-institutions/",
-      "published": "Mon, 19 Oct 2026 15:41:47 +0000",
-      "summary_raw": "<p>Covering state capture: how do investigative journalists report on private interests taking over public institutions? By By Alexandra Gillies, Organized Crime and Corruption Reporting Project (OCCRP) &#124; Published October 19, 2026 James O'Brien/Zuzanna Michalak “Those are the guys who really run the country. Everyone knows they hold the power behind the scenes.” That kind of&#8230;</p>\n<p>The post <a href=\"https://www.ire.org/2026/10/19/chronicling-capture-how-investigative-journalism-covers-private-actors-usurping-public-institutions/\">Chronicling capture: how investigative journalism covers private actors usurping public institutions</a> appeared first on <a href=\"https://www.ire.org\">Investigative Reporters and Editors</a>.</p>",
-      "source": "IRE (Investigative Reporters & Editors)"
-    },
-    {
-      "id": "7384 at https://reutersinstitute.politics.ox.ac.uk",
-      "title": "New platforms and shrinking trust: How Brazilians get their news",
-      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/how-brazilians-get-their-news",
-      "published": "Thu, 08 Oct 2026 10:40:48 +0000",
-      "summary_raw": "<span>New platforms and shrinking trust: How Brazilians get their news</span>\n<span><span>olamalu</span></span>\n<span><time datetime=\"2026-10-08T11:40:48+01:00\" title=\"Thursday, October 8, 2026 - 11:40\">Thu, 10/08/2026 - 11:40</time>\n</span>\n\n      <div class=\"field--author-container\">\n              <div class=\"field field--name-field-authors field--type-entity-reference field--label-hidden field--item\"><a href=\"https://reutersinstitute.politics.ox.ac.uk/people/eduardo-suarez\" hreflang=\"en\">Eduardo Suárez</a></div>\n          </div>\n  \n      <div class=\"field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field--items\">\n                <div class=\"paragraph paragraph--type--dnr-text paragraph--view-mode--default\">\n          \n            <div class=\"fi",
-      "source": "Reuters Institute"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=122102",
-      "title": "WAN-IFRA transfers printability testing equipment to Anna University, Chennai",
-      "link": "https://wan-ifra.org/2026/10/wan-ifra-transfers-printability-testing-equipment-to-anna-university-chennai/",
-      "published": "Wed, 21 Oct 2026 08:31:14 +0000",
-      "summary_raw": "<p>Under the agreement, Anna University’s Department of Printing and Packaging Technology in Chennai, India, will receive WAN-IFRA’s IGT Printability Tester and the technical knowledge needed to operate it.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/wan-ifra-transfers-printability-testing-equipment-to-anna-university-chennai/\">WAN-IFRA transfers printability testing equipment to Anna University, Chennai</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "id": "https://wan-ifra.org/?p=122134",
+      "title": "New report: Newsrooms have big multimedia ambitions; now it’s time to ace execution",
+      "link": "https://wan-ifra.org/2026/10/new-report-newsrooms-have-big-multimedia-ambitions-now-its-time-to-ace-execution/",
+      "published": "Thu, 22 Oct 2026 08:53:50 +0000",
+      "summary_raw": "<p>Most newsrooms have been committed to multimedia content production for years now. They have invested in infrastructure, tools and talent, and continue to do so. The challenge now is to turn that ambition and investment into execution. A new report from WAN-IFRA and Base Media Cloud explores what is standing in the way – and how publishers can move forward.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/new-report-newsrooms-have-big-multimedia-ambitions-now-its-time-to-ace-execution/\">New report: Newsrooms have big multimedia ambitions; now it’s time to ace execution</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://wan-ifra.org/?p=121994",
-      "title": "A Tanzanian publisher boosts AI adoption with a social script converter",
-      "link": "https://wan-ifra.org/2026/10/a-tanzanian-publisher-boosts-ai-adoption-with-a-social-script-converter/",
-      "published": "Tue, 20 Oct 2026 08:23:10 +0000",
-      "summary_raw": "<p>Mwananchi Communications Limited, the leading news publisher in Tanzania, is streamlining its social media content production with an internally developed tool that turns articles into social media posts. </p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/a-tanzanian-publisher-boosts-ai-adoption-with-a-social-script-converter/\">A Tanzanian publisher boosts AI adoption with a social script converter</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=254380",
-      "title": "Two out of five Americans regularly get their news on Facebook",
-      "link": "https://www.niemanlab.org/2026/10/two-out-of-five-americans-are-regularly-getting-their-news-on-facebook/",
-      "published": "Tue, 20 Oct 2026 19:07:52 +0000",
-      "summary_raw": "Despite what my Facebook feed looks like, the platform&#8217;s not just for AI fruit videos and birthday posts. According to data from the Pew Research Center published Monday, 40% of adults in the United States regularly get their news from Facebook. That&#8217;s up from 36% in 2020, signaling the continued stability of the platform as...",
+      "id": "https://www.niemanlab.org/?p=254470",
+      "title": "U.K. politicians and German publishers call on regulators to pause Meta’s new terms before October 30 deadline",
+      "link": "https://www.niemanlab.org/2026/10/u-k-politicians-and-german-publishers-call-on-regulators-to-pause-metas-new-terms-before-october-30-deadline/",
+      "published": "Wed, 21 Oct 2026 20:37:07 +0000",
+      "summary_raw": "The U.K. competition and consumer protection authority sent a formal letter to Meta to discuss its new commercial terms of service. On Tuesday, Will Hayter, the executive director for digital markets at the Competition and Markets Authority (CMA), shared the update during a session of the communications and digital committee of British Parliament, after a...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=254362",
-      "title": "When hackers become sources: Inside the new craft of reporting on hacked data",
-      "link": "https://www.niemanlab.org/2026/10/when-hackers-become-sources-inside-the-new-craft-of-reporting-on-hacked-data/",
-      "published": "Tue, 20 Oct 2026 15:39:06 +0000",
-      "summary_raw": "Some consequential reporting of recent years has emerged thanks to what is normally defined as a &#8220;hack-and-leak,&#8221; a specific kind of cyberattack that results in the release of the information obtained by hackers. When Anonymous and allied collectives breached corporations and state agencies during the hacktivist wave of the 2010s, for instance, they turned stolen...",
+      "id": "https://www.niemanlab.org/?p=254359",
+      "title": "The Wall Street Journal’s new AI tool, “Doppler,” forecasts the issues that will shape the midterm elections",
+      "link": "https://www.niemanlab.org/2026/10/the-wall-street-journals-new-ai-tool-doppler-forecasts-the-issues-that-will-shape-the-midterm-elections/",
+      "published": "Wed, 21 Oct 2026 19:05:45 +0000",
+      "summary_raw": "More than 100 million voters are expected to cast ballots in the 2026 U.S. midterm elections. In recent election cycles, political reporting based on voter polling has drawn criticism, prompted scrutiny, and found defenders. As the debate over the value of polling continues, The Wall Street Journal is exploring new ways to cover public opinion...",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=254338",
-      "title": "“Convenings” for CEOs will help Semafor reach a second profitable year",
-      "link": "https://www.niemanlab.org/2026/10/convenings-for-ceos-will-help-semafor-reach-a-second-profitable-year/",
-      "published": "Mon, 19 Oct 2026 17:06:55 +0000",
-      "summary_raw": "Semafor expects to have its second profitable year, thanks to a growing events, er, convening business, cofounders Justin Smith and Ben Smith announced. The news company, which launched four years ago, had its first profitable year last year on $40 million in revenue. In a note published Sunday, Smith and Smith said they expect to...",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1210759",
-      "title": "CNN threatens to take the White House back to court over Air Force One access",
-      "link": "https://www.poynter.org/commentary/2026/cnn-white-house-air-force-one-press-access-lawsuit/",
-      "published": "Wed, 21 Oct 2026 11:30:45 +0000",
-      "summary_raw": "<p>CNN warned the Trump administration Monday that it would take additional legal action if the White House continues to block its journalists from Air Force One and the Oval Office. [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/cnn-white-house-air-force-one-press-access-lawsuit/\">CNN threatens to take the White House back to court over Air Force One access</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1210826",
+      "title": "Brendan Carr warns broadcasters about ‘fake polls’ as a real polling scandal unfolds",
+      "link": "https://www.poynter.org/commentary/2026/brendan-carr-fcc-fake-polls-broadcasters/",
+      "published": "Thu, 22 Oct 2026 11:30:27 +0000",
+      "summary_raw": "<p>Federal Communications Commission Chair Brendan Carr warned broadcasters Wednesday that airing what he calls “Fake Polls and Suppression Polls” could violate their regulatory obligations, putting the FCC in the middle [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/brendan-carr-fcc-fake-polls-broadcasters/\">Brendan Carr warns broadcasters about ‘fake polls’ as a real polling scandal unfolds</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1210741",
-      "title": "The best college admissions essay is one only you can write",
-      "link": "https://www.poynter.org/reporting-editing/2026/how-to-write-college-admissions-essay/",
-      "published": "Wed, 21 Oct 2026 11:00:31 +0000",
-      "summary_raw": "<p>For more than 40 years, I have coached high school students and their teachers on the craft of the personal essay, especially the one that might help a senior gain [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/how-to-write-college-admissions-essay/\">The best college admissions essay is one only you can write</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "id": "https://www.poynter.org/?p=1210796",
+      "title": "Public records delays are wearing journalists down. I’m one of them.",
+      "link": "https://www.poynter.org/commentary/2026/public-records-delays-journalists-foia/",
+      "published": "Thu, 22 Oct 2026 11:00:41 +0000",
+      "summary_raw": "<p>This article was originally published in the Student Press Report, a national news desk highlighting the successes and challenges facing college journalism. Government officials have found a trick to keep [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/public-records-delays-journalists-foia/\">Public records delays are wearing journalists down. I’m one of them.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1210683",
-      "title": "Do we really need to see mugshots in TV newscasts?",
-      "link": "https://www.poynter.org/local-news/2026/indianapolis-media-mugshots-in-tv-newscasts/",
-      "published": "Wed, 21 Oct 2026 09:00:44 +0000",
-      "summary_raw": "<p>This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/local-news/2026/indianapolis-media-mugshots-in-tv-newscasts/\">Do we really need to see mugshots in TV newscasts?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1210680",
-      "title": "Public broadcasting found a lifeline after defunding. How long will it last?",
-      "link": "https://www.poynter.org/reporting-editing/2026/public-broadcasting-federal-funding-cuts-donations/",
-      "published": "Tue, 20 Oct 2026 16:00:50 +0000",
-      "summary_raw": "<p>This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. Last summer, Asia Burnett was staring into a financial abyss. President Donald Trump was [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/reporting-editing/2026/public-broadcasting-federal-funding-cuts-donations/\">Public broadcasting found a lifeline after defunding. How long will it last?</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1210691",
-      "title": "It’s hard not to read into Christiane Amanpour’s CNN exit",
-      "link": "https://www.poynter.org/commentary/2026/christiane-amanpour-leaves-cnn/",
-      "published": "Tue, 20 Oct 2026 11:30:02 +0000",
-      "summary_raw": "<p>Legendary anchor and foreign correspondent Christiane Amanpour announced Monday that she would leave CNN next year after more than four decades at the cable network. “After thinking carefully for several [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/christiane-amanpour-leaves-cnn/\">It’s hard not to read into Christiane Amanpour’s CNN exit</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1210659",
-      "title": "Your journalism resume is probably too vague. Here’s how to fix it.",
-      "link": "https://www.poynter.org/commentary/2026/journalism-resume-tips-job-application/",
-      "published": "Tue, 20 Oct 2026 11:00:56 +0000",
-      "summary_raw": "<p>Your resume is probably too vague. I know this because most of the resumes I receive are too vague. They omit detailed accomplishments that differentiate one candidate from another and [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/journalism-resume-tips-job-application/\">Your journalism resume is probably too vague. Here&#8217;s how to fix it.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258365",
-      "title": "Reform says it has reported ITV to the police over undercover investigation",
-      "link": "https://pressgazette.co.uk/news/reform-says-it-has-reported-itv-to-the-police-over-undercover-investigation/",
-      "published": "Wed, 21 Oct 2026 13:17:43 +0000",
-      "summary_raw": "<div><img alt=\"Reform UK&#039;s Zia Yusuf standing at Reform branded lectern with microphone on gesturing off to the side\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/ziayusuf-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Reform accuses undercover journalists of \"doctored\" passport and canvassing-related offences.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/reform-says-it-has-reported-itv-to-the-police-over-undercover-investigation/\">Reform says it has reported ITV to the police over undercover investigation</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=258323",
+      "title": "AI answer engines bypass local news outlets going straight to official sources",
+      "link": "https://pressgazette.co.uk/news/ai-answer-engines-bypass-local-news-outlets-going-straight-to-official-sources/",
+      "published": "Thu, 22 Oct 2026 09:57:01 +0000",
+      "summary_raw": "<div><img alt=\"Sussex crime news query ChatGPT\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/crime_sussex-e1792512303824-539x394.png\" style=\"margin-bottom: 15px;\" width=\"539\" /></div>\n<p>ChatGPT and others often cite national news outlets on local queries.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/ai-answer-engines-bypass-local-news-outlets-going-straight-to-official-sources/\">AI answer engines bypass local news outlets going straight to official sources</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258349",
-      "title": "Iconic Media buys publisher of Northern Ireland glossy Ulster Tatler",
-      "link": "https://pressgazette.co.uk/the-wire/media-mergers-news-tracker/iconic-media-buys-publisher-of-northern-ireland-glossy-ulster-tatler/",
-      "published": "Wed, 21 Oct 2026 09:31:34 +0000",
-      "summary_raw": "<div><img alt=\"Ulster Tatler front cover for October 2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/ulstertatler-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Iconic enters lifestyle magazine and events world in Northern Ireland with acquisition.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/media-mergers-news-tracker/iconic-media-buys-publisher-of-northern-ireland-glossy-ulster-tatler/\">Iconic Media buys publisher of Northern Ireland glossy Ulster Tatler</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=258395",
+      "title": "Lifestyle and news site for British Muslims Hyphen set to close",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/lifestyle-and-news-site-for-british-muslims-hyphen-set-to-close/",
+      "published": "Wed, 21 Oct 2026 16:35:53 +0000",
+      "summary_raw": "<div><img alt=\"Hyphen homepage including splash headline &#039;A Reform council axed Black History Month events - so locals held their own&#039;\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/hyphen-e1792597091136-551x394.png\" style=\"margin-bottom: 15px;\" width=\"551\" /></div>\n<p>UAE-based backers of the site have withdrawn funding.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/lifestyle-and-news-site-for-british-muslims-hyphen-set-to-close/\">Lifestyle and news site for British Muslims Hyphen set to close</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258261",
-      "title": "Video is now literally at the heart of The Sun newsroom",
-      "link": "https://pressgazette.co.uk/publishers/digital-journalism/video-is-now-literally-at-the-heart-of-the-sun-newsroom/",
-      "published": "Wed, 21 Oct 2026 09:01:56 +0000",
-      "summary_raw": "<div><img alt=\"The Sun&#039;s From The Newsroom host Sam Homewood with data journalist Thomas Godfrey standing up at the newsroom studio set\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/sunftn-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>From The Newsroom is new Sun video discussion show filmed in studio without walls.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/publishers/digital-journalism/video-is-now-literally-at-the-heart-of-the-sun-newsroom/\">Video is now literally at the heart of The Sun newsroom</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258305",
-      "title": "What I’ve learned with Peter Geoghegan: ‘Fail, fail again, fail better’",
-      "link": "https://pressgazette.co.uk/news-leaders/what-ive-learned-democracy-for-sale-peter-geoghegan/",
-      "published": "Wed, 21 Oct 2026 08:35:12 +0000",
-      "summary_raw": "<div><img alt=\"Peter Geoghegan, Democracy for Sale editor and founder\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/petergeoghegan-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Founder of Democracy for Sale shares insights on career in investigative journalism. </p>\n<p>The post <a href=\"https://pressgazette.co.uk/news-leaders/what-ive-learned-democracy-for-sale-peter-geoghegan/\">What I&#8217;ve learned with Peter Geoghegan: &#8216;Fail, fail again, fail better&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258328",
-      "title": "Tommy Robinson told Daily Mail editor ‘expect me to come knocking’ in voicemail, court hears",
-      "link": "https://pressgazette.co.uk/news/tommy-robinson-told-daily-mail-editor-ill-make-you-famous-in-voicemail-court-hears/",
-      "published": "Tue, 20 Oct 2026 16:21:38 +0000",
-      "summary_raw": "<div><img alt=\"Tommy Robinson, whose real name is Stephen Yaxley-Lennon, arrives at Southwark Crown Court dressed in suit and overcoat holding coffee cup, with man either side of him\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/tommyrobinson-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Daily Mail journalists told the court they felt at risk of attack from Robinson's supporters on second day of trial.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/tommy-robinson-told-daily-mail-editor-ill-make-you-famous-in-voicemail-court-hears/\">Tommy Robinson told Daily Mail editor &#8216;expect me to come knocking&#8217; in voicemail, court hears</a> appeared first on <a href=\"https://",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258286",
-      "title": "Lisa Smosarski to leave Stylist after 17 years to join Radio Times",
-      "link": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/lisa-smosarski-to-leave-stylist-after-17-years-to-join-radio-times/",
-      "published": "Tue, 20 Oct 2026 12:17:04 +0000",
-      "summary_raw": "<div><img alt=\"Headshots of new Radio Times leadership team Lisa Smosarski and Elly Parsons\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/radiotimes-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Smosarski to lead editorial and commercial as managing director.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/the-wire/media-jobs-uk-news/lisa-smosarski-to-leave-stylist-after-17-years-to-join-radio-times/\">Lisa Smosarski to leave Stylist after 17 years to join Radio Times</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258255",
-      "title": "AI in the newsroom at Reuters, Reach, Independent and Metropolis",
-      "link": "https://pressgazette.co.uk/press-gazette-events/ai-in-the-newsroom/",
-      "published": "Tue, 20 Oct 2026 09:14:57 +0000",
-      "summary_raw": "<div><img alt=\"Executive editor of Reuters Nick Tattershall, vice president of product management at Stibo DX Marie Bering, Independent CEO Christian Broughton and Reach chief content officer David Higgerson sitting in row at event\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/trends_picture1-522x394.jpg\" style=\"margin-bottom: 15px;\" width=\"522\" /></div>\n<p>AI-powered Independent editors said to be six times more 'economically productive'.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/press-gazette-events/ai-in-the-newsroom/\">AI in the newsroom at Reuters, Reach, Independent and Metropolis</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258248",
-      "title": "Tommy Robinson used ‘bully-boy, intimidatory tactics’ against Mail journalists",
-      "link": "https://pressgazette.co.uk/news/tommy-robinson-used-bully-boy-intimidatory-tactics-against-mail-journalists/",
-      "published": "Mon, 19 Oct 2026 15:45:04 +0000",
-      "summary_raw": "<div><img alt=\"Tommy Robinson, whose real name is Stephen Yaxley-Lennon, taking part in a livestream outside Southwark Crown Court surrounded by other men\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/tommyrobinson19oct-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Mail journalists said they were forced to leave home or employ security.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/tommy-robinson-used-bully-boy-intimidatory-tactics-against-mail-journalists/\">Tommy Robinson used &#8216;bully-boy, intimidatory tactics&#8217; against Mail journalists</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258234",
-      "title": "The Canary closes ‘indefinitely’ citing debanking and ‘malicious lies’",
-      "link": "https://pressgazette.co.uk/news/the-canary-closes-indefinitely-citing-debanking-and-malicious-lies/",
-      "published": "Mon, 19 Oct 2026 15:31:54 +0000",
-      "summary_raw": "<div><img alt=\"The Canary homepage on 7 September\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/09/canaryhomepage-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>The Canary said it has become \"unsustainable, both financially and operationally\".</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/the-canary-closes-indefinitely-citing-debanking-and-malicious-lies/\">The Canary closes &#8216;indefinitely&#8217; citing debanking and &#8216;malicious lies&#8217;</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "id": "https://pressgazette.co.uk/?p=258374",
+      "title": "UK competition watchdog ‘very alive’ to risks from sweeping Meta scraping change",
+      "link": "https://pressgazette.co.uk/news/uk-competition-chief-very-alive-to-risks-from-sweeping-meta-scraping-change/",
+      "published": "Wed, 21 Oct 2026 15:20:12 +0000",
+      "summary_raw": "<div><img alt=\"Will Hayter\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/06/hayter-503x394.jpg\" style=\"margin-bottom: 15px;\" width=\"503\" /></div>\n<p>Competition and Markets Authority speaking to Meta about imminent T&#038;C change.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/uk-competition-chief-very-alive-to-risks-from-sweeping-meta-scraping-change/\">UK competition watchdog &#8216;very alive&#8217; to risks from sweeping Meta scraping change</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
       "source": "Press Gazette"
     }
   ],
