@@ -1,7 +1,290 @@
 {
-  "ai": [],
-  "tools": [],
-  "market": [],
+  "ai": [
+    {
+      "id": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "published": "Thu, 22 Oct 2026 14:30:24 +0000",
+      "summary_raw": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "link": "https://huggingface.co/blog/allenai/litpivot",
+      "published": "Fri, 23 Oct 2026 16:15:50 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "link": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "published": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "summary_raw": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "tag:github.com,2008:pr_created/18149392777",
+      "title": "palewire opened a pull request in sva-dvc-3342a-slide-deck",
+      "link": "https://github.com/palewire/sva-dvc-3342a-slide-deck/pull/1",
+      "published": "2026-10-25 02:27:00 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3342a-sl",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/18149025842",
+      "title": "palewire opened a pull request in sva-dvc-3342a-truth-telling-101",
+      "link": "https://github.com/palewire/sva-dvc-3342a-truth-telling-101/pull/26",
+      "published": "2026-10-25 02:17:30 -0700",
+      "summary_raw": "<div class=\"git-pull-request js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/sva-dvc-3342a-tr",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/25093655131",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/4d4bda9876...4895bf5fd2",
+      "published": "2026-10-24 19:56:54 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/25070981212",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/4895bf5fd2...514c9782e1",
+      "published": "2026-10-24 21:09:58 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/25069885329",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/palewi.re/compare/0000000000...1e6a5e8ff7",
+      "published": "2026-10-24 20:53:00 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/25064538339",
+      "title": "palewire pushed palewi.re",
+      "link": "https://github.com/palewire/palewi.re/compare/85eaf56480...84e0346f0f",
+      "published": "2026-10-24 19:26:21 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/palewi.re/tree/codex/on-assignment-podcast-20261024\" rel=\"noreferrer\">codex/on-assignment-podcast-20261024</a>\n        in\n      <a clas",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/18124591754",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/605",
+      "published": "2026-10-24 14:09:57 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/605\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/18123929996",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/605",
+      "published": "2026-10-24 13:53:14 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/605\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/18121639174",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/604",
+      "published": "2026-10-24 12:56:53 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/604\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_created/18118530718",
+      "title": "palewire contributed to palewire/palewi.re",
+      "link": "https://github.com/palewire/palewi.re/pull/604",
+      "published": "2026-10-24 11:41:58 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          opened\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/palewi.re/pull/604\" rel",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/24986371973",
+      "title": "palewire deleted",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/bab9410d91...0000000000",
+      "published": "2026-10-23 18:07:46 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- delete -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      deleted\n      branch\n      <span class=\"branch-name\">refs/heads/chore/release-0-5-0</span>\n      in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/geodataframe-to-",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/24980653486",
+      "title": "palewire pushed geodataframe-to-pmtiles",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/ff143a040d...34edc8e9a4",
+      "published": "2026-10-23 18:00:10 UTC",
+      "summary_raw": "<div class=\"repo-push js-feed-item-view\"><div class=\"body\">\n<!-- push -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div class=\"color-fg-muted\">\n      <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n      \n      pushed to\n        <a class=\"branch-name\" href=\"https://github.com/palewire/geodataframe-to-pmtiles/tree/main\" rel=\"noreferrer\">main</a>\n        in\n      <a class=\"Link--primary no-underline wb-break-all\" href=\"",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/24975134781",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/0000000000...d75ff1f2ea",
+      "published": "2026-10-23 16:56:21 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:pr_merged/18050133656",
+      "title": "palewire contributed to palewire/geodataframe-to-pmtiles",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/pull/45",
+      "published": "2026-10-23 11:07:44 -0700",
+      "summary_raw": "<div class=\"git-merge js-feed-item-view\"><div class=\"body\">\n<!-- pull_request -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n    <div>\n      <div class=\"d-flex flex-items-baseline\">\n        <div class=\"color-fg-muted\">\n          <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n          \n          merged\n          <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire/geodataframe-to-pmtiles",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "tag:github.com,2008:push/24950028374",
+      "title": "palewire created a branch",
+      "link": "https://github.com/palewire/geodataframe-to-pmtiles/compare/0000000000...bab9410d91",
+      "published": "2026-10-23 18:02:51 UTC",
+      "summary_raw": "<div class=\"git-branch js-feed-item-view\"><div class=\"body\">\n<!-- create -->\n<div class=\"d-flex flex-items-baseline tmp-py-4\">\n  <div class=\"d-flex flex-column width-full\">\n        <div class=\"d-flex flex-items-baseline\">\n          <div class=\"color-fg-muted\">\n                <span class=\"mr-2\"><a class=\"d-inline-block\" href=\"https://github.com/palewire\" rel=\"noreferrer\"><img alt=\"@palewire\" class=\"avatar avatar-user\" height=\"32\" src=\"https://avatars.githubusercontent.com/u/9993?s=64&amp;v=4\" width=\"32\" /></a></span>\n              <a class=\"Link--primary no-underline wb-break-all\" href=\"https://github.com/palewire\" rel=\"noreferrer\">palewire</a>\n              \n              created a\n              branch\n              in\n              <a class=\"Link--primary no-underline wb-break-all\" href=",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/do-these-senate-governor-splits-make",
+      "title": "Do these Senate-governor splits make sense?",
+      "link": "https://www.natesilver.net/p/do-these-senate-governor-splits-make",
+      "published": "Fri, 23 Oct 2026 16:45:31 GMT",
+      "summary_raw": "In Michigan, Jocelyn Benson is polling well ahead of Abdul El-Sayed. Do gaps like that tend to shrink on Election Day?",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://www.natesilver.net/p/fake-polls-are-a-real-problem",
+      "title": "Fake polls are a real problem",
+      "link": "https://www.natesilver.net/p/fake-polls-are-a-real-problem",
+      "published": "Thu, 22 Oct 2026 19:04:17 GMT",
+      "summary_raw": "They&#8217;re nothing new, but they may be a growing threat. Plus, the story of the 2026 campaign through political ads in Still Counting EP7.",
+      "source": "Nate Silver"
+    },
+    {
+      "id": "https://wondertools.substack.com/p/how-i-use-ai-agents",
+      "title": "How I’m Using AI Agents 👁️‍🗨️",
+      "link": "https://wondertools.substack.com/p/how-i-use-ai-agents",
+      "published": "Sat, 24 Oct 2026 20:21:42 GMT",
+      "summary_raw": "My early favorites for managing email, planning my day, researching purchases, and catching what I miss",
+      "source": "Wonder Tools (Substack)"
+    }
+  ],
+  "market": [
+    {
+      "id": "https://wan-ifra.org/?p=122298",
+      "title": "Transforming news articles to be AI agent friendly",
+      "link": "https://wan-ifra.org/2026/10/transforming-news-articles-to-be-ai-agent-friendly/",
+      "published": "Sat, 24 Oct 2026 10:38:41 +0000",
+      "summary_raw": "<p>Media businesses are eyeing the revenue potential for AI licensing – but they need to make their news content suitable for action-focused agents.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/transforming-news-articles-to-be-ai-agent-friendly/\">Transforming news articles to be AI agent friendly</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=122217",
+      "title": "Every moment, every match: how the Guardian rewrote its reader-revenue pitch for the World Cup",
+      "link": "https://wan-ifra.org/2026/10/every-moment-every-match-how-the-guardian-rewrote-its-reader-revenue-pitch-for-the-world-cup/",
+      "published": "Thu, 22 Oct 2026 22:13:46 +0000",
+      "summary_raw": "<p>At Digital Media Europe, The Guardian's Liz Wynn discussed their 1.4m supporters, digital reader revenue at 45 percent of turnover, a podcast whose audience doubled, and why. The call to action was the app. A pitch built for one audience, a tournament full of another.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/every-moment-every-match-how-the-guardian-rewrote-its-reader-revenue-pitch-for-the-world-cup/\">Every moment, every match: how the Guardian rewrote its reader-revenue pitch for the World Cup</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=122195",
+      "title": "How The Athletic won the World Cup by gamifying  its football coverage",
+      "link": "https://wan-ifra.org/2026/10/how-the-athletic-won-the-world-cup-by-gamifying-its-football-coverage/",
+      "published": "Thu, 22 Oct 2026 21:10:00 +0000",
+      "summary_raw": "<p>The World Cup brings huge audiences, but keeping them engaged takes more than match coverage. The Athletic combined free access, interactive games and a focus on its app to encourage fans to return throughout the tournament.</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/how-the-athletic-won-the-world-cup-by-gamifying-its-football-coverage/\">How The Athletic won the World Cup by gamifying  its football coverage</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=122182",
+      "title": "World’s news publishers call on Meta to halt scraping clause in new Commercial Terms",
+      "link": "https://wan-ifra.org/2026/10/worlds-news-publishers-call-on-meta-to-halt-scraping-clause-in-new-commercial-terms/",
+      "published": "Thu, 22 Oct 2026 16:02:27 +0000",
+      "summary_raw": "<p>WAN-IFRA asks Meta to suspend the provision for news publishers before 30 October and to negotiate a fair framework for the use of journalism</p>\n<p>The post <a href=\"https://wan-ifra.org/2026/10/worlds-news-publishers-call-on-meta-to-halt-scraping-clause-in-new-commercial-terms/\">World&#8217;s news publishers call on Meta to halt scraping clause in new Commercial Terms</a> appeared first on <a href=\"https://wan-ifra.org\">WAN-IFRA</a>.</p>",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254546",
+      "title": "Meta delays rollout of terms that would allow broad scraping of news sites. Legal experts are still skeptical.",
+      "link": "https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/",
+      "published": "Fri, 23 Oct 2026 18:03:31 +0000",
+      "summary_raw": "Meta has delayed the effective date of its new terms of service for business accounts to November 20 in the face of mounting pressure from the global news industry. Nieman Lab first reported on the terms on October 15. They would allow for the mass scraping of websites &#8220;associated with&#8221; business accounts on Facebook, Instagram,...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254520",
+      "title": "Publishers pressure Meta to nix new terms that would let the company scrape their websites",
+      "link": "https://www.niemanlab.org/2026/10/publishers-pressure-meta-to-nix-new-terms-that-would-let-it-scrape-their-websites/",
+      "published": "Thu, 22 Oct 2026 19:26:54 +0000",
+      "summary_raw": "The largest news publishing trade association in the United States is calling on Meta CEO Mark Zuckerberg to suspend the implementation of the company&#8217;s new commercial terms of service, set to go into effect on October 30. In an open letter to Zuckerberg published Thursday, News/Media Alliance&#8217;s president and CEO Danielle Coffey wrote that Meta...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254493",
+      "title": "The Ringer bets on Substack’s network over its own website",
+      "link": "https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/",
+      "published": "Thu, 22 Oct 2026 19:13:23 +0000",
+      "summary_raw": "&#8220;Very interesting that The Ringer&#8217;s writers write on Substack and not&#8230;The Ringer.&#8221; &#8220;What&#8217;s the point of the website then?&#8221; &#8220;Hold up. You&#8217;re telling me The Ringer would rather make money on writing than not make money on writing?&#8221; These were some of the responses after The Ringer&#8217;s Zach Lowe announced his new newsletter. The Lowe...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254491",
+      "title": "In the AI age, publishers who understand what readers want will do best, a new report argues",
+      "link": "https://www.niemanlab.org/2026/10/in-the-ai-age-publishers-who-understand-what-readers-want-will-do-best-a-new-report-argues/",
+      "published": "Thu, 22 Oct 2026 15:23:35 +0000",
+      "summary_raw": "AI inverts the traditional journalism hierarchy: Instead of reporters gathering information, editors deciding how to present it, and newsrooms releasing the same final story to everyone, AI agents deliver what readers ask for, refining or expanding on information as requested. It&#8217;s &#8220;an interactive process in a way the current news system isn’t,&#8221; write the authors...",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1210864",
+      "title": "Trump sued the BBC. Now he has to answer its questions.",
+      "link": "https://www.poynter.org/commentary/2026/trump-bbc-lawsuit-deposition-questions-under-oath/",
+      "published": "Fri, 23 Oct 2026 11:30:14 +0000",
+      "summary_raw": "<p>President Donald Trump is suing the BBC for $10 billion over a misleadingly edited quote in a documentary it aired in the lead-up to the 2024 presidential election. The lawsuit [&#8230;]</p>\n<p>The post <a href=\"https://www.poynter.org/commentary/2026/trump-bbc-lawsuit-deposition-questions-under-oath/\">Trump sued the BBC. Now he has to answer its questions.</a> appeared first on <a href=\"https://www.poynter.org\">Poynter</a>.</p>",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258481",
+      "title": "Telegraph cuts up to 100 jobs as it targets being ‘global, AI-powered’ business",
+      "link": "https://pressgazette.co.uk/news/telegraph-cuts-up-to-100-jobs-as-it-targets-being-global-ai-powered-business/",
+      "published": "Fri, 23 Oct 2026 16:56:12 +0000",
+      "summary_raw": "<div><img alt=\"Telegraph front page with story about Trump&#039;s plan to sue BBC for apology or $1bn over Panorama editing of a speech\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/03/bbctrumptelegraph-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Cuts come just under four months after Axel Springer takeover.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/telegraph-cuts-up-to-100-jobs-as-it-targets-being-global-ai-powered-business/\">Telegraph cuts up to 100 jobs as it targets being &#8216;global, AI-powered&#8217; business</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258453",
+      "title": "News diary 26 October – 1 November: Oxford Street pedestrianisation, Autumn Budget, Charles and Camilla in Caribbean",
+      "link": "https://pressgazette.co.uk/news/news-diary-26-october-1-november-oxford-street-pedestrianisation-autumn-budget-charles-and-camilla-in-caribbean/",
+      "published": "Fri, 23 Oct 2026 13:09:48 +0000",
+      "summary_raw": "<div><img alt=\"Oxford Street featuring pedestrains and taxis.\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/oxfordstreet-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>A look ahead at the key events leading the news agenda next week, from the team at Foresight News.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/news-diary-26-october-1-november-oxford-street-pedestrianisation-autumn-budget-charles-and-camilla-in-caribbean/\">News diary 26 October &#8211; 1 November: Oxford Street pedestrianisation, Autumn Budget, Charles and Camilla in Caribbean</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258385",
+      "title": "Italian daily La Stampa expands to US with new team",
+      "link": "https://pressgazette.co.uk/north-america/italian-daily-la-stampa-expands-to-us-with-new-team/",
+      "published": "Fri, 23 Oct 2026 13:07:43 +0000",
+      "summary_raw": "<div><img alt=\"La Stampa USA team marching at the Columbus Day Parade on 12 October\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/lastampausa1-525x394.jpg\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>English-language site aims to build contributors across 50 states.</p>\n<p>The post <a href=\"https://pressgazette.co.uk/north-america/italian-daily-la-stampa-expands-to-us-with-new-team/\">Italian daily La Stampa expands to US with new team</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=258424",
+      "title": "Tommy Robinson wanted to ‘put pressure’ on Daily Mail journalists, he tells court",
+      "link": "https://pressgazette.co.uk/news/tommy-robinson-wanted-to-put-pressure-on-daily-mail-journalists-he-tells-court/",
+      "published": "Thu, 22 Oct 2026 14:53:10 +0000",
+      "summary_raw": "<div><img alt=\"Tommy Robinson arrives at Southwark Crown Court wearing a suit and flanked by three other men\" class=\"attachment-medium size-medium wp-post-image\" height=\"394\" src=\"https://pressgazette.co.uk/wp-content/uploads/sites/7/2026/10/tommyrobinsonday3-525x394.webp\" style=\"margin-bottom: 15px;\" width=\"525\" /></div>\n<p>Robinson claims Daily Mail journalists he is accused of harassing \"know I’m not going to come and beat them up\".</p>\n<p>The post <a href=\"https://pressgazette.co.uk/news/tommy-robinson-wanted-to-put-pressure-on-daily-mail-journalists-he-tells-court/\">Tommy Robinson wanted to &#8216;put pressure&#8217; on Daily Mail journalists, he tells court</a> appeared first on <a href=\"https://pressgazette.co.uk\">Press Gazette</a>.</p>",
+      "source": "Press Gazette"
+    }
+  ],
   "gmail_pending": [
     {
       "name": "FT Strategies (newsletter)",
