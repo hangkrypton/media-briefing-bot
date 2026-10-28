@@ -113,6 +113,31 @@
   type: rss
   url: https://knightcenter.utexas.edu
 
+# --- Bổ sung 2026-10-27, từ bài tổng hợp "nguồn nên theo dõi" trên Substack ---
+# (xem ghi chú cuối file sources.yaml / báo cáo trong chat: nhiều nguồn trong bài
+# là tài khoản/trang/nhóm LinkedIn cá nhân, không có RSS công khai nên không thêm được
+# vào đây — chỉ thêm các tổ chức có trang web + khả năng có feed thật)
+
+- name: MIT Technology Review
+  group: ai
+  type: rss
+  url: https://www.technologyreview.com
+
+- name: GIJN (Global Investigative Journalism Network)
+  group: market
+  type: rss
+  url: https://gijn.org
+
+- name: RJI (Reynolds Journalism Institute)
+  group: market
+  type: rss
+  url: https://rjionline.org
+
+- name: Trusting News
+  group: market
+  type: rss
+  url: https://trustingnews.org
+
 # --- Newsletter qua Gmail (không cần feed_url, dùng truy vấn tìm kiếm Gmail) ---
 
 - name: FT Strategies (newsletter)
