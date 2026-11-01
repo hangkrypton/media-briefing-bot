@@ -5,6 +5,9 @@ set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
+# main trên GitHub có thể có commit mới (merge PR) — lấy về trước để chạy code mới nhất và push không bị từ chối.
+git pull --rebase origin main
+
 /usr/bin/python3 -m pip install --quiet -r requirements.txt
 /usr/bin/python3 -m scripts.main
 
