@@ -18,6 +18,8 @@ Thực hiện theo các bước sau:
 
    KHÔNG SUY ĐOÁN: nếu "summary_raw" trống hoặc quá ngắn, chỉ tóm tắt dựa trên tiêu đề và nói rõ là feed chưa có chi tiết — không tự bịa thêm nội dung, số liệu hay mục tiêu của bài.
 
+   SẮP XẾP TRONG MỖI NHÓM: các mục tóm tắt được chi tiết đứng trước. Các mục KHÔNG thể tóm tắt chi tiết — "summary_raw" trống, hoặc chỉ có ảnh/HTML/câu "The post ... appeared first on" mà không có nội dung bài, hoặc hoạt động GitHub (push, star, mở/đóng pull request) không kèm mô tả — chuyển xuống CUỐI nhóm, mỗi mục chỉ 1-2 câu (không áp dụng yêu cầu 5-6 câu), và in nghiêng toàn bộ mục: trong HTML bọc cả tên bài lẫn đoạn tóm tắt trong <em>...</em> (link vẫn là thẻ <a> bình thường). Trong bản plain-text của email, đặt các mục này dưới dòng "Tin chưa đủ thông tin để tóm tắt chi tiết:". Dòng ghi chú về newsletter Gmail (nếu có) luôn nằm sau cùng của nhóm.
+
    QUAN TRỌNG VỀ LINK: với tin từ new_items.json (RSS/GitHub), BẮT BUỘC dùng đúng nguyên văn giá trị field "link" có sẵn trong file — đây là link gốc sạch. Với tin từ Gmail, lấy link bài viết gốc được nhắc trong nội dung email (nếu có). TUYỆT ĐỐI KHÔNG dùng link dạng redirect/tracking (ví dụ bắt đầu bằng "google.com/url?q=", "...ust=...&sa=E", hay bất kỳ wrapper nào khác) — luôn giữ nguyên domain gốc của bài viết (ví dụ deepmind.google, niemanlab.org, ire.org...). Nếu không chắc chắn link nào là gốc, ưu tiên bỏ link hơn là dùng link redirect.
 
 4. Lưu trữ bản tóm tắt vào Google Drive để sau này dễ tìm kiếm lại:
