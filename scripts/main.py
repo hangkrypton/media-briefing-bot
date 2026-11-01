@@ -22,6 +22,7 @@ from pathlib import Path
 import feedparser
 import yaml
 
+from scripts.article_text import feed_entry_text, fetch_page_text, html_to_text, truncate
 from scripts.dedup_store import load_state, save_state, filter_new_items
 from scripts.discover_feed import discover_feed
 
@@ -30,6 +31,12 @@ SOURCES_PATH = ROOT / "config" / "sources.yaml"
 OUTPUT_PATH = ROOT / "new_items.json"
 
 MAX_ITEMS_PER_SOURCE = 15  # tránh một nguồn đăng dồn dập chiếm hết context
+SUMMARY_MAX_CHARS = 800
+PAGE_FETCH_MIN_CHARS = 600  # content_text ngắn hơn mức này thì tải trang bài gốc
+
+# Loại sự kiện GitHub (phần giữa "tag:github.com,2008:" và "/" trong id) bị bỏ vì chỉ là
+# hoạt động thường ngày, không phải công cụ mới. Loại chưa gặp vẫn được giữ lại.
+GITHUB_NOISE_PREFIXES = ("push", "star", "pr_", "issue_", "reviewcomment_", "delete")
 
 
 def load_sources() -> list[dict]:
@@ -53,9 +60,15 @@ def fetch_rss_items(source: dict) -> list[dict]:
             "title": entry.get("title", "(không có tiêu đề)"),
             "link": entry.get("link", ""),
             "published": entry.get("published", entry.get("updated", "")),
-            "summary_raw": entry.get("summary", "")[:800],  # cắt bớt, Claude sẽ tự diễn giải lại
+            "summary_raw": truncate(html_to_text(entry.get("summary", "")), SUMMARY_MAX_CHARS),
+            "content_text": feed_entry_text(entry),
         })
     return items
+
+
+def is_github_noise(entry_id: str) -> bool:
+    kind = entry_id.split("2008:", 1)[-1].split("/", 1)[0]
+    return kind.startswith(GITHUB_NOISE_PREFIXES)
 
 
 def fetch_github_atom_items(source: dict) -> list[dict]:
@@ -64,14 +77,27 @@ def fetch_github_atom_items(source: dict) -> list[dict]:
     parsed = feedparser.parse(feed_url)
     items = []
     for entry in parsed.entries[:MAX_ITEMS_PER_SOURCE]:
+        entry_id = entry.get("id") or entry.get("link")
+        if is_github_noise(entry_id):
+            continue
         items.append({
-            "id": entry.get("id") or entry.get("link"),
+            "id": entry_id,
             "title": entry.get("title", "(không có tiêu đề)"),
             "link": entry.get("link", ""),
             "published": entry.get("published", entry.get("updated", "")),
-            "summary_raw": entry.get("summary", "")[:800],
+            "summary_raw": truncate(html_to_text(entry.get("summary", "")), SUMMARY_MAX_CHARS),
+            "content_text": "",
         })
     return items
+
+
+def fill_missing_content(items: list[dict]) -> None:
+    for item in items:
+        if len(item["content_text"]) >= PAGE_FETCH_MIN_CHARS or not item["link"]:
+            continue
+        page_text = fetch_page_text(item["link"])
+        if len(page_text) > len(item["content_text"]):
+            item["content_text"] = page_text
 
 
 def main():
@@ -96,6 +122,8 @@ def main():
             continue
 
         new_items = filter_new_items(name, items, state)
+        if type_ == "rss":
+            fill_missing_content(new_items)
         for item in new_items:
             item["source"] = name
         result[group].extend(new_items)
