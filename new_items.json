@@ -1,9 +1,36 @@
 {
   "ai": [
     {
-      "id": "https://huggingface.co/blog/transformers-mic",
-      "title": "Transformers Model Integration Contracts",
-      "link": "https://huggingface.co/blog/transformers-mic",
+      "id": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "published": "Tue, 03 Nov 2026 17:01:49 +0000",
+      "summary_raw": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "content_text": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "link": "https://huggingface.co/blog/allenai/statebench",
+      "published": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "published": "Tue, 03 Nov 2026 16:35:36 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/cwe-bench",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "link": "https://huggingface.co/blog/cwe-bench",
       "published": "Tue, 03 Nov 2026 00:00:00 GMT",
       "summary_raw": "",
       "content_text": "",
@@ -12,158 +39,77 @@
   ],
   "tools": [
     {
-      "id": "https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
-      "title": "It's Judgment Day for Trump (and for pollsters)",
-      "link": "https://www.natesilver.net/p/its-judgment-day-for-trump-and-for",
-      "published": "Tue, 03 Nov 2026 05:38:15 GMT",
-      "summary_raw": "FLIPR’s final forecast is in. Here’s why I buy it — mostly.",
-      "content_text": "Trump with Ken Paxton in Lubbock, Texas on Oct. 27. Paxton is one of the underperforming candidates who could cost Republicans the Senate. Chip Somodevilla/Getty Images. FLIPR’s final forecasts are ready for the Senate , House and governorships . Since we’ve recently published some very detailed analysis of basically every race that might matter , I’m not going to go through them state-by-state. Our forecasts show good numbers for Democrats — the last round of polling resolved any doubt about that . They are reasonably clear favorites to flip the Senate, and very likely to flip the House. The Senate is by no means certain, but at the same time, the bottom could fall out for Republicans if Democrats meet or exceed their forecasts on a race-by-race basis. It would be a major surprise if Democrats failed to capture the House, along with various state legislatures and governorships, though some of the most important gubernatorial races like Texas and Florida are “Lean R” rather than the “Lean Ds” that are more typical in the Senate. Paid subscribers get full access to our Election Night livestream with The Argument, GD Politics, and Slow Boring. Let’s take roughly three beats here: Returning to where we started when FLIPR launched by considering the background conditions of the election and why they’re so perilous for Republicans — and, I’d argue, ultimately highly consistent with one another. One more quick look at polling error , and why Democrats might be able to survive one in the Senate. And then finally, we’ll try something slightly weirder. I’ll illustrate my “mental map” of the election, and why my gut feels slightly conflicted this time around. But first, a quick word of appreciation. Whether you only come here for election peaks or you're an OG paid subscriber, thank you for following our coverage. Even as compared to 2024, this election has had a really strong finishing kick in the various metrics we track. Subscribe now That’s probably just a reflection of the rhythm of the campaign, though. The most dramatic events of the election two years ago were front-loaded into the summer, and the stretch run was listless, with no presidential debates after Sept. 10. This election has felt more like a typical wave , with Democrats’ advantage building over the course of the cycle . To some extent, this is the usual pattern in midterms. Instead of the back-and-forth that you can get in a presidential year, usually things just get continually worse for one party: Republicans in 2006 and again this year, or Democrats in 2010 and 2014, for instance. Sometimes, like in 1994 and 2014, the actual outcome ends up being even worse than the polls for the party that’s on the back foot. There aren’t many good examples of when the party that seemed to have momentum underperformed — you could sort of argue that for 2022 — though I’m not sure if that’s a durable pattern or something that just reflects small sample sizes. […]",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://www.natesilver.net/p/how-to-judge-an-election-model",
-      "title": "How to judge an election model",
-      "link": "https://www.natesilver.net/p/how-to-judge-an-election-model",
-      "published": "Tue, 03 Nov 2026 00:13:13 GMT",
-      "summary_raw": "What would it mean for FLIPR to have a bad night? Plus, more on Haley Stevens and those NYT polls in Still Counting EP9.",
-      "content_text": "FLIPR is looking pleased with himself, but what if his forecasts turn upside-down? Getty Images. One more newsletter for you before we publish our final FLIPR forecast shortly after midnight. If you’re new here, we do not usually post this much: it’s typically ~3 items a week, not three a day. But we hope you’ll join us for our final flurry of coverage, including our Election Night livestream and live blog tomorrow . Subscribe now And we have a bonus episode of Still Counting out: Reviews, comments, likes and subscribes are always greatly appreciated. Audio version here: The context We covered a lot of ground on the show. But I wrote about those NYT polls and Haley Stevens yesterday, so I’m going to use this as an excuse to cover another topic that Galen, Clare and I were only able to scratch the surface of. I thought it would be nice to write about this ahead of time so it doesn’t feel like spin if a lot of FLIPR’s forecasts don’t come true. I’ll sometimes get the question, “How do you know if a probabilistic forecast is ever really wrong ?” which is an entirely reasonable thing to ask. In fact, let me give you a four-part answer. It’s certainly not quite as simple as saying “30 percent chances are supposed to happen 30 percent of the time.” That’s true insofar as it goes, but it’s incomplete. And if you’re being Bayesian about it, you can’t always use this as a get-of-of-jail-free card. A 0.03 percent chance happening is much more suspect for your model than a 30 percent hitting. First, the canonical way to answer this. You want your probabilistic forecasts to be well-calibrated over a sufficiently large sample of true out-of-sample predictions. In other words, if you’ve forecasted 100 events that you said had a 30 percent probability of happening, and 27 of them or 34 of them actually did “hit”, your model is doing well. The “true out-of-sample predictions” part of the answer is important. Backtesting doesn’t count. Any halfway-competently-designed model should fit the past data well; that’s the easy part. But the model may be misfit or overfit , keying off of essentially random factoids in past data that have no true predictive power and aren’t likely to repeat themselves. You may have noticed that in documenting our models, we tend to not make claims like “ELWAY would have gotten the exact score right in the Super Bowl XVI” or “FLIPR would have nailed the 1994 midterm.” Who cares. We already know what happened. I generally think it’s a negative sign when forecasters brag about their backtested results instead of explaining why they think their models make structural sense. In the case of the Silver Bulletin/FiveThirtyEight lineage of models, however, we have something fairly unique: an 18-year-track record of making true out-of-sample predictions in advance of elections and sporting events, which were published ahead of time, and indeed have received a ton of public scrutiny. […]",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://www.natesilver.net/p/election-night-live-with-silver-bulletin",
-      "title": "Election Night Live with Silver Bulletin and guests",
-      "link": "https://www.natesilver.net/p/election-night-live-with-silver-bulletin",
-      "published": "Mon, 02 Nov 2026 23:51:19 GMT",
-      "summary_raw": "A free livestream and a live blog for paid subscribers. Tuesday, November 3, from 5:30 p.m. ET.",
-      "content_text": "Join Silver Bulletin, The Argument, GD Politics, and Slow Boring on Tuesday, November 3, starting at 5:30 p.m. ET . We’ll follow the returns, answer your questions, and make sense of the night as it unfolds. Our election-night page will go live at silverbulletin.com before coverage begins. The livestream is free; the live blog is for paid subscribers. Hosting rotates between Nate Silver, Jerusalem Demsas, Lakshya Jain, Galen Druke, and Matt Yglesias . Guests include Dave Weigel, Eli McKown-Dawson, Larry Sabato, Sean Trende, Clare Malone, Greg Bluestein, Lenny Bronner, Nathaniel Rakich, Kelsey Piper, Jeremiah Johnson , and more. Nate and Eli will be primarily on the live blog , analyzing the results and answering subscriber questions. Writers from all four publications will contribute charts, context, and dispatches throughout the night. Become a paid subscriber for full access to the live blog and Silver Bulletin’s models and analysis year-round. Annual membership is $95, about $8 a month, billed annually. Subscribe now",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://www.natesilver.net/p/where-polls-and-fundamentals-clash",
-      "title": "Where polls and fundamentals clash",
-      "link": "https://www.natesilver.net/p/where-polls-and-fundamentals-clash",
-      "published": "Mon, 02 Nov 2026 17:59:25 GMT",
-      "summary_raw": "Democrats’ Senate odds are boosted by higher-quality candidates. But polls and other data mostly tell a consistent story.",
-      "content_text": "Democratic Senate candidate Adam Hamilton yesterday in Wichita, Kansas. He’s among the Democrats running more strongly than the “fundamentals”. Jim Vondruska/Getty Images. Political commentators have been obsessed with potential polling error this cycle. And frankly, with the combination of recent high-profile misses and polls looking increasingly like mini-models , it’s hard to blame them. We’ve also covered the topic in some detail , and it can be especially concerning for forecasters when Democrats are putting up their best polling performances in traditionally red states. Some analysts are predicting that the polls will overestimate Democrats as they have in the past few presidential elections: Republican voters can be hard to reach . However, there are also credible arguments for why they could just as easily be underrating Democrats . We think it’s usually a bad idea to try and predict the direction of polling error a priori . But in general, people are hesitant to take the polls at face value this year. In part, that might be because the polls at face value are excellent for Democrats. They lead by 8.9 points in our generic ballot average — that’s a 0.9-point larger lead than they had at this point in 2018. Applying FLIPR’s likely voter adjustment further boosts that lead to D +9.2. Their recent state-level polls are, if anything, even better. We mostly write about our “Deluxe” forecast that incorporates fundamentals and expert ratings, but here’s FLIPR’s “Lite” ( polls only ) Senate forecast. Using the polls alone, FLIPR expects Democrats to easily flip North Carolina, and have about a 75 percent shot in Texas, Ohio, Maine, and (most surprisingly) Kansas. Alaska (63 percent) and Iowa (56 percent) are tougher Democratic flips, while Abdul El-Sayed has an 85 percent chance of holding the Michigan Senate seat — and it’s unlikely the Haley Stevens debacle will change that number. Read more",
+      "id": "https://www.natesilver.net/p/the-flipr-guide-to-election-night",
+      "title": "The FLIPR 🐬 guide to Election Night",
+      "link": "https://www.natesilver.net/p/the-flipr-guide-to-election-night",
+      "published": "Tue, 03 Nov 2026 21:09:17 GMT",
+      "summary_raw": "When the polls close, how quickly the votes will be counted, and what FLIPR projects in the most important races of 2026.",
+      "content_text": "Early this morning — or late last night, depending on your definition — we ran our final FLIPR update of the 2026 election cycle . Nate also published an in-depth Model Talk on the state of the race . I’d encourage you to read the piece in full, but here’s the topline takeaway from FLIPR: Our forecasts show good numbers for Democrats — the last round of polling resolved any doubt about that . They are reasonably clear favorites to flip the Senate, and very likely to flip the House. The Senate is by no means certain, but at the same time, the bottom could fall out for Republicans if Democrats meet or exceed their forecasts on a race-by-race basis. Now that the forecast is frozen and FLIPR 🐬 has returned to the depths of the East River , Election Day itself can feel low-key at Silver Bulletin HQ. This will be the first day in many months where we don’t have to think about updating the model. But our reprieve is a brief one, because tonight starting at 6:00 PM Eastern, we’ll have actual election results to obsess over carefully analyze. So beforehand, we’re bringing you a quick guide on what to watch as the polls close, hour-by-hour, according to FLIPR . We know there are plenty of other election guides out there, but this is the only one with special FLIPR content. For races for Congress, we’ll show you our hour-by-hour projections in every race that FLIPR rates as between “Lean D” and “Lean R” or that has at least a 1 percent chance of being the tipping-point race for chamber control. For gubernatorial races, we don’t calculate a tipping-point percentage, so we’ll also show you “Likely R” and “Likely D” races. Note that these are based entirely on our pre-election forecasts of this morning . We’re not trying to run an Election Night model, but we hope this will be useful for helping to detect which candidates are over- or underperforming. 5:30 PM No poll closings here, but our Election Night livestream will begin! We’ll be breaking down the results in real time with The Argument, GD Politics, Slow Boring, and a bunch of other excellent guests. The stream is open to everyone, but paid subscribers will also get access to our live blog . The blog will include our more detailed analyses — and perhaps some of Nate’s hot takes. We’ll also be answering subscriber questions. Once we launch, you’ll be able to find the video and blog at: https://www.natesilver.net/liveblog Nate and I will be writing on the live blog all night, in addition to popping in and out of the stream. We hope to see you there! 6:00 PM Most, but not all , polling places in Indiana and Kentucky close at 6:00 p.m. Both states are solidly red, and only have one statewide contest FLIPR forecasts — the Kentucky Senate race to replace Mitch McConnell — between them. Republicans are almost certain to win that election. However, there’s one highly competitive House race in this group: Kentucky 6. […]",
       "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=122915",
-      "title": "Theo Bamber, NMA UK: Government Must Act To Protect Trusted Journalism",
-      "link": "https://wan-ifra.org/2026/11/theo-bamber-nma-uk-government-must-act-to-protect-trusted-journalism/",
-      "published": "Tue, 03 Nov 2026 13:02:55 +0000",
-      "summary_raw": "For the annual Journalism Matters campaign, News Media Association Chief Executive Theo Bamber explains why it is more important than ever for governments and regulators to create the right conditions for trusted journalism to thrive.",
-      "content_text": "By Theo Bamber, News Media Association Chief Executive Where does a news story come from? A scandal exposed, a failure revealed, a decision brought into the open that someone would rather have kept private. Behind each is work we rarely see. We read the story, take it in and move on. In short, we take journalism for granted. Someone had to find that story, check it, check it again, and then tell it. That takes skill, experience and painstaking work, sometimes over hours, sometimes over days, weeks, months or years. The published story is the bit we all see, and if we want that to continue, we must protect the people and the industry that makes it possible. This year’s Journalism Matters campaign is a chance for us to reflect carefully on what journalism does for all of us, and what we would lose if we didn’t have it. In an article launching this year’s campaign, Prime Minister Andy Burnham cites the enormous benefits that independent journalism delivers for our society and the critical importance of local news media to the devolution agenda. He is absolutely right to do so. Journalism is part of the national infrastructure we all rely on, and the benefits it delivers go far beyond the stories themselves. A global report published by UNESCO earlier this year found a raft of economic and security benefits connected to journalism in countries with an ecosystem which supports an independent free press. So how do we make sure more journalism can happen? It’s clear that there is plenty the government can do to strengthen the conditions that the industry operates in and it must use this opportunity to affect real change. This should start with digital markets, and creating an ecosystem which can support and maintain a plural and diverse range of media outlets. This increases user choice and allows publishers that invest in reporting to get a fair return for their work. Meta, always ready and willing to play the role of the tech giant bully, recently launched an assault on journalism with its attempt to force publishers and other businesses to hand over all their content to train its AI products. It was a move right out of the tech platform playbook – bury the crucial detail in a ton of paperwork and then feign disbelief and surprise at the horrified reaction from the business community. This can’t continue and, if the government supports journalism in the way the Prime Minister has outlined, it must back the Competition and Markets Authority to the hilt. The CMA is tasked with making the tech platforms play fair, and to do this job effectively it needs full-throated political support. Nothing else will do. But getting the platforms to play fair is just the start. Government must also make sure that its own policies support journalism, not undermine it. The news prominence regime, as proposed in the Media Green Paper, will have a damaging and distortive effect on the news media landscape if implemented in its current form. […]",
+      "id": "https://wan-ifra.org/?p=122923",
+      "title": "The FT and Footballco are growing revenue sources through new offerings, events and more",
+      "link": "https://wan-ifra.org/2026/11/the-ft-and-footballco-are-growing-revenue-sources-through-new-offerings-events-and-more/",
+      "published": "Wed, 04 Nov 2026 12:12:40 +0000",
+      "summary_raw": "Diversification doesn’t just provide new sources of revenue. As the Financial Times and Footballco show, it helps provide stability in a changing media market",
+      "content_text": "By Chris Sutcliffe The Financial Times is an institution, an incredibly well respected news publisher that has ably made the leap to digital-first publishing. Footballco is a rising digital giant, capturing more than 2 billion monthly video views across its portfolio of sports titles. Despite their differences, these two media businesses face a similar need: revenue diversification. It is the same story across the media landscape. Per WAN-IFRA’s World Press Trends report , alternative revenue sources – from events to licensing – account for over a quarter of publishers’ income. It is at least partly defensive, an attempt to transition away from over-dependence on advertising and circulation revenue. However, as representatives for the Financial Times and Footballco demonstrated at Digital Media Europe in London, revenue diversification can also be proactive, based on recognition of a publication’s core appeal. The FT has spent considerable resources in growing a mixed set of businesses delivering significant results. In 2024, revenues surpassed £540 million with an operating profit exceeding £40 million. Its global paying audience across all titles and events reached more than 3 million, including the 1.9 million paying subscribers to the FT. Aled John is Managing Director, Group Strategy at Financial Times UK. He acknowledged that the Financial Times has a well known international brand on which to build, but said that how the group thinks about its constituent publications has changed: “We celebrate the fact we have an amazing portfolio of businesses. We have four main engines: consumer and enterprise subscriptions – for both FT and our Specialist titles –, advertising, events, and licensing, as well as other b2b services. Our CEO [Jon Slade], on his first day, announced the creation of one major division focused specifically on reader revenue, deploying the power of our sales and marketing capabilities across the entirety of our portfolio of titles.… “We are also undertaking a group-wide review of the FT’s products and services to target resources at the highest-growth sectors and demographics while directing investment into strategic growth markets.” Synergies and core competencies It is leading, John said, to a change in the way in which the FT team thinks about its publications, as part of a whole instead of as separate entities. As an example, it will open the doors to cross-selling and bundling across those brands that did not exist to the same extent beforehand. This new ‘flywheel’ approach enables the core brand to support each of its 17 Specialist publications, with the Financial Times itself as the “base,” and the Specialist titles as an “overlay,” John said. “For us diversification is inherent in who we are,” he added. “The focus is… making sure these things are working very coherently together. […]",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://wan-ifra.org/?p=122568",
-      "title": "Ringier’s ongoing data initiative proves their logged-in users are more valuable – and why",
-      "link": "https://wan-ifra.org/2026/11/ringiers-ongoing-data-initiative-proves-their-logged-in-users-are-more-valuable-and-why/",
-      "published": "Tue, 03 Nov 2026 10:18:32 +0000",
-      "summary_raw": "The Swiss-based publisher’s Customer Lifetime Value framework is helping them understand why getting people to log in is so important for both reader revenue and advertising.",
-      "content_text": "“For a long time we suspected that logged-in users have a higher value than non-logged-in users, but we didn’t have the data to prove it,” said Patrick Rademacher , Chief Strategy and Innovation Officer, Ringier AG. Founded in 1833, Ringier is a family-owned media and entertainment multi-national group based in Switzerland. The group has three key business areas: media brands, sports media and marketplaces. In total, Ringier owns and operates 115 companies in 19 countries in Europe and Africa with approximately 5,500 employees. About two years ago, Ringier started work on a project to test the hypothesis that logged-in users are more valuable than non-logged-in users, Rademacher said. The efforts focused on Blick , their largest news brand and one of the most popular titles in Switzerland. Bringing the data together A big issue, and one likely to be familiar to many publishers, wasn’t that they actually lacked data, but rather that the data was stored in many different places. “We had data in Google analytics, in the ad server, in the log-in system, etc., etc.,” Rademacher told participants during WAN-IFRA’s recent Digital Media Europe conference in London. “To bring those data together was a lot of work. “ They focused on data around two key areas: Reader revenue and advertising. To determine Customer Lifetime Value, they created a two dimensional approach. The first dimension looks at five different types of users: No consent (meaning website visitors who opt out of sharing their data) Consent only Logged-in users Monthly subscribers Yearly subscribers The second dimension is based on a user’s loyalty, or more specifically, their number of site visits in a given month: One-time readers – those who visit Blick’s site just once in 30 days. Casual readers – two to three visits within 30 days Returning readers – four to 29 visits within 30 days Loyal readers – one to three visits per day Brand lovers – those who visit the site more than three times per day They then combined the two dimensions, creating 25 different user segments, which can be seen in the slide above. A similar approach was taken on the advertising side, Rademacher said. “We have the average revenue per user (ARPU) multiplied by lifetime, which is based on active use, which is partly cookie-based. So this is more complex than reader revenue, but we also got a Customer Lifetime Value, and then brought those two together as one Customer Value,” he said. An ongoing process Rademacher noted that the overall process remains ongoing, and that the findings he was sharing were preliminary. What is important for Ringier now, he said, is the pattern and direction that the early results show. For example, the Customer Lifetime Value of a logged-in user is seven times higher than a user who is not logged-in, he said. They have also found that “t he Customer Lifetime Value of a monthly user is much higher than for a user that has given us only consent,” Rademacher said. […]",
-      "source": "WAN-IFRA"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=254860",
-      "title": "Anthropic, OpenAI, Google, and Microsoft will make it easier for publishers to opt out of being scraped",
-      "link": "https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/",
-      "published": "Mon, 02 Nov 2026 17:15:45 +0000",
-      "summary_raw": "Right now, if you don’t want your site to be scraped by AI companies, you have to block each company’s crawlers individually. On Friday, Anthropic, OpenAI, Google, and Microsoft said they would support a common robots.txt signal that, per OpenAI, “makes it easier for publishers and website operators to communicate the same preference to multiple...",
-      "content_text": "Right now, if you don’t want your site to be scraped by AI companies, you have to block each company’s crawlers individually. On Friday, Anthropic, OpenAI , Google , and Microsoft said they would support a common robots.txt signal that, per OpenAI, “makes it easier for publishers and website operators to communicate the same preference to multiple participating providers at once.” Anthropic engineer Kevin Kelley proposed the common signal as part of work for the Internet Engineering Task Force, and Anthropic is already supporting it. OpenAI says it will do so “in the coming months,” and Google and Microsoft say they’ll do so next year. Meta VP of communications Andy Stone called the common signal “an important step,” writing in a tweet that the company supports “publishers’ ability to express preferences about how their content is used for foundational generative AI training.” Meta is under scrutiny for proposed commercial terms that would allow broad scraping ; last week, it agreed to delay implementation of those terms.",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.niemanlab.org/?p=254843",
-      "title": "Elon Musk’s Grokipedia is littered with mistakes. But Wikipedia could still learn some things from it.",
-      "link": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
-      "published": "Mon, 02 Nov 2026 15:59:14 +0000",
-      "summary_raw": "When I saw Grokipedia’s articles about me, the memories came rushing back: my 19 years in minor league baseball, including that impressive season with the Montgomery Rebels when I hit 20 home runs. I was lean back then — 6 feet tall and 168 pounds — and earned a career batting average just under .300....",
-      "content_text": "When I saw Grokipedia’s articles about me, the memories came rushing back: my 19 years in minor league baseball, including that impressive season with the Montgomery Rebels when I hit 20 home runs. I was lean back then — 6 feet tall and 168 pounds — and earned a career batting average just under .300. I became a minor league coach and managed the Chicago White Sox for a short stint in 1970, which Grokipedia said “highlighted [my] readiness for higher-level responsibilities.” I then attended Arizona State University, switched to a career in journalism, created the fact-checking site PolitiFact, won a Pulitzer Prize, and now teach journalism at Duke University. Ah, the memories!…except that I never played minor league baseball, never managed the White Sox, and can only dream about being 6 feet tall. (I’m 5’8″.) Grokipedia, the AI-written encyclopedia of Elon Musk, has confused me with Marion Danne “Bill” Adair, who died in 2002. That article and another one about “Bill Adair (journalist)” — which really is me — illustrate the many flaws of Grokipedia, which launched a year ago. The articles are littered with mistakes and superfluous details. They are terribly written and ridiculously long. If Grok, the AI engine that wrote this turgid prose, were a student in one of my writing courses, I would give it a D. Still, the articles provide valuable lessons for Wikipedia editors who are debating how and when to use AI. Grokipedia adds new content and context that Wikipedia often lacks. It shows that AI is actually pretty good at finding tidbits in the far corners of the internet and summarizing them in sweeping prose. It can also provide balance to articles that need it. Grok can’t write worth a lick, but it shows how Wikipedia can take advantage of AI at a time when overworked editors are trying to keep the encyclopedia alive. Musk launched Grokipedia as an alternative to Wikipedia, which he said was too liberal. (He called it “Wokepedia.”) Still, he trusted it enough to have Grok copy hundreds of thousands of its articles, which is permitted under Wikipedia’s Creative Commons license, and then add content from elsewhere on the internet. With his usual bluster, Musk said his encyclopedia used a new version of his large language model that was good at “cogent analysis.” He said programmers told it to “cycle through the million most popular articles in Wikipedia and add, modify, and delete.” When Grokipedia launched, Musk said he had big aspirations to overtake Wikipedia, which has 68 million articles in more than 300 languages. He said his encyclopedia would be more complete and more balanced and would make smarter use of images and video. Maybe someday. For now, Grokipedia is a massive collection of overly long articles that are often out of date. Its flaws have been well-documented: Articles are littered with mistakes , peddle conspiracy theories , rely on low-credibility sources , and sometimes skew to the right . […]",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1211582",
-      "title": "Today is the big day … for the pollsters",
-      "link": "https://www.poynter.org/commentary/2026/election-polls-pollsters-accuracy-2026-midterms/",
-      "published": "Tue, 03 Nov 2026 12:30:15 +0000",
-      "summary_raw": "Today, the American people will head to the ballot box and cast their votes in a hotly contested and pivotal midterm election. By this time tomorrow, we might finally get […]",
+      "id": "https://www.poynter.org/?p=1211634",
+      "title": "As Democrats swept the midterms, news anchors struggled to find the words",
+      "link": "https://www.poynter.org/commentary/2026/2026-midterms-democratic-sweep-election-night-media-coverage/",
+      "published": "Wed, 04 Nov 2026 12:30:29 +0000",
+      "summary_raw": "Wow. Tuesday was a historic day in America as one of the most pivotal midterm elections played out on our televisions, computers and phones. And the media reaction can be […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211486",
-      "title": "Want to become a newsroom editor? Here’s how to get your first management job.",
-      "link": "https://www.poynter.org/commentary/2026/how-to-become-newsroom-editor-first-management-job/",
-      "published": "Tue, 03 Nov 2026 12:00:01 +0000",
-      "summary_raw": "We need more creative and encouraging editors in journalism. Could you be one of them? One of the most frequent questions I receive from mid-career journalists is about whether they […]",
+      "id": "https://www.poynter.org/?p=1211539",
+      "title": "Islamophobic rhetoric is common in Indiana. Here’s how newsrooms cover it",
+      "link": "https://www.poynter.org/local-news/2026/how-indy-newsrooms-cover-islamophobic-rhetoric/",
+      "published": "Wed, 04 Nov 2026 10:00:33 +0000",
+      "summary_raw": "This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211572",
-      "title": "Student journalists are getting a crash course in election coverage",
-      "link": "https://www.poynter.org/educators-students/2026/student-journalists-election-coverage-2026-midterms/",
-      "published": "Tue, 03 Nov 2026 11:45:28 +0000",
-      "summary_raw": "This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed. Student journalists across the country have kicked […]",
+      "id": "https://www.poynter.org/?p=1211619",
+      "title": "PolitiFact live updates: Fact-checking the 2026 midterms on Election Day",
+      "link": "https://www.poynter.org/fact-checking/2026/2026-midterm-election-live-fact-checks/",
+      "published": "Tue, 03 Nov 2026 12:20:48 +0000",
+      "summary_raw": "Voters across the United States are heading to the polls today to cast their ballots for the 2026 midterm elections. PolitiFact is live fact-checking voting misinformation and candidate rhetoric this […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211554",
-      "title": "70% of Americans report election stress or anxiety. Here’s what experts say can help",
-      "link": "https://www.poynter.org/fact-checking/2026/election-anxiety-stress-health-tips-2026-midterms/",
-      "published": "Tue, 03 Nov 2026 11:30:50 +0000",
-      "summary_raw": "Is the impending Election Day making your eye twitch? Are you getting snappy with your loved ones? Checking polls and news updates like your life depends on it? Anxiety about […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1211472",
-      "title": "IFCN condemns coordinated attacks on Faktoje of Albania",
-      "link": "https://www.poynter.org/ifcn/2026/ifcn-condemns-coordinated-attacks-on-faktoje-of-albania/",
-      "published": "Mon, 02 Nov 2026 11:30:26 +0000",
-      "summary_raw": "The International Fact-Checking Network strongly condemns recent attacks on the integrity of the fact-checking organization Faktoje of Albania. Faktoje is a reputable organization with a strong track record and operates […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258813",
-      "title": "Carbon Brief adds paid memberships offering access to Reddit-style forum",
-      "link": "https://pressgazette.co.uk/paywalls/carbon-brief-memberships-community/",
-      "published": "Tue, 03 Nov 2026 10:23:03 +0000",
-      "summary_raw": "Specialist climate title uses paid memberships for community building rather than exclusive paywalled content.",
-      "content_text": "Specialist climate change and energy policy newsbrand Carbon Brief is launching a paid membership offering built around a Reddit-style forum rather than paywalled content.",
+      "id": "https://pressgazette.co.uk/?p=258904",
+      "title": "Meta ‘holding publishers over a barrel’, says News Media Association chief",
+      "link": "https://pressgazette.co.uk/news/meta-terms-publishers-nma-ceo/",
+      "published": "Wed, 04 Nov 2026 09:42:35 +0000",
+      "summary_raw": "NMA CEO calls on government to back UK watchdog on new Meta terms.",
+      "content_text": "The News Media Association (NMA) has called on the UK Government to back the Competition and Markets Authority in regulating Meta following the announcement of its new AI scraping terms.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258881",
-      "title": "Cavendish Press boss blames publisher ‘greed’ for agency’s closure after nearly 50 years",
-      "link": "https://pressgazette.co.uk/publishers/wires_and_agencies/cavendish-press-boss-blames-publisher-greed-for-agencys-closure/",
-      "published": "Tue, 03 Nov 2026 09:42:41 +0000",
-      "summary_raw": "Jon Harris said court reporters were \"facing extinction\" amid low freelance rates.",
-      "content_text": "North of England news agency Cavendish Press is closing after nearly 50 years, as its owner blames low freelance rates and “bean counters” at national publishers for its demise.",
+      "id": "https://pressgazette.co.uk/?p=258910",
+      "title": "Awards nomination for Jason Arday story prompts more than 500 complaints",
+      "link": "https://pressgazette.co.uk/news/awards-nomination-for-jason-arday-story-prompts-more-than-500-complaints/",
+      "published": "Tue, 03 Nov 2026 16:29:23 +0000",
+      "summary_raw": "Press Gazette urged to withdraw nomination for Times Higher Education's Jack Grove.",
+      "content_text": "Press Gazette has received more than 500 emailed complaints after Times Higher Education was nominated for a British Journalism Award in recognition of its reporting on the Jason Arday affair.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258921",
-      "title": "News diary 2-8 November: US midterms, New Zealand general election, Remembrance Sunday",
-      "link": "https://pressgazette.co.uk/news/news-diary-2-8-november-us-midterms-new-zealand-general-election-remembrance-sunday/",
-      "published": "Mon, 02 Nov 2026 18:10:39 +0000",
-      "summary_raw": "A look ahead at the key events leading the news agenda this week, from the team at Foresight News.",
-      "content_text": "Monday (November 2): NHS CEO questioned by MPs on A&E performance; Deadline for Gianni Infantino to release FIFA governance documents; Apple publishes financial results.",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258517",
-      "title": "AI fakery is increasing the premium on trusted publisher content",
-      "link": "https://pressgazette.co.uk/publishing-services-content/ai-journalism-trust-premium-deepfakes-era-pr-boss/",
-      "published": "Mon, 02 Nov 2026 16:01:20 +0000",
-      "summary_raw": "Silicon Valley firms are inadvertently proving publishers 'are the only people you can trust'.",
-      "content_text": "News publishers will have the monopoly on trust when deepfakes means people can no longer believe what they see and hear online, a PR tech boss and former BBC journalist has said.",
+      "id": "https://pressgazette.co.uk/?p=258954",
+      "title": "Judge rules against ‘famous man’ – but ITN/Guardian injunction stands pending appeal",
+      "link": "https://pressgazette.co.uk/media_law/famous-man-injunction/",
+      "published": "Tue, 03 Nov 2026 14:26:55 +0000",
+      "summary_raw": "Man said publication of story about abuse of power would make him take own life.",
+      "content_text": "A famous man has lost his bid for a High Court injunction against two media organisations to prevent the publication of allegations against him, but cannot yet be named.",
       "source": "Press Gazette"
     }
   ],
