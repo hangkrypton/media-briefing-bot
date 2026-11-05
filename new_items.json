@@ -1,37 +1,19 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "published": "Tue, 03 Nov 2026 17:01:49 +0000",
-      "summary_raw": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "content_text": "",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/statebench",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "link": "https://huggingface.co/blog/allenai/statebench",
-      "published": "Tue, 03 Nov 2026 17:15:21 GMT",
+      "id": "https://huggingface.co/blog/phonon-tts",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "link": "https://huggingface.co/blog/phonon-tts",
+      "published": "Thu, 05 Nov 2026 00:00:00 GMT",
       "summary_raw": "",
       "content_text": "",
       "source": "Hugging Face Blog"
     },
     {
-      "id": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "published": "Tue, 03 Nov 2026 16:35:36 GMT",
-      "summary_raw": "",
-      "content_text": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/cwe-bench",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "link": "https://huggingface.co/blog/cwe-bench",
-      "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "id": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "published": "Wed, 04 Nov 2026 17:50:10 GMT",
       "summary_raw": "",
       "content_text": "",
       "source": "Hugging Face Blog"
@@ -39,77 +21,104 @@
   ],
   "tools": [
     {
-      "id": "https://www.natesilver.net/p/the-flipr-guide-to-election-night",
-      "title": "The FLIPR 🐬 guide to Election Night",
-      "link": "https://www.natesilver.net/p/the-flipr-guide-to-election-night",
-      "published": "Tue, 03 Nov 2026 21:09:17 GMT",
-      "summary_raw": "When the polls close, how quickly the votes will be counted, and what FLIPR projects in the most important races of 2026.",
-      "content_text": "Early this morning — or late last night, depending on your definition — we ran our final FLIPR update of the 2026 election cycle . Nate also published an in-depth Model Talk on the state of the race . I’d encourage you to read the piece in full, but here’s the topline takeaway from FLIPR: Our forecasts show good numbers for Democrats — the last round of polling resolved any doubt about that . They are reasonably clear favorites to flip the Senate, and very likely to flip the House. The Senate is by no means certain, but at the same time, the bottom could fall out for Republicans if Democrats meet or exceed their forecasts on a race-by-race basis. Now that the forecast is frozen and FLIPR 🐬 has returned to the depths of the East River , Election Day itself can feel low-key at Silver Bulletin HQ. This will be the first day in many months where we don’t have to think about updating the model. But our reprieve is a brief one, because tonight starting at 6:00 PM Eastern, we’ll have actual election results to obsess over carefully analyze. So beforehand, we’re bringing you a quick guide on what to watch as the polls close, hour-by-hour, according to FLIPR . We know there are plenty of other election guides out there, but this is the only one with special FLIPR content. For races for Congress, we’ll show you our hour-by-hour projections in every race that FLIPR rates as between “Lean D” and “Lean R” or that has at least a 1 percent chance of being the tipping-point race for chamber control. For gubernatorial races, we don’t calculate a tipping-point percentage, so we’ll also show you “Likely R” and “Likely D” races. Note that these are based entirely on our pre-election forecasts of this morning . We’re not trying to run an Election Night model, but we hope this will be useful for helping to detect which candidates are over- or underperforming. 5:30 PM No poll closings here, but our Election Night livestream will begin! We’ll be breaking down the results in real time with The Argument, GD Politics, Slow Boring, and a bunch of other excellent guests. The stream is open to everyone, but paid subscribers will also get access to our live blog . The blog will include our more detailed analyses — and perhaps some of Nate’s hot takes. We’ll also be answering subscriber questions. Once we launch, you’ll be able to find the video and blog at: https://www.natesilver.net/liveblog Nate and I will be writing on the live blog all night, in addition to popping in and out of the stream. We hope to see you there! 6:00 PM Most, but not all , polling places in Indiana and Kentucky close at 6:00 p.m. Both states are solidly red, and only have one statewide contest FLIPR forecasts — the Kentucky Senate race to replace Mitch McConnell — between them. Republicans are almost certain to win that election. However, there’s one highly competitive House race in this group: Kentucky 6. […]",
+      "id": "tag:github.com,2008:publish_release/19222093075",
+      "title": "palewire released 2.2.0 at palewire/python-open-source-template",
+      "link": "https://github.com/palewire/python-open-source-template/releases/tag/2.2.0",
+      "published": "2026-11-05 04:12:39 -0800",
+      "summary_raw": "palewire released 2.2.0 of palewire/python-open-source-template · November 5, 2026 04:12 palewire / /palewire/python-open-source-template 2.2.0 Added Add JupyterLab live collaboration with an AI assistant: the notebooks dependency group now includes jupyter-collaboration , jupytext and vl-convert-python , notebooks are paired with .py files, … Read more",
+      "content_text": "",
+      "source": "GitHub - palewire"
+    },
+    {
+      "id": "https://www.natesilver.net/p/after-an-extraordinary-wave-what",
+      "title": "After an extraordinary wave, what comes next?",
+      "link": "https://www.natesilver.net/p/after-an-extraordinary-wave-what",
+      "published": "Wed, 04 Nov 2026 23:52:46 GMT",
+      "summary_raw": "The “smart” conventional wisdom is: midterms don’t predict future elections. I’m not sure about that for a profoundly unpopular lame duck.",
+      "content_text": "George W. Bush, deep into his lame-duck term, after addressing the nation on the Iraq War in Sept. 2007. Getty Images. We’d like to extend another word of thanks for following FLIPR , our midterm election coverage , and our liveblog last night . We’re really pleased with how everything went, and I can’t express how much more fulfilling it is to run our own business than to work for a big, careless corporation . I do need to catch up on rest after we published seven stories, plus the liveblog, within a three-day window. That’s not typical for us; we aim for something more like three newsletters per week, plus regularly updating a host of models and statistical tools . Nor are those all politics posts; we also regularly cover sports , AI and sometimes some “ wild card ” topics. (To control what types of emails appear in your inbox, see here .) I’m also aware that one can go overboard on post-election recriminations: I think we probably did that in 2024, for instance. On our agenda for the year ahead: rebuilding RAPTOR (our NBA model) and possibly extending PELE, our soccer model, to European club football; beginning our coverage of the 2028 presidential election (sorry, not sorry), probably including some polling tools; expanding our coverage of AI; and a site redesign. We also may be doing some hiring. Subscribe now Still, last night’s results deserve deeper consideration than most elections. As measured by the change in the House popular vote, they featured the second-biggest midterm swing since World War II, which should be around 15 points toward Democrats once all votes are counted. Democrats will gain 7 to 9 Senate seats — Alaska and Mississippi are pending — along with flipping around 45 House seats and, once all votes are counted in Kansas, probably 6 governorships. Unlike some recent Democratic maps that were concentrated in smaller coastal states, these occurred broadly in basically every corner of the country. (Well, except Florida, as usual .) Once new terms begin, Democrats will control the governorships in states totaling around three-quarters of the U.S. population; in the Electoral College, this would translate to a 392-146 landslide. 1 There were plenty of signature wins too. Adam Hamilton became the first Democrat to win a Senate seat in Kansas since 1932. Not only did James Talarico win by double digits in Texas; Gina Hinojosa flipped the governorship there. Keisha Lance Bottoms became the nation’s first Black female governor. They won a Senate seat in South Carolina, and if prediction markets are right , they’ll flip Mississippi too. The repudiation that Democrats have been waiting 10 years for against Donald Trump finally came, and bigly. Friend-of-the-newsletter Sean Trende has written that this was a “ 100-year flood ”, the usual nomenclature of waves and tsunamis not quite sufficing. […]",
       "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://wan-ifra.org/?p=122923",
-      "title": "The FT and Footballco are growing revenue sources through new offerings, events and more",
-      "link": "https://wan-ifra.org/2026/11/the-ft-and-footballco-are-growing-revenue-sources-through-new-offerings-events-and-more/",
-      "published": "Wed, 04 Nov 2026 12:12:40 +0000",
-      "summary_raw": "Diversification doesn’t just provide new sources of revenue. As the Financial Times and Footballco show, it helps provide stability in a changing media market",
-      "content_text": "By Chris Sutcliffe The Financial Times is an institution, an incredibly well respected news publisher that has ably made the leap to digital-first publishing. Footballco is a rising digital giant, capturing more than 2 billion monthly video views across its portfolio of sports titles. Despite their differences, these two media businesses face a similar need: revenue diversification. It is the same story across the media landscape. Per WAN-IFRA’s World Press Trends report , alternative revenue sources – from events to licensing – account for over a quarter of publishers’ income. It is at least partly defensive, an attempt to transition away from over-dependence on advertising and circulation revenue. However, as representatives for the Financial Times and Footballco demonstrated at Digital Media Europe in London, revenue diversification can also be proactive, based on recognition of a publication’s core appeal. The FT has spent considerable resources in growing a mixed set of businesses delivering significant results. In 2024, revenues surpassed £540 million with an operating profit exceeding £40 million. Its global paying audience across all titles and events reached more than 3 million, including the 1.9 million paying subscribers to the FT. Aled John is Managing Director, Group Strategy at Financial Times UK. He acknowledged that the Financial Times has a well known international brand on which to build, but said that how the group thinks about its constituent publications has changed: “We celebrate the fact we have an amazing portfolio of businesses. We have four main engines: consumer and enterprise subscriptions – for both FT and our Specialist titles –, advertising, events, and licensing, as well as other b2b services. Our CEO [Jon Slade], on his first day, announced the creation of one major division focused specifically on reader revenue, deploying the power of our sales and marketing capabilities across the entirety of our portfolio of titles.… “We are also undertaking a group-wide review of the FT’s products and services to target resources at the highest-growth sectors and demographics while directing investment into strategic growth markets.” Synergies and core competencies It is leading, John said, to a change in the way in which the FT team thinks about its publications, as part of a whole instead of as separate entities. As an example, it will open the doors to cross-selling and bundling across those brands that did not exist to the same extent beforehand. This new ‘flywheel’ approach enables the core brand to support each of its 17 Specialist publications, with the Financial Times itself as the “base,” and the Specialist titles as an “overlay,” John said. “For us diversification is inherent in who we are,” he added. “The focus is… making sure these things are working very coherently together. […]",
+      "id": "https://wan-ifra.org/?p=122980",
+      "title": "Nigeria Health Watch builds AI-readiness with an internal wiki",
+      "link": "https://wan-ifra.org/2026/11/nigeria-health-watch-builds-ai-readiness-with-an-internal-wiki/",
+      "published": "Thu, 05 Nov 2026 08:21:50 +0000",
+      "summary_raw": "The non-profit organisation is developing an AI-driven solution for documenting and retaining internal resources, with strong potential to save its employees’ time and give them better access to institutional knowledge.",
+      "content_text": "About the organisation : Nigeria Health Watch is a communication and advocacy non-profit focused on improving health outcomes in Nigeria. Originally launched as a two-person blog in 2007, it has since expanded into a broader organisation that today is involved in solutions-driven journalism, community health monitoring, advocacy and research. Its team of permanent and freelance staff and volunteers comprises more than 60 people. Building the ‘brain of the organisation’ To some degree, every organisation struggles with institutional knowledge. As years go by and staff members come and go, it’s seemingly unavoidable that documents, multimedia files and other resources become scattered and effectively lost across online platforms, servers and local hard drives. This was the problem that Nigeria Health Watch tackled during their participation in NextGen AI Leaders , a WAN-IFRA programme in partnership with the Google News Initiative. The programme is designed to help young media leaders reach the next stage in their careers through responsible AI deployment and strategic leadership. During the programme, Chibuike Alagboso , Director of Media Programmes at Nigeria Health Watch, began the process of building an internal wiki, a “brain of the organisation,” in order to better preserve organisational memory. According to Alagboso, there was a strong feeling within the organisation that access to important resources tends to disappear, especially after employees leave: “You might as well not have those materials, because they are scattered all over the place and you can’t access them. You might not even know they exist.” Even when a specific file is needed for a project – a concept note, or a photograph – “we often find ourselves in situations where we have to spend a lot of time looking for it,” he said. Start with a vibe-coded prototype Today, Nigeria Health Watch is involved in a wide range of activities, but the organisation’s roots go back to a blog that was started by two friends interested in covering health care in the country. That foundation is still strong, Alagboso said: “We still write, we still produce content, we’re very active on social media.” The organisation’s regular output includes thought-leadership and opinion pieces, and it has a particular focus on solutions journalism. Before joining the NextGen AI Leaders programme, Nigeria Health Watch had explored various types of AI use, from content generation and social media amplification to transcription, summarisation and analysis of large troves of documents. As Alagboso began to develop an internal wiki to better capture organisational knowledge and resources – their most ambitious AI-driven initiative to date – his first step was to build a prototype that he could share with the IT team. […]",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.poynter.org/?p=1211634",
-      "title": "As Democrats swept the midterms, news anchors struggled to find the words",
-      "link": "https://www.poynter.org/commentary/2026/2026-midterms-democratic-sweep-election-night-media-coverage/",
-      "published": "Wed, 04 Nov 2026 12:30:29 +0000",
-      "summary_raw": "Wow. Tuesday was a historic day in America as one of the most pivotal midterm elections played out on our televisions, computers and phones. And the media reaction can be […]",
+      "id": "https://wan-ifra.org/?p=123025",
+      "title": "WAN-IFRA condemns arrest of Japanese journalist",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-condemns-arrest-of-japanese-journalist/",
+      "published": "Wed, 04 Nov 2026 14:19:13 +0000",
+      "summary_raw": "The Hokkaido Shimbun correspondent was seized while preparing his departure from Sakhalin Island, accused of gathering information on Russia's defences. The global press body says security laws must not be used to punish public-interest reporting or turn reporters into bargaining pawns.",
+      "content_text": "WAN-IFRA, the World Association of News Publishers, condemns the criminalisation of journalism in Russia and has called on Russian authorities to immediately release Japanese journalist, Yuki Imai, detained on allegations of espionage. Imai, an accredited Japanese correspondent for Hokkaido Shimbun , was arrested on 13 October on Sakhalin Island, in Russia’s Far East, just north of Japan as he was getting ready to leave the country. He was subsequently transferred to Moscow, accused of gathering defence related information for Japanese intelligence – a claim rejected by Japan. Stig Ørskov, WAN-IFRA’s CEO said: “Gathering information in the public interest is a fundamental part of journalism. Security laws must not be used to punish legitimate reporting, intimidate journalists or turn journalists in to bargaining pawns in political disputes.” Imai was working in Russia on a journalist visa, with Russian foreign ministry accreditation. Based in Yuzhno-Sakhalinsk, his work covered Russia’s Far East and regional relationships. His last report on 5 October, described the presence and everyday lives of North Korean workers on Sakhalin. David Walmsley, President of WAN-IFRA’s World Editors Forum and editor-in-chief of The Globe and Mail said: “The gathering of information by reporters is the entire purpose of responsible journalism and Imai is no different. It is to the dismay of his colleagues across the industry that his responsibility has been perversely turned into accusations of wrongdoing. Imai should be immediately released.” WAN-IFRA urges its members, national media associations and the wider international media community to take every opportunity to protest Russia’s actions, and the intimidation and arrest of journalists.",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254896",
+      "title": "Weird animals win on Instagram. Mongabay’s next-best choice? Its reporters.",
+      "link": "https://www.niemanlab.org/2026/11/weird-animals-win-on-instagram-mongabays-next-best-choice-its-reporters/",
+      "published": "Wed, 04 Nov 2026 19:32:33 +0000",
+      "summary_raw": "Mongabay’s most successful videos are about weird animals. But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution. Or a deforestation crisis brought on by cacao farming in Liberia. That’s where the challenge comes in, Mongabay video managing editor...",
+      "content_text": "Mongabay’s most successful videos are about weird animals . But not every video from the environmental newsroom can be about strange — or strangely cute — animals. Some have to be about shrimp farm pollution . Or a deforestation crisis brought on by cacao farming in Liberia. That’s where the challenge comes in, Mongabay video managing editor Lucia Torres has found. Turning that kind of journalism into something people stop scrolling for isn’t easy. “Generally mass audiences are less interested in environmental content on YouTube [and] Instagram,” Torres said. “We have to compete with recipes, music videos, etc.” Mongabay, founded in 1999 by Rhett Butler as a one-person news operation covering rainforests, now has 150 people on staff. It produces original content in English, Indonesian, Spanish, French, Hindi, Portuguese, Bengali, and Swahili. Mongabay’s largest bureaus — after the catch-all “global” newsroom — cover Africa (20 people) and Latin America (19 people). Mongabay has about 83,000 followers on Instagram and its English-language YouTube channel has 60,000 subscribers . It also has country-specific channels; Mongabay Indonesia has 109,000 followers. Mongabay publishes around 150 to 200 videos a year with a team of four full-time and one half-time producers. These include short vertical videos on YouTube Shorts and Instagram; evergreen explainers around “complex enviro-problems”; twice-monthly features; and lengthy investigations or short documentaries . To reach new audiences with its environmental journalism, Mongabay started experimenting with behind-the-scenes reels in late 2024. At the time, Mongabay’s Instagram reels averaged 2,000 to 3,000 views. Torres said she was inspired by behind-the-scenes videos from National Geographic , The New York Times , ProPublica , and contributing creator Izzy Sasada . An early behind-the-scenes video — on pollution from those shrimp farms — drew about 14,000 views. Additional videos from California and Indonesia each got about 6,000 views. Mongabay started to dive deeper with videos that featured sources and reporters filming from the field . “We’ve also been sharing data with the newsroom about which kinds of framing are reaching more people right now, so writers and editors can consider whether they might want to incorporate how people are responding to problems into their stories,” Butler said. “But we aren’t overly prescriptive, so ultimately it’s up to editors and writers how they use this information.” Looking at the 3,422 articles published between June 1, 2025 and August 31, 2026, Butler found that the median story featuring hope or a solution got 41% more traffic than articles that only described the crisis or threat. (Articles classified as being about an “action confronting a threat” got 43% more.) Today, 71% of the 100 most-read stories on Mongabay’s English-language site can be classified as “hope / solution / agency” or “action confronting a threat,” Butler said. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=254872",
+      "title": "The New York Times stays on track to reach 15 million subscribers by the end of 2027",
+      "link": "https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/",
+      "published": "Wed, 04 Nov 2026 14:30:47 +0000",
+      "summary_raw": "The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total subscribers, the company said in its earnings report released Wednesday. Almost all of those subscribers...",
+      "content_text": "The New York Times added 420,000 new digital subscribers in the third quarter of 2026, keeping it on track to achieve its goal of hitting 15 million subscriptions by the end of 2027. The Times now has 13.76 million total subscribers, the company said in its earnings report released Wednesday. Almost all of those subscribers — 13.22 million of them — are digital-only. The Times counted 540,000 total print subscribers in the quarter. This time last year, it had 570,000 print subscribers. A few other highlights from the earnings: The Times spent $3.8 million on its ongoing lawsuit against OpenAI during the quarter. In total, it’s spent $36.7 million on generative AI–related lawsuits since it began breaking out those costs separately in earning reports in 2024. In a statement, New York Times Company president and CEO Meredith Kopit Levien referred to “human-made journalism” as one of the Times’ advantages. Affiliate and licensing revenue was up, “primarily as a result of higher licensing and higher Wirecutter affiliate referral revenues.” (Wirecutter is trying to diversify its business model beyond affiliate revenue as AI drives down its organic search traffic.) In the investor call following the earnings report, one investor asked whether the Times expects subscribers to use AI agents to haggle over subscription prices. So far, Kopit Levien said, “we’re not seeing an impact…[but] we’re continually evaluating how third-party automated tools interact with all of our platforms. It’s just worth saying, we have the ability to permit, to restrict, or to block specific tools.” An investor asked about the Times’ video strategy. Kopit Levien’s response in full: Let me just start by saying, we’ve got really big ambitions in video for The Times to be as preferred a brand to watch as it is to read and listen. This is a kind of long bet that we can grow engagement from the audience we have, and also grow audience, because we’re going to engage new people in different ways. I’m not sure what you’re referring to operationally. We’ve been in a sort of steady state of scaling production in the newsroom of video, and that’s happening in myriad ways. We’ve got a big and expansive shows group, and I referred to that in my prepared remarks, where we’re putting a lot of resource and energy into a growing stable of shows that are getting more and more cultural resonance. We also continue to have a big effort on visual investigations, which we’ve referred to in prior quarters and in prepared remarks. I referred today in my prepared remarks to a very big effort in the development of short-form video. We’ve talked about that pretty extensively, so a lot of reporter video. Then also now, we’re rolling out more assertively some short-form video franchises, like the one I mentioned from our fashion critic, Vanessa Friedman. We’ve got another one coming from one of the hosts of The Daily. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1211703",
+      "title": "The day after the night that changed the country",
+      "link": "https://www.poynter.org/commentary/2026/2026-midterms-media-reaction-election-results/",
+      "published": "Thu, 05 Nov 2026 12:30:20 +0000",
+      "summary_raw": "When the United States woke up on Wednesday morning, it was the beginning of a new era. On Tuesday night, predictions of a blue wave in the 2026 midterms actually […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211539",
-      "title": "Islamophobic rhetoric is common in Indiana. Here’s how newsrooms cover it",
-      "link": "https://www.poynter.org/local-news/2026/how-indy-newsrooms-cover-islamophobic-rhetoric/",
-      "published": "Wed, 04 Nov 2026 10:00:33 +0000",
-      "summary_raw": "This column is part of the Indianapolis Public Editor project, a pilot program designed to test whether the presence of a public editor who analyzes local coverage can elevate audience […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1211619",
-      "title": "PolitiFact live updates: Fact-checking the 2026 midterms on Election Day",
-      "link": "https://www.poynter.org/fact-checking/2026/2026-midterm-election-live-fact-checks/",
-      "published": "Tue, 03 Nov 2026 12:20:48 +0000",
-      "summary_raw": "Voters across the United States are heading to the polls today to cast their ballots for the 2026 midterm elections. PolitiFact is live fact-checking voting misinformation and candidate rhetoric this […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258904",
-      "title": "Meta ‘holding publishers over a barrel’, says News Media Association chief",
-      "link": "https://pressgazette.co.uk/news/meta-terms-publishers-nma-ceo/",
-      "published": "Wed, 04 Nov 2026 09:42:35 +0000",
-      "summary_raw": "NMA CEO calls on government to back UK watchdog on new Meta terms.",
-      "content_text": "The News Media Association (NMA) has called on the UK Government to back the Competition and Markets Authority in regulating Meta following the announcement of its new AI scraping terms.",
+      "id": "https://pressgazette.co.uk/?p=259006",
+      "title": "What I’ve learned: Cameron Barr on swapping Washington Post for Mill Media",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-cameron-barr-on-swapping-washington-post-for-mill-media/",
+      "published": "Thu, 05 Nov 2026 12:04:04 +0000",
+      "summary_raw": "Former Washington Post managing editor now works for Mill Media as investigations editor.",
+      "content_text": "Mill Media investigations editor Cameron Barr says the start-up news group, which publishes subscriber-funded local journalism in cities across England, is a “marvel” and he finds “motivation” in working with his “determined” colleagues.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258910",
-      "title": "Awards nomination for Jason Arday story prompts more than 500 complaints",
-      "link": "https://pressgazette.co.uk/news/awards-nomination-for-jason-arday-story-prompts-more-than-500-complaints/",
-      "published": "Tue, 03 Nov 2026 16:29:23 +0000",
-      "summary_raw": "Press Gazette urged to withdraw nomination for Times Higher Education's Jack Grove.",
-      "content_text": "Press Gazette has received more than 500 emailed complaints after Times Higher Education was nominated for a British Journalism Award in recognition of its reporting on the Jason Arday affair.",
+      "id": "https://pressgazette.co.uk/?p=258993",
+      "title": "New York Times boosts digital subscribers by 420,000 in three months",
+      "link": "https://pressgazette.co.uk/media_business/new-york-times-boosts-digital-subscribers-by-420000-in-three-months/",
+      "published": "Thu, 05 Nov 2026 11:50:10 +0000",
+      "summary_raw": "CEO praises 'human made journalism' and 'product experiences that people seek out' for growth.",
+      "content_text": "The New York Times has added 420,000 digital-only subscribers within three months, taking its total number to 13.8 million and driving digital revenue growth.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=258954",
-      "title": "Judge rules against ‘famous man’ – but ITN/Guardian injunction stands pending appeal",
-      "link": "https://pressgazette.co.uk/media_law/famous-man-injunction/",
-      "published": "Tue, 03 Nov 2026 14:26:55 +0000",
-      "summary_raw": "Man said publication of story about abuse of power would make him take own life.",
-      "content_text": "A famous man has lost his bid for a High Court injunction against two media organisations to prevent the publication of allegations against him, but cannot yet be named.",
+      "id": "https://pressgazette.co.uk/?p=259014",
+      "title": "Government names 50 local news publishers receiving share of £6m grant",
+      "link": "https://pressgazette.co.uk/publishers/local-media-funding-government-grants/",
+      "published": "Thu, 05 Nov 2026 11:45:07 +0000",
+      "summary_raw": "Funding of £6m distributed to 50 publishers and seven industry projects.",
+      "content_text": "Some 50 local news publishers have been awarded grants of up to £125,000 as part of the UK Government’s initiative to help fill “news deserts”.",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259029",
+      "title": "Local journalism is in peril: Google and BBC seen as part of problem",
+      "link": "https://pressgazette.co.uk/comment-analysis/local-journalism-is-in-peril-google-and-bbc-seen-as-part-of-problem/",
+      "published": "Thu, 05 Nov 2026 11:28:36 +0000",
+      "summary_raw": "Mancheser Evening News editor Sarah Lester warns that local journalism could be lost forever.",
+      "content_text": "I think journalism is in a perilous position, and we are in danger of sleepwalking into losing something fundamental to our democracy.",
       "source": "Press Gazette"
     }
   ],
