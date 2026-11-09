@@ -1,37 +1,10 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "published": "Thu, 05 Nov 2026 17:05:16 +0000",
-      "summary_raw": "",
-      "content_text": "",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/allenai/toyblocks",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "link": "https://huggingface.co/blog/allenai/toyblocks",
-      "published": "Fri, 06 Nov 2026 14:00:48 GMT",
-      "summary_raw": "",
-      "content_text": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "published": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "content_text": "",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "published": "Thu, 05 Nov 2026 19:35:16 GMT",
+      "id": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "published": "Mon, 09 Nov 2026 12:34:29 GMT",
       "summary_raw": "",
       "content_text": "",
       "source": "Hugging Face Blog"
@@ -39,113 +12,77 @@
   ],
   "tools": [
     {
-      "id": "https://www.natesilver.net/p/an-extremely-unofficial-first-look",
-      "title": "An extremely unofficial first look at the 2028 Senate map",
-      "link": "https://www.natesilver.net/p/an-extremely-unofficial-first-look",
-      "published": "Fri, 06 Nov 2026 21:30:26 GMT",
-      "summary_raw": "Do Republicans have any chance of winning the Senate back? And could Democrats gain a filibuster-proof majority if they have another big night?",
-      "content_text": "Chuck Grassley, 93, shown here at a campaign event for Ashley Hinson, hasn’t decided whether to run for re-election in 2028. Anna Moneymaker/Getty Images. I wasn’t planning to publish anything today, but I had some time on my train down to Washington, where we’ll be doing a live episode of Still Counting tomorrow morning at Crooked Con . Since it’s a mostly progressive audience, we figure we’ll spend most of our time talking about how Democrats might respond in the wake of their extraordinary night . And then we’ll tackle the equally challenging question of how Republicans might try to clean up after their disaster, probably on our regular Wednesday show. Although I have to say that Trump’s decision to replace Susie Wiles with Stephen Miller as his chief of staff isn’t exactly rational behavior given the scope of the Republican defeat. While doing the prep for these shows, though, I found I needed a clearer mental picture of the Senate landscape in 2028. Democrats are probably going to end up with 56 Senate seats this year: prediction markets have Scott Colom and Mary Peltola as 98 percent favorites to eventually be declared the winners in Mississippi (!!!!!) and Alaska, respectively. That’s a lot of Democrats. Other than Sherrod Brown, whose victory came in a special election so he’ll be on the ballot again in 2028, the Democrats elected this year won’t face voters again until 2032. They’ll serve for the entirety of the 48th President’s first term. But having a lot of Democrats comes with a lot of responsibility for the party. So I wanted to get some sense of how large the Democratic majority might (or might not) be in 2029 when the next president is sworn in given three scenarios: Tsunami 2.0. A repeat of Tuesday night, with another D +13 environment on the national House ballot. A good-but-not-great Democratic night. A +5 national environment. Think roughly a climate like 2012, except Democrats realize the environment more efficiently in the House than they did in that election. 1 A modest Republican win. An R +3 House popular vote, roughly like in 2024. On the train, I found myself jotting down a series of provisional race ratings using the categories that groups like Cook Political Report typically use, from “Solid R” to toss-up to “Solid D”. Yes, I’m going to share those ratings. No, you shouldn’t take them all that seriously. Yes, I’m going to put them behind the paywall because it makes it less likely that they’ll be taken out of context. I do not want to overbill or overpromise what these reflect: They are not FLIPR ratings. There is not extensive race-by-race commentary, just a few bullet points. I am reserving the right to do a deeper dive on 2028 Senate races early in the new year, and we probably will do that. But I felt like I needed to give myself at least some rough, thin-sliced answers to the two questions posed by the subheadline. […]",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://www.natesilver.net/p/models-led-prediction-markets-in",
-      "title": "Models led prediction markets in forecasting the blue wave",
-      "link": "https://www.natesilver.net/p/models-led-prediction-markets-in",
-      "published": "Thu, 05 Nov 2026 14:03:18 GMT",
-      "summary_raw": "But who deserves the most credit? High-quality pollsters who nailed the result. Plus, Still Counting EP10.",
-      "content_text": "Our weekly episode of Still Counting is ready. This was taped yesterday morning, so you can blame any bad takes on sleep deprivation: And here’s the audio. We’re very grateful for any reviews, comments, likes and subscribes. Yes, I’m going to say that every week. The context Despite results on Tuesday that, to a first approximation, made our coverage this year look smart, Clare, Galen and I were all in slightly different moods. Elections build up to a stressful crescendo, frankly. It’s in the final days when you both have the most on the line and the most to do. Subscribe now And we’re still feeling that stress, to some extent. So rather than come up with the perfect transition paragraph, I’m going to semi-awkwardly pivot to a debate about models versus prediction markets. 1 I don’t particularly like this debate. To a large extent, I think of pollsters, modelers, prediction markets and smart political wonks as all being within “the industry”. Their interests are mostly aligned with one another. And sometimes they’re aligned against the conventional wisdom or the media ecosystem more broadly. If you’ve read the book, it’s kind of a Village vs. River thing. Or smart money vs. dumb money. The smart money was on Democrats having a good and possibly great election. The smart money doesn’t always get it right, though. Still, I’m finding myself a little annoyed if prediction markets are trying to take a disproportionate share of the credit as opposed to “the industry” broadly. A few key points. FLIPR was — correctly, given what happened — more confident in overall Democratic odds in the Senate throughout the stretch run of the campaign. 2 For the Nov. 3 datapoint in this chart, I’m using the last “print” of prediction market data before any results were reported starting at 6 p.m. There was a weird little jitter back toward Republicans at prediction markets during the course of the day on Tuesday, which was directionally wrong and I don’t think had any real basis, as I wrote at the time. Prediction markets are smart about incorporating new information, and in principle that’s one of their advantages versus models — we have to wait for whatever happens to show up in the polls. At the same time, there’s sometimes a “ buy the rumor, sell the news ” thing going on here. Markets almost certainly overreacted to the Haley Stevens thing in Michigan and to random reports about turnout on Tuesday morning and afternoon. Once results began to come in on Tuesday, prediction markets very, very quickly honed in on the right results. They were better than the networks, and faster than the NYT Needle. That was impressive, though I think we got to the right answer pretty quickly in the liveblog , too. However, if we are going to turn this into a competition, I think the better models like FLIPR unambiguously had a better pre-election period. Our model arrived at the right answer faster, leading the markets by days to weeks. […]",
-      "source": "Nate Silver"
+      "id": "https://wondertools.substack.com/p/ai-prompts-worth-saving",
+      "title": "AI Prompts I Keep Coming Back To",
+      "link": "https://wondertools.substack.com/p/ai-prompts-worth-saving",
+      "published": "Sun, 08 Nov 2026 15:51:36 GMT",
+      "summary_raw": "Eight simple AI prompt formulas to beat the blank page, plan projects, check facts, copyedit, and critique your work. Perfect for ChatGPT, Claude and Gemini.",
+      "content_text": "Customize these eight prompts rather than building a huge collection When it comes to prompts, you don’t need hundreds. A handful of simple ones can help you clarify thoughts, challenge assumptions, understand complex ideas, and organize plans. The eight flexible prompts below help with a surprising range of these kinds of everyday tasks. Customize the ones most relevant to you. Share How to Make the Most of These Prompts Use them with whatever AI platform you prefer. Try them with free, private AI tools like Duck.ai and Lumo , or top models like ChatGPT , Claude , or Gemini . Tweak the wording . Add constraints and specify your preferred format or style, so it understands what matters to you. The more context and examples you give a model, the better. Exact wording matters less. Copy and customize. I’ve put the full versions in a free prompt library (I made with ChatGPT Sites ). Personalize the prompts and copy them into your preferred AI tool. Subscribe now 1. Interview Me 🎙️ Act as a thorough interviewer. Interview me thoughtfully and creatively about [topic/ project/ idea]. Start by asking me for a quick summary of what I’d like to be interviewed about and why. 1. Ask if there are particular questions I already have in mind. 2. Build a list of questions and check in with me about them. 3. Then ask one question at a time and wait for my response. 4. Ask thoughtful follow-up questions based on what I share. Adapt the questions as you go.… Use this to: Clarify your own jumbled ideas . Having questions to respond to forces you to organize your thoughts. Get past a blank page. Evade writer’s block one reply at a time. Instead of facing a giant topic, you’re just responding to one small query. Ask for: Probing follow-up questions that push you to go deeper or to be more clear, specific, or vivid in your responses. A summary or transcript of your responses at the end of the interview. ChatGPT and Claude give me a document I can review, edit, and print. I use this tactic to: Prepare to teach a new topic . It helps me clarify my own thinking about what learning outcomes are most important or what examples might work well. Get started on a new writing project. It helps me document and organize what’s already on my mind. I often dictate my responses rather than typing to allow my thoughts to flow freely. ( Why I use Voice AI ). 2. Challenge My Thinking 🤔 Help me explore unusual, creative, unconventional approaches to [topic/ challenge/ issue]. First, briefly summarize the conventional wisdom for this topic/situation. Then, provide five surprising, unexpected, or innovative alternatives. For each, explain the underlying rationale and potential benefits. Include perspectives from distinct disciplines or domains that might offer nuanced insights I haven’t considered… Use this to: Catch potential blind spots or holes in your argument Expand your perspective Ask for: An assessment of what a tough editor would say are the weakest parts. […]",
+      "source": "Wonder Tools (Substack)"
     }
   ],
   "market": [
     {
-      "id": "https://www.niemanlab.org/?p=254995",
-      "title": "The Nieman Lab News-About-News Quiz, November 6, 2026",
-      "link": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-6-2026/",
-      "published": "Fri, 06 Nov 2026 13:30:40 +0000",
-      "summary_raw": "What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading. The quiz will...",
-      "content_text": "What a week! Recap it with the second edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading . The quiz will appear here through November as a trial run; if people seem to like it, we’ll keep it going in 2027. Good luck! 0 of 10 answered 1 of 10 Salon, one of the first digital-native news outlets, closed this week after 31 years. Which one of these journalists did not work at Salon at some point? Rebecca Traister Steve Kornacki Glenn Greenwald Jake Tapper Jonathan Chait “Salon was never just a website. It was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier,” the site wrote anonymously at its passing. Its last owner describes its core business as “Leading Performance Marketing in Crypto.” In The New York Times → 2 of 10 The AI lab Anthropic — the makers of Claude — recently signed its first licensing deal with a news publisher. Which publisher? The Wall Street Journal Bloomberg News The New York Times Associated Press Le Monde The deal was for real-time election results for Tuesday’s U.S. midterm elections. In Adweek → 3 of 10 Harassment by the Kremlin has forced Russia’s last major independent newspaper to close. Its editor won the Nobel Peace Prize in 2021. What is the newspaper’s name? Meduza Kommersant Novaya Gazeta The Moscow Times Nezavisimaya Gazeta Novaya Gazeta editor Dmitry Muratov in Moscow, Oct. 8, 2021. (AP/Alexander Zemlianichenko) “On November 9, we will ​turn off the lights in the home where we have lived for 30 years, shut down our servers, and leave,” the paper said. “The newspaper no longer ​exists. The Russian authorities and the Russian security services have forced our editorial team to cease its operations.” In Reuters → 4 of 10 The New York Times brought back one of its most famous data visualizations, which debuted in 2016. What’s its name? The Syringe The Needle The Dart The Lance The Thorn The Needle scarred a generation of politics junkies with its constant jittering — and by giving Hillary Clinton an 82% chance of victory well into 2016’s election night. In The New York Times → 5 of 10 If all goes according to plan, which important American vegetable crop could soon be reflected in the name of a college football game? tomato soybeans sugar cane onion corn The satirical outlet The Onion has its eye on a bowl sponsorship deal — or at least on using it as a clever way to push subscriptions to its monthly print edition. Our story → 6 of 10 A major TV network had disappointing ratings on Election Night, averaging only 2.8 million viewers in prime time. Which one? CBS NBC MS NOW ABC CNN CBS Broadcast Center in Manhattan, March 22, 2026. […]",
-      "source": "Nieman Lab"
+      "id": "7393 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Annual Report 2025-26",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/annual-report-2025-26",
+      "published": "Mon, 02 Nov 2026 10:31:57 +0000",
+      "summary_raw": "Annual Report 2025-26 Annual Report 2025-26 Highlights from the work of the Reuters Institute in the past academic year eduardo.suarez… Mon, 11/02/2026 - 10:31 Overview Our latest Annual Report covers our activities over the past academic year, including the work of our research team, our editorial output, our Journalist Fellowship and our leadership development programmes. The document includes pieces from the members of our senior management team, the chair of our Steering Committee, Helen Boaden, and the CEO of our core funder the Thomson Reuters Foundation, Antonio Zappulla. […]",
+      "content_text": "",
+      "source": "Reuters Institute"
     },
     {
-      "id": "https://www.niemanlab.org/?p=254971",
-      "title": "Meta pulls down controversial terms of service",
-      "link": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/",
-      "published": "Thu, 05 Nov 2026 23:27:49 +0000",
-      "summary_raw": "Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: “We recently shared that we were...",
-      "content_text": "Meta has indefinitely delayed its proposed commercial terms of service, which would have permitted the company to scrape the websites of Meta Business account users. On Thursday, the company took down the preview link to the proposed terms and published an update to its Business Help Center that reads: “We recently shared that we were updating the Meta Commercial Terms, Product Catalog Terms, Self-Serve Ad Terms, and Ad Creative Generative AI Terms. These updates are now paused and will not take effect on November 20, 2026. We are continuing to consult with stakeholders and will provide a further update when we have more to share. In the meantime, our existing terms remain in effect.” Meta’s controversial terms October 15 Meta’s new commercial terms will allow the scraping of news sites, legal experts say October 17 Legal experts warn Meta’s new terms still grant broad scraping permissions, despite language changes October 21 U.K. politicians and German publishers call on regulators to pause Meta’s new terms before October 30 deadline October 22 Publishers pressure Meta to nix new terms that would let the company scrape their websites October 26 Meta delays rollout of terms that would allow broad scraping of news sites. Legal experts are still skeptical. October 27 “A gross abuse of Meta’s power”: California senator Adam Schiff tells Meta to scrap its new terms of service October 28 Meta pledges to consult publishers before finalizing its new terms November 5 ★ Meta pulls down controversial terms of service Meta confirmed the indefinite delay in a statement to Nieman Lab. “We’re pausing the changes as we continue to engage with stakeholders and take our time to get this right,” said a spokesperson for the company. Meta — which owns Facebook, Messenger, Instagram, WhatsApp, and Threads — has repeatedly pushed back the terms’ effective date since Nieman Lab first reported on them on October 15. The terms were first set to take effect on October 30, sparking global outcry among news publishers, politicians, and trade organizations. On October 16, Meta removed the word “train” from its terms and limited the use of future scraped content to “advertising and business products.” On October 23, Meta moved the effective date back by three weeks to November 20. Last week, Meta pledged to consult news publishers and industry leaders ahead of putting new commercial terms into effect. “We’ve heard publishers’ feedback on our proposed ads and business terms update. We care deeply about our partners and do not plan to make policy changes without a full consultation with industry groups and leaders,” vice president of communications Andy Stone tweeted on October 28. […]",
-      "source": "Nieman Lab"
+      "id": "https://wan-ifra.org/?p=123070",
+      "title": "A-lehdet speeds up AI adoption with an in-house short video script creator",
+      "link": "https://wan-ifra.org/2026/11/a-lehdet-speeds-up-ai-adoption-with-an-in-house-short-video-script-creator/",
+      "published": "Mon, 09 Nov 2026 10:25:51 +0000",
+      "summary_raw": "The Finnish publisher’s custom-built tool streamlines the ideation phase in creating social media videos, helping print and digital journalists turn their articles into engaging short-form content.",
+      "content_text": "About the publisher : A-lehdet is a Finnish publisher best known for its portfolio of magazines that cover current affairs, living, design, health, culture and lifestyle. Beyond print, the group has diversified into digital media, influencer marketing, and e-commerce. Founded in 1933 with the launch of its flagship periodical Apu, the company remains family-owned to this day. Streamlining social video production As news publishers increasingly use social media for video distribution, many newsrooms face new challenges that are upending traditional workflows. From writing to editing, the process of creating video content can add pressure on an already busy newsroom, particularly if the publisher has little background or few resources dedicated to video production. This was the issue that Milla Kukkonen decided to work on during her participation in NextGen AI Leaders , a WAN-IFRA programme in partnership with the Google News Initiative. The programme is designed to help young media leaders reach the next stage in their careers through responsible AI deployment and strategic leadership. In her job as Executive Producer at A-lehdet, Kukkonen has seen how much work transforming an article into a short-form video represents. A particular challenge she had identified was coming up with a strong “hook” that distils the article into an interesting question and captures the viewer’s attention from the start. Using Google AI Studio, she began working on a video scripting assistant, also involving her colleagues in the editorial department for their feedback. A working prototype was already finished before the NextGen AI Leaders programme ended. “It was energising to see how quickly you can create things,” she said. Finding the right opening Kukkonen’s solution allows users to upload their source material (an article or an interview) and generates suggestions on how a video script based on it could be structured, including an attention-grabbing opening. More broadly, mobile video is playing an increasingly important role in A-lehdet’s content strategy, and the new tool supports this by simplifying the process of journalists producing their own videos. The publisher also works with a wide roster of freelancers, and the tool makes it easier to turn externally created articles into videos for social media distribution. “Our aim is to increase mobile video production so that all writers can independently create videos. That’s the need I wanted to address with this tool: to help people script, edit and publish videos on their own,” Kukkonen said. She developed the initial prototype using Google AI Studio, but its features have now been transferred into ChatGPT, bringing them into the AI environment that is used across the company. Screenshot: Kukkonen’s first prototype of the scripting tool app was created using Google AI Studio. […]",
+      "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.niemanlab.org/?p=254919",
-      "title": "With “Bimbo University,” Nikita Redkar leans into femininity to explain the news",
-      "link": "https://www.niemanlab.org/2026/11/with-bimbo-university-nikita-redkar-leans-into-femininity-to-explain-the-news/",
-      "published": "Thu, 05 Nov 2026 21:03:35 +0000",
-      "summary_raw": "For Nikita Redkar, a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She’s wearing a white tube...",
-      "content_text": "The data is in : News creators and influencers are a major source of news for Americans, especially people under 30. This is the latest edition of Creators of Record , an occasional series of interviews with popular creators about how they do their jobs. For Nikita Redkar , a big part of filming a video is putting together an outfit. In a July video about youth-led protests in India, the 33-year-old is walking around New York City explaining how movements grow when people with opposing views come together on the things they do agree on. She’s wearing a white tube top and black jeans with sunglasses holding her hair back, along with a matching gold necklace and earrings that look like soda can tabs. You can’t see her shoes, but they clack enough for you to know she’s wearing a heel. In another about comedian Shane Gillis’s Saturday Night Live monologue in which he called women “whores” for wearing shorts to the gym, she’s seated on the floor of her living room wearing a black silk velvet top with a pink faux-fur collar and sleeve cuffs. In the style of a Get Ready With Me video, she explains how 2000s comedy and pop culture entrenched misogynistic ideas of gender roles while applying her makeup. A full-time news creator who mostly focuses on American politics and culture through a leftist and feminist lens, Redkar calls herself a “professor at Bimbo University.” The girliness is the point, she told me. “I want to show that you don’t have to sacrifice these parts of yourself to be taken seriously,” Redkar said. “You should be taken seriously no matter what.” Four years into news content creation, Redkar has more than 943,000 TikTok followers, 674,000 Instagram followers, 33,000 YouTube subscribers , and 16,000 Substack subscribers. (Her handle on all of them is @nikitadumptruck.) She aims to explain issues in a way that’s funny and accessible — whether she’s attending protests outside the United Nations ( “Get ready with me to bully Netanyahu” ), traveling through Europe ( “Spend the day in socialist hellhole Denmark with me” ), or explaining the negative impacts of private equity companies ( “A private equity boyfriend is this summer’s hottest accessory” ). Redkar and I chatted in October about how she does her job, leaning into her femininity to explain the news, and what her relationship with social media is like. Our conversation has been edited for length and clarity. Hanaa’ Tameez : How did you start creating news videos? Nikita Redkar : I started in 2022, kind of accidentally. I did standup comedy for five years before the pandemic. I was always doing political humor. I took many political science classes in college, I wrote for the college newspaper, and I always had an interest in politics. In 2022, I had a video that really took off — like millions of views within a few hours. I was explaining the Russian invasion of Ukraine with a silly metaphor about Russia being a jealous ex that doesn’t want to see his ex thrive and be independent. […]",
-      "source": "Nieman Lab"
+      "id": "https://wan-ifra.org/?p=123085",
+      "title": "Reuters Institute’s Nic Newman on where publishers are seeing growth",
+      "link": "https://wan-ifra.org/2026/11/reuters-institutes-nic-newman-on-where-publishers-are-seeing-growth-now/",
+      "published": "Mon, 09 Nov 2026 09:07:42 +0000",
+      "summary_raw": "\"Any discussion about monetisation needs to recognise that the way people are accessing news these days is changing. And what people value is also changing,\" says Nic Newman.",
+      "content_text": "Today, many traditional news publishers are “really rethinking a lot of fundamental things and less about pure reach and more about relationships – about how you build loyalty,” said Newman, Senior Research Associate at Reuters Institute for the Study of Journalism at Oxford University. News publishers as a whole have seen substantial growth in their subscription businesses during the past decade, and subscription revenue remains a top priority for many. However, “now, we’re in this what you might call a ‘subscription shelf,’ and many publishers are feeling this,” he noted. As a result, today, the focus is increasingly about delivering value, he said, and the questions are along the lines of “how do you build that value in different ways? How do you retain your subscribers by putting more value in? That’s why we’re seeing more bundling, combination of news and lifestyle content being one strategy for that.” Likewise, if publishers are now reaching their likely peak subscriber numbers, then how can they get more out of those subscribers? “One of the things that we see is putting in more premium layers, and trying to increase that average revenue per user (ARPU),” Newman said. WAN-IFRA Members can replay this session and others from Digital Media Europe on our Knowledge Hub. The rise of aggregators and fandom When looking at the overall market of what subscribers are paying for, there are some areas that are clearly increasing, Newman noted. “Firstly the rise of aggregators. And I think that with AI, we will probably see more aggregators as well. Things like Apple News playing an increasingly important role in countries like the UK, Canada, the United States and Germany as well,” he said. A lot of the growth that Reuters Institute is seeing now is around products like video podcasts and newsletters “as businesses in their own right,” such as ones coming from individual Substackers. In addition, “some of the new models are more about fandom. They’re more about shows, putting the talent at the heart and then around that core proposition, you can then build out these different out-puts.” Take Goalhanger for example. “Goalhanger started as a podcast company. It doesn’t call itself a podcast company any more: it does audio, it does video, it does TV. They’re investing in text. They’re investing in newsletters. And then around that, all of these different revenue models: Membership, licensing, brand partnerships. And it’s not an either-or, it’s all of those things together, including ticket sales,” Newman said. In September, Goalhanger organised a large festival at the Southbank Centre in London. Nearly two dozen sessions featured the company’s “hosts coming together and really building those relationships. And making significant amounts of money, too.” Originally a podcast company, Goalhanger has evolved to working in a variety of ways, including events: “They’re really building around that talent and the outputs,” Newman said. […]",
+      "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.niemanlab.org/?p=254917",
-      "title": "The Onion’s new plan to market its print newspaper: sponsoring a bowl game",
-      "link": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
-      "published": "Thu, 05 Nov 2026 20:39:06 +0000",
-      "summary_raw": "College football already has an Orange Bowl, a Peach Bowl, and a Citrus Bowl, so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bumper crop, à la the Famous Idaho Potato Bowl. Instead it would market “America’s Finest News Source,”...",
-      "content_text": "College football already has an Orange Bowl , a Peach Bowl , and a Citrus Bowl , so on its face, there’s nothing outlandish about the concept of an Onion Bowl. But this matchup wouldn’t be titled to evoke some locale’s bumper crop, à la the Famous Idaho Potato Bowl . Instead it would market “America’s Finest News Source,” The Onion . (Today’s top headlines: Bain Capital Acquires Tibetan Buddhism For $35 Million ; Abdul El-Sayed Makes History As First Physically Healthy Senator ; Chuck Schumer Delivers Victory Speech To Previously Enthusiastic Crowd .) On Thursday morning, Onion CEO (and past Nieman Lab contributor ) Ben Collins announced the publication’s quest to buy naming rights for a bowl game, both on Bluesky and on the podcast Pablo Torre Finds Out : Some VERY big, fun news: The Onion is extremely close to buying an honest-to-goodness, Division 1 college football bowl series bowl game. Yes, we're trying to pull off The Onion Bowl. A few days before Christmas, potentially in Texas. But we've already been banned once. And we need your help. [image or embed] — Ben Collins ( @bencollins.bsky.social ) November 5, 2026 at 8:32 AM For those unfamiliar, American college football seasons traditionally end with a few dozen bowl games, scattered around the country (and occasionally outside it ). Nearly all of these games sell naming rights to one company or another, leading to fun combinations like the Poulan Weed Eater Independence Bowl, the TaxSlayer.com Gator Bowl, and the Union Home Mortgage Gasparilla Bowl. Collins wants to buy the rights to one of the several bowl games that are still without a sponsor for their games next month. This absurdity — though no more absurd, I suppose, than the Snoop Dogg Arizona Bowl presented by Gin & Juice by Dre and Snoop — serves as the excellent marketing hook to get people to buy a $75/year print subscription , a major driver of The Onion’s revenue. “We are a just a few thousand subscribers away from hitting 100,000 subscribers, which would catapult us above Jeff Bezos’ Washington Post in print circulation,” Collins wrote . “This would make us the 4th biggest newspaper in the United States. So we need more people to sign up before Christmas.” Indeed, only three U.S. newspapers have a daily print circulation over 100,000 — The Wall Street Journal, The New York Times, and the New York Post; The Washington Post and USA Today have already fallen below that line. (At the risk of being pedantic, though, The Onion appears in print monthly, not daily, making it a bit of an apples-to-oranges comparison. […]",
-      "source": "Nieman Lab"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1211789",
-      "title": "The stories that explain a historic election in America",
-      "link": "https://www.poynter.org/commentary/2026/best-journalism-midterm-elections-explainer/",
-      "published": "Fri, 06 Nov 2026 12:30:15 +0000",
-      "summary_raw": "What a week. On Tuesday, in what could be one of the most consequential elections in American history, voters turned a blue wave into a blue tsunami. The result: In […]",
+      "id": "https://www.poynter.org/?p=1211896",
+      "title": "CNN’s John King has seen a lot of elections. This one was different.",
+      "link": "https://www.poynter.org/commentary/2026/john-king-magic-wall-2026-midterm-results/",
+      "published": "Mon, 09 Nov 2026 12:30:15 +0000",
+      "summary_raw": "On Tuesday night, CNN’s John King stood in front of his Magic Wall at the network’s Washington, D.C., bureau. King worked his magic, calling up numbers from across the country. […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211777",
-      "title": "USA Today Co. blames AI for its revenue woes. It also sees AI as a solution.",
-      "link": "https://www.poynter.org/business-work/2026/usa-today-co-ai-use-advertising-video/",
-      "published": "Thu, 05 Nov 2026 22:05:26 +0000",
-      "summary_raw": "USA Today Co. — the largest newspaper chain in the country — reported a lackluster third-quarter performance Thursday, including a net loss, declining revenue and setbacks in the company’s goals. […]",
+      "id": "https://www.poynter.org/?p=1211882",
+      "title": "In a West Virginia county of 6,540, accountability journalism gets personal",
+      "link": "https://www.poynter.org/reporting-editing/2026/west-virginia-local-journalism-ethics-accountability-dan-parks/",
+      "published": "Mon, 09 Nov 2026 12:00:54 +0000",
+      "summary_raw": "Dan Parks is the founder and editor of Country Roads, a Substack publication that serves Tucker County, West Virginia. A couple of weeks before the midterm elections, he was facing […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211749",
-      "title": "Eighty years ago, America reimagined press freedom. It’s time to do it again.",
-      "link": "https://www.poynter.org/commentary/2026/america-new-blueprint-press-freedom-hutchins-commission/",
-      "published": "Thu, 05 Nov 2026 17:53:23 +0000",
-      "summary_raw": "After nearly two years of chaos, conflict and constitutional crises, American voters on Tuesday expressed their overwhelming dissatisfaction with the state of the union. Now, Democrats need to decide what […]",
+      "id": "https://www.poynter.org/?p=1211216",
+      "title": "Essential Skills brings next generation of newsroom leaders to Poynter",
+      "link": "https://www.poynter.org/news-release/2026/essential-skills-brings-next-generation-of-newsroom-leaders-to-poynter/",
+      "published": "Mon, 09 Nov 2026 12:00:10 +0000",
+      "summary_raw": "ST. PETERSBURG, Florida (November 9, 2026) — The Poynter Institute today announced the newest cohort of its Essential Skills for New Managers program, bringing together journalists and media professionals from […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211730",
-      "title": "Polls show Americans support voter ID. So why did some measures fail?",
-      "link": "https://www.poynter.org/fact-checking/2026/polls-show-americans-support-voter-id-so-why-did-some-measures-fail/",
-      "published": "Thu, 05 Nov 2026 11:30:14 +0000",
-      "summary_raw": "As Republican leaders have fought for stricter voter ID requirements in recent years, their refrain has been unwavering: This is a policy most Americans support. But on Election Day 2026, […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=259054",
-      "title": "Journalism came under attack during Brand trial and was vindicated by guilty verdict",
-      "link": "https://pressgazette.co.uk/news/journalism-came-under-attack-during-brand-trial-and-was-vindicated-by-guilty-verdict/",
-      "published": "Fri, 06 Nov 2026 13:49:10 +0000",
-      "summary_raw": "Defence barrister swore at Sunday Times reporter outside the courtroom.",
-      "content_text": "Russell Brand’s conviction for rape and sexual assault came about as a direct result of investigative journalism by The Times, Sunday Times and Channel 4’s Dispatches.",
-      "source": "Press Gazette"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=258975",
-      "title": "Piers Morgan production company moves into red but has big ambitions",
-      "link": "https://pressgazette.co.uk/publishers/broadcast/piers-morgan-uncensored-reports-3m-loss-after-leaving-news-uk-fold/",
-      "published": "Fri, 06 Nov 2026 10:17:18 +0000",
-      "summary_raw": "Wake Up Productions saw revenue fall by £11.6m after founder Piers Morgan's News UK exit.",
-      "content_text": "Piers Morgan’s Morgan’s Uncensored has ambitions to become a top five digital first newsbrand, despite his production company seeing a steep fall in revenue in 2025.",
+      "id": "https://pressgazette.co.uk/?p=259047",
+      "title": "UK online publishers report revenue decline despite subscription and display growth",
+      "link": "https://pressgazette.co.uk/media_business/uk-online-publishers-report-revenue-decline-despite-subscription-and-display-growth/",
+      "published": "Mon, 09 Nov 2026 11:03:29 +0000",
+      "summary_raw": "Subscription and display advertising revenues grew in Q2 2026.",
+      "content_text": "Digital revenue among a group of leading UK publishers fell for the second consecutive quarter in Q2 2026, following four consecutive quarters of growth.",
       "source": "Press Gazette"
     }
   ],
