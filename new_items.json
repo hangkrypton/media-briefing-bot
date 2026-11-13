@@ -1,105 +1,160 @@
 {
   "ai": [
     {
-      "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-      "published": "Wed, 11 Nov 2026 15:00:15 +0000",
-      "summary_raw": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "id": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "published": "Thu, 12 Nov 2026 18:00:50 +0000",
+      "summary_raw": "",
       "content_text": "",
       "source": "Google DeepMind Blog"
     },
     {
-      "id": "https://huggingface.co/blog/token-pooling",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "link": "https://huggingface.co/blog/token-pooling",
-      "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "id": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "published": "Tue, 10 Nov 2026 11:13:04 +0000",
+      "summary_raw": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "content_text": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "published": "Thu, 12 Nov 2026 19:07:35 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "link": "https://huggingface.co/blog/3d-lora-finetuning",
+      "published": "Thu, 12 Nov 2026 00:00:00 GMT",
       "summary_raw": "",
       "content_text": "",
       "source": "Hugging Face Blog"
     }
   ],
-  "tools": [],
+  "tools": [
+    {
+      "id": "https://www.natesilver.net/p/jd-vance-and-the-vp-curse",
+      "title": "JD Vance and the VP curse",
+      "link": "https://www.natesilver.net/p/jd-vance-and-the-vp-curse",
+      "published": "Thu, 12 Nov 2026 15:00:41 GMT",
+      "summary_raw": "If you’re the VP to an unpopular president, the rest of your career usually doesn’t go well. Plus, a post-midterm Republican primary draft on Still Counting EP12.",
+      "content_text": "Incoming Vice President JD Vance with outgoing Vice President Kamala Harris at Trump’s inauguration on Jan. 20, 2025. Anna Moneymaker/Getty Images. We’re back to our regular schedule for Still Counting after taping bonus episodes last week and this weekend. 1 So this is our regular Wednesday episode. After considering how the extraordinary midterm landslide might affect Democrats’ 2028 plans , we turned to Republicans this time. Audio version here. Your reviews, comments, likes and subscribes are always appreciated. The context I won’t speak for Galen and Clare, but I found drafting the Republicans less fun than the Democrats. That’s partly because the field is top-heavy. The top three Republican contenders, deemed by prediction markets to be JD Vance, Marco Rubio and Ron DeSantis, together have about a two-thirds chance of being the nominee, leaving little win probability for anyone else. You could argue that’s miscalibrated, though for better or worse, it roughly tracks polls — which are more predictive than you might assume even at this stage — where Vance and Rubio are way ahead of anyone else, including DeSantis. But Vance’s odds have plummeted since Labor Day, when Democrats began to surge in midterm polls . I don’t think prediction market traders get everything right, but the notion that a bad midterm result for Trump might encourage voters to look beyond the vice president for a successor seems sound enough. DeSantis has been the biggest recent riser, meanwhile. I guess the thinking here is that he’s still MAGA-y enough to get away with criticizing Republicans while offering some degree of proven electoral performance and not being directly tied to the deeply unpopular administration . His poor performance in the 2024 nomination race raises the question of whether his 2022 popularity surge was an artifact of COVID plus the fact that Florida has now become really red . Overall, though, the field has opened up, with Vance and Rubio going from a 70 percent combined chance of being the nominee to just under 50 percent now. Subscribe now But I’m not here to talk about DeSantis or the rest of the field. Instead, let’s consider the vice president, whom we’ve sparsely covered at Silver Bulletin. Vance issued his own election post-mortem , which placed almost all of the blame directly or indirectly on the Iran War, where he’s made his disagreements with Trump known through frequent leaks to the press. Some conservatives have started to question whether Vance should even run in 2028 . Unlike the Democratic nomination, the GOP nod in two years is perhaps not all that desirable. Unless President Trump’s dismal approval ratings improve, the election figures to be an uphill battle for Republicans. Meanwhile, the filtering effect of having to implicitly or explicitly receive Trump’s seal of approval has squashed intellectual diversity in the party. […]",
+      "source": "Nate Silver"
+    }
+  ],
   "market": [
     {
-      "id": "https://www.poynter.org/?p=1212147",
-      "title": "Face the changes: Two top leaders are leaving CBS News’ ‘Face the Nation’",
-      "link": "https://www.poynter.org/commentary/2026/mary-hager-leaves-cbs-face-nation/",
-      "published": "Thu, 12 Nov 2026 12:30:01 +0000",
-      "summary_raw": "There’s a big shakeup at CBS News as Mary Hager, senior executive producer of “Face the Nation,” prepares to leave the network after 35 years. Status’ Oliver Darcy broke the […]",
+      "id": "https://wan-ifra.org/?p=123414",
+      "title": "The Independent accelerates its multimedia content strategy",
+      "link": "https://wan-ifra.org/2026/11/the-independent-accelerates-its-multimedia-content-strategy/",
+      "published": "Fri, 13 Nov 2026 07:10:07 +0000",
+      "summary_raw": "When The Independent decided to stop printing its newspaper in 2016 after years of declines in circulation and revenue, it was clear the London-based news brand was going all-in with digital. And with that came concerted investment to back its digital multimedia strategy – both to boost its visibility and revenue-generation potential.",
+      "content_text": "By Chris Sutcliffe That approach accelerated in 2020 with the launch of a standalone Independent TV section, and a monetisation-first approach to commissioning video content. At the time, Christian Broughton , then managing director and now CEO of The Independent, said the ambition was to offer a “full-on TV experience,” with the video content sitting across a variety of platforms, devices, and destinations. Since then, the team has continued to invest in multimedia capabilities. This investment spans tech, talent, and internal ambition. It is, says Broughton, driven by a recognition that content consumption habits in 2026 favour creators, and that all media is to some extent part of the “creator economy.” He cites the team’s investment in personality-led podcasts as an example of how The Independent is developing a multimedia strategy that rides that trend, with podcasts like “In The Room” that live and die on the personalities that host them. Notably, Broughton explains that the videos and podcasts being put out by the brand tend to highlight those personalities first and foremost, and the newsbrand itself second: “If you look at something like the World Cup, [we had] Adam Clery out there. Adam’s channel is really interesting: it’s Britain’s fastest-growing football analysis channel [and], it’s called ACFC. It’s the Adam Clery Football Channel, from Independent Studio.” The Independent’s podcasts like ‘ In The Room’ live and die on the personalities that host them. Investment in multimedia capabilities To achieve its aims around multimedia audience growth, The Independent has invested in the tech – including AI – that allows for a greater production capability. As a result of the investment in professional-grade studios and hardware, Broughton says that much of the actual editing process can be automated. This then allows for a wider proportion of staff in the newsroom to create audio and video that meets standards without necessarily having to be experts in editing or production. Broughton is keen to stress, however, that while he estimates around 80% of the process can be automated, the remaining 20% is vital, and that human oversight is necessary. “There’s a very accessible production route now in here as well, which means you can focus more on what you’re doing and why you’re doing it, rather than exactly how you’re doing it,” he said. Broughton explains that the focus on multimedia – set to see “a really substantial acceleration in this area for the next three years” – is also impacting roles within the organisation. While he highlights that much of the on-camera talent is drawn from the pool of reporters and correspondents, he also states that new skillsets, and new employees, are needed for multimedia content. He cites Clery again, who, as “originally a YouTuber,” brought a sensibility around how to present on that platform that was not necessarily present within Independent Studio’s existing team. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123458",
+      "title": "WAN-IFRA expresa su respaldo a AMI Colombia ante el aumento de las amenazas contra la prensa",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-expresa-su-respaldo-a-ami-colombia-ante-el-aumento-de-las-amenazas-contra-la-prensa/",
+      "published": "Fri, 13 Nov 2026 04:10:49 +0000",
+      "summary_raw": "WAN-IFRA, la Asociación Mundial de Editores de Noticias, expresa su pleno respaldo a su asociación miembro AMI Colombia, así como a los periodistas y medios de comunicación colombianos que enfrentan un clima cada vez más preocupante de amenazas y violencia.",
+      "content_text": "Según ha informado nuestra asociación miembro AMI Colombia , las alertas de seguridad provocaron la evacuación de las instalaciones de Caracol Televisión, Caracol Radio, RCN y Semana en Bogotá. AMI también ha denunciado las constantes amenazas y hechos de violencia contra periodistas en distintas regiones de Colombia, así como los señalamientos públicos dirigidos contra medios de comunicación y periodistas. Como señala la asociación, se trata de hechos de distinta naturaleza que invitan a una misma reflexión: ¿qué lugar le da Colombia a su prensa? AMI advierte que la estigmatización pública del periodismo y la violencia contra quienes lo ejercen, especialmente en las regiones, han alcanzado niveles alarmantes en los últimos años. Asimismo, señala que, según el Índice Chapultepec de la Sociedad Interamericana de Prensa (SIP), Colombia se encuentra entre los países que han registrado un mayor deterioro en sus indicadores de libertad de prensa. De acuerdo con las cifras de AMI, entre agosto de 2022 y julio de 2026 se registraron más de 2.000 ataques contra cientos de periodistas, incluidos diez asesinatos, cuatro de ellos ocurridos en 2026. En promedio, según la asociación, un periodista es amenazado cada dos días. La libertad de prensa y el derecho a la información no son privilegios de quienes ejercen el periodismo. Son garantías que pertenecen a los ciudadanos, quienes necesitan una diversidad de voces para comprender lo que sucede y formar su propio criterio. Cuando las amenazas contra periodistas y medios de comunicación generan un clima de intimidación que conduce a la censura y la autocensura, es la sociedad en su conjunto la que más pierde. WAN-IFRA se suma al llamado de AMI Colombia a las autoridades colombianas para que: Adopten políticas públicas concretas que protejan el ejercicio del periodismo, mediante mecanismos de protección y garantías que trasciendan a los gobiernos de turno. Revisen el lenguaje que utilizan al referirse a los medios de comunicación y a los periodistas. Las palabras de quienes ejercen autoridad tienen un peso mayor que las de cualquier otro actor público y pueden contribuir a construir un clima de respeto hacia quienes informan a la sociedad o, por el contrario, fomentar un ambiente de desprecio hacia ellos. El pluralismo no se impone por decreto. Se cultiva cuando se reconoce la crítica como parte natural de la democracia y se comprende que la diversidad de voces fortalece tanto a quienes gobiernan como a quienes son gobernados. Una sociedad que respeta las distintas opiniones, promueve el pluralismo informativo y garantiza el libre ejercicio del periodismo es una sociedad más segura.",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123451",
+      "title": "WAN-IFRA stands with AMI Colombia as threats against the press escalate",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-stands-with-ami-colombia-as-threats-against-the-press-escalate/",
+      "published": "Thu, 12 Nov 2026 19:20:55 +0000",
+      "summary_raw": "WAN-IFRA, the World Association of News Publishers, fully supports its member association AMI Colombia and the Colombian journalists and media outlets who are facing a worsening climate of threats and violence.",
+      "content_text": "According to our member association AMI , security alerts led to the evacuation of Caracol Televisión, Caracol Radio, RCN and Semana in Bogotá. AMI also reports continuing threats and acts of violence against journalists in different regions of Colombia, and public statements targeting media outlets and reporters. As AMI points out, these are separate events, but they raise a common question: what place does Colombia give its press? AMI notes that public stigmatisation of journalism and violence against it, particularly in the regions, have reached alarming levels in recent years, and that the IAPA’s Chapultepec Index places Colombia among the countries where press freedom indicators have deteriorated the most. AMI’s figures show that more than 2,000 attacks were recorded against hundreds of journalists between August 2022 and July 2026, including ten murders, four of them in 2026. On average, according to AMI, a journalist is threatened every two days. Press freedom and the right to information are not privileges of the people who report the news. They are guarantees that belong to citizens, who need a diversity of voices to understand what is happening and form their own opinions. When threats against journalists and media outlets create a climate of intimidation that leads to censorship and self-censorship, society as a whole has the most to lose. WAN-IFRA joins AMI in calling on the Colombian authorities to: adopt concrete public policies that protect the practice of journalism, with protection mechanisms and guarantees that outlast any single government; reconsider the language they use about media outlets and journalists. The words of people in positions of authority carry more weight than those of any other public actor. They can build a climate of respect for those who inform society, or one of contempt. Pluralism cannot be imposed by decree. It grows when criticism is accepted as a normal part of democracy and a diversity of voices is understood to strengthen both those who govern and those who are governed. A society that respects differing opinions, promotes media pluralism and guarantees the free exercise of journalism is a safer society.",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255177",
+      "title": "Indonesia’s new copyright bill would force Google and Meta to pay to aggregate news",
+      "link": "https://www.niemanlab.org/2026/11/indonesias-new-copyright-bill-would-force-google-and-meta-to-pay-to-aggregate-news/",
+      "published": "Thu, 12 Nov 2026 21:52:25 +0000",
+      "summary_raw": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters. The bill does not distinguish between aggregation and republication. Tech platforms...",
+      "content_text": "On Wednesday, Meta, TikTok, and Google testified in the Indonesian parliament in opposition to a new copyright bill. The proposed law would require digital platforms to pay news publishers in Indonesia for aggregating and previewing their content, according to a new report from Reuters. The bill does not distinguish between aggregation and republication. Tech platforms would have to pay even when they surface news link previews or story snippets in their products, including AI search products. The law would also force platforms to compensate publishers when their journalism is used to train AI models. Any compensation would be paid through a state-run management organization, which would then distribute the funds to publishers. Platforms that don’t comply could face sanctions, including the loss of their local business permits. If the bill does pass, Indonesia would become the first country in Southeast Asia to formally fold AI into its copyright law. Social media and search engine companies have come out in force against the bill, with Google leading the campaign . Indonesia is a massive market for global digital platforms with roughly 230 million internet users . In 2023, Indonesia had the fifth-most Google users of any country in the world, with traffic reaching 4.42 billion searches. As of October 2026, 92% of internet users in Indonesia reported using WhatsApp, with Instagram and Facebook falling close behind at 84% and 79% respectively, according to We Are Social’s Digital 2027 report . On Wednesday, a Google official argued that the bill would limit access to news, according to Reuters. Berni Moestafa, Meta’s head of public policy in Indonesia, testified that if the bill is passed “publishers could lose readership traffic as well as potential advertising and subscription revenue.” Back in 2023, Canada passed the Online News Act, its own, albeit narrower law which required platforms like Google and Meta to pay publishers for sharing or linking to their content. Meta responded by blocking news links on Facebook and Instagram in Canada altogether.",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255089",
+      "title": "With event costs up and funding down, journalism organizations cancel conferences and cut staff",
+      "link": "https://www.niemanlab.org/2026/11/with-event-costs-up-and-funding-down-journalism-organizations-cancel-conferences-and-cut-staff/",
+      "published": "Thu, 12 Nov 2026 18:09:18 +0000",
+      "summary_raw": "When the pandemic forced conferences to go virtual, the question was whether people would come back in person post-Covid. For a while, they did. For a couple years after the pandemic, people were excited to be in person together again. U.S. journalism organizations saw their revenue climb, as sponsors and funders spent generously. At the...",
+      "content_text": "When the pandemic forced conferences to go virtual, the question was whether people would come back in person post-Covid . For a while, they did. For a couple years after the pandemic, people were excited to be in person together again. U.S. journalism organizations saw their revenue climb, as sponsors and funders spent generously. At the end of 2026, though, the situation is less rosy. Combine surging jet fuel prices, inflation, media companies cutting costs, and declining sponsor and funder dollars, and the future appears grim not just for journalism conferences but, in some cases, for the organizations behind them. Journalism organizations’ revenue, 2019–2025 Revenue is the total revenue line on each organization’s IRS Form 990. The 990s are from ProPublica’s Nonprofit Explorer. ONA’s 990 for 2025 was not available as of November 12, 2026. The Online News Association said on Tuesday that it is “pausing” its 26-year-old conference and laying off its five staffers . “Before the pandemic, the annual conference was ONA’s biggest source of revenue, and together with grants, it sustained the organization. This is no longer true,” Niketa Patel wrote. “The costs of large convenings have climbed sharply while professional development and sponsorship budgets have shrunk.” LION Publishers said in September that it’s getting out of the large conference business for now. “Philanthropy is famously fickle, and funding priorities have shifted, making this kind of conference a very tough lift,” executive director Chris Krewson added. LION barely broke even on the conferences it held in 2025 and 2026, Krewson told me. The organization may still hold smaller events next year, it’s not cutting staff or programming, and it’s expanding its Audit program . But it “won’t be taking on the responsibility for an independent event at a hotel with a food and beverage minimum and hotel room block for 400-plus people.” “Every dollar I spend on rubber chicken dinners and microphones/WiFi for three days is money I can’t spend on programs that make publishers’ businesses stronger,” Krewson said. OpenNews said in October that it’s switching into “emergency mode” 1 and cutting back on “work that distills journalism craft: no more community calls or Source articles for at least the rest of 2026 and maybe longer.” The future of OpenNews’s annual conference, SRCCON , is uncertain. “We usually make our decision about SRCCON at about this time every year, but this year is different as we consider the news from both LION and ONA and the funding pressures that we know all too well,” Jessica Morrison , co–executive director of OpenNews, told me in an email. “We are opening a community conversation today — emails going out very soon — to gather input about SRCCON, our other programs, and where we go next with OpenNews.” The three-year-old Organization for Accessible Journalism said Thursday that it is shutting down. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255088",
+      "title": "“A government that ‘gets it’”: Canada recommits to federal funding for news",
+      "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+      "published": "Thu, 12 Nov 2026 17:00:42 +0000",
+      "summary_raw": "A Canadian program to place local reporters in underserved communities has lived from renewal to renewal. Publishers who relied on the Local Journalism Initiative couldn’t be sure whether the money would be there again. That changed last week when Canada proposed a federal budget that would make the Local Journalism Initiative permanent. The 2026 budget...",
+      "content_text": "A Canadian program to place local reporters in underserved communities has lived from renewal to renewal. Publishers who relied on the Local Journalism Initiative couldn’t be sure whether the money would be there again. That changed last week when Canada proposed a federal budget that would make the Local Journalism Initiative permanent. The 2026 budget would increase LJI funding to $134 million over four years with $41 million in annual ongoing funding after that. (Figures are, naturally, in Canadian dollars.) For the budget to be finalized, it must pass Parliament . With Prime Minister Mark Carney’s party in the majority, it’s expected to. Expanding the LJI is not even the biggest piece of federal help for newsrooms, according to Paul Deegan , president and CEO of the news industry advocacy group News Media Canada . The same budget extends a 35% tax credit on newsroom salaries through 2028 and opens it to radio and television newsrooms for the first time. The tax credit will cost $501 million over the next five years, according to the budget. Thanks to the Online News Act , Canadian newsrooms also get funding from Google. And then there’s Canadian investment in public media; the 2026 budget added $300 million over two years to CBC/Radio-Canada “to strengthen its capacity to meet the evolving needs of Canadians across the country.” I asked Deegan: How did Canadian publishers secure so much federal funding for news? “We have a government that ‘gets it,’” Deegan said. “They see what Big Tech monopolists have done to local news. They know the labor tax credit is the leading driver of maintaining and growing newsroom headcount.” There have been similar proposals and experiments in the United States, including a new tax credit in California . But Canada is much further down the road. The country can offer lessons on what it looks like when a federal government commits to supporting journalism. “The tax credit is the big one” The labor tax credit refunds 35% of a newsroom employee’s salary, up to $29,750 per journalist per year . The percentage had been scheduled to fall to 25% at the end of 2026. “In terms of employing the [largest] number of journalists and keeping newsroom employment stability, the labor tax credit is number one,” Deegan said. There’s also the Online News Act which has brought in $100 million of Google money annually. Of that amount, $63 million is set aside for news publishers. (Meta blocked news on Facebook and Instagram in Canada rather than pay under the Online News Act.) Publishers receive around $17,000 per journalist per year. “That’s about $47,000 per journalist per year from those two measures,” Deegan said. “That just makes a massive, massive difference.” In the U.S., some ideas for funding local journalism have been criticized as helping large chain newspapers — including chains that have hollowed out local newsrooms for years. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212173",
+      "title": "Here’s what a Democratic-controlled Congress could do to protect press freedom",
+      "link": "https://www.poynter.org/reporting-editing/2026/democrats-house-senate-press-freedom-trump/",
+      "published": "Fri, 13 Nov 2026 13:00:12 +0000",
+      "summary_raw": "Less than 48 hours after it became apparent that Democrats would take both chambers of Congress, Sen. Richard Blumenthal (D-Conn.) emailed the Federal Communications Commission, demanding records for an investigation […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212035",
-      "title": "National news outlets landed the biggest stories of the 2026 campaign. That’s a problem.",
-      "link": "https://www.poynter.org/commentary/2026/national-news-outlets-local-reporters-2026-election-scoops/",
-      "published": "Thu, 12 Nov 2026 12:15:37 +0000",
-      "summary_raw": "The two most important stories about the Senate race in Maine this year arguably involved revelations of alleged sexual misconduct by the Democratic candidate, Graham Platner, and allegations of corruption […]",
+      "id": "https://www.poynter.org/?p=1212224",
+      "title": "Longtime NBC Sports announcer Dan Hicks, dies suddenly. He was 64",
+      "link": "https://www.poynter.org/commentary/2026/dan-hicks-nbc-sports-dies/",
+      "published": "Fri, 13 Nov 2026 12:30:31 +0000",
+      "summary_raw": "Horrible news from the sports world. NBC Sports play-by-play voice Dan Hicks has died after what his family said was an acute illness. Hicks was 64. The husband of longtime […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211959",
-      "title": "How a Nashville newspaper is turning college students into editors and teenagers into reporters",
-      "link": "https://www.poynter.org/educators-students/2026/college-students-teach-high-school-journalism-nashville/",
-      "published": "Thu, 12 Nov 2026 12:00:14 +0000",
-      "summary_raw": "This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed. On the day she was interviewed for […]",
+      "id": "https://www.poynter.org/?p=1212111",
+      "title": "The local newsroom is disappearing. The news could pay the price.",
+      "link": "https://www.poynter.org/business-work/2026/local-newsrooms-disappearing-impact-on-journalism/",
+      "published": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "summary_raw": "This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. The Colorado Sun has built an award-winning newsroom — without a physical newsroom. Since […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212053",
-      "title": "What happened at Pete Hegseth’s first press conference in months",
-      "link": "https://www.poynter.org/commentary/2026/pete-hegseth-impeachment-press-conference-pentagon/",
-      "published": "Wed, 11 Nov 2026 12:30:53 +0000",
-      "summary_raw": "For a guy facing impeachment, Secretary of Defense Pete Hegseth isn’t exactly trying to get the media on his side. Before a press conference at the Pentagon on Tuesday — […]",
+      "id": "https://www.poynter.org/?p=1212184",
+      "title": "Scott Pelley says CBS has lost its credibility. A post-midterms about-face wouldn’t help.",
+      "link": "https://www.poynter.org/ethics-trust/2026/scott-pelley-cbs-news-midterm-results/",
+      "published": "Thu, 12 Nov 2026 18:52:40 +0000",
+      "summary_raw": "As the blue “tsunami” spurred by Democratic midterm wins crashed over the country, some questioned whether the media leaders who tried to appease President Donald Trump would do an about-face. […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1211747",
-      "title": "What journalist-creators know about trust that newsrooms don’t",
-      "link": "https://www.poynter.org/ethics-trust/2026/journalist-creators-media-trust-social-media/",
-      "published": "Wed, 11 Nov 2026 12:01:27 +0000",
-      "summary_raw": "For 19-year-old Shelby Moore, the news doesn’t usually come from a headline. It’s most often packaged within the 9:16 aspect ratio of a TikTok or Instagram Reel, where journalists like […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1211817",
-      "title": "What 33 journalists learned about leading AI adoption",
-      "link": "https://www.poynter.org/from-the-institute/2026/what-33-journalists-learned-about-leading-ai-adoption/",
-      "published": "Wed, 11 Nov 2026 12:00:43 +0000",
-      "summary_raw": "Some tech-savvy journalists are finding themselves in a new role: introducing AI into their newsrooms and persuading colleagues to get on board. It’s a big responsibility, especially when the technology […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://www.poynter.org/?p=1212016",
-      "title": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work?",
-      "link": "https://www.poynter.org/fact-checking/2026/ai-generated-political-ads-2026-midterm-elections/",
-      "published": "Wed, 11 Nov 2026 11:30:35 +0000",
-      "summary_raw": "For two election cycles, misinformation and election experts have wondered: Will content generated with artificial intelligence dominate races and mislead voters? Campaigns and their supporters still use conventional ads to […]",
-      "content_text": "",
-      "source": "Poynter Institute"
-    },
-    {
-      "id": "https://pressgazette.co.uk/?p=259118",
-      "title": "What I’ve learned: Mediahuis NI exec editor Martin Breen says ‘everyone has a story’",
-      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/what-ive-learned-mediahuis-ni-exec-editor-martin-breen-says-everyone-has-a-story/",
-      "published": "Thu, 12 Nov 2026 10:33:51 +0000",
-      "summary_raw": "Breen has worked as editor for Mediahuis titles since 2008.",
-      "content_text": "“Some of the best stories come from the most unexpected places and conversations,” says Martin Breen, executive editor at Mediahuis Northern Ireland.",
+      "id": "https://pressgazette.co.uk/?p=259151",
+      "title": "Robot local news reporter confuses Enfield, Connecticut, with North London",
+      "link": "https://pressgazette.co.uk/publishers/regional-newspapers/robot-local-news-reporter-confuses-enfield-connecticut-with-north-london/",
+      "published": "Fri, 13 Nov 2026 12:34:58 +0000",
+      "summary_raw": "Press Gazette has found six place-name mix-ups in AI-generated local news group.",
+      "content_text": "A network of seemingly AI -generated local news websites is confusing UK and US place names in its apparently robot-written reports.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259089",
-      "title": "Russell Brand trial: Video shows push 10m views but audio still ‘king’ says Mail podcast chief",
-      "link": "https://pressgazette.co.uk/podcasts/russell-brand-trial-video-shows-push-10m-views-but-audio-still-king-says-mail-podcast-chief/",
-      "published": "Thu, 12 Nov 2026 10:01:53 +0000",
-      "summary_raw": "Channel 4 and BBC Brand trial podcasts were biggest hits on Youtube.",
-      "content_text": "Five dedicated podcasts sprung up to cover the live trial of disgraced comedian and activist Russell Brand, reaching nearly ten million combined views on Youtube alone.",
+      "id": "https://pressgazette.co.uk/?p=259114",
+      "title": "John Barnes and Karl Weaver join William Reed top team",
+      "link": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/john-barnes-and-karl-weaver-join-william-reed-top-team/",
+      "published": "Fri, 13 Nov 2026 10:50:12 +0000",
+      "summary_raw": "The Grocer owner adds two newly-created roles to its senior leadership team.",
+      "content_text": "Family-owned UK B2B media business William Reed has added two new senior roles to its team as part of its strategy to invest in intelligence capabilities and deliver “sustainable growth”.",
       "source": "Press Gazette"
     }
   ],
