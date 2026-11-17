@@ -1,96 +1,114 @@
 {
-  "ai": [],
-  "tools": [
+  "ai": [
     {
-      "id": "https://www.natesilver.net/p/fighters-vs-uniters-and-the-big-blue",
-      "title": "Fighters vs. uniters and the big blue future",
-      "link": "https://www.natesilver.net/p/fighters-vs-uniters-and-the-big-blue",
-      "published": "Sun, 15 Nov 2026 15:09:04 GMT",
-      "summary_raw": "The Democratic base is in a fighting mood. But Democrats now have a bigger tent to hold together.",
-      "content_text": "Hillary Clinton and Barack Obama at their Jan. 31, 2008 debate in Los Angeles. David McNew/Getty Images. As you may know, I’m fond of finding different ways to classify Democrats. Usually, this concerns the party’s voters, but in a New York Times story out this morning , I turned to their candidates. I have no problem with dividing the candidates into progressives and moderate “lanes,” particularly if one recognizes it as a spectrum rather than a strict boundary. But after spending a bunch of time last week binge-watching videos, debates, press appearances, and ads from 27 Democratic candidates — 13 leading 2028 contenders, plus 13 candidates who made major breakthroughs on Nov. 3 1 , plus Zohran Mamdani 2 — I don’t think that really captures the whole story. Instead, there’s another distinction that I call “fighter” vs. “uniter.” Graphic by the New York Times; ratings by Nate Silver. It really does help to watch the candidates in action to see this. Some classifications are obvious. Gavin Newsom’s whole thing is to fight back by any means necessary. When it came to leading Democratic efforts to fight Republican redistricting, I thought that was smart . I could do without his Trump-style tweeting, but I can understand why some voters like it. While “fighter” is correlated with “progressive,” the relationship is far from perfect. I consider Zohran to be a hybrid of “fighter” and “uniter,” but he’s closer to the latter end of the spectrum and often finds a way to signal that he wants to be a mayor for all New Yorkers, including through his consummately well-presented appearance. Conversely, I expected Kentucky Gov. Andy Beshear to be fairly mild-mannered, and he often is, but look at him talking about JD Vance: There were a lot of cases like this. I classified only Kansas Sen.-elect Adam Hamilton as a pure uniter, a 7 on my 7-point scale. But you can watch someone like Mary Peltola get more and more worked up in her Oct. 15 debate against Dan Sullivan , for instance. In her opening statement, she described herself affably as a “lifelong Alaskan, a mother, a grandmother” — but by 10 minutes in, she’d gotten under his skin — and him under hers. “Dan, you should be ashamed of yourself for propagating these lies,” she said. Subscribe now I don’t want to preempt the NYT story too much, so go check it out . An undercurrent is simply how skilled some of the Class of 2026 are at communication. While James Talarico is perhaps the most obvious example of someone who can blend “fighter” and “uniter” styles, you’re seeing a lot of creative ways to bridge the gap, from Scott Colom’s use of humor to South Carolina Sen.-elect Annie Andrews playing the “I’m just a working mom and pediatrician” card in one commercial to some incredibly vicious attacks on the late Lindsey Graham (when he was originally her opponent) in another. […]",
-      "source": "Nate Silver"
-    },
-    {
-      "id": "https://wondertools.substack.com/p/podcast-episodes-worth-your-time",
-      "title": "9 Podcasts I’m Glad I Heard 🎧",
-      "link": "https://wondertools.substack.com/p/podcast-episodes-worth-your-time",
-      "published": "Sun, 15 Nov 2026 15:45:54 GMT",
-      "summary_raw": "Memorable conversations about time, money, creativity, and connection, plus how I save the best moments",
-      "content_text": "Today I’m sharing nine of my favorite recent episodes. 🎧 First, my podcast toolkit I listen with the Snipd app , which lets me mark favorite moments. I triple-tap my AirPods or Sony XM6 headphones to highlight an excerpt. ( Why I use Snipd .) Snipd then emails me a summary of my highlights. Readwise hosts my collected podcast notes along with everything else I’ve highlighted while reading online or on my Kindle. Later, I query my clips with Claude or ChatGPT, using the Snipd and Readwise connectors, known as MCPs. (Here’s how that works .) This approach helps me find passages I liked and pull quotes like the ones below. Share Subscribe now 1. Time Sensitive Host: Spencer Bailey Standout episode: Oliver Burkeman on the Power of Embracing Imperfectionism I love this podcast’s focus on time. Bailey picks thoughtful guests and asks probing, surprising questions. His thorough research leads to questions other interviewers wouldn’t think to pose. is one of my favorite contemporary authors. I’ve adopted ideas from each of his books and I make a point of listening to his podcast interviews. So I appreciated that this conversation with Bailey felt different, like the two were venturing into new territory. In addition to covering Burkeman’s early career writing for The Guardian , they discussed why we shouldn’t obsess over others’ requests for our time and how to make peace with imperfection. Bailey is the founder of The Slowdown , a collective of writers, editors, photographers and others focused on quality over quantity. Another great episode: Maria Popova on the role of chance in shaping our lives . The intro to the podcast sums up why Popova ’s such a good guest: “The Bulgarian-born, Brooklyn-based … founder of the ‘free, ad-free, A.I.-free, fully human’ website and newsletter The Marginalian , braids together literature, science, philosophy, poetry, and art...” 2. How I Work Host: Dr. Amantha Imber Standout episode: Feel Stuck in Small Talk? Daniel Coyle Shares the Questions That Create Real Connection I discovered Daniel Coyle through this episode of ’s great podcast. He overflows with useful ideas. One of his books, The Talent Code , explores how top performers excel. In a video I like, he summarizes some of its most interesting takeaways. In his conversation with Imber, Coyle offers practical ways to move beyond small talk: ask better questions, try small community rituals, and notice what gives people energy. Sponsored Message Tell Claude once. ChatGPT already knows. Tired of re-introducing yourself every time you start a new AI chat? MemoryPlugin gives ChatGPT, Claude and 20+ other AI tools one shared memory, so whatever you tell one, the rest already know. Wonder Tools readers: use code WONDER20 by Dec 1 to lock in 20% off any plan, for life. Lock in 20% off 3. Curious Minds at Work Host: Gayle Allen Standout episode: David Epstein on the Power of Limits references Dr. Seuss and Apple legend Tony Fadell. […]",
-      "source": "Wonder Tools (Substack)"
+      "id": "https://huggingface.co/blog/openrouter",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "link": "https://huggingface.co/blog/openrouter",
+      "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
     }
   ],
+  "tools": [],
   "market": [
     {
-      "id": "https://www.ire.org/?p=211241",
-      "title": "How reporters investigated pink slime news in small town Virginia",
-      "link": "https://www.ire.org/2026/11/16/how-reporters-investigated-pink-slime-news-in-small-town-virginia/",
-      "published": "Mon, 16 Nov 2026 07:04:00 +0000",
-      "summary_raw": "How reporters investigated pink slime news in small town Virginia By By Louis Hansen, The Virginia Center for Investigative Journalism at WHRO | Published November 16, 2026 The Shenandoah Valley city of Winchester, Virginia, is like many small communities in America — it’s lost its journalists. In Virginia, 80 counties are now considered news deserts,…",
-      "content_text": "How reporters investigated pink slime news in small town Virginia By By Louis Hansen, The Virginia Center for Investigative Journalism at WHRO | Published November 16, 2026 The Shenandoah Valley city of Winchester, Virginia, is like many small communities in America — it’s lost its journalists. In Virginia, 80 counties are now considered news deserts, with either one credible local news source or none. The local daily, The Winchester Star, recently cut staff, and the TV station has left town. Even the local university’s journalism program shut down. Enter the Winchester Gazette — and the town’s biggest mystery. The Gazette website launched in 2023 as a free alternative to the 130-year-old daily. The Gazette publishes daily stories about crime, government meetings and community events, some with the scent of AI text. It boasted of being the first website in the country to call the 2024 presidential election for Donald Trump. By one estimate, it had a monthly audience of about 11,000 visitors. Unlike traditional newsrooms, the Gazette’s stories carried no bylines. Its reporters, editors and owners remained obscured. Many community members had no idea about the who, what, when, where and why behind it. Our newsroom knew nothing about the Gazette. The Virginia Center for Investigative Journalism at WHRO is a small nonprofit covering statewide stories for the public media station in Norfolk. One quarter of the newsroom is writing this narrative. We received an email tip about a possible story in Winchester, and I forwarded it to two trusted freelancers, Jaysun Silver and Laura Thompson. The email tip led nowhere, but days later it turned up almost verbatim in the Winchester Gazette. Silver and Thompson wanted to know more about a site that would publish a rumor, whose editorial policies were at odds with mainstream journalism. We saw more than a local story. The decline of local reporting, the ease of AI content creation, a community conditioned on free content and wanting local news – that’s fertile ground to plant an opaque, partisan news site. This could happen anywhere. We had long conversations with Jaysun and Laura. I gave them a template for a project proposal. What’s the story in one sentence? What’s the potential impact? Why does it matter to readers? We had a call every week. Those weekly talks kept everyone focused, allowed us to prune dead ends, connect with sources and push ahead as the reporting led us in new directions. Jaysun and Laura FOIA’d city emails for correspondence with the Gazette. They found more than a dozen stories on the Gazette website labeled “exclusive interviews.” They called the subjects. Several told VCIJ they had never spoken with the Gazette, yet were quoted extensively. They found a former Gazette reporter, who shared her contract with the news site. The agreement included a non-disclosure clause that called for up to a $100,000 penalty for revealing the operations of the Gazette. […]",
+      "id": "https://www.ire.org/?p=211265",
+      "title": "Free, customized training from IRE is coming to Chicago newsrooms",
+      "link": "https://www.ire.org/2026/11/16/free-customized-training-from-ire-is-coming-to-chicago-newsrooms/",
+      "published": "Mon, 16 Nov 2026 17:53:22 +0000",
+      "summary_raw": "Nov 16, 2026 — Investigative Reporters & Editors (IRE) is pleased to announce that the organization has received a grant from Press Forward Chicago to support a new iteration of the Total Newsroom Training program based in Chicago, Illinois. The $76,934 grant from Press Forward Chicago is part of more than $2.8 million in funding…",
+      "content_text": "Nov 16, 2026 — Investigative Reporters & Editors (IRE) is pleased to announce that the organization has received a grant from Press Forward Chicago to support a new iteration of the Total Newsroom Training program based in Chicago, Illinois. The $76,934 grant from Press Forward Chicago is part of more than $2.8 million in funding for 18 news organizations, journalism support organizations, and universities in the city. “Newsrooms in Chicago are setting the standard for how journalism can and should be done,” said Jonathan Kealing, IRE’s executive director. “We’re excited to bring IRE’s investigative reporting training and a new model for newsroom support to Chicago to help accelerate the good work being done in those newsrooms. We’re grateful to Press Forward Chicago for investing in the craft of investigative reporting.” More details on how to apply to this program will be available soon. This grant follows IRE’s Total Newsroom Training program, which has trained more than 100 newsrooms across the country over the course of a decade. IRE is a grassroots nonprofit organization that seeks to improve the quality of investigative reporting. The organization began in 1975 after a small group of reporters from around the country gathered to share tips about reporting and writing. Today, it provides members access to thousands of reporting tipsheets and other materials through its Resource Center and hosts conferences and specialized training across the country.",
       "source": "IRE (Investigative Reporters & Editors)"
     },
     {
-      "id": "https://wan-ifra.org/?p=123473",
-      "title": "Why The Times of India sees value in focusing on an ‘Adult Renaissance’",
-      "link": "https://wan-ifra.org/2026/11/why-the-times-of-india-sees-value-in-focusing-on-an-adult-renaissance/",
-      "published": "Mon, 16 Nov 2026 10:39:48 +0000",
-      "summary_raw": "While news publishers mull over how to crack the Gen Z market, Mohit Jain, Chief Operating Officer of Bennett, Coleman & Co. Ltd., which publishes The Times of India, sounded a timely reminder not to ignore the Gen X audience.",
-      "content_text": "By Joon-Nie Lau “Old has gold” Jain proclaimed before going on to elaborate on why an “Adult Renaissance” is taking place and why print is still alive in some parts of the world, particularly in India. Citing a World Economic Forum survey during question period following his keynote at WAN-IFRA’s Asian Media Leaders Summit in Singapore in October, Jain said, “A Gen X spends about US$ 84,000 in the US and Gen Z spends half that,” emphasising the high disposable income that this demographic at the peak of their careers has. The AI of distribution For this media powerhouse that prints the world’s largest English language daily, The Times of India (TOI), and world’s second most widely read English business newspaper, The Economic Times, the acronym “AI” takes on a whole new meaning. “The most significant part is where are we selling,” said Jain, explaining TOI’s concept of the “AI” (Affluence and Influence) of Distribution that sells nearly three million print copies a day. “Let’s say Mumbai. While we may have an 81 percent market share of the brand audience, we have 90 percent market share in a city like Mumbai of the premium audience, like the people who are making a change in society—the top 1 or 2 percent of the whole demographic.” This approach is replicated across key cities like New Delhi, Bangalore and Chennai where TOI’s relative share in affluent areas ranges from 67 to 90 percent, even though its market share vis-à-vis competitors ranges from 51 to 81 percent. Bridging video, podcasts and print To attract younger readers and drive stickiness, there are 43 city editions of Times of India Metro Supplements (TIMS) such as the Delhi Times, Bombay Times and Hyderabad Times, packed with food, fashion, fitness, family, travel and Bollywood happenings. It’s a trendy metro lifestyle franchise that attracts over 2.6 million daily readers and 6 million followers on social media. Jain highlighted TIMS’ new multimedia extension launched last year – the popular Bombay Times Lounge celebrity video and podcast talk show which bridges the print coverage of the Bombay Times city supplement with digital and social storytelling for omnichannel distribution. For TIMS, this is a major revenue diversification initiative, allowing brand partners and sponsors to integrate into premium editorial entertainment content across print and digital platforms. On the digital front, TOI runs one of the world’s largest digital news platforms. Its own first-party Google Analytics clocks over 300 million monthly active users (MAU), about 25 percent of whom are international, with readers from the United States, Canada and the United Kingdom among its largest foreign audiences. […]",
-      "source": "WAN-IFRA"
+      "id": "https://www.ire.org/?p=211248",
+      "title": "IRE Voices: Cassandra Jaramillo reflects on 10 years of reporting and IRE’s impact",
+      "link": "https://www.ire.org/2026/11/16/ire-voices-cassandra-jaramillo-reflects-on-10-years-of-reporting-and-ires-impact/",
+      "published": "Mon, 16 Nov 2026 16:04:56 +0000",
+      "summary_raw": "IRE Voices: Cassandra Jaramillo reflects on 10 years of reporting and IRE’s impact \"I never thought I would be here, technically, as a reporter. I just found my way in journalism, fell in love with it, and couldn't get enough of it,\" says Cassandra Jaramillo, Pulitzer Prize-winning investigative journalist and longtime IRE member. \"I didn't…",
+      "content_text": "IRE Voices: Cassandra Jaramillo reflects on 10 years of reporting and IRE’s impact \"I never thought I would be here, technically, as a reporter. I just found my way in journalism, fell in love with it, and couldn't get enough of it,\" says Cassandra Jaramillo, Pulitzer Prize-winning investigative journalist and longtime IRE member. \"I didn't know when I was in college that I wanted to be an investigative reporter, but I had the instincts of an investigative reporter.\" Jaramillo got her bachelor's degree in journalism at the University of Texas at Austin. She has reported from her home state since 2016, when she joined The Dallas Morning News. In 2021, she worked for The Center of Investigative Reporting, and in 2022 joined ProPublica as an investigative reporter. Since then, she has illuminated the harsh realities of maternal healthcare and Texas's abortion bans. Jaramillo and her team have drawn, and continue to draw, attention to the real cases that are too often treated as hypotheticals. In 2025, Jaramillo and her team won the Pulitzer Prize in Public Service for their investigation, \" Life of the Mother \". In the series, Jaramillo — as well as Kavitha Surana, Lizzie Presser and Stacy Kranitz — tells the stories of pregnant women who died after medical delays due to restrictive laws enacted after Roe V. Wade was overturned. In March 2025, partly in response to Jaramillo and her team's reporting, Republican lawmakers in Texas proposed amending the abortion ban to clarify that doctors can terminate pregnancies for serious medical risks—before the mother's life is threatened. This followed a public letter, signed by 111 Texas doctors, urging a change to the ban. Members of the House of Representatives' Committee on Oversight and Accountability also \"demanded\" a briefing from Texas's health department explaining how and why its maternal mortality review committee failed to examine two years of deaths, including cases Jaramillo's team reported. Her work is impactful, and heavy. \"I've always thought about the work as almost running a marathon,\" Jaramillo says. \"...[Sometimes] I'm thinking, 'I don't know if I'm going to pull off the story'—or, 'I'm now so deep into it, it's going to need to, like, happen,' right? Like there's no choice for failure, almost.\" She has honed her skills through experience, and mentorship with IRE. As an Ida B. Wells Society Fellow from 2018-19, Jaramillo attended IRE's annual conference. There she met her first mentor, Trish Callahan, at the IRE Mentorship Breakfast (sponsored by the Society that year). \"[Mentorship] has been such an important motivation to, like, stick with this,\" says Jaramillo, \"and to think 'Okay, my mentor sees something in me that I don't necessarily see, but you know, while I can still do this work, I'm going to keep doing it.'\" From her current position in nonprofit news, she's watched layoffs sweep local news in nearly every state. […]",
+      "source": "IRE (Investigative Reporters & Editors)"
     },
     {
-      "id": "https://www.poynter.org/?p=1212404",
-      "title": "A wild weekend of travel delays, explanations and excuses",
-      "link": "https://www.poynter.org/commentary/2026/flights-grounded-united-states-trump/",
-      "published": "Mon, 16 Nov 2026 12:30:57 +0000",
-      "summary_raw": "Air travel across the country continues to improve following the sudden and unexpected grounding of all flights for about four hours on Friday. The New York Times’ Bernard Mokam reported […]",
+      "id": "https://www.niemanlab.org/?p=255227",
+      "title": "NPR makes fixing its app a key priority in its new strategic plan",
+      "link": "https://www.niemanlab.org/2026/11/npr-makes-fixing-its-app-a-key-priority-in-its-new-strategic-plan/",
+      "published": "Mon, 16 Nov 2026 20:01:56 +0000",
+      "summary_raw": "Over the next two years, NPR will address a longstanding listener plea: improving its app. During a November 12 board of directors meeting, NPR CEO Katherine Maher said the organization will rebuild its digital offerings to be a “service-first, app-first destination” as part of NPR’s 2027-2029 strategic plan, Current reported on Thursday. One goal of...",
+      "content_text": "Over the next two years, NPR will address a longstanding listener plea: improving its app. During a November 12 board of directors meeting, NPR CEO Katherine Maher said the organization will rebuild its digital offerings to be a “service-first, app-first destination” as part of NPR’s 2027-2029 strategic plan, Current reported on Thursday. One goal of the plan is to reach “five million weekly active users on its platforms by 2029” and “to build a monthly engaged digital audience of 40 million.” According to Current, Maher said that the NPR network — which includes more than 200 member radio stations — currently reaches 39 million weekly listeners across broadcast and digital, but the “total potential addressable audience, weekly consumers of news, information and culture who are open to our work, is roughly 153 million Americans. That is nearly four times our current reach.” In Apple’s App Store, NPR’s app has a 4.7-star rating and more than 78,000 reviews, of which the majority are positive. But reviewers have quibbles. [img] [/img] [img] [/img] [img] [/img] [img] [/img] Bryan Moffett , NPR’s senior vice president of transformation, said NPR+ , the broadcaster’s subscription program, brought in $8 million in the 2026 fiscal year, up from $5.5 million in 2025. (NPR+ is available with a donation of $8 a month or more, and offers perks like podcasts without ads.) Maher said new investment in the app will help reach younger audiences and shift NPR’s “median audience age from 60-plus toward 40-plus.” “We love radio, but we have been so wildly successful there that we’ve largely exhausted its further financial growth,” Maher told the board. “And as it shrinks, we must invert our revenue engine to ensure sustainability across all of our platforms, including radio, but to build a wider funnel through digital offerings, third-party platforms, and new investments in marketing and communication that will tell our story and share our value with the world.” Overhauling the app is just one part of NPR’s strategy to keep up with users’ changing consumption preferences. In September, Sarah Scire reported on the broadcaster leaning into video podcasts with the acquisition of Kevin Roose and Casey Newton’s technology podcast Machine Gods . NPR chief operating officer Ryan Merkley told Current in June that NPR was already working on redesigning the app to better serve member stations and their listeners. “Fix the app,” departing public editor Kelly McBride told NPR leaders during the meeting. “It’s not a great experience for the audience and it’s key to moving forward, but you guys seem like you’re on it. So I won’t dwell on that.” Nieman Lab requested a copy of the approved strategic plan but did not receive it by publication time. Read the full story in Current here .",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255218",
+      "title": "Traffic is declining for local newspapers. Here are some things that helped small publishers make gains.",
+      "link": "https://www.niemanlab.org/2026/11/traffic-is-declining-for-local-newspapers-here-are-some-things-that-helped-small-publishers-make-gains/",
+      "published": "Mon, 16 Nov 2026 16:49:01 +0000",
+      "summary_raw": "We’ve now been publishing roundups of local newspaper traffic for a full year, so we can compare this year’s traffic to last year’s. Almost across the board, local newspapers are seeing traffic decline as Google referrals drop. For July, August, and September, traffic to the most-visited sites is lower than at this time last year,...",
+      "content_text": "We’ve now been publishing roundups of local newspaper traffic for a full year, so we can compare this year’s traffic to last year’s. Almost across the board, local newspapers are seeing traffic decline as Google referrals drop . For July , August, and September , traffic to the most-visited sites is lower than at this time last year, according to our Similarweb data. A good example is Advance Local’s Harrisburg Patriot-News, PennLive.com . Josh has written about Advance publications punching above their weight in traffic. They still are: Advance outlets like AL.com , Mlive.com , and NJ.com , among others, continued to feature prominently in the top sites by estimated monthly visits in July, August, and September. In August 2026, PennLive’s traffic growth stood out even among Advance peers; it gained 3.6 million visits in August compared to July, a 78% spike. But in total, PennLive saw a little over 8.2 million monthly visits for August 2026 — down from about 12.5 million in August 2025. Still, publishers large and small are finding ways to bring more readers to their sites. In August, the Bozeman Daily Chronicle grew its traffic by about 96,000 monthly visits, a 49% jump. Managing editor Jack Reaney attributed the growth to the newspaper launching a new website Aug. 3 designed for improved functionality, with “fewer, more intentional news categories,” lighter page design for faster load times, and a more modern layout. The Chronicle is one of more than 150 newspapers owned by Adams MultiMedia . The parent company is rolling out the new website design across its newspapers, but Bozeman was the “guinea pig,” Reaney said. In Florida, Cape Coral Breeze , a small weekly, saw its traffic spike about 139% in August. The network of local weeklies has tried to adopt a daily, real-time mindset after decades of posting once a week, Breeze Newspapers publisher Ray Eckenrode told me. The August spike was driven by participation in Cape Coral Breeze’s “ Best of Cape Coral ” contest , where readers vote on favorite local businesses in more than 200 categories. According to the team’s internal count, a little over 150,000 “Best of” votes were cast this year, up from 92,000 last year. The team made an effort this year to “drive traffic to our homepage first to reach the contest voting page to expose some of those casual website users to our news coverage,” Eckenrode said, and had some success with that strategy. In September, The Cornell Daily Sun gained 1 million visits, almost a 500% jump from August, when it broke the story of the Cornell 7 lawsuit (and published an editorial naming the defendants). Other local news sites in New York also saw meaningful growth in September; traffic to NNY360.com jumped 84%, while the Gannett-owned Democrat and Chronicle gained about 762,000 visits, a 35% jump. On the opposite coast, the San-Jose-based Mercury News gained around 690,000 monthly visits in September, a 14% jump. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212465",
+      "title": "A big goodbye on ‘Morning Joe’ as Willie Geist prepares to leave MS NOW",
+      "link": "https://www.poynter.org/commentary/2026/willie-geist-leaving-morning-joe-nbc-news/",
+      "published": "Tue, 17 Nov 2026 12:30:26 +0000",
+      "summary_raw": "Mornings won’t be the same at MS NOW. Willie Geist — who has been a part of the network’s signature show, “Morning Joe,” for nearly two decades — is leaving […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212303",
-      "title": "How Ohio journalists exposed dangerous dog laws — and helped change them",
-      "link": "https://www.poynter.org/business-work/2026/ohio-investigation-dangerous-dog-laws-averys-law/",
-      "published": "Mon, 16 Nov 2026 12:00:09 +0000",
-      "summary_raw": "Michael Palmer was wary of Piper. The pit bull had attacked others in their Green, Ohio, neighborhood, so Palmer maintained his distance. Then, early one December day in 2022, the […]",
+      "id": "https://www.poynter.org/?p=1212462",
+      "title": "8 reasons you didn’t get the job, even after making it to the final interview",
+      "link": "https://www.poynter.org/business-work/2026/reasons-you-didnt-get-the-job-after-final-interview/",
+      "published": "Tue, 17 Nov 2026 12:01:42 +0000",
+      "summary_raw": "You prepared talking points about why you should get the role, researched the people interviewing you, ironed your nicest button-up shirt, asked friends to put in a good word and […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212394",
-      "title": "After standing up for his ‘60 Minutes’ colleagues, Scott Pelley wants to explore the ‘triumph of truth’",
-      "link": "https://www.poynter.org/reporting-editing/2026/scott-pelley-60-minutes-cbs-news-poynter-bowtie-ball/",
-      "published": "Mon, 16 Nov 2026 01:50:49 +0000",
-      "summary_raw": "Last week, the embattled “60 Minutes” scored a minor victory. Its interview with President Donald Trump had drawn praise from critics, a needed boost amid massive staff turnover and declining […]",
+      "id": "https://www.poynter.org/?p=1212448",
+      "title": "Poynter announces 30 journalists selected for inaugural Brain Health Reporting Fellowship",
+      "link": "https://www.poynter.org/news-release/2026/poynter-announces-30-journalists-selected-for-inaugural-brain-health-reporting-fellowship/",
+      "published": "Tue, 17 Nov 2026 12:00:10 +0000",
+      "summary_raw": "ST. PETERSBURG, Florida (November 17, 2026) — The Poynter Institute has selected 30 journalists for its Reporting on Brain Health & Research: A Poynter Fellowship, a fully funded, year-long program […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259164",
-      "title": "Top UK news providers of the last year recognised by British Journalism Awards",
-      "link": "https://pressgazette.co.uk/news/top-uk-news-providers-of-the-last-year-recognised-by-british-journalism-awards/",
-      "published": "Mon, 16 Nov 2026 10:57:43 +0000",
-      "summary_raw": "Eight organisations make 2026 News Provider of the Year shortlist.",
-      "content_text": "The British Journalism Awards has shortlisted eight organisations for the News Provider of the Year prize, sponsored by Postcode Lottery.",
+      "id": "https://www.poynter.org/?p=1212384",
+      "title": "Top business leaders at Poynter’s Tampa Bay Times to depart at end of 2026",
+      "link": "https://www.poynter.org/news-release/2026/top-business-leaders-at-poynters-tampa-bay-times-to-depart-at-end-of-2026/",
+      "published": "Mon, 16 Nov 2026 15:38:04 +0000",
+      "summary_raw": "ST. PETERSBURG, Florida (November 16, 2026) — The top two executives at the Tampa Bay Times will leave their roles at the end of the year, announced Neil Brown, chairman […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259193",
+      "title": "Dubious B2B sites suspected of using AI-generated reporters tell Press Gazette ‘prove you’re not a robot’",
+      "link": "https://pressgazette.co.uk/north-america/dubious-b2b-sites-suspected-of-using-ai-generated-reporters-tell-press-gazette-prove-youre-not-a-robot/",
+      "published": "Tue, 17 Nov 2026 11:12:07 +0000",
+      "summary_raw": "Articles appear to be largely written by AI, according to analysis using Made By Humans.",
+      "content_text": "Three linked B2B trade websites, apparently based in the US, have multiple reporters who appear to be AI-created fakes.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259167",
-      "title": "News diary 16-11 November: EU-UK smmit, Prince William attends Earthshot Prize Awards in India, I’m a Celeb returns",
-      "link": "https://pressgazette.co.uk/news/news-diary-16-11-november-eu-uk-smmit-prince-william-attends-earthshot-prize-awards-in-india-im-a-celeb-returns/",
-      "published": "Mon, 16 Nov 2026 10:26:18 +0000",
-      "summary_raw": "A look ahead at the key events leading the news agenda this week, from the team at Foresight News.",
-      "content_text": "Monday (November 16): Andy Burnham delivers foreign policy speech at the Lord Mayor’s Banquet; Andrew Griffith delivers annual Ronald Reagan lecture; EU foreign ministers meet to discuss military support to Ukraine.",
+      "id": "https://pressgazette.co.uk/?p=259180",
+      "title": "Daily Mail joins coalition of publishers taking on AI news scrapers",
+      "link": "https://pressgazette.co.uk/news/daily-mail-joins-coalition-of-publishers-taking-on-ai-news-scrapers/",
+      "published": "Tue, 17 Nov 2026 08:00:00 +0000",
+      "summary_raw": "The group will now play 'a major role' in shaping rules and standards for AI use.",
+      "content_text": "DMGT – owner of the Dail Mail, Metro, The i Paper and the New Scientist – has joined the coalition of major news publishers fighting back against AI scraping their content without consent.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259140",
-      "title": "Substack allows publishers to use customised themes",
-      "link": "https://pressgazette.co.uk/newsletters/substack-allows-publishers-to-use-customised-themes/",
-      "published": "Mon, 16 Nov 2026 09:20:29 +0000",
-      "summary_raw": "New tools to allow writers to personalise pages with seven themes available.",
-      "content_text": "Substack has launched seven new design themes in the “first of a series of improvements” to give publishers more control over their page appearance.",
+      "id": "https://pressgazette.co.uk/?p=259176",
+      "title": "Tech title Second Chapter aims to fill ‘gap’ in long-form tech journalism covering Europe",
+      "link": "https://pressgazette.co.uk/publishers/digital-journalism/tech-title-second-chapter-aims-to-fill-gap-in-long-form-tech-journalism-covering-europe/",
+      "published": "Tue, 17 Nov 2026 07:00:00 +0000",
+      "summary_raw": "Tiered subscriptions, events and sponsorships will fund journalism without ads.",
+      "content_text": "Newly launched European tech title Second Chapter aims to fill a gap in the market opened up by the closure of titles covering the UK and Europe by providing long-form coverage of medium-sized tech firms.",
       "source": "Press Gazette"
     }
   ],
