@@ -1,96 +1,268 @@
 {
-  "ai": [],
-  "tools": [
+  "ai": [
     {
-      "id": "https://www.natesilver.net/p/did-democrats-blow-it-in-florida",
-      "title": "Did Democrats blow it in Florida?",
-      "link": "https://www.natesilver.net/p/did-democrats-blow-it-in-florida",
-      "published": "Tue, 17 Nov 2026 21:04:34 GMT",
-      "summary_raw": "Democrats came close in the Sunshine State. But in a national blue tsunami, should they have done better?",
-      "content_text": "Angie Nixon speaking at a rally in Kissimmee, Florida. Joe Raedle/Getty Images. Eight years ago, Democrats retook the U.S. House, netting 41 seats and winning the national popular vote by 8.6 points in a textbook blue wave. But despite the rosy national environment, Republican Rick Scott narrowly defeated incumbent Democratic Senator Bill Nelson in Florida. In hindsight, that victory, on the heels of Donald Trump’s 2016 win in the state, was the harbinger of a death spiral for Florida Democrats that had begun years earlier. When I wrote about the Sunshine State back in February , the consensus from both prediction markets and the experts I spoke with was that Democrats were highly unlikely to win the state in 2026. After a decade of losses and underinvestment, it looked like it could take another ten years for Democrats to turn Florida purple again. The short-term goal of the Florida Democratic Party (FDP) was less “win the 2026 Senate race” and more “ get out of the superminority in the state legislature .” But back then, no one knew that 2026 would be a blue tsunami where Democrats would win the national popular vote by 13 points and net nine Senate seats. 1 And yet they still lost both statewide races in Florida. Almost immediately, people started posting post-election recriminations that if Democrats had spent more in Florida, they could have pulled off at least one win. So did Democrats blow a golden opportunity in Florida? Or is the state still too tough a target? That question should weigh on the party because in two short years, Ashley Moody will be up for re-election . Read more",
-      "source": "Nate Silver"
+      "id": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "published": "Wed, 18 Nov 2026 21:35:43 +0000",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Google DeepMind Blog"
     },
     {
-      "id": "https://www.natesilver.net/p/silver-bulletin-is-hiring-an-editor",
-      "title": "Silver Bulletin is hiring an editor and a developer",
-      "link": "https://www.natesilver.net/p/silver-bulletin-is-hiring-an-editor",
-      "published": "Tue, 17 Nov 2026 15:12:05 GMT",
-      "summary_raw": "Here’s how to apply.",
-      "content_text": "Silver Bulletin is hiring a Deputy Editor and an Associate Interactive Developer . The Deputy Editor is a full-time role for someone with editing experience in journalism or a closely related field and a strong interest in our major beats, which include politics (especially elections), sports, and AI. We envision the Associate Interactive Developer role as initially part-time and open to candidates early in their careers. We would consider a full-time and/or more experienced hire for an exceptional candidate who can persuade us of the value they’d bring to the site. The deadline to apply for both positions is 5 p.m. ET on Friday, December 18. We’ll begin reviewing materials and interviewing candidates in early January and don’t expect to contact applicants before the deadline. Interviews will be conducted by video or in person. Even if the jobs aren’t a good fit for you, we’d encourage you to circulate these listings to people who might be interested. Silver Bulletin is an equal opportunity employer. We welcome applicants from all backgrounds provided they are eligible to work in the United States. Silver Bulletin is growing as a business and maturing as a site. Our newsletters and models typically reach hundreds of thousands to millions of readers. The economics of the business are sound, and we hope these will be long-term roles with growth potential for ambitious candidates. We want to make our coverage more robust, improving both quality and quantity in the areas where our subscribers already really like our coverage. We’re looking for hires who have opinions about the strengths and shortcomings of the site and ideas about how to make it better. Our current four-person team works incredibly hard, but we’re overstretched. We want a couple of new voices in the room to help us do more for our readers. We use AI tools for tasks such as copy editing and helping code our models, but writing at Silver Bulletin is done by human hands. Beyond assistance with standard copy editing and formatting, you should disclose any use of AI in completing your application. Deputy Editor The Deputy Editor job requires strong people skills and an understanding of both our journalism and our business. Although this isn’t the only metric for success, we’d like to publish about one additional high-quality story per week. Job tasks Edit work from Silver Bulletin staff and freelancers. This will often include “nose-to-tail” editing: working with the writers to develop the story, sharpen the argument, and improve the precision of the published piece. Help develop our editorial plan from day to day and week to week. Plan around the demands of the news cycle, weighing the trade-offs between responsiveness and depth. Develop a group of paid freelancers to add coverage on our main beats, with a particular emphasis on building out our AI coverage. Consider logical areas for expansion, such as economics, finance, tech, and public policy. […]",
+      "id": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "published": "Wed, 18 Nov 2026 18:13:42 +0000",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "published": "Wed, 18 Nov 2026 19:54:56 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "published": "Wed, 18 Nov 2026 18:53:43 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "published": "Wed, 18 Nov 2026 15:00:23 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/moe-expert-streaming",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "link": "https://huggingface.co/blog/moe-expert-streaming",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/rumble-2-flash",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "link": "https://huggingface.co/blog/rumble-2-flash",
+      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    }
+  ],
+  "tools": [
+    {
+      "id": "https://www.natesilver.net/p/the-white-house-needs-a-ground-stop",
+      "title": "The White House needs a ground stop",
+      "link": "https://www.natesilver.net/p/the-white-house-needs-a-ground-stop",
+      "published": "Thu, 19 Nov 2026 21:23:41 GMT",
+      "summary_raw": "On Still Counting EP13, we discussed a chaotic Friday the 13th and a White House that hasn’t learned anything from the midterms.",
+      "content_text": "Sean Duffy and Markwayne Mullin brief the press on Nov. 13 amid an FAA ground stop. Alex Wong/Getty Images. Buckle your seatbelts, because Galen, Clare, and I got a little more wound up than usual on this week’s Still Counting, where we discussed the Nvidia story/scandal and the nationwide ground stop on Friday, just the second since Sept. 11. It’s hard not to feel that way when the Secretary of Transportation has trouble explaining WTF was going on. It’s been a highly turbulent two weeks for the White House since the midterms, and with 793 more days remaining in President Trump’s term, we’re nowhere near our final descent into God-knows-what. Pressing for an analogy, I likened the current course to the prolonged and gory denouement of the movie The Substance . 1 Video above, audio below. Like always, we appreciate any comments, likes , reviews and subscribes. The context Unless there’s another disruption around the holidays, the ground stop that the FAA ordered late Friday afternoon probably won’t be remembered as a seminal political event. And I don’t think it should be, although maybe I’d feel differently if I were stranded on the tarmac at LaGuardia at the time. However, I think it represents an unusually clean natural experiment. Something serious but not that serious happened. It was unplanned, and the government needed to respond. It’s not something like the Nvidia story, which has incredibly wide-ranging implications and would be a communications challenge for any White House to deal with regardless of the president. Instead, the communication surrounding the ground stop ought to have been fairly basic political blocking-and-tackling, a test of whether you’re executing your fundamentals. It’s also one of the first such tests after Democrats swept into power two weeks ago in an historic repudiation of President Trump . Is the White House making any adjustments to acknowledge that Americans are sick of how they’ve handled business? No. I don’t have anything in particular against Sean Duffy, the transportation secretary, although he doesn’t have any obvious qualifications for the job, having been : a nationally-recognized lumberjack, a Real World contestant, a sportscaster, a prosecutor and district attorney, a 5-term U.S. Representative from Wisconsin, a senior counsel for a lobbying firm, and a CNN and Fox News contributor. It’s kind of a fun resumé, but there’s not much obviously transit-related. (To be fair, the previous secretary of transportation, Pete Buttigieg, didn’t have many transportation-adjacent credentials either.) Subscribe now But Trump presumably chose Duffy because he watches a lot of TV, and Duffy has been on TV a lot. He’s at least supposed to look and act the part. I don’t want to turn Silver Bulletin into a #Resistance blog that chronicles every minor outrage of the Trump administration. But for some reason, I felt triggered by the press conference that Duffy and the Homeland Security Secretary, former Oklahoma Sen. […]",
       "source": "Nate Silver"
     }
   ],
   "market": [
     {
-      "id": "https://www.niemanlab.org/?p=255280",
-      "title": "“A healthy degree of vitality”: Medill takes a look at the Twin Cities’ local news ecosystem",
-      "link": "https://www.niemanlab.org/2026/11/a-healthy-degree-of-vitality-medill-takes-a-look-at-the-twin-cities-local-news-ecosystem/",
-      "published": "Tue, 17 Nov 2026 20:31:17 +0000",
-      "summary_raw": "This year’s State of Local News Report from Medill was grim. But in the Twin Cities, Neal St. Anthony writes, a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is home to The Minnesota Star Tribune, public radio powerhouse MPR, local TV stations, and multiple...",
-      "content_text": "This year’s State of Local News Report from Medill was grim . But in the Twin Cities, Neal St. Anthony writes , a rich local news ecosystem offers a more hopeful picture. The metro area of more than 3 million people is home to The Minnesota Star Tribune, public radio powerhouse MPR, local TV stations, and multiple successful nonprofit startups, from nearly two-decade-old MinnPost to Sahan Journal (whose founder, Mukhtar Ibrahim, also launched The Somali Brief this fall). Axios has published an Axios Local newsletter for the Twin Cities since 2021, and this summer , The New York Times launched its own Twin Cities local newsletter. The question this ecosystem raises, according to St. Anthony, is “whether the Twin Cities represents the potential future of local news in metros across the country: a robust ecosystem with no dominant mass-market player but more news outlets tailored to smaller, niche audiences with narrower but deep interests.” (That description brings to mind other urban media markets where a diffuse ecosystem of smaller, newer players have stepped up as legacy media pulls back.) “There is a healthy degree of vitality in local news in the Twin Cities. The story elsewhere is ‘news deserts’ and little original journalism,” University of Minnesota professor Benjamin Toff told St. Anthony. While local institutions like the Star Tribune have survived, he added, “it’s not immune to industry forces, including the veritable disappearance of print.” A few highlights from St. Anthony’s piece for Medill: On the Star Tribune : The Strib had about 107,000 digital subscribers as of August, up 30% since 2021, while daily print circulation fell 65% over that period, to 57,000. “Our digital subscription business has grown 25% since 2024. We’re trying things. Some will work. We must diversify our revenue streams, including philanthropy,” CEO Steve Grove told St. Anthony. The Star Tribune is exploring converting to a nonprofit . A fund launched at the Minneapolis Foundation in 2024 in support of the Star Tribune has raised about $1 million to date. St. Anthony reports the Strib’s sponsored content initiative has attracted more than 60 advertisers. Meanwhile, it’s offering subscribers a free 12-month subscription to The New York Times. On MPR : After the 2025 rescission of federal funding for public media, Minnesota Public Radio lost about $6 million. But MPR, like other public broadcasters, was able to turn the rescission into a highly successful fundraising campaign. Its 2026 fiscal revenue rose 5% to $119 million, and it grew to 172,000 paying members, a record. On Axios Local : Holly Moore, executive editor of Axios Local, called Twin Cities a “successful market.” She told St. Anthony Axios Local has about 2.5 million free subscribers across its 43 markets, adding, “We want to create a sustainable business model. We are largely ad sales.” Read the full story here .",
+      "id": "https://wan-ifra.org/?p=123801",
+      "title": "How The Times and Sunday Times build communities through comments",
+      "link": "https://wan-ifra.org/2026/11/how-the-times-and-sunday-times-build-communities-through-comments/",
+      "published": "Thu, 19 Nov 2026 12:47:54 +0000",
+      "summary_raw": "\"Community is a very difficult thing to put a metric on,\" says Rachel Duffy of The Times and Sunday Times. However, communities are also crucial areas for all news publishers, and something that has been mentioned by several speakers during our Newsroom Summit conference in Oslo. For The Times, a natural area to focus on is their comments section.",
+      "content_text": "The Times has been around since 1785, and today has nearly 700,000 paid digital subscribers. Like many news publishers, retaining paying subscribers is vital for The Times, Rachel Duffy , Head of Community for The Times & The Sunday Times, told participants at our Newsroom Summit conference. “How do we make sure that they stay?” Duffy asked. “We needed to make them feel like they are part of a community.” One key way The Times and Sunday Times is doing this is by taking an area already popular with their readers – the comments section – and then doubling down to make the most of it. The Times gets about 650,000 comments a month, Duffy said, and 41 percent of their readers regularly read the comments section. The Times aims to drive comments for all news and opinions articles, “and to do so in ways that encourage better comments as a result,” she said. While they are interested in getting more comments, they don’t want growth to come at the expense of quality, Duffy said. “We’ve spent a lot of time designing platforms that measure the quality of our comments, so it’s not just about increasing that volume,” she said. “Seventy percent of all Times readers live in our app,” Duffy noted, adding that they’ve put a considerable amount of time and investment into making sure the app is the place to be. WAN-IFRA’s Newsroom Summit brought together 125+ delegates from 30 countries on five continents. We’re gathered at Verdens Gang (VG) , Norway’s leading digital media house, in Oslo for this two-day event. Photo by Tom Atle Bordevik / Bordevik.no . ‘Meet readers where they already are’ As is the case for many other publishers, a relatively small percentage of consumers actually write comments, but many users are interested in reading them. In fact, the percentage of Times users who read the comments section is between a third and a half, Duffy noted. And as mentioned earlier, just over 40 percent of the time those users spend with a piece of content is now spent reading its related comments, she said. “We’re just trying to meet readers where they already are,” she said. Duffy has a team of four. “We moderate the comments, we place conversation starters and polls.” “We want it to be a positive place. We don’t want our readers’ first experience of the comments section to be a negative experience, so we’re spending a lot of time moderating in the traditional sense of the word, but we’re also bringing in new voices,” she said. Getting their journalists involved How that works in practice is that The Times encourages its writers to go into the comments section to do more of their journalism, Duffy said. “It wasn’t about building another product to engage readers or spend a lot of time on marketing to encourage them to go to a new section of the app. They’re already there in the comments section.” “On a data point, this is brilliant for our dwell time. If you remove the comments section, you can see the impact that would have on dwell time. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123838",
+      "title": "WAN-IFRA stands with AMI in condemning the attack on Panamanian journalist Rolando Rodríguez",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-stands-with-ami-in-condemning-the-attack-on-panamanian-journalist-rolando-rodriguez/",
+      "published": "Thu, 19 Nov 2026 12:31:17 +0000",
+      "summary_raw": "WAN-IFRA, the World Association of News Publishers, joins its member association AMI, the Asociación de Medios de Información, and the Inter American Press Association (IAPA) in condemning the attack on the home of Rolando Rodríguez, associate deputy editor of the Panamanian daily La Prensa.",
+      "content_text": "Rodríguez is known for his investigations into corruption, public procurement and the use of public funds, and for his work on the Panama Papers. When the attack happened, he was preparing a new investigation and he was also part of an international team looking into alleged multimillion-dollar deals involving the marketing of Venezuelan crude oil. Last March, at the IX CELAC-EU Editors’ Congress in Alcalá de Henares, he received the EditoRed award in recognition of his dedicated and outstanding work in investigative journalism . At the same ceremony, AMI’s Director General, Irene Lanzaco, received the EditoRed award for her career in defence of journalism . At about 2:30 a.m. on Saturday, 14 November, an individual arrived at Rodríguez’s home by taxi and threw an explosive device, which caused an explosion and a fire. The fire destroyed the two vehicles parked in the garage and damaged the roof. His wife was inside and escaped unharmed. Rodríguez was out of the city at the time. The National Police and the Public Prosecutor’s Office have opened investigations, and police arrested a first suspect on Sunday, 15 November. AMI stressed that no journalist should have to fear for their own safety or that of their family because of their work. The IAPA called the attack “a brutal act of intimidation that must not go unpunished.” WAN-IFRA joins AMI and the IAPA in calling on the Panamanian authorities to: carry out a prompt, thorough and independent investigation that identifies both those who carried out the attack and those who ordered it, so that it does not go unpunished; determine whether the attack was retaliation for La Prensa’s reporting; guarantee the protection of Rodríguez, his family and La Prensa’s journalists, so that they can keep working without threats or retaliation.",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123754",
+      "title": "WAN-IFRA renews call for Yuki Imai’s release at Oslo summit",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-renews-call-for-yuki-imais-release-at-oslo-summit/",
+      "published": "Thu, 19 Nov 2026 07:27:34 +0000",
+      "summary_raw": "Japanese journalist Yuki Imai’s imprisonment in Russia brought the defence of press freedom into focus at WAN-IFRA’s Newsroom Summit, where Norwegian Parliament President Masud Gharahkhani urged the media to keep challenging power.",
+      "content_text": "The World Association of News Publishers (WAN-IFRA) renewed its call for the immediate release of Japanese journalist Yuki Imai at the opening of the Newsroom Summit , taking place in Oslo on November 18-19. Addressing more than 100 newsroom leaders from 30 countries, WAN-IFRA CEO Stig Ørskov highlighted a colleague denied the freedom to report. Imai, a correspondent for Japan’s Hokkaido Shimbun, was arrested on Sakhalin Island on October 13 and remains in Moscow’s Lefortovo prison, where Wall Street Journal reporter Evan Gershkovich was also held. Russia accuses Imai of espionage, an allegation rejected by Japan. He was working with a journalist visa and Russian foreign ministry accreditation. “His case reminds us that the freedom to ask questions can never be taken for granted,” Ørskov said. Imai covered Russia’s Far East and its regional relationships. His final dispatch before his arrest described the everyday lives of North Korean workers on Sakhalin. His continued detention has prompted warnings from press freedom organisations against using journalists as political bargaining instruments. WAN-IFRA called for his immediate release on November 4. The Japan Newspaper Publishers & Editors Association, NSK, has also demanded his release and urged intensified diplomatic efforts to bring him home. “A free press is supposed to challenge those in power” Speaking at the Summit, President of the Norwegian Parliament, Masud Gharahkhani, delivered a clear defence of independent journalism and its role in democracy. “A free press is not supposed to make those in power comfortable. A free press is supposed to challenge those in power,” he said. “That is not a weakness of democracy. It is one of its greatest strengths.” He warned that press freedom faces threats within democracies as well as in authoritarian states, pointing to harassment, polarisation, declining trust and disinformation. “That means we cannot take press freedom for granted. Not anywhere. Not even in our own societies.” Norway’s strong tradition of press freedom carries a responsibility to support those denied it elsewhere, he said. “And together, we must support those around the world who are still fighting for the freedoms we often take for granted.”",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123654",
+      "title": "How GMA’s DigiLab turns social memes into real reporting",
+      "link": "https://wan-ifra.org/2026/11/how-gmas-digilab-turns-social-memes-into-real-reporting/",
+      "published": "Wed, 18 Nov 2026 12:37:37 +0000",
+      "summary_raw": "In an increasingly inter-connected world, a younger audience brings different challenges for newsrooms, which face mounting pressure to overhaul traditional formats while retaining viewership.",
+      "content_text": "By Bing Hong “The question for us in the newsrooms is no longer just about what stories we tell them, but also how and where to tell them,” says Gabrielle Cayetano, Senior Media Strategist of Philippines-based GMA News. Speaking at WAN-IFRA’s recent Asian Media Leaders Summit in Singapore, Cayetano discussed how adapting to and appealing to a younger audience might well hold the key to newsroom sustainability. Reflecting on her household’s transition from watching late-night, free-to-air television newscasts with her father to following news online via YouTube, Cayetano’s own experiences as a Gen Z reinforces her belief that shifting habits demand a fresh editorial approach. ‘My FYP is not an audience research report’ Cayetano cautioned against over-relying on personal anecdotes or stereotypes when designing content strategy, especially for younger audiences. “My own news consumption habits don’t represent an entire generation,” Cayetano said, noting that while she personally dislikes podcasts, many of her peers consume them daily. “What simply works for me might not work for you, and what might work for you doesn’t mean that it will work for me.” She added that GMA News Digital Lab operates under a clear rule: “My For You page is not an audience research report.” To that end, her team focuses on three aspects: D eveloping digital-native coverage T esting non-traditional storytelling formats, and Using audience data to inform editorial coverage The balancing act: Combining viral hooks with serious context But therein lies the rub: how exactly do organisations know if they are actually reaching their audiences? “That’s where understanding our audiences comes in, because sometimes audiences respond to our stories or to our content differently from how we expect them to,” Cayetano said. For DigiLab, testing how certain media formats performed revealed critical insights about audience retention. When refining their flagship digital program, GMA News Feed, DigiLab shifted from viral user-generated clips (which drew 127.4 million views in Q1) to purely serious news explainers in Q2. Views promptly dropped to 51.8 million. Rather than abandoning the latter, the team introduced a balanced hybrid model in Q3, pairing viral human-interest hooks with the explainers. Views surged to 364.5 million, surpassing the earlier two quarters. “These types of content complement each other in tapping diverse audiences,” Cayetano added. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123860",
+      "title": "WAN-IFRA Partners with News Product Alliance to Drive Innovation at the 2027 San Francisco AI Forum",
+      "link": "https://wan-ifra.org/2026/11/wan-ifra-partners-with-news-product-alliance-to-drive-innovation-at-the-2027-san-francisco-ai-forum/",
+      "published": "Sat, 14 Nov 2026 16:24:20 +0000",
+      "summary_raw": "WAN-IFRA has partnered with the News Product Alliance on its San Francisco AI Forum, bringing international AI leaders and senior US product executives together at KQED on 25–26 January 2027.",
+      "content_text": "The World Association of News Publishers has announced a strategic partnership with the News Product Alliance for the San Francisco AI Forum . Hosted at KQED in the world’s technology capital, the event takes place January 25-26, 2027. The Forum brings senior U.S. product, audience, AI, and engineering leaders together with AI executives and experts from WAN-IFRA’s international network of publishers in San Francisco. “ AI is changing how publishers develop products, serve audiences and organise their businesses. Our San Francisco AI Forum, developed in partnership with the News Product Alliance, brings together visionaries and practitioners to share what they are learning and help publishers make better decisions. By combining WAN-IFRA’s global network with NPA’s product-first mindset, we want to help publishers build news products that audiences trust, value and are willing to pay for ,” said Stig Ørskov, CEO of WAN-IFRA. The two-day event is designed to address the most urgent questions facing product and newsroom leaders today, including how to earn revenue in a market with no settled model, how to scale AI adoption across a newsroom, and how to prioritise effectively in an era of rapid prototyping. “ AI has made it much faster to build things, but a newsroom still needs people who can decide what’s worth building and keep it running once it ships. That product capacity is what turns speed into something useful for audiences, and it’s what many product teams are working on right now. This Forum gives them a chance to compare notes with colleagues from around the world ,” said Becca Aaronson, NPA’s Chief Product Officer. Working closely with the WAN-IFRA team, NPA has helped shape a comprehensive programme featuring AI pioneers from the United States, the UK, Denmark, Sweden, and Taiwan. Key themes for the 2027 event include: Business Models and Monetisation: Assessing the rapidly changing market, clarifying demand, and navigating unsettled commercial models with a keynote by Mary Liz McCurdy, the senior vice president of business development and strategic partnerships at The Atlantic. Scaling AI Adoption: Strategies for newsrooms and news groups to support journalists in acquiring new skills and developing an AI-forward mindset from strategy to execution, with a session about Hearst Newspaper’s DevHub delivered by Tim O’Rourke, Vice President Editorial Innovation + AI Strategy, and Derrick Ho, AI & Editorial Strategy. Placing Bets and Prioritisation: Determining where to allocate time, capital, and executive attention in an accelerated prototyping environment. The NPA will lead discussions on how product management handles this new pace of development with a keynote by NPA board member Anita Zielina. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255396",
+      "title": "The Nieman Lab News-About-News Quiz, November 20, 2026",
+      "link": "https://www.niemanlab.org/2026/11/the-nieman-lab-news-about-news-quiz-november-20-2026/",
+      "published": "Fri, 20 Nov 2026 14:00:46 +0000",
+      "summary_raw": "It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading....",
+      "content_text": "It’s been yet another busy week. Recap it with the fourth edition of the Nieman Lab News-About-News Quiz, your weekly incentive to keep up with the latest happenings in the world of digital journalism. All questions are based on the week’s Nieman Lab stories or articles elsewhere that we’ve linked to in What We’re Reading . This is the final edition of the quiz for 2026; if people seem to like it, we’ll keep it going in 2027. Good luck! 0 of 10 answered 1 of 10 Stacks of the Chicago Sun-Times, Sept. 29, 2021. (Pat Nabong/AP) The Chicago Sun-Times announced a new slogan this week. What is it? Chicagoland, Unfiltered Sharp News for Broad Shoulders The Hardest-Working Paper in America Chicago’s Paper Daaaaa Paper “Chicago’s Paper” replaces “The Hardest-Working Paper in America,” the paper’s slogan since 2018. At the Sun-Times → 2 of 10 An “overwhelming majority” of American journalists employed by this company voted this week to authorize a strike. Reuters Bloomberg Dow Jones Associated Press Agence France-Presse Reuters workers picketing in April. (NewsGuild of New York) “The union has been negotiating a new contract for more than a year, and leaders say disagreements over wages, artificial intelligence and manager overreach have forced them to take this step.” From Poynter → 3 of 10 A “digital experience platform” company whose software runs on many news sites was hacked this week, sending malware to readers of the BBC, CNN, and Fox News. What’s the company’s name? Engagely Clickstreamr Experiencify Conversionify Optimizely The hack stole cryptocurrency and credit card numbers from an unknown number of news site visitors. At BleepingComputer → 4 of 10 (Adobe Stock) A major journalism school announced this week that its master’s degree programs would now be tuition-free for in-state residents. Which school? USC Annenberg School for Communication and Journalism Medill School of Journalism at Northwestern Craig Newmark Graduate School of Journalism at CUNY Missouri School of Journalism Columbia Journalism School “Newmark J-School’s campaign for free tuition is rooted in CUNY’s decades-long commitment to access and opportunity for New Yorkers. At a time of profound transformation in the news industry, removing the cost of tuition makes it easier for more people to take the risk of entering the field.” At CUNY → 5 of 10 Donald Trump, Xi Jinping, and Vladimir Putin in Shenzhen, China, Nov. 19, 2026. (Win McNamee/AP) At this week’s summit in China, Bloomberg TV reporter Annmarie Hordern asked Donald Trump whether he felt Nvidia founder Jensen Huang had been disloyal to the United States. What happened next? Trump called it a “stupid question” and asked what news outlet she was with Chinese officials barred her from covering the rest of the summit J.D. […]",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.niemanlab.org/?p=255262",
-      "title": "Seals, construction, and midterms drive traffic gains at Massachusetts nonprofit news outlets",
-      "link": "https://www.niemanlab.org/2026/11/seals-construction-and-midterms-drive-traffic-gains-at-massachusetts-nonprofit-news-outlets/",
-      "published": "Tue, 17 Nov 2026 17:08:22 +0000",
-      "summary_raw": "Is something in the water in Nieman Lab’s home state? In our latest quarterly ranking of nonprofit news outlets, eight Massachusetts nonprofit news outlets enjoyed significant jumps in traffic. Massachusetts is the state that appeared most frequently in this quarter’s data, followed by California (7), Michigan (4), and New York (4). Four of those Massachusetts...",
-      "content_text": "Is something in the water in Nieman Lab’s home state? In our latest quarterly ranking of nonprofit news outlets, eight Massachusetts nonprofit news outlets enjoyed significant jumps in traffic. Massachusetts is the state that appeared most frequently in this quarter’s data, followed by California (7), Michigan (4), and New York (4). Four of those Massachusetts outlets largely attributed the traffic spikes to hyperlocal stories that served specific reader needs and curiosities. Cambridge Day garnered 160,000 visits in July, a 60% increase from June. Editor Michael Fitzgerald (a 2011 Nieman Fellow) said the publication’s top story that month was about the city halting a multifamily home demolition. Other big stories covered the sale of two independent movie theaters and a July 4 shooting . Reader support allowed Cambridge Day to hire a full-time reporter in June, along with four summer intern reporters whose positions were funded through their universities. In July, Fitzgerald said, the news outlet published 32 stories per week. “Having full-time reporters was transformative. News does not pay a living wage to freelancers,” Fitzgerald said in an email. “They have to pay their bills by doing other things, so they just aren’t as available as full-time reporters. We made the decision to hire a second reporter, who started in late August. We took a bit of a risk and brought on [a] freelancer as a six-month editorial fellow. I cut my freelance budget in half and have rejiggered some other expenses to make this less risky.” The Lexington Observer got 62,000 visits in August, a 47% increase from the previous month. Executive director Lauren Feeney said the August story with the most traffic was about how a resident-led complaint delayed the construction of what would be the most expensive high school in the country. Election coverage ahead of the midterms also resonated. “ Our coverage of two little-known progressive candidates running to unseat [Rep. Katherine Clark] from the left got a ton of traffic, I believe because hardly anything else had been written about them, so readers came to our site not just from Lexington but from the entire 5th Congressional district, including Cambridge,” Feeney said. “My takeaway from this is to keep focusing on undercovered and hyperlocal stories, and not spend a lot of resources on stories that are already widely covered.” August was also a newsy month for the Marblehead Current . With 156 published stories in August, the Current’s traffic increased by 53% compared to July. Cofounder and reporter Leigh Blander said her investigation into the city’s road conditions sparked engagement on Facebook and Instagram, driving pageviews. Other stories that resonated with readers covered a boat crash , a seal carcass , racist graffiti , and education coverage during back-to-school season. CommonWealth Beacon , which covers statewide politics and policy, saw its September traffic increase by 37% over August. […]",
+      "id": "https://www.niemanlab.org/?p=255333",
+      "title": "Election season lifted public radio sites. So did a Supreme Court scandal and license plate drama.",
+      "link": "https://www.niemanlab.org/2026/11/election-season-lifted-public-radio-sites-so-did-a-supreme-court-scandal-and-license-plate-drama/",
+      "published": "Thu, 19 Nov 2026 20:33:49 +0000",
+      "summary_raw": "More than a year ago, NHPR reporter Todd Bookman started asking questions about “an irregular personnel maneuver” involving the chief justice of New Hampshire’s Supreme Court. Bookman’s reporting ultimately became “Exhibit A” in the ethics probe that led to the justice’s resignation in September. The bombshell resignation news was NHPR’s biggest story in September —...",
+      "content_text": "More than a year ago, NHPR reporter Todd Bookman started asking questions about “an irregular personnel maneuver” involving the chief justice of New Hampshire’s Supreme Court. Bookman’s reporting ultimately became “Exhibit A” in the ethics probe that led to the justice’s resignation in September. The bombshell resignation news was NHPR’s biggest story in September — and of 2026 to date. The story helped push NHPR up several spots in our regular ranking of public radio websites. NHPR saw visits rise 22% that month, according to Similarweb visit figures compiled by Nieman Lab. At the very top of the list, not much moved. The Chicago Sun-Times , owned by Chicago Public Media, held onto the top spot, followed by Gothamist (from WNYC) and Minnesota Public Radio . As Nieman Lab senior writer Joshua Benton wrote when introducing the rankings , which we’ve also done for local newspapers and local nonprofit news sites , not all markets are created equal. Public radio stations serving major metropolitan areas with lots of college graduates have a bigger potential audience than stations serving smaller communities and areas with fewer resources. And, of course, Similarweb provides an estimate; internal metrics may differ. Still, the rankings are a valuable window into some industry-wide trends, and often an opportunity to highlight local news organizations punching above their weight. Like several public media sites on our list, election season provided a bump to NHPR. New Hampshire held its primary on Sept. 8 and the statewide public radio station saw a traffic boost from results pages and campaign coverage, said NHPR director of audience engagement Casey McDermott . She described September as a solid month, not an outlier. “But what makes September an exceptionally cool case study is that it reflects two fundamentals at the heart of our mission: a commitment to fresh, local reporting and a renewed internal investment in digital publishing,” McDermott said. “[Bookman’s piece] wasn’t just a standard breaking news item — it was the culmination of months of meticulous accountability reporting,” McDermott added. On the audience side, McDermott said that, in addition to a boost from NHPR’s partners at NPR and Google News, the chief justice story benefited from X (formerly known as Twitter). A post by NHPR president and CEO Jim Schachter caught on and inspired “a stream of supportive comments about the importance of local journalism.” BREAKING: Fearless reporting by New Hampshire Public Radio results in the resignation of the chief justice of the New Hampshire Supreme Court. #NHPolitics https://t.co/6DtIeEIwdp — Jim Schachter (@jimschachter) September 15, 2026 WBUR, one of two Boston-based public media stations, grew every month this quarter, moving from 1.45 million visits to 2.1 million in September, according to Similarweb. WBUR had the biggest raw gain of any station in September. […]",
       "source": "Nieman Lab"
     },
     {
-      "id": "https://www.poynter.org/?p=1212528",
-      "title": "The breaking news is that everything is breaking",
-      "link": "https://www.poynter.org/commentary/2026/faa-flight-grounding-tech-outages-banks-nsa-fox-news/",
-      "published": "Wed, 18 Nov 2026 12:30:06 +0000",
-      "summary_raw": "These are anxious times in America. Seems like every day there’s news about something breaking in the tech world. It started last week when Microsoft’s Outlook had a mass global […]",
+      "id": "https://www.niemanlab.org/?p=255360",
+      "title": "Federal funding for public media is coming back, one way or another. But is it time for a deeper rethink?",
+      "link": "https://www.niemanlab.org/2026/11/federal-funding-for-public-media-is-coming-back-one-way-or-another-but-is-it-time-for-a-deeper-rethink/",
+      "published": "Thu, 19 Nov 2026 19:58:34 +0000",
+      "summary_raw": "It was 318 days ago that the Corporation for Public Broadcasting — the primary funder of public media in the United States since 1967 — officially ceased to be, the victim of Republican budget cuts and years of attacks from Donald Trump. CPB is not “on pause” or “in hibernation” — it’s dead. As its...",
+      "content_text": "It was 318 days ago that the Corporation for Public Broadcasting — the primary funder of public media in the United States since 1967 — officially ceased to be , the victim of Republican budget cuts and years of attacks from Donald Trump. CPB is not “on pause” or “in hibernation” — it’s dead. As its final CEO Patricia Harrison put it: “CPB’s final act would be to protect the integrity of the public media system and democratic values by dissolving, rather than allowing the organization to remain defunded and vulnerable to additional attacks.” You may have heard, however, that we had some elections in the U.S. recently, and the Republicans who defunded NPR and PBS will no longer control the House of Representatives or Senate as of January 3. In their place will be Congressional Democrats much more favorable to public media. So it seems quite likely that the federal government’s next budget will re-fund it rather than de-fund it. But with CPB officially no more, Democrats will have a rare opportunity to rethink the system from scratch instead of just prescribing minor tweaks to funding levels. The media environment of 2027 will, it goes without saying, be radically different from 1967’s. Over-the-air broadcasting is no longer America’s dominant medium. The immensely profitable newspapers that were the bedrock of news back then are shells of their former selves. And what was once a highly localized information ecosystem has been thoroughly nationalized and globalized, with access to news increasingly determined by a few large tech platforms. Democrats could just revive the old LBJ-era model — but should they instead build something new? These questions will dominate the next year of discourse around public media, and interested parties are already laying out plans. This morning, the Roosevelt Institute released a new white paper titled “Creating a New U.S. Public Media System: Normative Arguments and Policy Options.” Written by Penn professor (and past Nieman Lab contributor ) Victor Pickard , it argues for a thorough reinvention: But the fact that $30 billion sounds enormous is mostly about how small U.S. public media has always been compared to its international peers. Before defunding, the U.S. spent roughly $3 per person per year on public media. Compare that to countries like Norway ($110), Finland ($101), Denmark ($93), the U.K. ($81), France ($76), Czechia ($60), Japan ($53), Australia ($36), and Canada ($27). If Pickard got his $30 billion wish, U.S. public media funding would sit at about $88 per capita — BBC territory, roughly speaking. But even getting to the level of Canada or Australia would mean a huge increase. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255294",
+      "title": "After gutting newsrooms, McClatchy plans to rebuild itself around AI",
+      "link": "https://www.niemanlab.org/2026/11/after-gutting-newsrooms-mcclatchy-plans-to-rebuild-itself-around-ai/",
+      "published": "Wed, 18 Nov 2026 17:35:58 +0000",
+      "summary_raw": "Two months after McClatchy Media laid off more than 90 journalists nationwide, executives at the storied local newspaper chain offered a blunt assessment of its future. The award-winning local journalism that has long powered the 169-year-old company was no longer a viable business model, executives told McClatchy employees during a virtual town hall this month,...",
+      "content_text": "Two months after McClatchy Media laid off more than 90 journalists nationwide, executives at the storied local newspaper chain offered a blunt assessment of its future. The award-winning local journalism that has long powered the 169-year-old company was no longer a viable business model, executives told McClatchy employees during a virtual town hall this month, and its survival depended on a wholesale reinvention — centered entirely around artificial intelligence. From the rollout of new lifestyle websites that feature AI-generated articles and sponsored content to legal review and finance, executives revealed how AI is now integrated into virtually every part of the company. The demonstration comes after McClatchy, one of the nation’s largest newspaper conglomerates, carried out deep staff cuts in September at the Miami Herald, The Kansas City Star, and more than a dozen other local news outlets. An anonymous “person close to the executive decision-making” told The New York Times the layoffs were not about AI and were instead about “business performance in some areas.” “We cannot continue to do the same things because the marketplace has changed,” McClatchy CEO Tony Hunter told staff during the off-the-record Nov. 6 meeting, according to audio provided to Nieman Lab. Executives told staff that McClatchy-owned publications have suffered a 17% decline in paid digital subscribers in the last year — and unique visitors have plummeted 39%. [img wide] Photo of a slide with audience figures shown during the town hall meeting[/img] A companywide blueprint presented during the meeting highlights how McClatchy is systematically outsourcing the infrastructure for local news to AI agents — and rebranding around lifestyle verticals for sports fans, outdoor enthusiasts, and true-crime junkies. Dubbed “Project Catalyst,” the companywide restructure will create an “AI-native operating model” that takes “repeated tasks off of humans” and embeds AI agents “directly into the daily workflow,” Jeff Dorsey , McClatchy’s chief operating officer, said at the town hall. Dorsey described the initiative as an effort to automate “non-core as well as core functions,” “get rid of things that just don’t offer the same value” they once did, and “provide cash, frankly, to keep the business afloat.” McClatchy, which operates 29 daily newspapers across 14 states, didn’t respond to multiple requests for comment. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212697",
+      "title": "Timeout for DHS Secretary Markwayne Mullin",
+      "link": "https://www.poynter.org/commentary/2026/markwayne-mullin-dhs-secretary-stephen-miller/",
+      "published": "Fri, 20 Nov 2026 12:30:24 +0000",
+      "summary_raw": "No TV for you! Homeland Security Secretary Markwayne Mullin has been put in “primetime timeout.” According to Politico Playbook’s Will Steakin, Dasha Burns and Adam Wren, Mullin has been pulled […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212498",
-      "title": "The future of local news might look a lot like the Twin Cities",
-      "link": "https://www.poynter.org/business-work/2026/twin-cities-local-news-minneapolis-st-paul-media-landscape/",
-      "published": "Wed, 18 Nov 2026 12:00:39 +0000",
-      "summary_raw": "This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission. “Minnesota Nice” was on display in August at the state fair, a sprawling cultural […]",
+      "id": "https://www.poynter.org/?p=1212086",
+      "title": "How news coverage can fuel a ‘foster care panic’",
+      "link": "https://www.poynter.org/commentary/2026/foster-care-panic-news-coverage-child-welfare-reporting/",
+      "published": "Fri, 20 Nov 2026 12:00:42 +0000",
+      "summary_raw": "About six years ago, I got a new assignment: spend one year covering the foster care system. Traditionally a niche topic among journalists, child welfare seemed manageable — a well-defined […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212482",
-      "title": "Reuters journalists authorize strike amid concerns over AI protections and wages",
-      "link": "https://www.poynter.org/business-work/2026/reuters-strike-ai-protections-deal-wages/",
-      "published": "Tue, 17 Nov 2026 17:08:35 +0000",
-      "summary_raw": "Fed up with stalled proposals at the bargaining table, an overwhelming majority of unionized Reuters journalists in the United States voted Monday to authorize a strike. The vote does not […]",
+      "id": "https://www.poynter.org/?p=1212668",
+      "title": "Poynter names Alex Mahadevan new Chief Innovation Officer",
+      "link": "https://www.poynter.org/news-release/2026/poynter-names-alex-mahadevan-new-chief-innovation-officer-ai-artificial-intelligence-mediawise/",
+      "published": "Fri, 20 Nov 2026 11:45:38 +0000",
+      "summary_raw": "ST. PETERSBURG (November 20, 2026) — The Poynter Institute, a global leader in journalism, has named Alex Mahadevan to a new role as its Chief Innovation Officer. His mission includes […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259216",
-      "title": "Reader-funded Cardiff newsletter launches as part of local news network covering ‘missed’ stories",
-      "link": "https://pressgazette.co.uk/newsletters/reader-funded-cardiff-newsletter-launches-as-part-of-local-news-network-covering-missed-stories/",
-      "published": "Wed, 18 Nov 2026 11:42:23 +0000",
-      "summary_raw": "Proper Cardiff News is first title launched under new Cymru News Network.",
-      "content_text": "Former Wales Online journalist Will Hayward has launched a Cardiff-based local newsletter to cover overlooked stories as part of a wider venture to establish titles across Wales.",
+      "id": "https://www.poynter.org/?p=1212640",
+      "title": "JD Vance is having a rough week",
+      "link": "https://www.poynter.org/commentary/2026/jd-vance-brian-kilmeade-iran-trump/",
+      "published": "Thu, 19 Nov 2026 12:30:28 +0000",
+      "summary_raw": "This has been an eventful — and not necessarily in a good way — week for Vice President JD Vance. First off, Vance was scheduled to appear at The New […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212525",
+      "title": "Local news is strong in Maine. Coverage of the 2026 campaign proved it.",
+      "link": "https://www.poynter.org/commentary/2026/maine-local-news-2026-election-coverage-national-media/",
+      "published": "Thu, 19 Nov 2026 12:00:03 +0000",
+      "summary_raw": "As local media executives, we’re used to criticism of our newsrooms, usually from politicians, business owners and readers. An essential part of our jobs is listening to and learning from […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212606",
+      "title": "Will GTA 6 really cost the U.S. economy $1 billion in lost productivity?",
+      "link": "https://www.poynter.org/fact-checking/2026/gta-6-release-1-billion-lost-productivity-days-off/",
+      "published": "Thu, 19 Nov 2026 11:30:59 +0000",
+      "summary_raw": "Are you a gamer who’s planning to suddenly be struck by a stomach bug on Nov. 19? Or did you request paid time off that day? Viral online claims say […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212611",
+      "title": "What can Africa’s fact-checkers build that will outlast a grant?",
+      "link": "https://www.poynter.org/ifcn/2026/what-can-africas-fact-checkers-build-that-will-outlast-a-grant/",
+      "published": "Thu, 19 Nov 2026 11:00:27 +0000",
+      "summary_raw": "When Africa’s fact-checkers gathered in Nairobi in October for the fifth Africa Facts Summit, they spent two days discussing how AI is changing their work, how foreign influence campaigns operate […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259296",
+      "title": "Thomson journalism trainees of 1976 reunite after 50 years",
+      "link": "https://pressgazette.co.uk/the-wire/thomson-journalism-trainees-of-1976-reunite-after-50-years/",
+      "published": "Thu, 19 Nov 2026 12:32:30 +0000",
+      "summary_raw": "Seven members of 1976 class Brownlee Academy met in person.",
+      "content_text": "Journalists who went on to work for titles including The Guardian, The Telegraph and the BBC have reunited half a century after completing their journalism training course together.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259217",
-      "title": "Leeds+ is making local news pay with social-first journalism",
-      "link": "https://pressgazette.co.uk/social_media/leeds-is-making-local-news-pay-with-social-first-journalism/",
-      "published": "Wed, 18 Nov 2026 11:31:47 +0000",
-      "summary_raw": "Launching Leeds+ during the pandemic shaped publisher's mission to back the city.",
-      "content_text": "A local news title in Leeds that only publishes on social media is a “profitable business” with five full-time journalists on staff and more than 500,000 social media followers, its founders say.",
+      "id": "https://pressgazette.co.uk/?p=259278",
+      "title": "Kyiv Independent sees future beyond Ukraine in ‘age of confrontation’",
+      "link": "https://pressgazette.co.uk/news/kyiv-independent-sees-future-beyond-ukraine-in-age-of-confrontation/",
+      "published": "Thu, 19 Nov 2026 09:11:22 +0000",
+      "summary_raw": "Title now five years old with 100-strong team and annual revenue of $4m.",
+      "content_text": "Five years after launch, the Kyiv Independent continues to prove that there is journalistic opportunity in even the most trying of circumstances.",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259244",
-      "title": "Bots are replacing reporters in cryptocurrency journalism",
-      "link": "https://pressgazette.co.uk/news/bots-are-replacing-reporters-in-cryptocurrency-journalism/",
-      "published": "Wed, 18 Nov 2026 10:59:43 +0000",
-      "summary_raw": "Once lucractive financial publishing sector has seen widespready website cutbacks.",
-      "content_text": "Multiple financial news sites appear to have replaced human reporters with AI bots in recent months.",
+      "id": "https://pressgazette.co.uk/?p=259281",
+      "title": "Tikok will serve ads alongside Mail and Metro videos in UK-first deal",
+      "link": "https://pressgazette.co.uk/news/tikok-will-serve-ads-alongside-mail-and-metro-videos-in-uk-first-deal-for-news-publisher/",
+      "published": "Thu, 19 Nov 2026 08:38:06 +0000",
+      "summary_raw": "DMG Media has a combined following of more than 40 million across nine Tiktok channels.",
+      "content_text": "The publisher of the Daily Mail and Metro news titles has partnered with Tiktok to serve advertising on the social video platform alongside its own content.",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259261",
+      "title": "BBC claims its users have higher trust and community cohesion after survey findings",
+      "link": "https://pressgazette.co.uk/news/bbc-news-claims-its-users-have-higher-trust-and-community-cohesion-after-survey-findings/",
+      "published": "Wed, 18 Nov 2026 16:24:33 +0000",
+      "summary_raw": "Survey of nearly 6,000 people comes as corporation faces further job cuts.",
+      "content_text": "BBC News and BBC Local News users report higher levels of trust in institutions and other people than those who do not use the services, according to research published by the broadcaster.",
       "source": "Press Gazette"
     }
   ],
