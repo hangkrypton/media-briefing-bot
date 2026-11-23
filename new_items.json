@@ -1,159 +1,96 @@
 {
   "ai": [
     {
-      "id": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
-      "link": "https://openai.com/index/combatting-adversarial-distillation",
-      "published": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "summary_raw": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "id": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "Perplexity and Intelligence",
+      "link": "https://openai.com/index/perplexity-and-intelligence",
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "summary_raw": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
       "content_text": "",
       "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/customer-stories/hebbia",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "link": "https://openai.com/business/customer-stories/hebbia",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/introducing-medchembench",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "link": "https://openai.com/index/introducing-medchembench",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary_raw": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "published": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "summary_raw": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "title": "Explore the Codex Security Plugin",
-      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/learn/pr-scans-demo",
-      "title": "See PR scans in action",
-      "link": "https://openai.com/business/learn/pr-scans-demo",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "title": "Get started with Daybreak Blue",
-      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/learn/deploying-daybreak-red",
-      "title": "Deploying Daybreak Red",
-      "link": "https://openai.com/business/learn/deploying-daybreak-red",
-      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/the-silent-consensus",
-      "title": "The Silent Consensus",
-      "link": "https://openai.com/index/the-silent-consensus",
-      "published": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "summary_raw": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/business/customer-stories/sumitomo-life",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "link": "https://openai.com/business/customer-stories/sumitomo-life",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary_raw": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "title": "Research acceleration: The jagged frontier",
-      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary_raw": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/inside-the-codex-sandbox",
-      "title": "Inside the Codex sandbox",
-      "link": "https://openai.com/index/inside-the-codex-sandbox",
-      "published": "Wed, 18 Nov 2026 08:00:00 GMT",
-      "summary_raw": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/managing-frontier-ai-risk",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "link": "https://openai.com/index/managing-frontier-ai-risk",
-      "published": "Wed, 18 Nov 2026 06:00:00 GMT",
-      "summary_raw": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "title": "Advancing chip design with OpenAI models",
-      "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "summary_raw": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "published": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "summary_raw": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "content_text": "",
-      "source": "OpenAI Blog"
-    },
-    {
-      "id": "https://huggingface.co/blog/inkling2mini",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "link": "https://huggingface.co/blog/inkling2mini",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "summary_raw": "",
-      "content_text": "",
-      "source": "Hugging Face Blog"
     }
   ],
   "tools": [],
   "market": [
     {
-      "id": "https://pressgazette.co.uk/?p=259306",
-      "title": "Robert Winnett leaves Telegraph after 19 years to join Daily Mail",
-      "link": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/robert-winnett-leaves-telegraph-after-19-years-to-join-daily-mail/",
-      "published": "Fri, 20 Nov 2026 14:51:41 +0000",
-      "summary_raw": "Winnett has been deputy editor at The Telegraph for over a decade.",
-      "content_text": "Deputy editor of The Telegraph Robert Winnett has been appointed as chief content editor at the Daily Mail to help “spearhead digital transformation”.",
+      "id": "7407 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Shrinking interest and divided trust: How Spaniards get their news",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/how-spaniards-get-their-news",
+      "published": "Mon, 23 Nov 2026 10:55:43 +0000",
+      "summary_raw": "Shrinking interest and divided trust: How Spaniards get their news eduardo.suarez… Mon, 11/23/2026 - 10:55 Eduardo Suárez Spaniards will soon head to the polls for a snap general election on 29 November. The latest polls suggest the vote is an uphill battle for the country’s centre-left prime minister. After being in power since 2018, Pedro Sánchez now risks being ousted by a right-wing government. The election is a good moment to explore how Spaniards get their news with the help of more than a decade of survey data from our Digital News Report . Our surveys show news use in Spain is divided across age groups, with younger audiences more critical, less interested and more likely to use AI chatbots and social media for news than older age groups. […]",
+      "content_text": "",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "7406 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Briefings 2026",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/DNR-briefings",
+      "published": "Fri, 20 Nov 2026 15:19:45 +0000",
+      "summary_raw": "Briefings 2026 olamalu Fri, 11/20/2026 - 15:19 DNR Briefings",
+      "content_text": "",
+      "source": "Reuters Institute"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123889",
+      "title": "How DER SPIEGEL addresses subscriber churn, part 1: building a score",
+      "link": "https://wan-ifra.org/2026/11/addressing-subscriber-churn-at-der-spiegel-part-one-building-the-score/",
+      "published": "Mon, 23 Nov 2026 10:06:25 +0000",
+      "summary_raw": "Like most news publishers worldwide, Germany’s DER SPIEGEL sees reducing subscriber churn as a major priority. For many publishers, finding ways to retain their current subscribers is even more important than acquiring new ones.",
+      "content_text": "In this three-part series, Alexander Held, Lead Data Science at DER SPIEGEL in Hamburg, describes how his team built a model that estimates each subscriber’s risk of cancelling, put it to the test in a retention experiment, and asked subscribers why they stay or leave. Part one covers the model and how well it works. By Alexander Held A machine learning model scores each active digital subscription with the probability that the subscriber will churn in the next two months. The question is not whether someone cancels this particular subscription, but whether they are gone entirely, without returning on a different one. The model is not built to catch every future churner. It is built to produce a group whose average churn probability sits far above the base rate, so retention work can be aimed at a defined set of people instead of the whole base. The data and the model We score full-price digital subscriptions. As training data we use three kinds of signal, cross-device on all logged-in sessions: Subscription data: Tenure of the current subscription, subscription type, payment method, price increases experienced, number of previous trials and subscriptions, earlier cancellations. Engagement data: Our internal engagement score at four horizons, now and one, three and six months back, plus a trend signal. Behavioural data: Articles read to the end, scroll depth, page views per visit, active days. The strongest predictors are tenure of the current subscription (19.3% of feature importance), article scroll depth (7.6%), total time paid across all subscriptions past and present (6.7%) and scrolls per visit (4.8%). The top 10 features together account for roughly 55% of the total. Surprisingly, no version of our own engagement score makes the top five. How long someone has paid, and whether they finish what they open, predicts churn better than our engagement metric. Our survey pointed the same way, and part three of this article series has more on it. On these features we train a gradient boosting model, and then calibrate it, so the output reads as a real probability rather than a ranking. We also split the data by time, not at random. The model learns on one date, is calibrated on a later one and tested months after that, so it has to predict forward the way it does in production. Evaluation Our headline figure is an AUC of 0.82, measured on a held out test set. For those who don’t know, AUC is defined as a bet: pick one subscriber who left and one who stayed at random, and in 82% of those pairs the model gave the higher score to the one who left. Guessing would land at 50%, a flawless model at 100%. The model then hands us a probability per subscription, ranking the base of full price digital subscriptions from safest to most at risk. We then drew the line at a 15% churn probability. That came close to 10,000 subscriptions and they churn at 28% against a base rate of around 4%, seven times as high. It holds about 36% of everyone who leaves. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://wan-ifra.org/?p=123764",
+      "title": "How we got 40,000 young women to read about the Strait of Hormuz",
+      "link": "https://wan-ifra.org/2026/11/how-we-got-40000-young-women-to-read-about-the-strait-of-hormuz/",
+      "published": "Mon, 23 Nov 2026 09:33:02 +0000",
+      "summary_raw": "A Swedish newsletter brand is quietly proving something the industry keeps saying it believes: the relationship is the product. Here's what we're learning and why we're now building a second brand on the same foundation.",
+      "content_text": "By Irena Pozar and Martin Schori For the past decade, most of us in news media have been trying to answer the same question: what do we put behind the paywall? Another question could be: how do we get people to really want to engage with our products – a nd want it enough to pay, return, reply, and stay? We are writing this from inside a small Swedish media company called Hint , which just turned one year old. Here, one of our products is starting to answer that question in a way we think is worth sharing. The numbers Hint is a daily newsletter. It goes to 40,000 subscribers, 85% of them are women, 50% are between 25-45 years old. The open rate is 70%. Those subscribers read about the Strait of Hormuz, major arms deals, domestic politics, and the rest of the news agenda, alongside lighter material. It’s an engaged group, they reply to emails and answer our polls. Every day. (Not all of them, obviously.) Ad sales are now running, and we just did our first hire. We have, so far, done something that the entire Western news industry says it wants to do: bring young women back to news. We did it, we believe, by building a direct relationship with a clearly defined audience – and talking to them like a real person . Why most news media struggle to do this Many people believe that news is neutral in the sense that it lacks gender codes. We would argue that most major news sites are male-coded. We know, we have worked there for decades. And during these decades we’ve optimised our sites, our front pages, our notification logic, our subject mix and our tone of voice for the audience we already have – which, across most legacy newsrooms in the West, skews older and male – and then we’ve been surprised that the audiences we don’t have don’t show up. We do not believe that we need to cover other stuff in order to reach these audiences. In Hint, the journalism about Hormuz is the same journalism as elsewhere. What changes is who it’s written to, in what voice, in what container, and inside what relationship. Martin Schori speaking at WAN-IFRA’s Newsroom Summit last week at VG headquarters in Oslo. Photo by Tom Atle Bordevik / Bordevik.no What this looks like in practice Hint works because the relationship was built first and the business model second. The daily inbox is the product. The reply button is part of the product. The voice — informal, specific, recognisably one person writing to another — is also the product. The 70% open rate is a signal that the relationship is real. We’re now building a second brand on top of what Hint taught us. It’s called 08 — the dialing area code for Stockholm — a membership-funded newsletter about the city. We’re taking what works at Hint (voice, direct relationship through email, community thinking) and combining it with original local journalism, somewhere in the territory of The Mill in Manchester. Two months after launch we’re at 2.500 signups. 08 is explicitly membership-based, not subscription-based. […]",
+      "source": "WAN-IFRA"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212812",
+      "title": "Giving thanks for good journalism (and Amy Poehler)",
+      "link": "https://www.poynter.org/commentary/2026/thanksgiving-media-gratitude-journalism-podcasts-tv-shows/",
+      "published": "Mon, 23 Nov 2026 12:30:31 +0000",
+      "summary_raw": "Good morning, and Happy Thanksgiving. As we get started today, a quick note: This will be the last Poynter Report newsletter of the week as we take a break for […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212616",
+      "title": "‘They can just ignore requests and delay student journalists and get away with it’",
+      "link": "https://www.poynter.org/educators-students/2026/student-journalists-universities-public-records-requests-delays/",
+      "published": "Mon, 23 Nov 2026 12:00:27 +0000",
+      "summary_raw": "This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed. The 1966 Freedom of Information Act was […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259321",
+      "title": "One year on: Broadsheet London triples team size",
+      "link": "https://pressgazette.co.uk/publishers/magazines/one-year-on-broadsheet-london-triples-team-size/",
+      "published": "Mon, 23 Nov 2026 12:38:42 +0000",
+      "summary_raw": "Free quarterly culture and city magazine targets 21 full-time staff in 2027.",
+      "content_text": "The London edition of Australian culture brand Broadsheet has increased its full-time staff to 15 in the year since its launch and is understood to be expecting to break even ahead of schedule.",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259328",
+      "title": "The Spectator owner OQS launches joint publishing platform with Pugpig",
+      "link": "https://pressgazette.co.uk/news/the-spectator-owner-oqs-launches-joint-publishing-platform-with-pugpig/",
+      "published": "Mon, 23 Nov 2026 11:46:08 +0000",
+      "summary_raw": "OQS Media makes 'major' investment in app developer Pugpig.",
+      "content_text": "Owner of The Spectator, Old Queen Street Media, has announced a “significant multi year investment” in publisher app developer Pugpig.",
+      "source": "Press Gazette"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259313",
+      "title": "Express website rapped over headline claiming killer was freed ‘because he was black’",
+      "link": "https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/express-ipso-breach-headline-killer-freed-black/",
+      "published": "Mon, 23 Nov 2026 11:31:49 +0000",
+      "summary_raw": "Fifth express.co.uk headline ruled to have breached Editors’ Code in 2026.",
+      "content_text": "The Express website has been found to have breached the Editors’ Code over a headline claiming a man who went on to kill three people was set free “because he was black”.",
       "source": "Press Gazette"
     }
   ],
