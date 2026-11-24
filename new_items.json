@@ -1,96 +1,169 @@
 {
   "ai": [
     {
-      "id": "https://openai.com/index/perplexity-and-intelligence",
-      "title": "Perplexity and Intelligence",
-      "link": "https://openai.com/index/perplexity-and-intelligence",
-      "published": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "summary_raw": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "id": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "link": "https://openai.com/index/introducing-shirudo",
+      "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "summary_raw": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
       "content_text": "",
       "source": "OpenAI Blog"
+    },
+    {
+      "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "summary_raw": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "content_text": "",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "summary_raw": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "content_text": "",
+      "source": "OpenAI Blog"
+    },
+    {
+      "id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "published": "Mon, 23 Nov 2026 16:59:40 +0000",
+      "summary_raw": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "content_text": "",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "link": "https://huggingface.co/blog/allenai/robotrack",
+      "published": "Mon, 23 Nov 2026 17:20:37 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "id": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "link": "https://huggingface.co/blog/agentic-evals",
+      "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "summary_raw": "",
+      "content_text": "",
+      "source": "Hugging Face Blog"
     }
   ],
-  "tools": [],
+  "tools": [
+    {
+      "id": "https://wondertools.substack.com/p/little-gadgets-i-like",
+      "title": "5 Gadgets I Like ❤️",
+      "link": "https://wondertools.substack.com/p/little-gadgets-i-like",
+      "published": "Mon, 23 Nov 2026 14:34:00 GMT",
+      "summary_raw": "I’ve been waking up to a gentler alarm, saving lines from books without my phone, and checking my focus with headphones. 5 gadgets I use, including limitations.",
+      "content_text": "The gadgets I find most interesting these days aren’t phones, laptops, or watches. Many don’t even have a screen. They just improve an everyday object. Here are five I’m finding useful, from a digital highlighter and headphones that measure my focus to a quiet alarm clock and a smart ball. Subscribe now Share Mark II — A Handy Digital Highlighter The Mark II is a digital highlighter that lets me scan and save passages from anything I’m reading. I drag it over my favorite lines in a book or magazine. Those highlights are automatically tagged and searchable in the Mark app, which is free to use with the highlighter. I also sync what I save to Readwise , which I use for organizing my highlights, including my favorite Kindle book passages and what I’ve saved from podcasts with the Snipd app. It’s become my central hub for everything I’ve clipped. I can query it from my AI tools like Claude and ChatGPT. In the past, I used my phone to scan book passages with the Readwise app. That worked well but required me to interrupt my reading with a screen. I appreciate that the Mark II feels more like a traditional highlighter than a phone. It has a useful voice note option: I can press a button to record my thoughts about whatever I’m reading. And it comes with a slim magnet that keeps it in your book. It’s not perfect, even if Time listed it as one of the Best Inventions of 2026 . I’ve often had to fill in words the Mark II skipped over. The app doesn’t signal that it might have missed words, so I’ve had to check passages on my phone for accuracy. And it’s slow to run over one line at a time. For a long passage that runs across multiple pages, the Readwise app is faster. Still, I like the Mark II’s design and I’m continuing to use it as a screenless way to save great sentences. Price: $159 is what I paid. It’s now on sale for $149. Neurable One — Headphones That Sense When I’m Fading These headphones have built-in sensors that assess my level of concentration. Like an EEG machine, they pick up electrical signals from my brain. In my testing, the readings generally lined up with how alert or tired I felt. When I’m doing deep work and my attention drops, the headphones play a chime. It’s a useful nudge to take a break. The accompanying app features games for practicing sustained attention. You can also use it to run experiments to see which behaviors deepen your focus, like going for a brisk walk or writing down a list of tasks you’re holding in your head. The headphones are comfortable and sound good for listening to podcasts or music. They don’t match my Sony XM6 headphones for noise canceling or battery life. I like using this Neurable headset, though, to see how long I can stick to a task before my mind wanders. It’s helped me notice when I’m sharpest during the day. Price: $449 on sale at the moment. $499 normally. No subscription cost. […]",
+      "source": "Wonder Tools (Substack)"
+    }
+  ],
   "market": [
     {
-      "id": "7407 at https://reutersinstitute.politics.ox.ac.uk",
-      "title": "Shrinking interest and divided trust: How Spaniards get their news",
-      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/how-spaniards-get-their-news",
-      "published": "Mon, 23 Nov 2026 10:55:43 +0000",
-      "summary_raw": "Shrinking interest and divided trust: How Spaniards get their news eduardo.suarez… Mon, 11/23/2026 - 10:55 Eduardo Suárez Spaniards will soon head to the polls for a snap general election on 29 November. The latest polls suggest the vote is an uphill battle for the country’s centre-left prime minister. After being in power since 2018, Pedro Sánchez now risks being ousted by a right-wing government. The election is a good moment to explore how Spaniards get their news with the help of more than a decade of survey data from our Digital News Report . Our surveys show news use in Spain is divided across age groups, with younger audiences more critical, less interested and more likely to use AI chatbots and social media for news than older age groups. […]",
+      "id": "7408 at https://reutersinstitute.politics.ox.ac.uk",
+      "title": "Interés menguante, desconfianza y polarización: Así se informan los españoles",
+      "link": "https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2026/asi-se-informan-los-espanoles",
+      "published": "Mon, 23 Nov 2026 15:08:51 +0000",
+      "summary_raw": "Interés menguante, desconfianza y polarización: Así se informan los españoles eduardo.suarez… Mon, 11/23/2026 - 15:08 Eduardo Suárez Los españoles están llamados a votar en las elecciones generales de este domingo. Los sondeos sugieren que Pedro Sánchez, que ha gobernado el país desde 2018, podría perder el poder. Las elecciones son un buen momento para explorar cómo los españoles se informan con la ayuda de más de una década de datos del Digital News Report . Nuestros datos muestran que las audiencias más jóvenes tienen menos confianza y menos interés en las noticias, y son las más propensas a usar chatbots y redes sociales para informarse. […]",
       "content_text": "",
       "source": "Reuters Institute"
     },
     {
-      "id": "7406 at https://reutersinstitute.politics.ox.ac.uk",
-      "title": "Briefings 2026",
-      "link": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/DNR-briefings",
-      "published": "Fri, 20 Nov 2026 15:19:45 +0000",
-      "summary_raw": "Briefings 2026 olamalu Fri, 11/20/2026 - 15:19 DNR Briefings",
-      "content_text": "",
-      "source": "Reuters Institute"
-    },
-    {
-      "id": "https://wan-ifra.org/?p=123889",
-      "title": "How DER SPIEGEL addresses subscriber churn, part 1: building a score",
-      "link": "https://wan-ifra.org/2026/11/addressing-subscriber-churn-at-der-spiegel-part-one-building-the-score/",
-      "published": "Mon, 23 Nov 2026 10:06:25 +0000",
-      "summary_raw": "Like most news publishers worldwide, Germany’s DER SPIEGEL sees reducing subscriber churn as a major priority. For many publishers, finding ways to retain their current subscribers is even more important than acquiring new ones.",
-      "content_text": "In this three-part series, Alexander Held, Lead Data Science at DER SPIEGEL in Hamburg, describes how his team built a model that estimates each subscriber’s risk of cancelling, put it to the test in a retention experiment, and asked subscribers why they stay or leave. Part one covers the model and how well it works. By Alexander Held A machine learning model scores each active digital subscription with the probability that the subscriber will churn in the next two months. The question is not whether someone cancels this particular subscription, but whether they are gone entirely, without returning on a different one. The model is not built to catch every future churner. It is built to produce a group whose average churn probability sits far above the base rate, so retention work can be aimed at a defined set of people instead of the whole base. The data and the model We score full-price digital subscriptions. As training data we use three kinds of signal, cross-device on all logged-in sessions: Subscription data: Tenure of the current subscription, subscription type, payment method, price increases experienced, number of previous trials and subscriptions, earlier cancellations. Engagement data: Our internal engagement score at four horizons, now and one, three and six months back, plus a trend signal. Behavioural data: Articles read to the end, scroll depth, page views per visit, active days. The strongest predictors are tenure of the current subscription (19.3% of feature importance), article scroll depth (7.6%), total time paid across all subscriptions past and present (6.7%) and scrolls per visit (4.8%). The top 10 features together account for roughly 55% of the total. Surprisingly, no version of our own engagement score makes the top five. How long someone has paid, and whether they finish what they open, predicts churn better than our engagement metric. Our survey pointed the same way, and part three of this article series has more on it. On these features we train a gradient boosting model, and then calibrate it, so the output reads as a real probability rather than a ranking. We also split the data by time, not at random. The model learns on one date, is calibrated on a later one and tested months after that, so it has to predict forward the way it does in production. Evaluation Our headline figure is an AUC of 0.82, measured on a held out test set. For those who don’t know, AUC is defined as a bet: pick one subscriber who left and one who stayed at random, and in 82% of those pairs the model gave the higher score to the one who left. Guessing would land at 50%, a flawless model at 100%. The model then hands us a probability per subscription, ranking the base of full price digital subscriptions from safest to most at risk. We then drew the line at a 15% churn probability. That came close to 10,000 subscriptions and they churn at 28% against a base rate of around 4%, seven times as high. It holds about 36% of everyone who leaves. […]",
+      "id": "https://wan-ifra.org/?p=124022",
+      "title": "How The Observer rebuilt its digital business with seven people and an AI agent",
+      "link": "https://wan-ifra.org/2026/11/how-the-observer-rebuilt-its-digital-business-with-seven-people-and-an-ai-agent/",
+      "published": "Tue, 24 Nov 2026 13:10:01 +0000",
+      "summary_raw": "The Observer launched digital subscriptions in November 2025 and passed 70,000 within a year. In Oslo, Jack Riley, its Chief Customer Officer, told WAN-IFRA’s Newsroom Summit what it took: seven hires, an AI agent built on Claude and a single data analyst.",
+      "content_text": "By John Rahim Executives at established publishers like to ask what they would build if they were starting today. The Observer has spent a year finding out. The Sunday title dates from 1791. When Tortoise Media bought it from the Guardian’s owner in April last year, it had never had a website of its own. Tortoise itself is a start-up built on podcasts, events and newsletters. Jack Riley , its Chief Customer Officer , told WAN-IFRA’s Newsroom Summit , held at the Norwegian publisher VG in Oslo, that he had inherited a famous brand and, on the digital side, a blank canvas. Digital subscriptions, new apps and a redesign arrived together on 27 November 2025. Less than a year later, Riley reported more than 70,000 subscribers. Revenue from digital customers has grown by an average of 30% a month for 11 months and now matches revenue from print subscriptions. Print has gained as well: subscriptions made up 36% of print sales last year and about 45% now. Riley gave no figures in pounds, and the match with print is with subscription revenue alone; newsstand sales are not included. A prospectus from 1791 still sets the brief The strategy starts with the first edition, which promised a paper free of prejudice and party, devoted to truth and to “every species of knowledge that may conduce to the happiness of society.” Riley reads that as a case for staying unbiased in a more polarised market, for breadth of coverage and for reporting that is constructive without pretending all is well. Against that brief he set three pressures, each with its own answer. The first is AI, which makes ordinary reporting easy to copy. The Observer’s answer is direct relationships with readers and original reporting that nobody else has. The second is a younger audience that would sooner watch or listen than read. The answer is Tortoise’s podcast business, now folded into the newsroom. The third is readers’ growing attachment to individual writers over the titles they write for. The answer is a newsroom reorganised around its best-known writers. The Observer’s hits under Tortoise include the investigation into The Salt Path , the bestselling memoir, and, in June, the scoop that Sir Keir Starmer was about to resign. The subscription must be worth more than the articles Every subscriber gets Culture Club , launched in the spring. It includes a weekly newsletter from Tim Adams, the Culture Editor; discounts negotiated with partners; events such as film screenings and Q&As with directors in the newsroom; and a book club that is also streamed online. Riley’s test is that a subscriber with a passing interest in culture who did nothing beyond taking up the offers would be “well served.” A subscription, he argued, is more likely to succeed when it offers much more than access to articles. Audio does similar work. […]",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://wan-ifra.org/?p=123764",
-      "title": "How we got 40,000 young women to read about the Strait of Hormuz",
-      "link": "https://wan-ifra.org/2026/11/how-we-got-40000-young-women-to-read-about-the-strait-of-hormuz/",
-      "published": "Mon, 23 Nov 2026 09:33:02 +0000",
-      "summary_raw": "A Swedish newsletter brand is quietly proving something the industry keeps saying it believes: the relationship is the product. Here's what we're learning and why we're now building a second brand on the same foundation.",
-      "content_text": "By Irena Pozar and Martin Schori For the past decade, most of us in news media have been trying to answer the same question: what do we put behind the paywall? Another question could be: how do we get people to really want to engage with our products – a nd want it enough to pay, return, reply, and stay? We are writing this from inside a small Swedish media company called Hint , which just turned one year old. Here, one of our products is starting to answer that question in a way we think is worth sharing. The numbers Hint is a daily newsletter. It goes to 40,000 subscribers, 85% of them are women, 50% are between 25-45 years old. The open rate is 70%. Those subscribers read about the Strait of Hormuz, major arms deals, domestic politics, and the rest of the news agenda, alongside lighter material. It’s an engaged group, they reply to emails and answer our polls. Every day. (Not all of them, obviously.) Ad sales are now running, and we just did our first hire. We have, so far, done something that the entire Western news industry says it wants to do: bring young women back to news. We did it, we believe, by building a direct relationship with a clearly defined audience – and talking to them like a real person . Why most news media struggle to do this Many people believe that news is neutral in the sense that it lacks gender codes. We would argue that most major news sites are male-coded. We know, we have worked there for decades. And during these decades we’ve optimised our sites, our front pages, our notification logic, our subject mix and our tone of voice for the audience we already have – which, across most legacy newsrooms in the West, skews older and male – and then we’ve been surprised that the audiences we don’t have don’t show up. We do not believe that we need to cover other stuff in order to reach these audiences. In Hint, the journalism about Hormuz is the same journalism as elsewhere. What changes is who it’s written to, in what voice, in what container, and inside what relationship. Martin Schori speaking at WAN-IFRA’s Newsroom Summit last week at VG headquarters in Oslo. Photo by Tom Atle Bordevik / Bordevik.no What this looks like in practice Hint works because the relationship was built first and the business model second. The daily inbox is the product. The reply button is part of the product. The voice — informal, specific, recognisably one person writing to another — is also the product. The 70% open rate is a signal that the relationship is real. We’re now building a second brand on top of what Hint taught us. It’s called 08 — the dialing area code for Stockholm — a membership-funded newsletter about the city. We’re taking what works at Hint (voice, direct relationship through email, community thinking) and combining it with original local journalism, somewhere in the territory of The Mill in Manchester. Two months after launch we’re at 2.500 signups. 08 is explicitly membership-based, not subscription-based. […]",
+      "id": "https://wan-ifra.org/?p=123983",
+      "title": "Draw the line at the story: Dietmar Schantin’s case for keeping narrative human",
+      "link": "https://wan-ifra.org/2026/11/draw-the-line-at-the-story-dietmar-schantins-case-for-keeping-narrative-human/",
+      "published": "Mon, 23 Nov 2026 14:48:38 +0000",
+      "summary_raw": "Let AI gather and sort the facts, the newsroom strategist told WAN-IFRA’s Newsroom Summit in Oslo, but keep the decision about what the story is with a named person. That accountability is what publishers still have to sell.",
+      "content_text": "By John Rahim In the newsrooms Dietmar Schantin works with, one idea surfaces quickly once AI arrives: let the system write the first draft from the reporter’s notes and transcripts. He would rather it did not. Schantin, a strategist whose clients have included The Washington Post, The Wall Street Journal and The Telegraph, used his session at WAN-IFRA’s Newsroom Summit at VG in Oslo to argue that the decision turns on a commercial question: why do people come to a publisher, and why would they pay for what it does? His answer was to draw a line through the editorial process: AI can work on one side of it, and a named person is responsible for everything on the other. Publishers supply the answers and lose the reader The commercial problem shows up in the numbers. Gallup’s latest poll puts American trust in the mass media at 33%, up from the 28% cited in Schantin’s new book, The Architecture of Journalism in the Age of AI , though he noted that the rise came from Republicans. SparkToro’s analysis found that 68% of Google searches in America ended without a click in the first four months of this year. Chartbeat’s data show chatbots sending publishers less than 1% of their pageviews, so little of the traffic lost at the search page is coming back by another route. A reader who gets the answer from an assistant that draws on a publisher’s reporting never meets that publisher’s paywall. Drawing on slides from Greg Piechota, Schantin cited an estimate that publishers lose 10% of their potential subscription sign-ups this way and said he thought the true figure was higher. A court has begun asking who answers for a summary What is changing, in his reading, is that someone is being held to account for machine-written text. In May, the Munich regional court granted an injunction against Google after its AI Overviews tied two Munich publishers to scams that none of the linked sources mentioned; the court treated the summary as Google’s own statement. In January, the Guardian reported that overviews on liver blood tests gave normal ranges without the context a patient would need to interpret them. Google removed some of them, and Schantin said similar queries still return the same kind of summaries. Publishers ought to profit from being the source that is correct and answerable, and some are making that harder for themselves. In April, The New York Times published a remark attributed to Pierre Poilievre, Canada’s Conservative leader, that turned out to be an AI-generated summary rendered as a quotation. A reader caught it, Schantin observed, and the correction took more than two weeks. Press Gazette now keeps a running tracker of such cases. Generative models work on probability, he said, so the errors will never go away. Dietmar Schantin at Newsroom Summit in Oslo. Photo by Tom Atle Bordevik / Bordevik.no Where the line goes: a fifth layer called narrative If the errors will not go away, the question becomes where AI should stop. […]",
       "source": "WAN-IFRA"
     },
     {
-      "id": "https://www.poynter.org/?p=1212812",
-      "title": "Giving thanks for good journalism (and Amy Poehler)",
-      "link": "https://www.poynter.org/commentary/2026/thanksgiving-media-gratitude-journalism-podcasts-tv-shows/",
-      "published": "Mon, 23 Nov 2026 12:30:31 +0000",
-      "summary_raw": "Good morning, and Happy Thanksgiving. As we get started today, a quick note: This will be the last Poynter Report newsletter of the week as we take a break for […]",
+      "id": "https://www.niemanlab.org/?p=255303",
+      "title": "Newsletters, obits, and the world’s longest yard sale: How some local news sites saw their traffic spike",
+      "link": "https://www.niemanlab.org/2026/11/newsletters-obits-and-the-worlds-longest-yard-sale-how-some-local-news-sites-saw-their-traffic-spike/",
+      "published": "Mon, 23 Nov 2026 19:14:13 +0000",
+      "summary_raw": "It’s time for our latest look at which newsrooms are having success increasing their web traffic. We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Rankings are based on estimates from Similarweb. Today’s edition looks at local...",
+      "content_text": "It’s time for our latest look at which newsrooms are having success increasing their web traffic . We bring you four of these each quarter, looking at four different market segments: local newspapers, nonprofit news outlets, public media stations, and for-profit local news sites. Rankings are based on estimates from Similarweb . Today’s edition looks at local for-profit news sites . (Eligible sites for this ranking are for-profit members of the trade group LION Publishers — LION standing for Local, Independent, Online News — so these are mostly digital-born newsrooms, not newspapers or TV stations.) The rankings for Q3 feature many of the same sites that performed well in our last edition . This time around, we’ve got details from local news sites in New York, Kentucky, Oklahoma, Nevada, Georgia, and Oregon. Below that are the Top 25 rankings for July, August, and September. W42ST In New York’s Hell’s Kitchen, W42ST has been covering neighborhood news since 2014. Its traffic jumped 84% from June to July. Publisher Phil O’Brien said that boost is attributable to one day’s traffic to a single story: this story on the deaths, four days apart, of Jeffrey Newman and Jayson Conner , a couple who ran Backpacks for the Street, a charity that offered supplies to those living on the city’s streets. W42ST published its story on July 11; a few hours later, The New York Times ran its own obituary , and thousands of people who read that piece went to Google to find out more. Visits on July 12 were roughly 10 times a normal Sunday on W42ST. “A spike like this is lovely, but it doesn’t pay the bills,” O’Brien told me over email. He noted that the average reader of that story who came from search was engaged for 26 seconds; readers who came to it from W42ST’s own newsletter averaged more than three and a half minutes. “A reader from across the country who spends 26 seconds on an obituary is welcome, but they’re not who we’re building for.” O’Brien was writing to me from England, where he’s currently trying to bring W42ST’s hyperlocal model to the town of Southport (O’Brien was born in Liverpool). Stand Up For Southport is a six-year-old site that received a government Local News Fund grant to expand operations, and O’Brien is spending a few months there to offer his W42ST-bred expertise. The new daily newsletter they’ve launched earned more than 1,000 subs in the first week. It’s a nice reversal from just four years ago, when O’Brien had his American visa renewal application rejected because immigration officials declared W42ST was a “marginal” business. He spent the next five months running the site from London. “The idea is a hyperlocal model that can travel,” he said. Point/Plover Metro Wire Wisconsin’s Point/Plover Metro Wire describes itself as the only locally owned and operated daily news source in Portage County, and the county is the only place it covers. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.niemanlab.org/?p=255456",
+      "title": "An open laptop, a crowded Orange Line train, and a tipster",
+      "link": "https://www.niemanlab.org/2026/11/an-open-laptop-a-crowded-orange-line-train-and-a-tipster/",
+      "published": "Mon, 23 Nov 2026 19:00:56 +0000",
+      "summary_raw": "Is “seen on the Orange Line” the new “overheard on the Acela”? ProPublica reported on potential plans to overhaul the Smithsonian on Monday. Alec MacGillis and Andy Kroll wrote that the plans, if enacted, “would represent an unprecedented assertion of White House control over the Smithsonian, which is structured to be independent.” But how did...",
+      "content_text": "Is “seen on the Orange Line” the new “overheard on the Acela”? ProPublica reported on potential plans to overhaul the Smithsonian on Monday. Alec MacGillis and Andy Kroll wrote that the plans, if enacted, “would represent an unprecedented assertion of White House control over the Smithsonian, which is structured to be independent.” But how did MacGillis and Kroll get their hands on the explosive 25-item list? An open laptop, a crowded D.C. Metro train, and a quick-thinking tipster. From the ProPublica piece: In the last week of October, as political Washington was focused on the coming midterm elections, a commuter on the Orange Line from the Northern Virginia suburbs was startled to see displayed, on the laptop of a man seated adjacent in a gray tartan suit, a document titled “Smithsonian Institution Renewal Plan.” The commuter snapped a few phone photos over the man’s shoulder and dispatched them to ProPublica. The ProPublica reporters, going off initials seen on the laptop, searched White House staffing records and “took to the Orange Line,” hoping it was a regular route for the staffer. Sure enough, there we saw the likeliest candidate, carrying the same style of brown leather satchel and same type of phone. He disembarked in Washington for the short walk to a White House employee checkpoint. Kroll told me that he and MacGillis made three trips to different parts of the Orange Line to report out the tip. “That included me standing outside for a few hours in a Metro station on an especially cold morning with a woefully insufficient coat on,” Kroll added. “Not the most glamorous reporting assignment, but important to getting the story.” We’ve covered ProPublica’s creative attempts to reach prospective tipsters — which include an LED billboard truck and public transit ads in the Washington, D.C. area — in the past. The nonprofit investigative outlet has been a news industry leader in crowdsourcing and engagement reporting. ProPublica engagement and tips coordinator Adriana Pera told me that the tips line has been “very, very busy.” In November, ProPublica received its “highest number of tips to date,” Pera said. At least 20 ProPublica investigations in the last year started with sensitive information delivered through the tips line. “We have to attribute some of this surge to our efforts to get out into the world and show people that we’re listening and that they can trust us with their knowledge — from working with ad companies in Washington, D.C., to get our tips line on bus shelters, to flyering outside of conferences, and events with sources that could help our reporting needs,” she said. During a recent conference for the Association of the United States Army (AUSA), the largest annual gathering of Army contractors, Pera and others handed out flyers. ProPublica also purchased ads on bus shelters they thought attendees were likely to walk by. […]",
+      "source": "Nieman Lab"
+    },
+    {
+      "id": "https://www.poynter.org/?p=1212846",
+      "title": "Bob Woodward’s new memoir raises an uncomfortable question: Why didn’t anyone try to save Jimmy?",
+      "link": "https://www.poynter.org/commentary/2026/bob-woodward-new-book-why-didnt-anyone-save-jimmy/",
+      "published": "Tue, 24 Nov 2026 12:30:14 +0000",
+      "summary_raw": "In his new memoir, Bob Woodward offers a new perspective on an old journalistic scandal. In 1980, Washington Post reporter Janet Cooke perpetuated one of the most infamous fabrications in […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://www.poynter.org/?p=1212616",
-      "title": "‘They can just ignore requests and delay student journalists and get away with it’",
-      "link": "https://www.poynter.org/educators-students/2026/student-journalists-universities-public-records-requests-delays/",
-      "published": "Mon, 23 Nov 2026 12:00:27 +0000",
-      "summary_raw": "This article was originally published in the Student Press Report, a national news desk covering student media and journalism education in higher ed. The 1966 Freedom of Information Act was […]",
+      "id": "https://www.poynter.org/?p=1212853",
+      "title": "The news industry is a mess. I’m still grateful to be a journalist.",
+      "link": "https://www.poynter.org/commentary/2026/why-being-a-journalist-is-still-worth-it/",
+      "published": "Tue, 24 Nov 2026 12:00:44 +0000",
+      "summary_raw": "Pass the bourbon-spiked gravy and the garlic mashed potatoes. After another ghastly year of journalism layoffs, I want to take a few minutes to express why I am thankful to […]",
       "content_text": "",
       "source": "Poynter Institute"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259321",
-      "title": "One year on: Broadsheet London triples team size",
-      "link": "https://pressgazette.co.uk/publishers/magazines/one-year-on-broadsheet-london-triples-team-size/",
-      "published": "Mon, 23 Nov 2026 12:38:42 +0000",
-      "summary_raw": "Free quarterly culture and city magazine targets 21 full-time staff in 2027.",
-      "content_text": "The London edition of Australian culture brand Broadsheet has increased its full-time staff to 15 in the year since its launch and is understood to be expecting to break even ahead of schedule.",
+      "id": "https://www.poynter.org/?p=1212843",
+      "title": "Why it’s so hard to believe the recent tech outages are just a coincidence",
+      "link": "https://www.poynter.org/fact-checking/2026/are-all-the-tech-outages-connected/",
+      "published": "Tue, 24 Nov 2026 11:30:50 +0000",
+      "summary_raw": "It’s been one thing after another. Companies including Microsoft, United Airlines, JPMorgan Chase and U.S. Bank experienced technical issues and outages that caused widespread banking issues, delayed plane departures and […]",
+      "content_text": "",
+      "source": "Poynter Institute"
+    },
+    {
+      "id": "https://pressgazette.co.uk/?p=259368",
+      "title": "How People Inc moved beyond websites to embrace ‘brand’ era",
+      "link": "https://pressgazette.co.uk/publishers/magazines/how-people-inc-moved-beyond-websites-to-embrace-brand-era/",
+      "published": "Tue, 24 Nov 2026 12:15:47 +0000",
+      "summary_raw": "People Inc chief business officer Alysia Borsa interviewed by Press Gazette.",
+      "content_text": "“There was a print era in publishing, a digital era, and now we believe we are in the brand era.”",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259328",
-      "title": "The Spectator owner OQS launches joint publishing platform with Pugpig",
-      "link": "https://pressgazette.co.uk/news/the-spectator-owner-oqs-launches-joint-publishing-platform-with-pugpig/",
-      "published": "Mon, 23 Nov 2026 11:46:08 +0000",
-      "summary_raw": "OQS Media makes 'major' investment in app developer Pugpig.",
-      "content_text": "Owner of The Spectator, Old Queen Street Media, has announced a “significant multi year investment” in publisher app developer Pugpig.",
+      "id": "https://pressgazette.co.uk/?p=259355",
+      "title": "Press Gazette is ‘world’s first’ verified human-made news outlet",
+      "link": "https://pressgazette.co.uk/news/press-gazette-is-worlds-first-verified-human-made-news-outlet/",
+      "published": "Tue, 24 Nov 2026 11:32:24 +0000",
+      "summary_raw": "MadeByHumans scans Press Gazette content for signs of AI manipulation.",
+      "content_text": "Press Gazette has become what is believed to be the the first news outlet in the world to be publicly and independently verified as “human made.”",
       "source": "Press Gazette"
     },
     {
-      "id": "https://pressgazette.co.uk/?p=259313",
-      "title": "Express website rapped over headline claiming killer was freed ‘because he was black’",
-      "link": "https://pressgazette.co.uk/the-wire/newspaper-corrections-media-mistakes-errors-legal/express-ipso-breach-headline-killer-freed-black/",
-      "published": "Mon, 23 Nov 2026 11:31:49 +0000",
-      "summary_raw": "Fifth express.co.uk headline ruled to have breached Editors’ Code in 2026.",
-      "content_text": "The Express website has been found to have breached the Editors’ Code over a headline claiming a man who went on to kill three people was set free “because he was black”.",
+      "id": "https://pressgazette.co.uk/?p=259360",
+      "title": "News diary 23-29 November: Tube strikes, SLAPPs Bill in Commons and Black Friday",
+      "link": "https://pressgazette.co.uk/news/news-diary-23-29-november-tube-strikes-slapps-bill-in-commons-and-black-friday/",
+      "published": "Tue, 24 Nov 2026 11:00:46 +0000",
+      "summary_raw": "A look ahead at the key events leading the news agenda this week, from the team at Foresight News.",
+      "content_text": "Monday (November 23): Alan Milburn, Kemi Badenoch and Nigel Farage among speakers at the CBI annual conference; Andy Burnham expected to make Commons statement following UK-EU Summit; UK due to be formally announced as host of the 2035 Women’s World Cup at FIFA Congress.",
       "source": "Press Gazette"
     }
   ],
